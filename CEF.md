@@ -1,3 +1,9 @@
+
+test
+test
+test
+
+
 ## For each of the Conditions of Enhanced Funding below, the state must explain how the system meets the condition. Some conditions require only a reference to the applicable APD, others require a state’s attestation of compliance.  CMS-recommended evidence is the minimum required and states must give complete and detailed explanations for how the system meets the conditions.
 At Operational Readiness Review, the preferred evidence is testing results. Only submit design documents as evidence when test results are not applicable or do not fully explain how the state is meeting the condition.
 
