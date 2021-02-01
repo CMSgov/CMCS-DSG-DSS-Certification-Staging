@@ -101,7 +101,6 @@ At Operational Readiness Review, the preferred evidence is testing results. Only
 - **Evidence:** *[Recommended evidence - Citation to alternatives analysis in APD, documentation of transition plan]*
 
 ---
- 
 ## Standards:
 
 ### Condition 3: 
@@ -126,16 +125,16 @@ At Operational Readiness Review, the preferred evidence is testing results. Only
 `The agency ensures alignment with, and incorporation of:`
 - **Industry standards adopted by the Office of the National Coordinator for Health IT in accordance with 45 CFR part 170, subpart B**
   - **Evidence:** *[Recommended evidence - Test results, design documentation]*
-  
+  <br>
 - **HIPAA privacy, security and transaction standards**
   - **Evidence:** *[Recommended evidence - Third Party Security and Privacy Assessment, test results, design documentation]*
-  
+  <br>
 - **Accessibility standards established under section 508 of the Rehabilitation Act, or standards that provide greater accessibility for individuals with disabilities, and compliance with Federal civil rights laws**
   - **Evidence:** *[Recommended evidence - State attestation, Section 508/ADA test results]*
-  
+  <br>
 - **Standards adopted by the Secretary under section 1104 of the Affordable Care Act**
   - **Evidence:** *[Recommended evidence - State attestation, test results]*
-  
+  <br>
 - **Standards and protocols adopted by the Secretary under section 1561 of the Affordable Care Act**
   - **Evidence:** *[Recommended evidence - State attestation, test results]*
   
