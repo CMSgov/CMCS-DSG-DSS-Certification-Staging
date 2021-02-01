@@ -9,7 +9,7 @@
 - 42 CFR 436.901 (for Guam, Puerto Rico, and the Virgin Islands)
 
 #### EE1 Application Recommended Metrics
-*something something - application modality
+*something something - application modality*
 
 ---
 
