@@ -1,4 +1,4 @@
-# Claims Processing Proposed Outcomes
+# Claims Processing State-Specific Outcomes
 
 ### [Outcome Title] Outcome
 
