@@ -1,4 +1,4 @@
-# Health Information Exchange (HIE) Proposed Outcomes
+# Health Information Exchange (HIE) State-Specific Outcomes
 
 ### [Outcome Title] Outcome
 
