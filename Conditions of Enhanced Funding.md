@@ -7,13 +7,13 @@ At Operational Readiness Review, the preferred evidence is testing results. Only
 ## Conditions:
 
 ### Condition 1: 
-`CMS determines the system is likely to provide more efficient, economical, and effective administration of the State plan.`
+> **CMS determines the system is likely to provide more efficient, economical, and effective administration of the State plan.**
 - **Evidence:** *[Recommended evidence - citation to APD]*
 
 ---
 
 ### Condition 2: 
-`The system meets the system requirements, standards and conditions, and performance standards in Part 11 of the State Medicaid Manual, as periodically amended.`
+> The system meets the system requirements, standards and conditions, and performance standards in Part 11 of the State Medicaid Manual, as periodically amended.
 - **Evidence:** *[Recommended evidence - State Attestation]*
 
 ---
