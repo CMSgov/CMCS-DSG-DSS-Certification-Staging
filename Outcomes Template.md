@@ -1,6 +1,6 @@
 # [Module Name] Outcomes
 
-### [Outcome Title] Outcome test change
+### [Outcome Title] Outcome change
 
 > **[Outcome statement - this should include the "what" and the "why"]**
 
