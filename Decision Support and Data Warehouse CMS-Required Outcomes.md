@@ -1,6 +1,8 @@
 # Decision Support System (DSS)/Data Warehouse (DW) 
 #### How this business area/module supports the Medicaid Program 
-The Decision Support System (DSS)/Data Warehouse (DW) business area covers software tools used by authorized State employees to extract and/or analyze Medicaid data in order to inform program decisions, policy decisions, and report on the delivery of the Medicaid Program.  
+The Decision Support System (DSS)/Data Warehouse (DW) business area covers software tools used by authorized State employees to extract and/or analyze Medicaid data in order to inform program decisions, policy decisions, and report on the delivery of the Medicaid Program. 
+
+**👆 need one of these for each buisness area**
 
 ---
 
