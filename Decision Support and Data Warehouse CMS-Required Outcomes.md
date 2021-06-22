@@ -3,7 +3,7 @@
 The Decision Support System (DSS) / Data Warehouse (DW) business area covers software tools used by authorized State employees to extract and/or analyze Medicaid data in order to inform program decisions, policy decisions, and report on the delivery of the Medicaid Program. 
 
 #### Sharing or bookmarking Outcome Statements 
-Hover to the left of each outcome statement number until you see the link icon <img src="https://user-images.githubusercontent.com/34281281/122820827-48508d80-d299-11eb-9aa5-a11090d24814.png" width="25" height="25">. This will give you a direct link to the specific statement for referral in the future. 
+Hover to the left of each table section until you see the link icon <img src="https://user-images.githubusercontent.com/34281281/122820827-48508d80-d299-11eb-9aa5-a11090d24814.png" width="25" height="25">. This will give you a direct link to the the CMS-Required Outcomes or State-Specific outcomes for referral in the future. 
 
 ---
 ### CMS-Required Outcomes
@@ -18,4 +18,4 @@ Hover to the left of each outcome statement number until you see the link icon <
   
 | Medicaid Program Goal | **Outcome** | **Metrics** | **Periodicity** |
 | --- | --- | --- | --- |
-| *Insert state-specific program goal that this outcome will support.*<br><br>*ex: Use data to inform decision making.* | *Insert state-specific outcome(s).*<br><br>*ex: Use of new reports to identify trends in Medicaid service needs.* | *Insert state-specific metric(s).*<br><br>*ex: Number in Medicaid service needs.* | *Insert the periodicity for this metric data.* <br><br>*ex: Annual*  |
+| Insert state-specific program goal that this outcome will support:<br><br>*ex: Use data to inform decision making.* | Insert state-specific outcome(s):<br><br>*ex: Medicaid agency uses new reports to identify trends in Medicaid service needs and inform policy making.* | Insert state-specific metric(s):<br><br>*ex: The number of reports generated each month and provided to the Medicaid agency.* | Insert the periodicity for this metric data: <br><br>*ex: Annual*  |
