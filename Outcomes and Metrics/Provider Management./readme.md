@@ -2,6 +2,10 @@
 #### How this system supports the Medicaid Program 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in metus eu nibh dignissim dignissim. Maecenas condimentum libero vulputate est vestibulum feugiat. Mauris mattis mollis eros non commodo. Donec eget dapibus ex, a vehicula lectus. Nullam dapibus pretium purus quis pellentesque. 
 
+<div align="right">
+  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Claims%20Processing/CMS-Required%20%26%20State%20Specific%20Outcomes.xlsx">Click here to download this information directly</a>  
+</div>
+
 ---
 ### CMS-Required Outcomes
 
