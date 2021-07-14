@@ -22,7 +22,19 @@ In the past, vendors did not have direct access to the CMS required outcomes or 
 
 # How Do You Get Started?
 [placeholder for description about who we think may use this repository and why they care]
-* How do I find information?
-* How do I comment?
-* How do I suggest changes?
-* How do I add new content?
+
+Then click on a specific business area:
+* List of business area hyperlinks
+* a
+* b
+* c
+* d
+* e
+* f
+* g
+* 
+ 
+ 
+  
+   
+
