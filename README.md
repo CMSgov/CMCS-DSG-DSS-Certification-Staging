@@ -21,20 +21,19 @@ States can use the Certification Repository to find clean examples and expectati
 In the past, vendors did not have direct access to the CMS required outcomes or recommended metrics and had to rely on information provided by states. This repository provides a single repository of information for outcomes and metrics vendors can directly access. In addition, vendors did not have an ability to collaborate to ensure outcomes and metrics align to the delivery of products and services. The repository facilitates good ideas from vendors being incorporated into outcomes and metrics.
 
 # How Do You Get Started?
-[placeholder for description about who we think may use this repository and why they care]
+Click one of the business areas below to see outcomes and metrics for each specific module/business area:
 
-Then click on a specific business area:
-* List of business area hyperlinks
-* a
-* b
-* c
-* d
-* e
-* f
-* g
-* 
- 
- 
-  
-   
-
+* [1115 or Waiver Support Systems](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/1115%20or%20Waiver%20Support%20Systems)
+* [Asset Verification System](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Asset%20Verification%20System)
+* [Decision Support System & Data Warehouse](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Decision%20Support%20System%20%26%20Data%20Warehouse)
+* [Electronic Visit Verification (EVV)](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Electronic%20Visit%20Verification%20(EVV))
+* [Eligibility and Enrollment](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Eligibility%20and%20Enrollment)
+* [Encounter Processing System (EPS) & Managed Care System](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Encounter%20Processing%20System%20(EPS)%20%26%20Managed%20Care%20System)
+* [Financial Management](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Financial%20Management)
+* [Health Information Exchange (HIE)](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Health%20Information%20Exchange%20(HIE))
+* [Long Term Services & Supports (LTSS)](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Long%20Term%20Services%20%26%20Supports%20(LTSS))
+* [Member Management](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Member%20Management)
+* [Pharmacy Benefit Management (PBM) & Point of Sale (POS)](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Pharmacy%20Benefit%20Management%20(PBM)%20%26%20Point%20of%20Sale%20(POS))
+* [Prescription Drug Monitoring Program (PDMP)](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Prescription%20Drug%20Monitoring%20Program%20(PDMP))
+* [Provider Management](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Provider%20Management.)
+* [Third Party Liability (TPL)](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Third%20Party%20Liability%20(TPL))
