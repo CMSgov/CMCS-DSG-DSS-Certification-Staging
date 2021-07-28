@@ -27,7 +27,7 @@ Click one of the business areas below to see outcomes and metrics for each speci
 * [Asset Verification System](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Asset%20Verification%20System)
 * [Decision Support System & Data Warehouse](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Decision%20Support%20System%20%26%20Data%20Warehouse)
 * [Electronic Visit Verification (EVV)](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Electronic%20Visit%20Verification%20(EVV))
-* [Eligibility and Enrollment](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Eligibility%20and%20Enrollment)
+* [Eligibility and Enrollment](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Eligibility%20and%20Enrollment/)
 * [Encounter Processing System (EPS) & Managed Care System](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Encounter%20Processing%20System%20(EPS)%20%26%20Managed%20Care%20System)
 * [Financial Management](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Financial%20Management)
 * [Health Information Exchange (HIE)](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/tree/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Health%20Information%20Exchange%20(HIE))
