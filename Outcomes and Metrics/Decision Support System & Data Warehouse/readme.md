@@ -21,9 +21,7 @@ Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-
 
 *State-Specific Outcomes* focus on improvements to the Medicaid program above and beyond baseline of the *CMS-required outcomes.*
 
-States which are requesting enhanced FFP for systems that fulfill *state-specific program needs,* beyond minimum legal requirements, should propose *State-Specific Outcomes* which address the proposed enhancements.
-
-*State-Specific Outcomes* should target specific problems and derive Medicaid program benefits. For more information on constructing and writing *good outcomes* see our page  "Writing-Outcome-Statements". 
+States which are requesting enhanced FFP for systems that fulfill *state-specific program needs,* beyond minimum legal requirements, should propose *State-Specific Outcomes* which address the proposed enhancements. *State-Specific Outcomes* should target specific problems and derive Medicaid program benefits. For more information on constructing and writing *good outcomes* see our page  "Writing-Outcome-Statements". 
 
 In the table below, we provide a listing of State-Specific Outcomes that have been approved by CMS. Each row includes: 
 
