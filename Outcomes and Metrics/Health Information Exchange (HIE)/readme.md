@@ -30,8 +30,15 @@ In the table below, we provide a listing of State-Specific Outcomes that have be
 * The assocaited metric(s) linked to the outcome statement, and; 
 * The periodicity for reporting metric data to CMS. 
 
-| **State**     | Medicaid Program Goal | Outcome Statement | **Metric(s)** | **Periodicity** |
-| ------------- | --------------------- | ----------------- | ------------- | --------------- |
-| [placeholder] | [placeholder]         | [placeholder]     | [placeholder] | [placeholder]   |
-| [placeholder] | [placeholder]         | [placeholder]     | [placeholder] | [placeholder]   |
+| **State** | Medicaid Program Goal | Outcome Statement                                            | **Metric(s)**                                                | **Periodicity** |
+| --------- | --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | :-------------: |
+| Alabama   | [placeholder]         | **Reducing ED and hospital readmissions by improving care coordination** by flagging each Medicaid recipient participating in the Alabama Coordinated Health Network. | The total number of ADT alerts exchanged with each ACHN entities for the Medicaid recipients. |     Annual      |
+| Arkansas  | [placeholder]         | **To improve care coordination** by sending real-time ADTs to Medicaid-attributed Provider-Led Arkansas Shared Savings Entity (PASSE) members to the PASSE’s analytical tool. | Monthly count of messages or encounters on Medicaid attributed members sent to each individual PASSE. |     Annual      |
+| Arkansas  |                       | **To improve disease management and coordination**, the HIE will flag Medicaid members who test positive for COVID. | Number of Medicaid beneficiaries that have tested positive for COVID each month |     Annual      |
+|           |                       |                                                              |                                                              |                 |
+|           |                       |                                                              |                                                              |                 |
+|           |                       |                                                              |                                                              |                 |
+|           |                       |                                                              |                                                              |                 |
+|           |                       |                                                              |                                                              |                 |
+|           |                       |                                                              |                                                              |                 |
 
