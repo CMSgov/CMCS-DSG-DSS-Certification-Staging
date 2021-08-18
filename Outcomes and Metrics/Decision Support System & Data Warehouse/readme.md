@@ -12,9 +12,9 @@ The Decision Support System (DSS) / Data Warehouse (DW) business area covers sof
 
 Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-Required Outcomes and Metrics are used to demonstrate that a system is compliant with the applicable federal regulations which pertain to that a specific system or module. CMS-Required outcomes form the baseline for system/module functionality, which must continue to continue to receive enhanced federal funding for operations. 
 
-| **Reference Number** | **Outcome** | **Recommended Metrics** | **Relevant&nbsp;Regulatory Sources** | **Recommended Reporting Periodicity** |
+| **Reference Number** | **Outcome** | **Recommended Metrics** | **Relevant&nbsp;Regulatory Sources** | **Minimum Reporting Periodicity** |
 | --- | --- | --- | --- | --- |
-| [Reference Number] | [Outcome statement]  | - [Recommended metric one, two, three, etc.]<br /><br />- [Recommended metric one, two, three, etc.] | [link to regulation(s)] | [recommended periodicity] |
+| DSS/DW1 | The system supports various business processes' reporting requirements.  | - Verify and validate the CMS annual report provisions from 431.428 (1) through 431.428 (11) are met annually. | 42 CFR 431.428 | Annual |
 | [Reference Number] | [[Outcome statement] | - [Recommended metric one, two, three, etc.]<br /><br />- [Recommended metric one, two, three, etc.] | [link to regulation(s)]              | [recommended periodicity]             |
 
 ---
