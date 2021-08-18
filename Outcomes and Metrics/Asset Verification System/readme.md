@@ -14,8 +14,6 @@
 
 Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-Required Outcomes and Metrics are used to demonstrate that a system is compliant with the applicable federal regulations which pertain to that a specific system or module. CMS-Required outcomes form the baseline for system/module functionality, which must continue to continue to receive enhanced federal funding for operations. 
 
-test
-
 | **Reference Number** | **Outcome**          | **Recommended Metrics**                                      | **Relevant&nbsp;Regulatory Sources** | **Recommended Reporting Periodicity** |
 | -------------------- | -------------------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------- |
 | [Reference Number]   | [Outcome statement]  | - [Recommended metric one, two, three, etc.]<br /><br />- [Recommended metric one, two, three, etc.] | [link to regulation(s)]              | [recommended periodicity]             |
