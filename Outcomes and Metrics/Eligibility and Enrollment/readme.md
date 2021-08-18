@@ -16,7 +16,7 @@ Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-
 
 | **Reference Number** | **Outcome**          | **Recommended Metrics**                                      | **Relevant&nbsp;Regulatory Sources** | **Recommended Reporting Periodicity** |
 | -------------------- | -------------------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------- |
-| [Reference Number]   | [Outcome statement]  | - [Recommended metric one, two, three, etc.]<br /><br />- [Recommended metric one, two, three, etc.] | [link to regulation(s)]              | [recommended periodicity]             |
+| EE1 Application   | [Outcome statement]  | - [Recommended metric one, two, three, etc.]<br /><br />- [Recommended metric one, two, three, etc.] | [link to regulation(s)]              | [recommended periodicity]             |
 | [Reference Number]   | [[Outcome statement] | - [Recommended metric one, two, three, etc.]<br /><br />- [Recommended metric one, two, three, etc.] | [link to regulation(s)]              | [recommended periodicity]             |
 
 ---
