@@ -29,11 +29,6 @@ While the *CMS-Required* outcomes form the baseline for system/module functional
 - **Periodicity** - The frequency with which metric data is reported to CMS.
 
 | **State** | Medicaid Program Goal | Outcome Statement | **Metric(s)** | **Periodicity** |
-| --------- | --------------------- | ----------------- | ------------- | --------------- |
-| ---       | ---                   | ---               | ---           | ---             |
-| ---       | ---                   | ---               | ---           | ---             |
-| ---       | ---                   | ---               | ---           | ---             |
-| ---       | ---                   | ---               | ---           | ---             |
-| ---       | ---                   | ---               | ---           | ---             |
-| ---       | ---                   | ---               | ---           | ---             |
-
+| --- | --- | --- | --- | --- |
+| [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] |
+| [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] |
