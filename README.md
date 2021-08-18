@@ -35,5 +35,5 @@ Click one of the business areas below to see outcomes and metrics for each speci
 * [Member Management](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Member%20Management)
 * [Pharmacy Benefit Management (PBM) & Point of Sale (POS)](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Pharmacy%20Benefit%20Management%20(PBM)%20%26%20Point%20of%20Sale%20(POS))
 * [Prescription Drug Monitoring Program (PDMP)](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Prescription%20Drug%20Monitoring%20Program%20(PDMP))
-* [Provider Management](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Provider%20Management.)
+* [Provider Management](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Provider%20Management)
 * [Third Party Liability (TPL)](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Third%20Party%20Liability%20(TPL))
