@@ -32,10 +32,7 @@ While the *CMS-Required* outcomes form the baseline for system/module functional
 
 | **State** | Medicaid Program Goal | Outcome Statement | **Metric(s)** | **Periodicity** |
 | --- | --- | --- | --- | --- |
-| ---       | ---                   | ---               | ---           | --- |
-| ---       | ---                   | ---               | ---           | --- |
-| ---       | ---                   | ---               | ---           | --- |
-| ---       | ---                   | ---               | ---           | --- |
 | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- |
-
+| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
