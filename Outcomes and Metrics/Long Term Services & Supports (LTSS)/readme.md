@@ -15,7 +15,7 @@ Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-
 
 | **Reference Number** | **Outcome**          | **Recommended Metrics**                                      | **Regulatory Sources**  | **Minimum Reporting Periodicity** |
 | -------------------- | -------------------- | ------------------------------------------------------------ | :---------------------: | :-------------------------------: |
-| [Reference Number]   | [Outcome statement]  | - [Recommended metric one, two, three, etc.]<br /><br />- [Recommended metric one, two, three, etc.] | [link to regulation(s)] |     [recommended periodicity]     |
+| LTSS1   | LTSS system generates notifications including eligibility determination; termination of state waiver (30 days in advance); and inspections taking place in a beneficiary's home when a beneficiary receives services in his/her own home or the home of a relative (HCBS waiver for individuals 65 and older) (48 hours in advance).  | - Percent of notifications and decisions sent to the correct individuals within the required timeframe. <br /><br />- [Recommended metric one, two, three, etc.] | 42 CFR 441.307; 42 CFR 441.356; 42 CFR 441.365; 42 CFR 431.206; 42 CFR 431.210 |     Quarterly     |
 | [Reference Number]   | [[Outcome statement] | - [Recommended metric one, two, three, etc.]<br /><br />- [Recommended metric one, two, three, etc.] | [link to regulation(s)] |     [recommended periodicity]     |
 
 ---
