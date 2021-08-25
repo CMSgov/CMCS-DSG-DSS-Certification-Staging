@@ -8,4 +8,5 @@ else
 endif
 
 preview:
-	docker compose up
+	docker run -p 4000:4000 -v ${PWD}:/site bretfisher/jekyll-serve jekyll serve --host 0.0.0.0 --config _config_local.yaml
+
