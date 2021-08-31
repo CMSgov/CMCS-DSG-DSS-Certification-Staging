@@ -13,8 +13,8 @@ url: ""
 
 # Build settings
 # theme: just-the-docs
-remote_theme: pmarsceill/just-the-docs
-color_scheme: cmms.scss
+remote_theme: 18f/uswds-jekyll
+color_scheme: cmms
 
 plugins:
   - jekyll-feed
