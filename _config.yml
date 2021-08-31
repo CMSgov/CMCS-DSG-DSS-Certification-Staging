@@ -14,7 +14,7 @@ url: ""
 # Build settings
 # theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
-color_scheme: cmms
+color_scheme: cmms.scss
 
 plugins:
   - jekyll-feed
