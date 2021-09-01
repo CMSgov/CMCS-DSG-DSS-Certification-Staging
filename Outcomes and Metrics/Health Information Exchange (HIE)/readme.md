@@ -11,7 +11,9 @@
 
 ### CMS-Required Outcomes
 
-None. There are no CMS-Required outcomes for HIE. 
+None. There are no CMS-Required outcomes for HIE.
+
+As such, for an HIE system to be certified states will need to create or reuse State-Specific Outcomes which target state-specific problems and derive Medicaid program benetis.
 
 ---
 
