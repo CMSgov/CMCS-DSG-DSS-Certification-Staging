@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$color-primary: #0071BC;
+$color-primary-darker: #205493;
+$color-primary-darkest: #112E51;
+$color-black: #000000;
+$color-base: #212121;
+$color-gray-dark: #323A45;
+$color-gray-light: #AEB0B5;
+$color-white: #FFFFFF;
+
+a {
+    color: $color-primary;
+    text-decoration:none;
+  }
+  
+  a:hover, a:focus {
+    color: $color-primary-darker;
+    font-weight: bold;
+  }
+  
+  a small {
+    font-size:11px;
+    color:#777;
+    margin-top:-0.3em;
+    display:block;
+  }
+  
+  a:hover small {
+    color:#777;
+  }
