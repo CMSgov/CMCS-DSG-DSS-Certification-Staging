@@ -1,0 +1,10 @@
+
+{% for section in site.data.toc.toc %}
+   <h3>{{ section.section }}</h3>
+        <ul>
+    {% for item in section.items %}
+        <li><a href="{{ item.link }}">{{ item.title }}</a></li>
+    {% endfor %}
+        </ul>
+    </li>
+{% endfor %}
