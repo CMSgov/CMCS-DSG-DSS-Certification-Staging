@@ -1,27 +1,15 @@
-# What is this CMS Certification Repository?
-The CMS Certification Repository on GitHub will provide a collaborative space where states can learn, share, and contribute information about the MES Certification process and its related artifacts. We created this repository for CMS, states, and vendors to:
+# Welcome to the CMS Certification Repository
+The CMS Certification Repository is a space for states, CMS, and vendors to learn, share, and contribute information about the MES Certification process and its related artifacts. From this site you can: 
 * Access the latest-and-greatest information about CMS-Required outcomes and recommended metrics
-* Create and contribute to the community of state-specific outcomes and metrics
-* Access examples of well-defined outcomes and metrics
+* Contribute to and view well-defined state-specific outcomes and metrics
 
-This repository will also host rules of behavior governing how the information should be used and interaction norms.
-[Placeholder for governance plan to define how and when information is updated and who is responsible for making changes]
+# Recent updates
+This site is intended to be a resource that grows over time. Here are recent updates you may want to know about: 
+* The site was officially shared with states in the Certification Community of Practice on October 12, 2021
 
-# What is GitHub?
-GitHub is a hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. No coding necessary, all you need is a [GitHub.com](https://github.com/) account and Internet access. You don’t need to know how to code, use the command line, or install Git (the version control software GitHub is built on).
 
-# Who Should Use This Repository?
-## CMS
-The Certification Repository provides MES State Officers a publicly available resources to guide states when asked how to write outcome statements and measure impact and gives them an easy way to share and updates examples of outcome statements and metrics to use in their APDs and certification documents. State Officers can also use the repository to interact with states and vendors to provide feedback, baseline the outcomes and metrics they receive from states, and compare outcomes and metrics to examples and submissions from other states.
-
-## States
-States can use the Certification Repository to find clean examples and expectations for developing outcomes and metrics. The repository also provides states with information about CMS-required outcomes and potential associated metrics. Additionally, the repository provides a platform for states to share their outcomes and metrics with other states and see examples of what others have created. Finally, states can use the repository to suggest changes and provide feedback to CMS.
-
-## Vendors
-In the past, vendors did not have direct access to the CMS required outcomes or recommended metrics and had to rely on information provided by states. This repository provides a single repository of information for outcomes and metrics vendors can directly access. In addition, vendors did not have an ability to collaborate to ensure outcomes and metrics align to the delivery of products and services. The repository facilitates good ideas from vendors being incorporated into outcomes and metrics.
-
-# How Do You Get Started?
-Click one of the business areas below to see outcomes and metrics for each specific module/business area:
+# Getting Started
+The repository is organized by MES business area. Click one of the business areas below to see outcomes and metrics for the specific module/business area you are working on:
 
 * [1115 or Waiver Support Systems](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/1115%20or%20Waiver%20Support%20Systems/)
 * [Asset Verification System](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Asset%20Verification%20System)
@@ -37,3 +25,9 @@ Click one of the business areas below to see outcomes and metrics for each speci
 * [Prescription Drug Monitoring Program (PDMP)](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Prescription%20Drug%20Monitoring%20Program%20(PDMP))
 * [Provider Management](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Provider%20Management)
 * [Third Party Liability (TPL)](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Third%20Party%20Liability%20(TPL))
+
+*Certification is still required if your project does not fall neatly into one of the above business areas. You may find relevant outcomes and metrics examples across business multiple areas or work with your State Officer to create state-specific ones.* 
+
+
+
+
