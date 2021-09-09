@@ -89,7 +89,14 @@ Tables will involve a bit of HTML. It's better than mixing in Markdown with the 
 
 {% raw %}
 <pre>
-&lt;table>
+&lt;table class="ds-c-table ds-c-table">
+        &lt;thead>
+            &lt;tr>
+                &lt;th>Name/Alias&lt;/th>
+                &lt;th>Appearances&lt;/th>
+                &lt;th>Year&lt;/th>
+            &lt;/tr>
+        &lt;/thead>
 {% for row in site.data.avengers_short %}
     {% assign app = row["Appearances"] | plus: 0 %}
     {% if  app > 2000 %}
@@ -106,7 +113,14 @@ Tables will involve a bit of HTML. It's better than mixing in Markdown with the 
 
 which comes out [all nice and Kentucky](https://meaningofliff.tumblr.com/post/103573767131/kentucky-adv), just the way you want:
 
-<table>
+<table class="ds-c-table ds-c-table">
+    <thead>
+        <tr>
+            <th>Name/Alias</th>
+            <th>Appearances</th>
+            <th>Year</th>
+        </tr>
+    </thead>
 {% for row in site.data.avengers_short %}
     {% assign app = row["Appearances"] | plus: 0 %}
     {% if  app > 2000 %}
@@ -126,7 +140,14 @@ And, in case you have URLs you want to link in, it might look like this.
 
 {% raw %}
 <pre>
-&lt;table>
+&lt;table class="ds-c-table ds-c-table ds-c-table--borderless">
+        &lt;thead>
+            &lt;tr>
+                &lt;th>Name/Alias&lt;/th>
+                &lt;th>Appearances&lt;/th>
+                &lt;th>Year&lt;/th>
+            &lt;/tr>
+        &lt;/thead>
 {% for row in site.data.avengers_short %}
     {% assign app = row["Appearances"] | plus: 0 %}
     {% if  app > 2000 %}
@@ -143,7 +164,14 @@ And, in case you have URLs you want to link in, it might look like this.
 
 which renders as
 
-<table>
+<table class="ds-c-table ds-c-table ds-c-table--borderless">
+    <thead>
+        <tr>
+            <th>Name/Alias</th>
+            <th>Appearances</th>
+            <th>Year</th>
+        </tr>
+    </thead>
 {% for row in site.data.avengers_short %}
     {% assign app = row["Appearances"] | plus: 0 %}
     {% if  app > 2000 %}

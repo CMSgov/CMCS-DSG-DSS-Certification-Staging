@@ -1,9 +1,12 @@
 
 {% for section in site.data.toc.toc %}
-   <h3>{{ section.section }}</h3>
-        <ul>
+    <li class="ds-c-vertical-nav__item">
+        <h3>{{ section.section }}</h3>
+    <ul class="ds-c-vertical-nav__subnav">    
     {% for item in section.items %}
-        <li><a href="{{ item.link }}">{{ item.title }}</a></li>
+    <li class="ds-c-vertical-nav__item">
+        <a class="ds-c-vertical-nav__label" href="{{ item.link }}">
+       {{ item.title }}</a></li>
     {% endfor %}
         </ul>
     </li>
