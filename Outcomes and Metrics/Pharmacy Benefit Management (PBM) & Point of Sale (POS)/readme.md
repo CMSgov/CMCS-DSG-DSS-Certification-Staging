@@ -38,7 +38,7 @@ When state-specific outcomes statements, keep [these tips](https://cmsgov.github
 
 We are actively gathering and evaluating outcomes statements crafted by states for this business area. 
 
-If you have an example from your state for this business area that you'd like us to consider adding for this page, please send it to OutcomesRepoFeedback@hhs.cms.org.
+Please send examples from your state that you'd like to share to OutcomesRepoFeedback@hhs.cms.org. Our team will collect and share the best examples. 
 
 
 
