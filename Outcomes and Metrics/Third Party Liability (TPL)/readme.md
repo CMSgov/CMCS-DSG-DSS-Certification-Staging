@@ -9,7 +9,7 @@
 
 ---
 
-### CMS-Required Outcomes
+## CMS-Required Outcomes
 
 Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-Required Outcomes and Metrics are used to demonstrate that a system is compliant with the applicable federal regulations which pertain to that a specific system or module. CMS-Required outcomes form the baseline for system/module functionality, which must continue to continue to receive enhanced federal funding for operations. 
 
@@ -30,24 +30,23 @@ Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-
 | <div align="center">TPL13 Reimbursement Tracking| The system tracks TPL reimbursements received so that the state can reimburse the federal government in accordance with the state's FMAP.| Expected vs Actual TPL reimbursement| 42 CFR 433.140 (c)| <div align="center">Annual |
 
 ---
+## State-Specific Outcomes - CMS Approved
 
-### State-Specific Outcomes - CMS Approved
+States requesting enhanced FFP for systems that fulfill *state-specific program needs,* beyond minimum legal requirements and the baseline of the *CMS-required outcomes*, should propose *State-Specific Outcomes* which address the proposed enhancements.
 
-*State-Specific Outcomes* focus on improvements to the Medicaid program above and beyond baseline of the *CMS-required outcomes.*
+When state-specific outcomes statements, keep [these tips](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/writing-outcome-statemets) in mind. 
 
-States which are requesting enhanced FFP for systems that fulfill *state-specific program needs,* beyond minimum legal requirements, should propose *State-Specific Outcomes* which address the proposed enhancements.
 
-*State-Specific Outcomes* should target specific problems and derive Medicaid program benefits. For more information on constructing and writing *good outcomes* see our page  "Writing-Outcome-Statements". 
+### Examples for Third Party Liability
 
-In the table below, we provide a listing of State-Specific Outcomes that have been approved by CMS. Each row includes: 
+We are actively gathering and evaluating outcomes statements crafted by states for this business area. 
 
-* The state which created the outcome and metrics and the assocaited Medicaid program goal;
-* The outcome statement;
-* The assocaited metric(s) linked to the outcome statement, and; 
-* The periodicity for reporting metric data to CMS. 
+If you have an example from your state for this business area that you'd like us to consider adding for this page, please send it to OutcomesRepoFeedback@hhs.cms.org.
+
+
+
 
 | **State**     | Medicaid Program Goal | Outcome Statement | **Metric(s)** | **Periodicity** |
 | ------------- | --------------------- | ----------------- | ------------- | --------------- |
-| [placeholder] | [placeholder]         | [placeholder]     | [placeholder] | [placeholder]   |
-| [placeholder] | [placeholder]         | [placeholder]     | [placeholder] | [placeholder]   |
-
+| &nbsp; | &nbsp; | &nbsp;| &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp;| &nbsp; | &nbsp; |

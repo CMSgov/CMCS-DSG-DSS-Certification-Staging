@@ -9,7 +9,7 @@
 
 ---
 
-### CMS-Required Outcomes
+## CMS-Required Outcomes
 
 
 None. There are no CMS-Required outcomes for an Asset Verification System.
@@ -18,23 +18,23 @@ As such, for an Asset Verification System to be certified states will need to cr
 
 ---
 
-### State-Specific Outcomes - CMS Approved
+## State-Specific Outcomes - CMS Approved
 
-*State-Specific Outcomes* focus on improvements to the Medicaid program above and beyond baseline of the *CMS-required outcomes.*
+States requesting enhanced FFP for systems that fulfill *state-specific program needs,* beyond minimum legal requirements and the baseline of the *CMS-required outcomes*, should propose *State-Specific Outcomes* which address the proposed enhancements.
 
-States which are requesting enhanced FFP for systems that fulfill *state-specific program needs,* beyond minimum legal requirements, should propose *State-Specific Outcomes* which address the proposed enhancements.
+When state-specific outcomes statements, keep [these tips](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/writing-outcome-statemets) in mind. 
 
-*State-Specific Outcomes* should target specific problems and derive Medicaid program benefits. For more information on constructing and writing *good outcomes* see our page  "Writing-Outcome-Statements". 
+### Examples for Asset Verification Systems
 
-In the table below, we provide a listing of State-Specific Outcomes that have been approved by CMS. Each row includes: 
+We are actively gathering and evaluating outcomes statements crafted by states for this business area. 
 
-* The state which created the outcome and metrics and the assocaited Medicaid program goal;
-* The outcome statement;
-* The assocaited metric(s) linked to the outcome statement, and; 
-* The periodicity for reporting metric data to CMS. 
+If you have an example from your state for this business area that you'd like us to consider adding for this page, please send it to OutcomesRepoFeedback@hhs.cms.org.
+
+
+
 
 | **State**     | Medicaid Program Goal | Outcome Statement | **Metric(s)** | **Periodicity** |
 | ------------- | --------------------- | ----------------- | ------------- | --------------- |
-| [placeholder] | [placeholder]         | [placeholder]     | [placeholder] | [placeholder]   |
-| [placeholder] | [placeholder]         | [placeholder]     | [placeholder] | [placeholder]   |
+| &nbsp; | &nbsp; | &nbsp;| &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp;| &nbsp; | &nbsp; |
 

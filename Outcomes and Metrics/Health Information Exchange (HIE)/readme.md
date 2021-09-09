@@ -9,7 +9,7 @@
 
 ---
 
-### CMS-Required Outcomes
+## CMS-Required Outcomes
 
 None. There are no CMS-Required outcomes for HIE.
 
@@ -17,21 +17,17 @@ As such, for an HIE system to be certified states will need to create or reuse S
 
 ---
 
-### State-Specific Outcomes - CMS Approved
+## State-Specific Outcomes - CMS Approved
 
-*State-Specific Outcomes* focus on improvements to the Medicaid program above and beyond baseline of the *CMS-required outcomes.*
+States requesting enhanced FFP for systems that fulfill *state-specific program needs,* beyond minimum legal requirements and the baseline of the *CMS-required outcomes*, should propose *State-Specific Outcomes* which address the proposed enhancements.
 
-States which are requesting enhanced FFP for systems that fulfill *state-specific program needs,* beyond minimum legal requirements, should propose *State-Specific Outcomes* which address the proposed enhancements.
+When state-specific outcomes statements, keep [these tips](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/writing-outcome-statemets) in mind. 
+### Examples for Health Information Exchanges
 
-*State-Specific Outcomes* should target specific problems and derive Medicaid program benefits. For more information on constructing and writing *good outcomes* see our page  "Writing-Outcome-Statements". 
+We are actively gathering and evaluating outcomes statements crafted by states for this business area. 
 
-In the table below, we provide a listing of State-Specific Outcomes that have been approved by CMS. Each row includes: 
+If you have an example from your state for this business area that you'd like us to consider adding for this page, please send it to OutcomesRepoFeedback@hhs.cms.org.
 
-* The state which created the outcome and metrics and the assocaited Medicaid program goal;
-* The outcome statement;
-* The assocaited metric(s) linked to the outcome statement; 
-* The periodicity for reporting metric data to CMS, and;
-* The approval date for the the outcome and associated metric(s). 
 
 
 |**State**           |**Medicaid Program Goal**|**Outcomes**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |**Metrics**                                                                                                                                                                                                                                 |**Periodicity**|**Approval Date**|
