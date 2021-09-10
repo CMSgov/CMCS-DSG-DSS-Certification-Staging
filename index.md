@@ -1,7 +1,7 @@
 ---
+title: Demo Index
 description: This is a documentation page.
-permalink: /docs/
-
+permalink: 
 layout: post
 subnav:
   - text: Section one
@@ -9,6 +9,38 @@ subnav:
   - text: Section two
     href: '#section-two'
 ---
+
+
+This is a demo table. It uses the small body font. Margins/spacing not yet updated.
+
+<table class="ds-c-table ds-c-table ds-text-body--sm">
+    <thead>
+        <tr>
+            <th>Name/Alias</th>
+            <th>Appearances</th>
+            <th>Year</th>
+            <th>Years Since Joined</th>
+            <th>Died?</th>
+            <th>Returned?</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+{% for row in site.data.avengers_short %}
+    {% assign app = row["Appearances"] | plus: 0 %}
+    {% if  app > 2000 %}
+        <tr>
+            <td>{{ row["Name/Alias"] }}</td>
+            <td>{{ row["Appearances"] }}</td>
+            <td>{{ row["Year"] }}</td>
+            <td>{{ row["Years since joining"] }}</td>
+            <td>{{ row["Death1"] }}</td>
+            <td>{{ row["Return1"] }}</td>
+            <td>{{ row["Notes"] }}</td>
+        </tr>
+    {% endif %}
+{% endfor %}
+</table>
+
 
 
 # What is this CMS Certification Repository?
