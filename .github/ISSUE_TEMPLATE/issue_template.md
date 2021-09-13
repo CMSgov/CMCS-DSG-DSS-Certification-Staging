@@ -1,4 +1,6 @@
 ---
+name: Feature
+about: Feature Issue Template
 title: '[Issue Title]'
 ---
 
