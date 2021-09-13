@@ -1,6 +1,33 @@
 
-{% for section in site.data.toc.toc %}
+{% for item in site.data.toc.toc %}
+    {% if item.section %}
     <li class="ds-c-vertical-nav__item">
+        <button
+        class="ds-c-vertical-nav__label ds-c-vertical-nav__label--current ds-c-vertical-nav__label--parent"
+        title="Collapse sub-navigation"
+        aria-expanded="true"
+        >
+        {{ item.section}}
+        </button>
+        <ul class="ds-c-vertical-nav__subnav">
+        {% for sub in item.items %}
+            <li class="ds-c-vertical-nav__item">
+                <a class="ds-c-vertical-nav__label" href="{{ sub.link }}">
+                    {{ sub.title }}
+                </a>
+            </li>
+        {% endfor %}
+        </ul>
+        </li>
+    {% else %}
+    <li class="ds-c-vertical-nav__item">
+        <a class="ds-c-vertical-nav__label" href="{{ item.link }}">
+        {{ item.title }}</a>
+    </li>
+    {% endif %}
+{% endfor %}
+<!--
+        <li class="ds-c-vertical-nav__item">
         <h3>{{ section.section }}</h3>
     <ul class="ds-c-vertical-nav__subnav">    
     {% for item in section.items %}
@@ -10,4 +37,5 @@
     {% endfor %}
         </ul>
     </li>
-{% endfor %}
+
+-->
