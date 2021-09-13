@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Issue Template
+    about: Use this template to create an issue
+    url: https://github.com/CMSgov/CMCS-DSG-DSS-Certification/issues/new?template=issue_template.md&assignees=naretakis&labels=&title=&milestone=&projects=naretakis%2FCMCS-DSG-DSS-Certification%2F1
