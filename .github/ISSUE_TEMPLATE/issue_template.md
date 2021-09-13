@@ -4,8 +4,7 @@ about: Use this template when for Content Updates or Feature Requests
 title: ''
 labels: ''
 assignees: ''
-projects: Outcomes Repo Project Board
-
+url: github.com/CMSgov/CMCS-DSG-DSS-Certification/issues/new?template=issue_template.md&projects=1
 ---
 
 **Is your feature request related to a problem? Please describe.**
