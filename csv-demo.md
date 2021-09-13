@@ -113,7 +113,7 @@ Tables will involve a bit of HTML. It's better than mixing in Markdown with the 
 
 which comes out [all nice and Kentucky](https://meaningofliff.tumblr.com/post/103573767131/kentucky-adv), just the way you want:
 
-<table class="ds-c-table ds-c-table ds-text-body--sm">
+<table class="ds-c-table ds-text-body--sm">
     <thead>
         <tr>
             <th>Name/Alias</th>
@@ -140,7 +140,7 @@ And, in case you have URLs you want to link in, it might look like this.
 
 {% raw %}
 <pre>
-&lt;table class="ds-c-table ds-c-table ds-c-table--borderless .ds-text-body--sm">
+&lt;table class="ds-c-table ds-c-table--borderless ds-text-body--sm">
         &lt;thead>
             &lt;tr>
                 &lt;th>Name/Alias&lt;/th>
@@ -164,7 +164,7 @@ And, in case you have URLs you want to link in, it might look like this.
 
 which renders as
 
-<table class="ds-c-table ds-c-table ds-c-table--borderless ds-text-body--sm">
+<table class="ds-c-table ds-c-table--borderless ds-text-body--sm">
     <thead>
         <tr>
             <th>Name/Alias</th>

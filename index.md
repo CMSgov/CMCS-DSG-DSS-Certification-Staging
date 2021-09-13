@@ -13,7 +13,7 @@ subnav:
 
 This is a demo table. It uses the small body font. Margins/spacing not yet updated.
 
-<table class="ds-c-table ds-c-table ds-text-body--sm">
+<table class="ds-c-table ds-text-body--sm">
     <thead>
         <tr>
             <th>Name/Alias</th>
