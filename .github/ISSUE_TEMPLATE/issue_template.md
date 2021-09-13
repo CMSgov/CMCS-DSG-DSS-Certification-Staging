@@ -3,8 +3,8 @@ name: Content Update or Feature Request
 about: Use this template when for Content Updates or Feature Requests
 title: ''
 labels: ''
-assignees: ''
-project: 'Outcomes Repo Project Board'
+assignees: naretakis
+project: Outcomes Repo Project Board
 
 ---
 
