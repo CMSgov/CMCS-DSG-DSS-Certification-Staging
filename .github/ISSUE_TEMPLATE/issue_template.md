@@ -1,8 +1,3 @@
----
-name: Feature
-about: Feature Issue Template
-title: '[Issue Title]'
----
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
