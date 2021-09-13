@@ -1,9 +1,10 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Issue Template
+about: Use for Content Updates or Feature Requests
 title: ''
 labels: ''
 assignees: ''
+project: Outcomes Repo Project Board
 
 ---
 
