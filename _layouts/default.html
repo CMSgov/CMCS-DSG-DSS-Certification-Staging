@@ -5,22 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ "/assets/css/index.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/main.css" | prepend: site.baseurl }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
   </head>
   <body>
+    <a class="ds-c-skip-nav" href="#content">Skip to main content</a>
+    {% include header.html %}
     <main class="ds-base ds-l-container">
-      <a class="ds-c-skip-nav" href="#content">Skip to main content</a>
       <div class="ds-l-row">
         <aside class="ds-u-margin-bottom--4 ds-u-md-margin-bottom--0 ds-l-md-col--4 ds-l-lg-col--3">
           <ul class="ds-c-vertical-nav">
-            <li class="ds-c-vertical-nav__item" style="margin-bottom: 1em;">
-              <a href="{{ "/" | absolute_url }}">
-                <img src="{{'/assets/images/cms-logo.png' | prepend: site.baseurl }}" 
-                width="200px"
-                alt="Center for Medicare and Medicaid Services Logo. A swoosh that kinda wraps around the left side of the letters C, M, and S."></a>
-            </li>
             {% include toc.html %}
           </ul>
 
@@ -41,6 +37,7 @@
         </article>
       </div>
     </main>
+    {%include footer.html %}
     <script src="{{ "/assets/components/index.js" | prepend: site.baseurl }}"></script>
   </body>
 </html>
