@@ -18,7 +18,7 @@ The CMS Certification Repository is a space for states, CMS, and vendors to lear
 ## From this repo states can: 
 - Find examples and expectations for developing outcomes and metrics
 - Share outcomes and metrics with other states and see examples of what other states have created
-- Suggest changes and provide feedback to CMS regaurding outcomes requirements and processes (email MESOutcomesRepo@cms.hhs.gov)
+- Suggest changes and provide feedback to CMS regaurding outcomes requirements and processes (email MESCertificationRepo@cms.hhs.gov)
 
 ## From this repo CMS will: 
 - Provide publicly available resources to guide states in how to write outcome statements and measure impact
@@ -27,5 +27,5 @@ The CMS Certification Repository is a space for states, CMS, and vendors to lear
 
 ## From this repo vendors can: 
 - Get direct access to the CMS required outcomes or recommended metrics
-- Share suggestions and feedback to CMS regaurding  outcomes requirements and processes (email MESOutcomesRepo@cms.hhs.gov)
+- Share suggestions and feedback to CMS regaurding  outcomes requirements and processes (email MESCertificationRepo@cms.hhs.gov)
 
