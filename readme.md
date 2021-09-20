@@ -28,7 +28,7 @@ The repository is organized by MES business area. Click one of the business area
 * [Provider Management](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Provider%20Management)
 * [Third Party Liability (TPL)](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Third%20Party%20Liability%20(TPL))
 
-*Certification is still required if your project does not fall neatly into one of the above business areas. You may find relevant outcomes and metrics examples across business multiple areas or work with your State Officer to create state-specific ones.* 
+*Certification is still required if your project does not fall neatly into one of the above business areas. You may still find relevant outcomes and metrics examples across business multiple areas. As needed, work with your state team and State Officer to create state-specific outcomes statements.* 
 
 
 
