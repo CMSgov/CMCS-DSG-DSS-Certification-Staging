@@ -1,41 +1,32 @@
-
 {% for item in site.data.toc.toc %}
-    {% if item.section %}
+{% if item.section %}
+<li class="ds-c-vertical-nav__item">
+  <button
+    class="
+      ds-c-vertical-nav__label
+      ds-c-vertical-nav__label--current
+      ds-c-vertical-nav__label--parent
+    "
+    title="Collapse sub-navigation"
+    aria-expanded="true"
+  >
+    {{ item.section}}
+  </button>
+  <ul class="ds-c-vertical-nav__subnav">
+    {% for sub in item.items %}
     <li class="ds-c-vertical-nav__item">
-        <button
-        class="ds-c-vertical-nav__label ds-c-vertical-nav__label--current ds-c-vertical-nav__label--parent"
-        title="Collapse sub-navigation"
-        aria-expanded="true"
-        >
-        {{ item.section}}
-        </button>
-        <ul class="ds-c-vertical-nav__subnav">
-        {% for sub in item.items %}
-            <li class="ds-c-vertical-nav__item">
-                <a class="ds-c-vertical-nav__label" href="{{ sub.link }}">
-                    {{ sub.title }}
-                </a>
-            </li>
-        {% endfor %}
-        </ul>
-        </li>
-    {% else %}
-    <li class="ds-c-vertical-nav__item">
-        <a class="ds-c-vertical-nav__label" href="{{ item.link }}">
-        {{ item.title }}</a>
+      <a class="ds-c-vertical-nav__label" href="{{ "/" | append: item.subdir | append: "/" | append: sub.title | prepend: site.baseurl }}">
+        {{ sub.title }}
+      </a>
     </li>
-    {% endif %}
-{% endfor %}
-<!--
-        <li class="ds-c-vertical-nav__item">
-        <h3>{{ section.section }}</h3>
-    <ul class="ds-c-vertical-nav__subnav">    
-    {% for item in section.items %}
-    <li class="ds-c-vertical-nav__item">
-        <a class="ds-c-vertical-nav__label" href="{{ item.link }}">
-       {{ item.title }}</a></li>
     {% endfor %}
-        </ul>
-    </li>
-
--->
+  </ul>
+</li>
+{% else %}
+<li class="ds-c-vertical-nav__item">
+  <a class="ds-c-vertical-nav__label" href="{{ item.link | urlencode | prepend: site.baseurl }}">
+    {{ item.title }}
+  </a>
+</li>
+{% endif %}
+{% endfor %}
