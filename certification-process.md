@@ -9,7 +9,7 @@ An APD serves as the mechanism by which states obtain Federal support for certai
 - Operations - Activities that improve system performance or extend the life of the system require outcomes and metrics. Routine operating activities do not require outcomes and metrics separate from those that were identified as a condition for continued maintenance and operations support.
 
 ## Certification process 
-The program outcomes a state hopes to realize with a proposed MES project not only serve as justification for the investment, but they also serve as measures that help determine whether or not the project was a success.  [insert language about outcomes statements + metrics in APDs here]
+[insert language about outcomes statements + metrics in APDs here]
 
 ## State-specific outcomes 
 States requesting enhanced FFP for systems that fulfill *state-specific program needs,* beyond minimum legal requirements and the baseline of the *CMS-required outcomes*, should propose *State-Specific Outcomes* which address the proposed enhancements.
