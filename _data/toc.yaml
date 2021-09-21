@@ -1,42 +1,32 @@
 toc:
   - title: Home
-    link: 
+    link: /
   - section: MES Business Areas
+    subdir: Outcomes and Metrics
     items:
+      # As long as these titles are the same as the corresponding filenames, the
+      # table of contents will "just work." If the filenames need to differ,
+      # then the toc.html include will need to be modified.
       - title: 1115 or Waiver Support Systems
-        link: 
       - title: Asset Verification System
-        link: 
       - title: Decision Support System & Data Warehouse
-        link: 
       - title: Electronic Visit Verification (EVV)
-        link: 
       - title: Eligibility and Enrollment
-        link: 
       - title: Encounter Processing System (EPS) & Managed Care System
-        link: 
       - title: Financial Management
-        link: 
       - title: Health Information Exchange (HIE)
-        link: 
       - title: Long Term Services & Supports (LTSS)
-        link: 
       - title: Member Management
-        link: 
       - title: Pharmacy Benefit Management (PBM) & Point of Sale (POS)
-        link: 
       - title: Prescription Drug Monitoring Program (PDMP)
-        link: 
       - title: Provider Management
-        link: 
       - title: Third Party Liability (TPL)
-        link: 
   - title: Outcomes + the certification process 
-    link: 
+    link: /certification-process
   - title: Writing a good outcome statement
-    link: 
+    link: /writing-outcome-statements
   - title: Roadmap
-    link: 
+    link: /repo-roadmap
   - title: Contact Us
-    link: 
+    link: /contact
          
