@@ -2,7 +2,11 @@
 Outcomes statements and metrics are part of the APD process and the Standardized Modular Certification process. 
 
 ## APD process 
-[insert language about outcomes statements + metrics in APDs here]
+An Advance Planning Document, commonly referred to as an APD, serves as the mechanism by which states obtain Federal support for certain systems related expenditures. Regulations establishing the different types of APDs and requirements for each can be found at 45 CFR 95.610. The APDs identified include Planning, Implementation and Operations. As CMS's review of states' Medicaid Enterprise Systems (MES) incorporates a focus on program outcomes, the following will help determine when outcomes and associated metrics are expected within the APD. The following is a general guide and states should work with their respective State Officer on the specific details as they relate to a proposed MES activity and the need to identify outcomes and metrics.
+
+- Planning - Activities related to systems planning require outcomes and metrics. The outcomes and metrics within the Planning APD will be primarily focused on state-specific outcomes.
+- Implementation - 
+- Operations - Activities that improve system performance or extend the life of the system require outcomes and metrics. Routine operating activities do not require outcomes and metrics separate from those that were identified as a condition for continued maintenance and operations support.
 
 ## Certification process 
 [insert language about outcomes statements + metrics in APDs here]
