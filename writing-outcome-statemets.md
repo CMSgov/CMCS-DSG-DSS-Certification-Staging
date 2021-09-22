@@ -1,9 +1,5 @@
-# Placeholder for writing outcome statemen ts
 
-# Readme that provides context and guidance for Outcomes and Metrics (this subfolder)
-👇 Placeholder text
-
-# What Makes a Good Outcome Statement?
+# Writing a good outcome statement
 An Outcome Statement should describe the measurable improvement(s) to a state’s Medicaid program that will be realized once the project is complete. Additionally, Outcomes should support the priorities of the Medicaid program, be directly enabled by the state’s Information Technology project, and should include a Measurement, which utilizes data as evidence that the Outcome(s) are being met on an ongoing basis. The following elements comprise an Outcome Statement:
 
 * Module - Functional business area of the Medicaid Enterprise that is being enhanced or replaced.
