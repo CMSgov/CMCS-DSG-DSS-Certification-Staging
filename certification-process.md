@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Incorporating outcome statements into CMS Processes
 Outcomes statements and metrics are part of the Advance Planning Document (APD) process and the Streamlined Modular Certification (SMC) process. The program outcomes a state hopes to realize with a proposed Medicaid Enterprise Systems (MES) project not only serve as justification for the investment, but also serve as a way to measure whether or not a project was a success. Not all projects require certification and not all APDs require outcomes. The following is a general overview of when outcomes and metrics are applicable to the APD process and the certification process.
 

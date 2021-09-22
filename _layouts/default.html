@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/css/index.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/main.css" | prepend: site.baseurl }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <a class="ds-c-skip-nav" href="#content">Skip to main content</a>
+    {% include header.html %}
+    <main class="ds-base ds-l-container">
+      <div class="ds-l-row">
+        <aside class="ds-u-margin-bottom--4 ds-u-md-margin-bottom--0 ds-l-md-col--4 ds-l-lg-col--3">
+          <ul class="ds-c-vertical-nav">
+            {% include toc.html %}
+          </ul>
+
+          {% if site.github.is_project_page %}
+          <p class="view">
+            <small><a href="{{ site.github.repository_url }}">View the Project on GitHub {{ site.github.repository_nwo }}</a></small>
+          </p>
+          {% endif %}
+          {% if site.github.is_project_page %}
+          <p>
+            <small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small>
+          </p>
+          {% endif %}
+        </aside>
+        <article id="content" class="ds-l-md-col--8 ds-l-lg-col--9">
+          <h1 class="ds-h1">{{page.title}}</h1>
+            {{ content }}
+        </article>
+      </div>
+    </main>
+    {%include footer.html %}
+    <script src="{{ "/assets/components/index.js" | prepend: site.baseurl }}"></script>
+  </body>
+</html>
