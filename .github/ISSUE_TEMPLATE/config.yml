@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: New Issue Template
+    about: Use this template to create a new issue to track bugs, content updates, feature requests, or more.
+    url: https://github.com/CMSgov/CMCS-DSG-DSS-Certification/issues/new?template=issue_template.md&assignees=&labels=&title=&milestone=&projects=CMSgov/CMCS-DSG-DSS-Certification%2F1
