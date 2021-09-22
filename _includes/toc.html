@@ -8,11 +8,12 @@
       ds-c-vertical-nav__label--parent
     "
     title="Collapse sub-navigation"
+    aria-controls="collapsible_for_{{forloop.index}}"
     aria-expanded="true"
   >
     {{ item.section}}
   </button>
-  <ul class="ds-c-vertical-nav__subnav">
+  <ul class="ds-c-vertical-nav__subnav" id="collapsible_for_{{forloop.index}}">
     {% for sub in item.items %}
     <li class="ds-c-vertical-nav__item">
       <a class="ds-c-vertical-nav__label" href="{{ "/" | append: item.subdir | append: "/" | append: sub.title | prepend: site.baseurl }}">
@@ -30,3 +31,24 @@
 </li>
 {% endif %}
 {% endfor %}
+
+<script type="text/javascript">
+  (function() {
+    function toggleNav(e) {
+      const button = e.target;
+      const isExpanded = button.getAttribute("aria-expanded") === "true";
+      const controlledID = button.getAttribute("aria-controls");
+      const controlled = document.getElementById(controlledID);
+
+      controlled.style.display = isExpanded ? "none": "";
+      button.setAttribute("aria-expanded", `${!isExpanded}`);
+    }
+
+    Array.from(
+      document.querySelectorAll("button.ds-c-vertical-nav__label[aria-controls]")
+    ).forEach(function(b) {
+      b.addEventListener("click", toggleNav);
+    });
+    
+  })();
+</script>
