@@ -8,11 +8,12 @@
       ds-c-vertical-nav__label--parent
     "
     title="Collapse sub-navigation"
+    aria-controls="collapsible_for_{{forloop.index}}"
     aria-expanded="true"
   >
     {{ item.section}}
   </button>
-  <ul class="ds-c-vertical-nav__subnav">
+  <ul class="ds-c-vertical-nav__subnav" id="collapsible_for_{{forloop.index}}">
     {% for sub in item.items %}
     <li class="ds-c-vertical-nav__item">
       <a class="ds-c-vertical-nav__label" href="{{ "/" | append: item.subdir | append: "/" | append: sub.title | prepend: site.baseurl }}">
@@ -30,3 +31,10 @@
 </li>
 {% endif %}
 {% endfor %}
+
+<script
+  id="toc-script"
+  type="text/javascript"
+  src="{{ "/assets/js/toc-expand-collapse.js" | prepend: site.baseurl }}"
+  data-path="{{ site.baseurl }}"
+></script>
