@@ -56,7 +56,7 @@ When state-specific outcomes statements, keep [these tips](https://cmsgov.github
 
 We are actively gathering and evaluating outcomes statements crafted by states for this business area. 
 
-Please send examples from your state that you'd like to share to OutcomesRepoFeedback@hhs.cms.org. Our team will collect and share the best examples. 
+Please send examples from your state that you'd like to share to <MESCertificationRepo@cms.hhs.gov>. Our team will collect and share the best examples. 
 
 
 
