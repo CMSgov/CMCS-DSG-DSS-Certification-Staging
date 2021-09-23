@@ -14,7 +14,7 @@
     const controlled = document.getElementById(controlledID);
 
     controlled.style.display = isExpanded ? "none" : "";
-    button.setAttribute("aria-expanded", `${!isExpanded}`);
+    button.setAttribute("aria-expanded", !isExpanded);
 
     // Update the expand state with the new info, then store that in a cookie.
     // Need to set the path on the cookie so that all pages within this site
@@ -41,6 +41,7 @@
     // If the expand-controlled element exists in the known expansion state,
     // update the DOM accordingly.
     if (typeof expandState[controlledID] === "boolean") {
+      button.setAttribute("aria-expanded", expandState[controlledID]);
       const controlled = document.getElementById(controlledID);
       controlled.style.display = expandState[controlledID] ? "" : "none";
     }
