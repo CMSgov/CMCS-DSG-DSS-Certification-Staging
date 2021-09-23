@@ -32,23 +32,9 @@
 {% endif %}
 {% endfor %}
 
-<script type="text/javascript">
-  (function() {
-    function toggleNav(e) {
-      const button = e.target;
-      const isExpanded = button.getAttribute("aria-expanded") === "true";
-      const controlledID = button.getAttribute("aria-controls");
-      const controlled = document.getElementById(controlledID);
-
-      controlled.style.display = isExpanded ? "none": "";
-      button.setAttribute("aria-expanded", `${!isExpanded}`);
-    }
-
-    Array.from(
-      document.querySelectorAll("button.ds-c-vertical-nav__label[aria-controls]")
-    ).forEach(function(b) {
-      b.addEventListener("click", toggleNav);
-    });
-    
-  })();
-</script>
+<script
+  id="toc-script"
+  type="text/javascript"
+  src="{{ "/assets/js/toc-expand-collapse.js" | prepend: site.baseurl }}"
+  data-path="{{ site.baseurl }}"
+></script>
