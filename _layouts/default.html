@@ -39,5 +39,12 @@
     </main>
     {%include footer.html %}
     <script src="{{ "/assets/components/index.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript">
+      (function makeTablesComplyWithDesignSystem() {
+        Array.from(document.querySelectorAll("table")).forEach(function(table) {
+          table.setAttribute("class", "ds-c-table ds-text-body--sm")
+        });
+      })();
+    </script>
   </body>
 </html>
