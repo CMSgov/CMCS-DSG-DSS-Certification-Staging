@@ -1,5 +1,5 @@
 ---
-title: Demo Index
+title: Introduction
 description: This is a documentation page.
 layout: post
 ---
