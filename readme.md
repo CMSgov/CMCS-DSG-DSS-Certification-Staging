@@ -3,11 +3,13 @@ The CMS Certification Repository is a space for states, CMS, and vendors to lear
 * Access the latest-and-greatest information about CMS-Required outcomes and recommended metrics
 * Contribute to and view well-defined state-specific outcomes and metrics
 
-# Recent updates you should know about
+# Recent updates
 This site is intended to be a resource that grows over time. Here are recent updates you may want to know about: 
-* The site was officially shared with states in the Certification Community of Practice on October 12, 2021
+* The site was officially shared with states in the Certification Community of Practice on October 12, 2021.
+* The visual styling for tables was merged to improve the look and feel of the site.
+* All business areas/module pages were updated with CMS-Required Outcomes and recommended Metrics
 
-More details about what we've been up to can be found on the [repo roadmap](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/repo-roadmap). 
+See the [repo roadmap](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/repo-roadmap) for more details on what is coming for this repository. 
 
 
 # Getting Started
