@@ -7,7 +7,7 @@ This site is intended to be a resource that grows over time. Here are recent upd
 * The visual styling for tables was merged to improve the look and feel of the site.
 * All business areas/module pages were updated with CMS-Required Outcomes and recommended Metrics
 
-See the [repo roadmap](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/repo-roadmap) for more details on what is coming for this repository. 
+See the [repo roadmap](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/wiki/MES-Certification-Repo-Roadmap) for more details on what is coming for this repository. 
 
 # Getting Started
 The repository is organized by MES business area. Click one of the business areas below to see outcomes and metrics for the specific module/business area you are working on:
