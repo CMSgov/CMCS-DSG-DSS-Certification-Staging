@@ -2,7 +2,7 @@
 
 This page shows the currently planned features and functionality that are in store for this repo. We are expecting constant interation to be continiously delivered, however this roadmap provides a sense of direction and priority.
 
-While we continue to work on the items in the roadmap using the Near, Far, and Really Far categorization, [click here to see recent changes (commits) that we've made to the repo.](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/commits/main)
+While we continue to work on the items in the roadmap using the Near, Far, and Really Far categorization, [click here to see recent changes (Pull Requests) that we've made to the site.](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/pulls?q=is%3Apr+is%3Aclosed)
 
 ## Near
 
