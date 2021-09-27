@@ -2,10 +2,15 @@
   const path = document.getElementById("toc-script").getAttribute("data-path");
 
   // Load the toc expansion state from cookies, if they exist.
-  const expandStateCookie = document.cookie.match(
-    /(^|\s)expandState=(.*?);/
-  ) || [null, null, "{}"];
-  const expandState = JSON.parse(decodeURIComponent(expandStateCookie[2]));
+  const cookie = (
+    document.cookie
+      .split(";")
+      .filter(function (c) {
+        return c.trim().substr(0, 12) === "expandState=";
+      })
+      .pop() || "={}"
+  ).split("=")[1];
+  const expandState = JSON.parse(decodeURIComponent(cookie));
 
   function toggleNav(e) {
     const button = e.target;
