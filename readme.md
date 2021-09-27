@@ -1,7 +1,5 @@
 # Welcome to the CMS Certification Repository
-The CMS Certification Repository is a space for states, CMS, and vendors to learn, share, and contribute information about the MES Certification process and its related artifacts. From this site you can: 
-* Access the latest-and-greatest information about CMS-Required outcomes and recommended metrics
-* Contribute to and view well-defined state-specific outcomes and metrics
+The CMS Certification Repository is a space for states, CMS, and vendors to learn, share, and contribute information about the MES Certification process and its related artifacts. From this site you can access the latest-and-greatest information about CMS-Required outcomes and recommended metrics as well as view CMS approved state-specific outcomes and metrics.
 
 # Recent updates
 This site is intended to be a resource that grows over time. Here are recent updates you may want to know about: 
@@ -10,7 +8,6 @@ This site is intended to be a resource that grows over time. Here are recent upd
 * All business areas/module pages were updated with CMS-Required Outcomes and recommended Metrics
 
 See the [repo roadmap](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/repo-roadmap) for more details on what is coming for this repository. 
-
 
 # Getting Started
 The repository is organized by MES business area. Click one of the business areas below to see outcomes and metrics for the specific module/business area you are working on:
