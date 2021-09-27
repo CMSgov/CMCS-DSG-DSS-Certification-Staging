@@ -9,6 +9,7 @@ While we continue to work on the items in the roadmap using the Near, Far, and R
 1. More user testing with states, State Officers, & vendors
 2. CSV linked tables/data (integrating back-end outcomes/metrics with front end UI)
 3. Review and Revise the CMS-Required outcomes and metrics wording to ensure they are aligned to "Outcomes Best Practices" in regards to what makes a "good outcome"
+4. Including URL link to the relevant eCFR citation for each outcome
 
 ## Far
 
