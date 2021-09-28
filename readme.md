@@ -14,6 +14,7 @@ The repository is organized by MES business area. Click one of the business area
 
 * [1115 or Waiver Support Systems](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/1115%20or%20Waiver%20Support%20Systems/)
 * [Asset Verification System](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Asset%20Verification%20System)
+* [Claims Processing](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Claims%20Processing)
 * [Decision Support System & Data Warehouse](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Decision%20Support%20System%20%26%20Data%20Warehouse)
 * [Electronic Visit Verification (EVV)](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Electronic%20Visit%20Verification%20(EVV))
 * [Eligibility and Enrollment](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Eligibility%20and%20Enrollment/)
