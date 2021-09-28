@@ -1,6 +1,6 @@
 # MES Certification Repo Roadmap
 
-This page shows the currently planned features and functionality that are in store for this repo. We are expecting constant interation to be continiously delivered, however this roadmap provides a sense of direction and priority.
+This page shows the currently planned features and functionality that are in store for this repo. We are expecting constant iteration to be continuously delivered, however this roadmap provides a sense of direction and priority.
 
 While we continue to work on the items in the roadmap using the Near, Far, and Really Far categorization, [click here to see recent changes (Pull Requests) that we've made to the site.](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/pulls?q=is%3Apr+is%3Aclosed)
 
@@ -22,4 +22,4 @@ While we continue to work on the items in the roadmap using the Near, Far, and R
 ## Really Far
 
 1. Link the outcomes repo to the eAPD to allow for a "shopping cart" like experience for users looking to add outcomes to their eAPD
-2. Use the outcomes repoo to auto-populate the certifiation intake
+2. Use the outcomes repo to auto-populate the certification intake
