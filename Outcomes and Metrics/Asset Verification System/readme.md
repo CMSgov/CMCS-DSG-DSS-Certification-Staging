@@ -22,7 +22,7 @@ As such, for an Asset Verification System to be certified states will need to cr
 
 States requesting enhanced FFP for systems that fulfill *state-specific program needs,* beyond minimum legal requirements and the baseline of the *CMS-required outcomes*, should propose *State-Specific Outcomes* which address the proposed enhancements.
 
-When state-specific outcomes statements, keep [these tips](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/writing-outcome-statemets) in mind. 
+When state-specific outcomes statements, keep [these tips](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/writing-outcome-statements) in mind.  
 
 ### Examples for Asset Verification Systems
 

@@ -1,14 +1,15 @@
 # MES Certification Repo Roadmap
 
-This page shows the currently planned features and functionality that are in store for this repo. We are expecting constant interation to be continiously delivered, however this roadmap provides a sense of direction and priority.
+This page shows the currently planned features and functionality that are in store for this repo. We are expecting constant iteration to be continuously delivered, however this roadmap provides a sense of direction and priority.
 
-While we continue to work on the items in the roadmap using the Near, Far, and Really Far categorization, [click here to see recent changes (commits) that we've made to the repo.](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/commits/main)
+While we continue to work on the items in the roadmap using the Near, Far, and Really Far categorization, [click here to see recent changes (Pull Requests) that we've made to the site.](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/pulls?q=is%3Apr+is%3Aclosed)
 
 ## Near
 
 1. More user testing with states, State Officers, & vendors
 2. CSV linked tables/data (integrating back-end outcomes/metrics with front end UI)
 3. Review and Revise the CMS-Required outcomes and metrics wording to ensure they are aligned to "Outcomes Best Practices" in regards to what makes a "good outcome"
+4. Including URL link to the relevant eCFR citation for each outcome
 
 ## Far
 
@@ -21,4 +22,4 @@ While we continue to work on the items in the roadmap using the Near, Far, and R
 ## Really Far
 
 1. Link the outcomes repo to the eAPD to allow for a "shopping cart" like experience for users looking to add outcomes to their eAPD
-2. Use the outcomes repoo to auto-populate the certifiation intake
+2. Use the outcomes repo to auto-populate the certification intake

@@ -1,20 +1,20 @@
 # Welcome to the CMS Certification Repository
-The CMS Certification Repository is a space for states, CMS, and vendors to learn, share, and contribute information about the MES Certification process and its related artifacts. From this site you can: 
-* Access the latest-and-greatest information about CMS-Required outcomes and recommended metrics
-* Contribute to and view well-defined state-specific outcomes and metrics
+The CMS Certification Repository is a space for states, CMS, and vendors to learn, share, and contribute information about the MES Certification process and its related artifacts. From this site you can access the latest-and-greatest information about CMS-Required outcomes and recommended metrics as well as view CMS approved state-specific outcomes and metrics.
 
-# Recent updates you should know about
+# Recent updates
 This site is intended to be a resource that grows over time. Here are recent updates you may want to know about: 
-* The site was officially shared with states in the Certification Community of Practice on October 12, 2021
+* The site was officially shared with states in the Certification Community of Practice on October 12, 2021.
+* The visual styling for tables was merged to improve the look and feel of the site.
+* All business areas/module pages were updated with CMS-Required Outcomes and recommended Metrics
 
-More details about what we've been up to can be found on the [repo roadmap](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/repo-roadmap). 
-
+See the [repo roadmap](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/wiki/MES-Certification-Repo-Roadmap) for more details on what is coming for this repository. 
 
 # Getting Started
 The repository is organized by MES business area. Click one of the business areas below to see outcomes and metrics for the specific module/business area you are working on:
 
 * [1115 or Waiver Support Systems](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/1115%20or%20Waiver%20Support%20Systems/)
 * [Asset Verification System](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Asset%20Verification%20System)
+* [Claims Processing](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Claims%20Processing)
 * [Decision Support System & Data Warehouse](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Decision%20Support%20System%20%26%20Data%20Warehouse)
 * [Electronic Visit Verification (EVV)](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Electronic%20Visit%20Verification%20(EVV))
 * [Eligibility and Enrollment](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/Outcomes%20and%20Metrics/Eligibility%20and%20Enrollment/)

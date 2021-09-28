@@ -22,7 +22,7 @@ As such, for an 1115 or Waiver Support system to be certified states will need t
 
 States requesting enhanced FFP for systems that fulfill *state-specific program needs,* beyond minimum legal requirements and the baseline of the *CMS-required outcomes*, should propose *State-Specific Outcomes* which address the proposed enhancements.
 
-When state-specific outcomes statements, keep [these tips](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/writing-outcome-statemets) in mind. 
+When state-specific outcomes statements, keep [these tips](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/writing-outcome-statements) in mind. 
 ### Examples for 1115 or Waiver Support Systems
 
 We are actively gathering and evaluating outcomes statements crafted by states for this business area. 

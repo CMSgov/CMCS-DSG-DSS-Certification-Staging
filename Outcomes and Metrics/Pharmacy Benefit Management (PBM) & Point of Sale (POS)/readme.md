@@ -13,7 +13,7 @@
 
 Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-Required Outcomes and Metrics are used to demonstrate that a system is compliant with the applicable federal regulations which pertain to that a specific system or module. CMS-Required outcomes form the baseline for system/module functionality, which must continue to continue to receive enhanced federal funding for operations. 
 
-| **Reference Number** | **Outcome**          | **Recommended Metrics**                                      | **Regulatory Sources**  | **Minimum Reporting Periodicity** |
+| **Reference Number** | &nbsp;&nbsp;&nbsp;&nbsp;**Outcome**&nbsp;&nbsp;&nbsp;&nbsp;          | &nbsp;&nbsp;&nbsp;&nbsp;**Recommended Metrics**&nbsp;&nbsp;&nbsp;&nbsp;                                      | **Regulatory Sources**  | **Minimum Reporting Periodicity** |
 | -------------------- | -------------------- | ------------------------------------------------------------ | :---------------------: | :-------------------------------: |
 | PBM1   | The system adjudicates claims within established time parameters to ensure timely pharmacy claims payments. | - Timely adjudication of pharmacy claims and encounters. <Br> - Percentage of claims paid on time (only if payment is included in RX module) - N/A if payments are issued from the MMIS system. | Section 1927(h) of the SSA <br> 42 CFR 456.722 - POS requirement to support claims adjudication or payment |     Quarterly    |
 | PBM2   | The system adjudicates claims accurately within established parameters. The module can be configured to provide authority/ability to override a reject/edit/denied claim and then resubmit to ensure timely provider claims payments.  | - Accurately identifies enrolled providers. <br> - Pharmacy claims and encounters are priced according to the correct pricing algorithm. | 42 CFR 456.722  |     Quarterly    |
@@ -32,8 +32,7 @@ Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-
 
 States requesting enhanced FFP for systems that fulfill *state-specific program needs,* beyond minimum legal requirements and the baseline of the *CMS-required outcomes*, should propose *State-Specific Outcomes* which address the proposed enhancements.
 
-When state-specific outcomes statements, keep [these tips](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/writing-outcome-statemets) in mind. 
-
+When state-specific outcomes statements, keep [these tips](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/writing-outcome-statements) in mind. 
 ### Examples for Pharmacy Benefit Management
 
 We are actively gathering and evaluating outcomes statements crafted by states for this business area. 
