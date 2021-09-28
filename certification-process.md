@@ -14,7 +14,7 @@ An APD serves as the mechanism by which states obtain Federal support for certai
 ## Certification process 
 Certification is the process by which certain systems are assessed and determined to be either compliant or non-compliant with Federal requirements (CMS-required outcomes) and, when applicable, state requirements (state-specific outcomes). As previously mentioned, program outcomes and associated metrics serve as a way to measure whether or not a project was a success. The inclusion of outcomes and metrics within an APD does not necessarily mean that the proposed project will require certification. However, for those projects that do require certification, the outcomes and metrics identified within the APD help define the scope of the certification under the SMC engagement model. 
 
-Generally, certification must be performed  for systems that replace an existing MES component, new MES components, major modifications/enhancements, system rebuilds, commercial off-the-shelf soltuions and related services supporting certain Medicaid business and system areas. This is a general, non-exhaustive list and states should work with their respective State Officer on the specific details as they relate to a proposed MES project and the need for a certification engagement.
+Generally, certification must be performed  for systems that replace an existing MES component, new MES components, major modifications/enhancements, system rebuilds, commercial off-the-shelf solutions and related services supporting certain Medicaid business and system areas. This is a general, non-exhaustive list and states should work with their respective State Officer on the specific details as they relate to a proposed MES project and the need for a certification engagement.
 
 ## State-specific outcomes 
 States requesting enhanced FFP for systems that fulfill *state-specific program needs,* beyond minimum legal requirements and the baseline of the *CMS-required outcomes*, should propose *State-Specific Outcomes* which address the proposed enhancements.
@@ -36,5 +36,5 @@ The CMS Certification Repository is a space for states, CMS, and vendors to lear
 
 ## From this repo vendors can: 
 - Get direct access to the CMS required outcomes or recommended metrics
-- Share suggestions and feedback to CMS regaurding  outcomes requirements and processes via <MESCertificationRepo@cms.hhs.gov>
+- Share suggestions and feedback to CMS regarding  outcomes requirements and processes via <MESCertificationRepo@cms.hhs.gov>
 
