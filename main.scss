@@ -1,8 +1,16 @@
 ---
 ---
 
+body {
+  margin: 0;
+}
+
 main {
   margin: 2rem 0;
+}
+
+main.ds-l-container {
+  max-width: inherit;
 }
 
 .ds-h1 {
