@@ -25,9 +25,17 @@
 </li>
 {% else %}
 <li class="ds-c-vertical-nav__item">
-  <a class="ds-c-vertical-nav__label" href="{{ item.link | urlencode | prepend: site.baseurl }}">
+  {% if item.link %}
+    <a class="ds-c-vertical-nav__label" href="{{ item.link | urlencode | prepend: site.baseurl }}">
+      {{ item.title }}
+    </a>
+  {% elsif item.url %}
+    <a class="ds-c-vertical-nav__label" href="{{ item.url }}">
+      {{ item.title }}
+    </a>
+  {% else %}
     {{ item.title }}
-  </a>
+  {% endif %}
 </li>
 {% endif %}
 {% endfor %}
