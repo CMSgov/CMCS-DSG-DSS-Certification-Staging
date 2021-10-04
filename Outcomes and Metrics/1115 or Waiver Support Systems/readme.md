@@ -2,7 +2,7 @@
 
 #### How this system supports the Medicaid Program 
 
-[intro text]
+Under a Medicaid waiver, a state can waive certain Medicaid eligibility requirements, covering care for people who might not otherwise be eligible for Medicaid. A waiver support system could be any enhancement to an MES module that helps facilitate changes to the Medicaid program operationalized by an approved waiver. 
 
 <div align="right">
   <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Claims%20Processing/CMS-Required%20%26%20State%20Specific%20Outcomes.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
