@@ -1,7 +1,7 @@
 # Encounter Processing System (EPS) & Managed Care System
 #### How this system supports the Medicaid Program 
 
-[intro text]
+Encounter Processing Systems ingest encounter data (submissions and re-submissions) from MCOs and sends quality transaction feedback back to the plans to ensure appropriate industry standard format. The systems support the tracking of MCO submission requirements and allow the state to enforce consequences for non-compliance. The systems also support payment comparisons and cost of care analysis. 
 
 <div align="right">
   <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Claims%20Processing/CMS-Required%20%26%20State%20Specific%20Outcomes.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
