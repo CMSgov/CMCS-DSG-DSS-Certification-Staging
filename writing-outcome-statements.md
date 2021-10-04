@@ -1,9 +1,42 @@
 # What Makes a Good Outcome Statement?
 
-An Outcome Statement should describe the measurable improvement(s) to a state’s Medicaid program that will be realized once the project is complete. Additionally, Outcomes should support the priorities of the Medicaid program, be directly enabled by the state’s Information Technology project, and should include a Measurement, which utilizes data as evidence that the Outcome(s) are being met on an ongoing basis. The following elements comprise an Outcome Statement:
+To meet the standards of recent CMS guidance, all 90/10 and 75/25 funding requests should include written outcomes statements and metrics. Great examples provide clear answers to the following questions: 
 
-* Module - Functional business area of the Medicaid Enterprise that is being enhanced or replaced.
-* Program Goal - Identifies the benefit to the Medicaid program upon implementation.
-* Outcome Statement - A statement on how the project will measurably benefit the Medicaid program. The Outcome Statement should correlate to the Program Goal.
-* Measurement - A product of a formula that correlates to the Outcome Statement, which reflects whether or not the outcome was realized. 
+## 1. What is the benefit to Medicaid?
+Technology should enable better program outcomes. How does the project align with the goals of the state’s Medicaid program and therefore provide a benefit beyond technical specifics? 
+
+### Questions that may help inlude: 
+- How does this supportthe Medicaid State plan?
+- How does it improve efficiency of the Medicaid State Plan?
+- How does it improve the administration of the Medicaid State plan?
+
+### Examples: 
+- Growing the provider directory
+- Improving care coordination
+
+
+## 2. What are the intended Outcome(s)?
+The Outcome statement is more specific to the project and should describe the desired result once the system or project is implemented.  
+
+### Questions that may help inlude: 
+- What will be better after this project is completed? 
+- How will the project demonstrate added value to operations?
+- How will it leverage the ongoing investment to support operations?
+
+### Examples: 
+- Simplifying the referral process to reduce wait times for follow up appointments
+- Reducing Emergency Room and hospital readmissions by improving care coordination with more timely patient engagement by their community care team
+
+## 3. What Metrics(data) provide evidence that Outcomesare being met?
+Once an Outcome statement is clearly identified, supporting Metrics must be documented toidentify how the intended Outcome will be measured. Metrics aredata evidence that the Outcomesarebeing met on an ongoing basis.  In addition, Metrics enhance transparency/accountability of IT, as well asprovide insight into program evaluation and opportunities for continuous improvement.
+
+### Questions that may help inlude: 
+- What measure(s) would demonstrate whether a system is meeting the Outcome? 
+- What method is used to measure the results?
+- What is the current baseline? 
+
+### Examples: 
+- The number of providers listed in the directory that are searchable either by a structured search or a free text search.
+- The number of Emergency Room and hospital readmissions
+- The timliness of patient engagement by their community care team after discharge 
 
