@@ -1,7 +1,7 @@
 # Asset Verification System 
 #### How this system supports the Medicaid Program 
 
-[intro text]
+Electronic asset verification systems (AVSs) collect information directly from financial institutions to determine whether certain seniors and people with disabilities who are applying for or receiving Medicaid have assets below eligibility caps.
 
 <div align="right">
   <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Claims%20Processing/CMS-Required%20%26%20State%20Specific%20Outcomes.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
