@@ -1,7 +1,7 @@
 # Electronic Visit Verification (EVV)
 #### How this system supports the Medicaid Program 
 
-[intro text]
+EVV is a computer-based system that electronically documents and verifies service delivery information, such as date, time, service type and location, for certain Medicaid service visits that occur in the beneficiary’s home.  
 
 ---
 
