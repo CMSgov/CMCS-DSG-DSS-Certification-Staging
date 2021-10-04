@@ -1,7 +1,7 @@
 # Member Management
 #### How this system supports the Medicaid Program 
 
-[intro text]
+This area includes the function of determining eligibility for Medicaid, along with enrollment of members in their benefit delivery entities and the ongoing management of that member for the duration of their enrollment in Medicaid. Activities associated with Member communications and responding to Member requests are included as well. 
 
 <div align="right">
   <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Claims%20Processing/CMS-Required%20%26%20State%20Specific%20Outcomes.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
