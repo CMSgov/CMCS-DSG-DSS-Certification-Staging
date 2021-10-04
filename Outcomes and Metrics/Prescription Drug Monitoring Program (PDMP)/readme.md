@@ -1,7 +1,7 @@
 # Prescription Drug Monitoring Program (PDMP)
 #### How this system supports the Medicaid Program 
 
-[intro text]
+PDMP systems monitor the use of controlled substances, including prescription drug history, prescription drug usage, and demographic information of prescribing providers. 
 
 <div align="right">
   <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Claims%20Processing/CMS-Required%20%26%20State%20Specific%20Outcomes.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
