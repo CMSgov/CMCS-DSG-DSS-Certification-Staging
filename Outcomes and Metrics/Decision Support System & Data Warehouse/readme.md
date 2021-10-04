@@ -11,10 +11,10 @@ The Decision Support System (DSS) / Data Warehouse (DW) business area covers sof
 
 Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-Required Outcomes and Metrics are used to demonstrate that a system is compliant with the applicable federal regulations which pertain to that a specific system or module. CMS-Required outcomes form the baseline for system/module functionality, which must continue to continue to receive enhanced federal funding for operations. 
 
-| **Reference Number** | &nbsp;&nbsp;&nbsp;&nbsp;**Outcome**&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;**Recommended Metrics**&nbsp;&nbsp;&nbsp;&nbsp; | **Regulatory Sources** | **Minimum Reporting Periodicity** |
-| --- | --- | --- | --- | --- |
-| DSS/DW1 | The system supports various business processes' reporting requirements.  | - Verify and validate the CMS annual report provisions from 431.428 (1) through 431.428 (11) are met annually. | 42 CFR 431.428 | Annually |
-| DSS/DW2              | The solution includes analytical and reporting capabilities to support key policy decision making. | - Produce data-driven reporting on transaction data and performance to meet 433.112 (b) (15). |     42 CFR 433.112     | Annually or Quarterly if possible |
+| **Reference Number** | &nbsp;&nbsp;&nbsp;&nbsp;**Outcome**&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;**Recommended Metrics**&nbsp;&nbsp;&nbsp;&nbsp; | **Regulatory Sources** | 
+| --- | --- | --- | --- | 
+| DSS/DW1 | The system supports various business processes' reporting requirements.  | - Verify and validate the CMS annual report provisions from 431.428 (1) through 431.428 (11) are met annually. | 42 CFR 431.428 | 
+| DSS/DW2              | The solution includes analytical and reporting capabilities to support key policy decision making. | - Produce data-driven reporting on transaction data and performance to meet 433.112 (b) (15). |     42 CFR 433.112     | 
 
 ---
 ## State-Specific Outcomes - CMS Approved
@@ -30,8 +30,8 @@ Please send examples from your state that you'd like to share to <MESCertificati
 
 
 
-| **State**     | Medicaid Program Goal | Outcome Statement | **Metric(s)** | **Periodicity** |
-| ------------- | --------------------- | ----------------- | ------------- | --------------- |
+| **State**     | Medicaid Program Goal | Outcome Statement | **Metric(s)** | 
+| ------------- | --------------------- | ----------------- | ------------- | 
 | MO | &nbsp; | Within 24 months business units use dashboards to manage programs.| Performance will be measured by:<br>- Making dashboards available at a minimum after each financial cycle.   The dashboards availability on the determined time schedule will be monitored.  It is expected 100% of the time the dashboard will be run. Number of times the dashboards have been accessed.<br>- Analysis of requests for changes/enhancements to dashboards using operational modifications.  We will  track the reason for the change and the business units use of the dashboard for program operations.  It is anticipated this will be used for further defining program metrics or a new use of data for program monitoring.<br>- Development of a survey for user satisfaction/adoption/improvements -  (Does your unit have a dashboard?  What do you like about it, what do you wish to change?) | &nbsp; |
 | MO | &nbsp; | Transform MHD from a transactional, request as needed data approach to a business intelligence driven model recognizing and treating data as an asset.| Performance will be measured by:<br>- Conducting an initial data maturity analysis and prioritizing recommendations and review every two (2) years.<br>- Establishing a Data Governance Council who is engaged and meets at a minimum of quarterly and has at least 60% participation as measured by attendence.<br>- Appointing Data Stewards who meet a minimum bi-monthly as measured by meeting schedule and has recommendation for data definitions of at least three (3) per month. | &nbsp; |
 | MO | &nbsp; | The Data Manager will monitor report writing performance and appropriate use of standards and perform analysis for future needs. | Performance will be measured by:<br>-100% of reports are requested through Jira Service Desk within three (3) months of Go-Live of the entire solution.<br>-80% of reports are approved as written in the first review within six (6) months of Go-Live of the entire solution.<br>-Semi-annually management will review administrative dashboards for volume, timeliness, and accuracy.<br>-One (1) addidtional data mart recommended annually. <br>-Twelve additional reports are added to the schedule annually. | &nbsp; |
