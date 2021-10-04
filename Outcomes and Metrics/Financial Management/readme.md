@@ -1,7 +1,7 @@
 # Financial Management
 #### How this system supports the Medicaid Program 
 
-[intro text]
+A system or subsystem that calculates FFS provider payment or recoupment amounts and initiates payment or recoupment action as appropriate. The system should also support appeals, capitation payments, and generates the data for timely and accurate financial reports. 
 
 <div align="right">
   <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Claims%20Processing/CMS-Required%20%26%20State%20Specific%20Outcomes.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
