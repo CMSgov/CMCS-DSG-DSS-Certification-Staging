@@ -1,7 +1,7 @@
 # Eligibility and Enrollment (E&E) 
 #### How this system supports the Medicaid Program 
 
-[intro text]
+A system or subsystem that assigns accurate eligibility categories for all applicable eligibility groups by receiving, ingesting, and processing: Applications, changes of circumstance, renewal forms, and any supporting documentation requested by the state (including telephonic signatures) from individuals. 
 
 <div align="right">
   <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Claims%20Processing/CMS-Required%20%26%20State%20Specific%20Outcomes.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
