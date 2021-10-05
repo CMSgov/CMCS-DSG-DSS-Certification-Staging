@@ -4,7 +4,7 @@
 In some cases, Medicaid beneficiaries may have more than one source of coverage for health care services, such as group health plans, self-insured plans, or managed care organizations. Third Party Liability (TPL) systems identify these situations to ensure that the appropriate party pays for services.  
 
 <div align="right">
-  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Claims%20Processing/CMS-Required%20%26%20State%20Specific%20Outcomes.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
+  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/30-downloadable-spreadsheets/Outcomes%20and%20Metrics/Third%20Party%20Liability%20(TPL)/MES%20Outcomes%20-%20TPL.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
 </div>
 
 ---
