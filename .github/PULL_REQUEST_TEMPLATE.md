@@ -12,4 +12,5 @@ This pull request resolves #
 ### This pull request can be merged when…
 - [ ] The above pull request description is complete
 - [ ] The pull request author has tested the change successfully
+- [ ] The pull request author has assigned a CMS reviewer
 - [ ] The change has been reviewed and approved by CMS

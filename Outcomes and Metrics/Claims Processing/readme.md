@@ -4,7 +4,7 @@
 Claims processing systems cover the ingestion and validation of claims against rules. These systems may also generate reports to support Federal reporting requirements.  
 
 <div align="right">
-  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Claims%20Processing/CMS-Required%20%26%20State%20Specific%20Outcomes.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
+  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/30-downloadable-spreadsheets/Outcomes%20and%20Metrics/Claims%20Processing/MES%20Outcomes%20-%20Claims%20Processing.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
 </div>
 
 ---

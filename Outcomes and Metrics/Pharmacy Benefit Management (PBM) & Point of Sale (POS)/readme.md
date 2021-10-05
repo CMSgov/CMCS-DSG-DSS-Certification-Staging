@@ -4,7 +4,7 @@
 Pharmacy Benefit Management (PBM) systems provide services which may include claims adjudication, rebate administration, utilization monitoring, drug utilization review, and preferred drug list oversight. 
 
 <div align="right">
-  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Claims%20Processing/CMS-Required%20%26%20State%20Specific%20Outcomes.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
+  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/30-downloadable-spreadsheets/Outcomes%20and%20Metrics/Pharmacy%20Benefit%20Management%20(PBM)%20%26%20Point%20of%20Sale%20(POS)/MES%20Outcomes%20-%20PBM.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
 </div>
 
 ---

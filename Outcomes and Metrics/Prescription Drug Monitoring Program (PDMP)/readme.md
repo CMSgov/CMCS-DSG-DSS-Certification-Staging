@@ -4,7 +4,7 @@
 PDMP systems monitor the use of controlled substances, including prescription drug history, prescription drug usage, and demographic information of prescribing providers. 
 
 <div align="right">
-  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Claims%20Processing/CMS-Required%20%26%20State%20Specific%20Outcomes.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
+  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/30-downloadable-spreadsheets/Outcomes%20and%20Metrics/Prescription%20Drug%20Monitoring%20Program%20(PDMP)/MES%20Outcomes%20-%20PDMP.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
 </div>
 
 ---
