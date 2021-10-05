@@ -4,7 +4,7 @@
 Encounter Processing Systems ingest encounter data (submissions and re-submissions) from MCOs and sends quality transaction feedback back to the plans to ensure appropriate industry standard format. The systems support the tracking of MCO submission requirements and allow the state to enforce consequences for non-compliance. The systems also support payment comparisons and cost of care analysis. 
 
 <div align="right">
-  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Claims%20Processing/CMS-Required%20%26%20State%20Specific%20Outcomes.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
+  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/30-downloadable-spreadsheets/Outcomes%20and%20Metrics/Encounter%20Processing%20System%20(EPS)%20%26%20Managed%20Care%20System/MES%20Outcomes%20-%20Encounter%20Processing.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
 </div>
 
 ---
