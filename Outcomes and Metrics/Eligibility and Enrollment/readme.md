@@ -59,7 +59,7 @@ Please send examples from your state that you'd like to share to <MESCertificati
 
 
 
-| **State**     | Medicaid Program Goal | Outcome Statement | **Metric(s)** | **Periodicity** |
-| ------------- | --------------------- | ----------------- | ------------- | --------------- |
-| &nbsp; | &nbsp; | &nbsp;| &nbsp; | &nbsp; |
-| &nbsp; | &nbsp; | &nbsp;| &nbsp; | &nbsp; |
+| **State**     | Medicaid Program Goal | Outcome Statement | **Metric(s)** | 
+| ------------- | --------------------- | ----------------- | ------------- |
+| &nbsp; | &nbsp; | &nbsp;| &nbsp; | 
+| &nbsp; | &nbsp; | &nbsp;| &nbsp; | 
