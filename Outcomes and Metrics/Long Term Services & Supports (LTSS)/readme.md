@@ -4,7 +4,7 @@
 Medicaid is the primary payer across the nation for long-term care services. Medicaid allows for the coverage of these services through several vehicles and over a continuum of settings, ranging from institutional care to community-based long-term services and supports (LTSS). LTSS systems support the management of these services. 
 
 <div align="right">
-  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/NAretakis-Navigation-Flat/Outcomes%20and%20Metrics/Claims%20Processing/CMS-Required%20%26%20State%20Specific%20Outcomes.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
+  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/30-downloadable-spreadsheets/Outcomes%20and%20Metrics/Long%20Term%20Services%20%26%20Supports%20(LTSS)/MES%20Outcomes%20-%20LTSS.xlsx">Click here to download the outcomes in an Excel Workbook</a>  
 </div>
 
 ---
