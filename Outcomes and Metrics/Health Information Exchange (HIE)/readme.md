@@ -13,7 +13,7 @@ A Health Information Exchange allows medical information to be accessed and shar
 
 None. There are no CMS-Required outcomes for HIE.
 
-As such, for an HIE system to be certified states will need to create or reuse State-Specific Outcomes which target state-specific problems and derive Medicaid program benetis.
+As such, for an HIE system to be certified states will need to create or reuse State-Specific Outcomes which target state-specific problems and derive Medicaid program benefits.
 
 ---
 
