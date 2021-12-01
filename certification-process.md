@@ -31,7 +31,7 @@ The CMS Certification Repository is a space for states, CMS, and vendors to lear
 
 ## From this repo CMS will: 
 - Provide publicly available resources to guide states in how to write outcome statements and measure impact
-- Share and updated examples of outcome statements and metrics for use in their APDs and certification documents
+- Share and update examples of outcome statements and metrics for use in their APDs and certification documents
 - Baseline the outcomes and metrics received from states, and compare outcomes and metrics to examples and submissions from other states
 
 ## From this repo vendors can: 
