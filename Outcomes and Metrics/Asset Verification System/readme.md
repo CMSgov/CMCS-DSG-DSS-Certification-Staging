@@ -14,7 +14,7 @@ Electronic asset verification systems (AVSs) collect information directly from f
 
 None. There are no CMS-Required outcomes for an Asset Verification System.
 
-As such, for an Asset Verification System to be certified states will need to create or reuse State-Specific Outcomes which target state-specific problems and derive Medicaid program benetis.
+As such, for an Asset Verification System to be certified states will need to create or reuse State-Specific Outcomes which target state-specific problems and derive Medicaid program benefits.
 
 ---
 
