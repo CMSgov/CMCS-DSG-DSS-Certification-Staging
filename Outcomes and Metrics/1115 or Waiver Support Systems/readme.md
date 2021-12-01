@@ -14,7 +14,7 @@ Under a Medicaid waiver, a state can waive certain Medicaid eligibility requirem
 
 None. There are no CMS-Required outcomes for 1115 or Waiver Support Systems.
 
-As such, for an 1115 or Waiver Support system to be certified states will need to create or reuse State-Specific Outcomes which target state-specific problems and derive Medicaid program benetis.
+As such, for an 1115 or Waiver Support system to be certified states will need to create or reuse State-Specific Outcomes which target state-specific problems and derive Medicaid program benefits.
 
 ---
 
