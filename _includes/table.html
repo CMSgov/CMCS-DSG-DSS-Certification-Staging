@@ -1,0 +1,26 @@
+{% if include.table %}
+
+  {% assign table = include.table | replace: " ", "_" %}
+  <table class="ds-c-table ds-c-table ds-text-body--sm">
+    {% for row in site.data[table] %}
+      {% if forloop.first %}
+        <thead>
+          <tr>
+            {% for pair in row %}
+              <th style="min-width: 12ch">{{ pair[0] }}</th>
+            {% endfor %}
+          </tr>
+        </thead>
+      {% endif %}
+
+      {% tablerow pair in row %}
+        {{ pair[1] | newline_to_br  }}
+      {% endtablerow %}
+      
+    {% else %}
+    Sorry, no table exists named "<b>{{ include.table }}</b>.csv".
+
+    {% endfor %}
+  </table>
+  {% else %}
+{% endif %}
