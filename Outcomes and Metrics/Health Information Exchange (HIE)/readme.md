@@ -23,7 +23,7 @@ As such, for an HIE system to be certified states will need to create or reuse S
 
 States requesting enhanced FFP for systems that fulfill _state-specific program needs,_ beyond minimum legal requirements and the baseline of the _CMS-required outcomes_, should propose _State-Specific Outcomes_ which address the proposed enhancements.
 
-When state-specific outcomes statements, keep [these tips](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/writing-outcome-statements) in mind.
+When state-specific outcomes statements, keep [these tips]({{ site.baseurl }}/writing-outcome-statements) in mind.
 
 ### Examples for Health Information Exchanges
 
