@@ -1,5 +1,5 @@
-{% assign csv1 = "MES Outcomes - CMS-Required PBM" %}
-{% assign csv2 = "MES Outcomes - State-Specific PBM" %}
+{% assign cms = "MES Outcomes - CMS-Required PBM" %}
+{% assign states = "MES Outcomes - State-Specific PBM" %}
 
 # Pharmacy Benefit Management (PBM) & Point of Sale (POS)
 
@@ -8,9 +8,9 @@
 Pharmacy Benefit Management (PBM) systems provide services which may include claims adjudication, rebate administration, utilization monitoring, drug utilization review, and preferred drug list oversight.
 
 <div align="right">
-  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/_data/{{ csv1 }}.csv" target="_blank">Click here to download the CMS-Required outcomes in a CSV file</a>
+  <a href="./{{ cms }}.csv" target="_blank" download>Click here to download the CMS-Required outcomes in a CSV file</a>
   <br>
-  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/_data/{{ csv2 }}.csv" target="_blank">Click here to download the State-Specific outcomes in a CSV file</a>  
+  <a href="./{{ states }}.csv" target="_blank" download>Click here to download the State-Specific outcomes in a CSV file</a>  
 </div>
 
 ---
@@ -19,7 +19,7 @@ Pharmacy Benefit Management (PBM) systems provide services which may include cla
 
 Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-Required Outcomes and Metrics are used to demonstrate that a system is compliant with the applicable federal regulations which pertain to that specific system or module. CMS-Required outcomes form the baseline for system/module functionality, which must continue to receive enhanced federal funding for operations.
 
-{% include table.html table=csv1 %}
+{% include table.html table=cms %}
 
 ---
 
@@ -35,4 +35,4 @@ We are actively gathering and evaluating outcomes statements crafted by states f
 
 Please send examples from your state that you'd like to share to <MESCertificationRepo@cms.hhs.gov>. Our team will collect and share the best examples.
 
-{% include table.html table=csv2 %}
+{% include table.html table=states %}

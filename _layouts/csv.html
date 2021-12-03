@@ -1,0 +1,17 @@
+{% assign filename = page.name | remove: ".csv" | replace: " ", "_" %}
+{%- for row in site.data[filename] -%}
+    {%- if forloop.first -%}
+        {%- for pair in row -%}
+          "{{ pair[0] }}"{%- unless forloop.last %},{% endunless -%}
+          {% if forloop.last %}
+          {% endif %}
+        {%- endfor -%}
+    {%- endif -%}
+{% raw %}
+{% endraw %}
+    {%- for pair in row -%}
+        "{{ pair[1] }}"{%- unless forloop.last %},{% endunless -%}
+        {% if forloop.last %}
+        {% endif %}
+    {%- endfor -%}
+{%- endfor -%}
