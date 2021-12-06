@@ -26,7 +26,10 @@ We are actively gathering and evaluating outcomes statements crafted by states f
 
 Please send examples from your state that you'd like to share to <MESCertificationRepo@cms.hhs.gov>. Our team will collect and share the best examples.
 
-| **State** | Medicaid Program Goal | Outcome Statement | **Metric(s)** |
-| --------- | --------------------- | ----------------- | ------------- |
-| &nbsp;    | &nbsp;                | &nbsp;            | &nbsp;        |
-| &nbsp;    | &nbsp;                | &nbsp;            | &nbsp;        |
+{% assign states = "MES Outcomes - State-Specific Asset Verification System" %}
+
+<!-- <div align="right" class="ds-u-margin-bottom--2">
+  <a href="{{ site.baseurl }}/downloads/{{ states }}.csv" target="_blank" download>Click here to download the State-Specific outcomes in a CSV file</a>
+</div> -->
+
+{% include table.html table=states %}

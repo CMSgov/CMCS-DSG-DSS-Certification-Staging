@@ -1,5 +1,5 @@
-{% assign filename = page.name | remove: ".csv" | replace: " ", "_" %}
-{%- for row in site.data[filename] -%}
+{% assign source = page.source | remove: ".csv" | replace: " ", "_" %}
+{%- for row in site.data[source] -%}
     {%- if forloop.first -%}
         {%- for pair in row -%}
           "{{ pair[0] }}"{%- unless forloop.last %},{% endunless -%}
