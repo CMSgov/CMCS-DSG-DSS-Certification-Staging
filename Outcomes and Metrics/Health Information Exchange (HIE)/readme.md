@@ -1,15 +1,8 @@
-{% assign csv = "MES Outcomes - State-Specific HIE" %}
-
 # Health Information Exchange (HIE)
 
 #### How this system supports the Medicaid Program
 
 A Health Information Exchange allows medical information to be accessed and shared by patients and health care providers, leading to improved coordination of care and better community monitoring.
-
-<div align="right">
-  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/_data/{{ csv }}.csv" target="_blank">Click here to download the outcomes in a CSV file</a>  
-</div>
----
 
 ## CMS-Required Outcomes
 
@@ -33,4 +26,10 @@ Please send examples from your state that you'd like to share to <MESCertificati
 
 ## Include reporting periodicity (default is annual) and data stratificiation blurb
 
-{% include table.html table=csv %}
+{% assign states = "MES Outcomes - State-Specific HIE" %}
+
+<div align="right" class="ds-u-margin-bottom--2">
+  <a href="{{ site.baseurl }}/downloads/{{ states }}.csv" target="_blank" download>Click here to download the State-Specific outcomes in a CSV file</a>  
+</div>
+
+{% include table.html table=states %}

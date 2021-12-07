@@ -1,4 +1,4 @@
-# This config controls the live site. 
+# This config controls the live site.
 
 title: FIXME Site Title
 email: your-email@example.com
@@ -28,3 +28,9 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+defaults:
+  - scope:
+      path: "/Outcomes and Metrics/*/*.csv"
+    values:
+      layout: "csv"

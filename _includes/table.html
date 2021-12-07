@@ -1,7 +1,7 @@
 {% if include.table %}
 
   {% assign table = include.table | replace: " ", "_" %}
-  <table class="ds-c-table ds-c-table ds-text-body--sm">
+  <table class="ds-c-table ds-text-body--sm" style="min-width: 100%;">
     {% for row in site.data[table] %}
       {% if forloop.first %}
         <thead>
@@ -18,9 +18,9 @@
       {% endtablerow %}
       
     {% else %}
-    Sorry, no table exists named "<b>{{ include.table }}</b>.csv".
-
+    Sorry, no table exists named "<b>{{ include.table }}</b>.csv in <code>/_data</code>".
     {% endfor %}
   </table>
   {% else %}
 {% endif %}
+
