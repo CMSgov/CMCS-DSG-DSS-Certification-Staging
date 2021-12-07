@@ -16,7 +16,7 @@
   <ul class="ds-c-vertical-nav__subnav" id="collapsible_for_{{forloop.index}}">
     {% for sub in item.items %}
     <li class="ds-c-vertical-nav__item">
-      <a class="ds-c-vertical-nav__label" href="{{ "/" | append: item.subdir | append: "/" | append: sub.title | prepend: site.baseurl }}">
+      <a class="ds-c-vertical-nav__label" href="/{{ site.github.repository_name }}/{{ item.subdir }}/{{ sub.title | urlencode }}">
         {{ sub.title }}
       </a>
     </li>
@@ -26,7 +26,7 @@
 {% else %}
 <li class="ds-c-vertical-nav__item">
   {% if item.link %}
-    <a class="ds-c-vertical-nav__label" href="{{ item.link | urlencode | prepend: site.baseurl }}">
+    <a class="ds-c-vertical-nav__label" href="/{{ site.github.repository_name }}{{ item.link | urlencode }}">
       {{ item.title }}
     </a>
   {% elsif item.url %}
@@ -39,10 +39,9 @@
 </li>
 {% endif %}
 {% endfor %}
-
 <script
   id="toc-script"
   type="text/javascript"
-  src="{{ "/assets/js/toc-expand-collapse.js" | prepend: site.baseurl }}"
-  data-path="{{ site.baseurl }}"
+  src="{{ "/assets/js/toc-expand-collapse.js" | prepend: site.github.repository_name | prepend: '/' }}"
+  data-path="/{{ site.github.repository_name }}"
 ></script>

@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ "/assets/css/index.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/main.css" | prepend: site.baseurl }}">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/images/favicon-32x32.png" | prepend: site.baseurl }}">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/images/favicon-16x16.png" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/assets/css/index.css" | prepend: site.github.repository_name | prepend: '/'}}">
+    <link rel="stylesheet" href="{{ "/main.css" | prepend: site.github.repository_name | prepend: '/'}}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/images/favicon-32x32.png" | prepend: site.github.repository_name | prepend: '/'}}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/images/favicon-16x16.png" | prepend: site.github.repository_name | prepend: '/'}}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -41,7 +41,7 @@
       </div>
     </main>
     {%include footer.html %}
-    <script src="{{ "/assets/components/index.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/assets/components/index.js" | prepend: site.github.repository_name | prepend: '/'}}"></script>
     <script type="text/javascript">
       (function makeTablesComplyWithDesignSystem() {
         Array.from(document.querySelectorAll("table")).forEach(function(table) {
