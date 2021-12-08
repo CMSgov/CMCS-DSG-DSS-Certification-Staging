@@ -4,7 +4,7 @@
   <button
     class="
       ds-c-vertical-nav__label
-      ds-c-vertical-nav__label--current
+      {% if page.url contains item.subdir %} ds-c-vertical-nav__label--current {% endif %}
       ds-c-vertical-nav__label--parent
     "
     title="Collapse sub-navigation"
@@ -15,8 +15,10 @@
   </button>
   <ul class="ds-c-vertical-nav__subnav" id="collapsible_for_{{forloop.index}}">
     {% for sub in item.items %}
+    {% assign filename =  page.path | remove: item.subdir | remove: "readme.md" | remove: "/" %}
     <li class="ds-c-vertical-nav__item">
-      <a class="ds-c-vertical-nav__label" href="{{ "/" | append: item.subdir | append: "/" | append: sub.title | prepend: site.baseurl }}">
+      <a class="ds-c-vertical-nav__label {% if filename == sub.title  %} ds-c-vertical-nav__label--current {% endif %}" 
+        href="/{{ site.github.repository_name }}/{{ item.subdir }}/{{ sub.title | urlencode }}">
         {{ sub.title }}
       </a>
     </li>
@@ -24,9 +26,15 @@
   </ul>
 </li>
 {% else %}
+{%- assign is_current = false -%}
+{%- assign page_url = page.url | remove: ".html" -%}
+{%- if item.link == page_url -%}
+  {%- assign is_current = true -%}
+{%- endif -%}
 <li class="ds-c-vertical-nav__item">
   {% if item.link %}
-    <a class="ds-c-vertical-nav__label" href="{{ item.link | urlencode | prepend: site.baseurl }}">
+    <a class="ds-c-vertical-nav__label {% if is_current %} ds-c-vertical-nav__label--current {% endif %}" 
+      href="/{{ site.github.repository_name }}{{ item.link | urlencode }}">
       {{ item.title }}
     </a>
   {% elsif item.url %}
@@ -39,10 +47,9 @@
 </li>
 {% endif %}
 {% endfor %}
-
 <script
   id="toc-script"
   type="text/javascript"
-  src="{{ "/assets/js/toc-expand-collapse.js" | prepend: site.baseurl }}"
-  data-path="{{ site.baseurl }}"
+  src="{{ "/assets/js/toc-expand-collapse.js" | prepend: site.github.repository_name | prepend: '/' }}"
+  data-path="/{{ site.github.repository_name }}"
 ></script>
