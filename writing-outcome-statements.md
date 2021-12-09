@@ -1,5 +1,4 @@
-# What Makes a Good Outcome Statement?
-
+# Writing a good outcomes statement
 To meet the standards of recent CMS guidance, all enhanced funding requests should include written outcomes statements and metrics. A great outcome statement should provide clear answers to the following questions: 
 
 ## 1. What is the benefit to Medicaid?
