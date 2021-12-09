@@ -1,0 +1,6 @@
+---
+# Make sure this source matches a source file in /_data exactly.
+source: "MES Outcomes - State-Specific HIE.csv"
+permalink: "/downloads/MES Outcomes - State-Specific HIE.csv"
+---
+Do not include anything below this line. This placeholder file instructs the site to generate a CSV in this location.

@@ -1,14 +1,8 @@
-{% assign csv = "MES Outcomes - Provider Management" %}
-
 # Provider Management
 
 #### How this system supports the Medicaid Program
 
 Provider management module includes processes (initial and ongoing) to screen and enroll providers into Medicaid, as well as to keep provider information current and to provide data to authorized requesters. Provider outreach and communications, as well as responding to provider requests and issues, are included.
-
-<div align="right">
-  <a href="https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/_data/{{ csv }}.csv" target="_blank">Click here to download the outcomes in a CSV file</a>  
-</div>
 
 ---
 
@@ -16,7 +10,13 @@ Provider management module includes processes (initial and ongoing) to screen an
 
 Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-Required Outcomes and Metrics are used to demonstrate that a system is compliant with the applicable federal regulations which pertain to that specific system or module. CMS-Required outcomes form the baseline for system/module functionality, which must continue to receive enhanced federal funding for operations.
 
-{% include table.html table=csv %}
+{% assign cms = "MES Outcomes - CMS-Required Provider Management" %}
+
+<div align="right" class="ds-u-margin-bottom--2">
+  <a href="{{ site.baseurl }}/downloads/{{ cms }}.csv" target="_blank" download>Click here to download the CMS-Required outcomes in a CSV file</a> 
+</div>
+
+{% include table.html table=cms %}
 
 ---
 
@@ -32,7 +32,10 @@ We are actively gathering and evaluating outcomes statements crafted by states f
 
 Please send examples from your state that you'd like to share to <MESCertificationRepo@cms.hhs.gov>. Our team will collect and share the best examples.
 
-| **State** | Medicaid Program Goal | Outcome Statement | **Metric(s)** |
-| --------- | --------------------- | ----------------- | ------------- |
-| &nbsp;    | &nbsp;                | &nbsp;            | &nbsp;        |
-| &nbsp;    | &nbsp;                | &nbsp;            | &nbsp;        |
+{% assign states = "MES Outcomes - State-Specific Provider Management" %}
+
+<div align="right" class="ds-u-margin-bottom--2">
+  <a href="{{ site.baseurl }}/downloads/{{ states }}.csv" target="_blank" download>Click here to download the State-Specific outcomes in a CSV file</a>  
+</div>
+
+{% include table.html table=states %}

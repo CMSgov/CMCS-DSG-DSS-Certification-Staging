@@ -1,10 +1,11 @@
-# This config controls the live site. 
+# This config controls the live site.
 
-title: FIXME Site Title
+title: "CMCS-DSG-DSS-Certification"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  FIXME Project Description
-baseurl: "/CMCS-DSG-DSS-Certification"
+  Welcome to the MES Certification Repository, a collaborative community for CMS, states, and vendors.
+# this should page the repository name, available at site.github.repository_name, with a prepended slash
+baseurl: "/CMCS-DSG-DSS-Certification-Staging"
 url: ""
 # twitter_username: jekyllrb
 # github_username:  jekyll
@@ -28,3 +29,13 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+defaults:
+  - scope:
+      path: "/Outcomes and Metrics/*/*.csv"
+    values:
+      layout: "csv"
+
+titles_from_headings:
+  enabled: true
+  strip_title: true
