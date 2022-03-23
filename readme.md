@@ -14,6 +14,14 @@ See the [repo roadmap](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Stag
 
 ## Getting Started
 
+### Intake Form
+
+The Intake Form Template is used throughout the Streamlined Modular Certification process to track information about a state MES project for certification. It is tailored for each state project. States will fill out the Intake Form Template by entering the CMS-required outcomes that document compliance with regulations applicable to their project, their state-specific outcomes, and the metrics used to show that the project is achieving its outcomes on a continuous basis.
+
+[Download the Intake Form](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/intake-form/Appendix%20E%20Intake%20Form%20Template.xlsx)
+
+### Outcomes and Metrics
+
 The repository is organized by MES business area. Click one of the business areas below to see outcomes and metrics for the specific module/business area you are working on:
 
 - [1115 or Waiver Support Systems](https://cmsgov.github.io/CMCS-DSG-DSS-Certification-Staging/Outcomes%20and%20Metrics/1115%20or%20Waiver%20Support%20Systems/)
