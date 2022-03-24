@@ -10,6 +10,8 @@ This site is intended to be a resource that grows over time. Here are recent upd
 - The visual styling for tables was merged to improve the look and feel of the site.
 - All business areas/module pages were updated with CMS-Required Outcomes and recommended Metrics
 
+[Click here to see the details for all changes to the site](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/pulls?q=is%3Apr+is%3Aclosed)
+
 ## Getting Started
 
 ### Intake Form
