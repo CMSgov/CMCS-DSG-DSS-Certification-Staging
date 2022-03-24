@@ -10,8 +10,6 @@ This site is intended to be a resource that grows over time. Here are recent upd
 - The visual styling for tables was merged to improve the look and feel of the site.
 - All business areas/module pages were updated with CMS-Required Outcomes and recommended Metrics
 
-See the [repo roadmap](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/wiki/MES-Certification-Repo-Roadmap) for more details on what is coming for this repository.
-
 ## Getting Started
 
 ### Intake Form
