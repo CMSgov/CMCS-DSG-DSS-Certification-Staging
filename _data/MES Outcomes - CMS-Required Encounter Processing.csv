@@ -1,18 +1,19 @@
 Reference #,CMS Required Outcomes,Recommended Metrics,Regulatory Sources
-EPS1,"The system ingests encounter data (submissions and re-submissions) from MCOs and sends quality transaction feedback back to the plans to ensure appropriate industry standard format. (Quality transaction checks include, but are not limited to: completeness, missing information, formatting, and the TR3 implementation guide business rules validations).", - Percentage of timely encounter submissions from MCOs.,42 CFR 438.242
-EPS2,"The system ingests encounter data (submissions and re-submissions) from managed care entities in compliance with HIPAA security and privacy standards and performing quality checks for completeness and accuracy before submitting to CMS using standardized formatting, such as ASC X12N 837, NCPDP and the ASC X12N 835, as appropriate. (Quality checks include, but are not limited to completeness, character types, missing information, formatting, duplicates, and business rules validations, such as payment to dis-enrolled providers, etc.).", - Percentage state receives timely encounter re-submissions from MCOs.,"42 CFR 438.604, 438.818, and 438.242 "
-EPS3,"The state includes submission requirements (timeliness, re-submissions, etc.), definitions, data specifications and standards, and consequences for non-compliance in its managed care contracts. The state enforces consequences for non-compliance. "," - This is a state specific requirement, for the most part, states have encounters submission/re-submission processes based on 30/60/90/180 days and 365 days.  ",42 CFR Part 438.3
-EPS4,The state uses encounter data to calculate capitation rates and performs payment comparisons with FFS claims data.," - State can validate that solution supports capability to set and edit capitation targets – Pass/Fail
- - State can validate that solution supports the capability to flag cases where MCO payments exceed FFS upper limit – Pass/Fail",42 CFR Part 438
+EPS1,"The system ingests encounter data (submissions and re-submissions) from MCOs and sends quality transaction feedback back to the plans to ensure appropriate industry standard format. (Quality transaction checks include, but are not limited to: completeness, missing information, formatting, and the TR3 implementation guide business rules validations).",- Percentage of timely encounter submissions from MCOs. ,42 CFR 438.242
+EPS2,"The system ingests encounter data (submissions and re-submissions) from managed care entities in compliance with HIPAA security and privacy standards and performing quality checks for completeness and accuracy before submitting to CMS using standardized formatting, such as ASC X12N 837, NCPDP and the ASC X12N 835, as appropriate. (Quality checks include, but are not limited to completeness, character types, missing information, formatting, duplicates, and business rules validations, such as payment to dis-enrolled providers, etc.).",- Percentage state receives timely encounter re-submissions from MCOs. ,"42 CFR 438.604, 438.818, and 438.242 "
+EPS3,"The state includes submission requirements (timeliness, re-submissions, etc.), definitions, data specifications and standards, and consequences for non-compliance in its managed care contracts. The state enforces consequences for non-compliance. ","- This is a state specific requirement, for the most part, states have encounters submission/re-submission processes based on 30/60/90/180 days and 365 days.  ",42 CFR Part 438.3
+EPS4,The state uses encounter data to calculate capitation rates and performs payment comparisons with FFS claims data.,"- State can validate that solution supports capability to set and edit capitation targets – Pass/Fail
+
+- State can validate that solution supports the capability to flag cases where MCO payments exceed FFS upper limit – Pass/Fail",42 CFR Part 438
 EPS5,"The state complies with federal reporting requirements. These include but are not necessarily limited to:
 - T-MSIS (Transformed Medicaid Statistical Information System)
 - CMS 416 (EPSDT)
 - CHIPRA core set quality measures - Medi-Medi, 1115 evaluation, and
-- CMMI demonstration evaluation reports."," - SMA submits federal reports in a timely, and agreed upon, manner – Pass/Fail
- - Reports are those currently required by applicable federal regulations, state plans, waivers etc. This include, but are not limited to: 
- - T-MSIS (monthly)         
- - CMS 416 (monthly)      
- - CHIPRA core set (quarterly)          
- - CMS 37 (biannually)    
- - CMS 372 (semi-annually)  
- - CMS 64 (quarterly)","42 CFR 438.818, 438.242"
+- CMMI demonstration evaluation reports.","- SMA submits federal reports in a timely, and agreed upon, manner – Pass/Fail
+- Reports are those currently required by applicable federal regulations, state plans, waivers etc. This include, but are not limited to: 
+- T-MSIS (monthly)         
+- CMS 416 (monthly)      
+- CHIPRA core set (quarterly)          
+- CMS 37 (biannually)    
+- CMS 372 (semi-annually)  
+- CMS 64 (quarterly)                                                ","42 CFR 438.818, 438.242"
