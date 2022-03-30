@@ -26,6 +26,6 @@ The Intake Form Template is used throughout the Streamlined Modular Certificatio
 The Outcomes and Metrics in this repository is organized by MES business areas on the left. Certification is still required if your project does not neatly fall into one of the business areas. You may still find relevant outcomes and metrics examples across other business areas. As needed, work with your state team and State Officer to create state-specific outcomes statements.
 
 ## Contributing
-The MES team will be iterating on the site over time and would love to know how it can be improved. We are also actively gathering and evaluating outcomes statements crafted by states across all business areas. If you are interested in sharing examples to be hosted on this site, send them to: MESCertificationRepo@cms.hhs.gov. 
+The MES team will be iterating on the site over time and would love to know how it can be improved. We are also actively gathering and evaluating outcomes statements crafted by states across all business areas. If you are interested in sharing examples to be hosted on this site, send them to: <MESCertificationRepo@cms.hhs.gov>. 
 
-If you have any other feedback or suggestions please email them to MESCertificationRepo@cms.hhs.gov and our team will get back to you.
+If you have any other feedback or suggestions please email them to <MESCertificationRepo@cms.hhs.gov> and our team will get back to you.
