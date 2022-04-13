@@ -25,11 +25,9 @@ The template here contains CMS-required E&E outcomes as an example of how conten
 
 ### Other Resources
 
-Example Metrics Template - An example template states may use for submitting metrics data
-
-Example Certification Request Letter Template - An example template of the Certification Request Letter 
-
-Example Monthly Project Status Reporting Template - An example template states may use to submit the required monthly status reports
+- Example Metrics Template - An example template states may use for submitting metrics data
+- Example Certification Request Letter Template - An example template of the Certification Request Letter 
+- Example Monthly Project Status Reporting Template - An example template states may use to submit the required monthly status reports
 
 ### Outcomes and Metrics
 
