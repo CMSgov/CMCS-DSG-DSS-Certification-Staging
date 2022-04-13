@@ -23,7 +23,7 @@ The template here contains CMS-required E&E outcomes as an example of how conten
 
 [Download the Intake Form](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/intake-form/Appendix%20E%20Intake%20Form%20Template.xlsx)
 
-### Other Resources
+### Example Templates
 
 - [Example Metrics Template](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/raw/SMC-Artifacts/Metric%20report%20example%20template.xlsx) - An example template states may use for submitting metrics data
 - Example Certification Request Letter Template - An example template of the Certification Request Letter 
