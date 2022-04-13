@@ -17,9 +17,19 @@ This site is intended to be a resource that grows over time. Here are recent upd
 
 ### Intake Form
 
-The Intake Form Template is used throughout the Streamlined Modular Certification process to track information about a state MES project for certification. It is tailored for each state project. States will fill out the Intake Form Template by entering the CMS-required outcomes that document compliance with regulations applicable to their project, their state-specific outcomes, and the metrics used to show that the project is achieving its outcomes on a continuous basis.
+The Intake Form Template is used throughout the Streamlined Modular Certification process to track information about a state MES project for certification. It is tailored for each state project. States will fill out the Intake Form Template by entering the CMS-required outcomes that document compliance with regulations applicable to their project, their state-specific outcomes, and the metrics used to show that the project is achieving its outcomes on a continuous basis. 
+
+The template contains CMS-required E&E outcomes as an example of how content should appear in the Intake Form.
 
 [Download the Intake Form](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/intake-form/Appendix%20E%20Intake%20Form%20Template.xlsx)
+
+### Other Resources
+
+Example Metrics Template - An example template states may use for submitting metrics data
+
+Example Certification Request Letter Template - An example tenplate of the Certification Request Letter required artifact
+
+Example Monthly Project Reporting Template - An example template states may use to submit monthly status required artifacts
 
 ### Outcomes and Metrics
 
