@@ -27,9 +27,9 @@ The template contains CMS-required E&E outcomes as an example of how content sho
 
 Example Metrics Template - An example template states may use for submitting metrics data
 
-Example Certification Request Letter Template - An example tenplate of the Certification Request Letter required artifact
+Example Certification Request Letter Template - An example template of the Certification Request Letter required artifact
 
-Example Monthly Project Reporting Template - An example template states may use to submit monthly status required artifacts
+Example Monthly Project Status Reporting Template - An example template states may use to submit monthly status required artifacts
 
 ### Outcomes and Metrics
 
