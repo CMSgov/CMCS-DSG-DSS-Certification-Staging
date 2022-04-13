@@ -25,7 +25,7 @@ The template here contains CMS-required E&E outcomes as an example of how conten
 
 ### Other Resources
 
-- Example Metrics Template - An example template states may use for submitting metrics data
+- [Example Metrics Template](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/raw/SMC-Artifacts/Metric%20report%20example%20template.xlsx) - An example template states may use for submitting metrics data
 - Example Certification Request Letter Template - An example template of the Certification Request Letter 
 - [Example Monthly Project Status Reporting Template](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/raw/SMC-Artifacts/Streamlined%20Modular%20Certification%20Required%20Monthly%20Project%20Status%20Report%20Example%20Template.docx) - An example template states may use to submit the required monthly status reports
 
