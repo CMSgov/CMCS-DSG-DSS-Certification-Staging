@@ -2,16 +2,15 @@
 
 The CMS Certification Repository is a space for states, CMS, and vendors to learn, share, and contribute information about the MES Certification process and its related artifacts. From this site you can access the latest-and-greatest information about CMS-Required outcomes and recommended metrics as well as view CMS approved state-specific outcomes and metrics.
 
-## Recent updates
+## Recent Updates
 
-This site is intended to be a resource that grows over time. Here are recent updates you may want to know about:
+This site is intended to be a resource that grows over time, with quarterly major releases as needed (4 per year). We are using a standard semantic release versioning of **MAJOR.MINOR.PATCH**, which will follow this format:
 
-- UI bugfixes were implemented and we fixed several bugs when users tried to download CMS-Required CSVs
-- All business areas/module pages were updated with CMS-Required Outcomes and recommended Metrics
-- The visual styling for tables was merged to improve the look and feel of the site.
-- The site was officially shared with states in the Certification Community of Practice on October 12, 2021.
+- **MAJOR** version release when CMS makes significant changes such as: Adding new outcomes, rewriting existing outcomes, and adding/editing metrics, required docs, or processes.
+- **MINOR** version release when CMS adds functionality to the site or contextual clarifications, but are not substantially changing any core content.
+- **PATCH** version release when CMS makes minor edits such as: typo correction, bug fixes, and other minor (non-substantial) edits.
 
-[Click here to see the details for all recent changes to the site](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/pulls?q=is%3Apr+is%3Aclosed)
+[Click here to see the latest release notes for the site](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/releases)
 
 ## Getting Started
 
