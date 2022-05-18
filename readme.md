@@ -32,6 +32,10 @@ This site is intended to be a resource that grows over time, with quarterly majo
 
 [Click here to see the latest release notes for the site](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/releases)
 
+If you would like to sign up for notifications of releases and changes to the site, please copy and paste our GitHub repo `https://github.com/CMSgov/CMCS-DSG-DSS-Certification` and use https://newreleases.io/ to be notified of new releases:
+
+![releasenotification](https://user-images.githubusercontent.com/34281281/169134714-cfe37ea4-0d30-428a-91cf-3cd6dfc11ab4.gif)
+
 ## Contributing
 The MES team will be iterating on the site over time and would love to know how it can be improved. We are also actively gathering and evaluating outcomes statements crafted by states across all business areas. If you are interested in sharing examples to be hosted on this site, send them to: <MESCertificationRepo@cms.hhs.gov>. 
 
