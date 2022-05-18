@@ -33,8 +33,8 @@ This site is intended to be a resource that grows over time, with quarterly majo
 [Click here to see the latest release notes for the site](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/releases)
 
 If you would like to sign up for email notifications for changes to the site:
-1. Copy and paste our GitHub repo URL **`https://github.com/CMSgov/CMCS-DSG-DSS-Certification`** 
-2. Create an account on [newreleases.io](https://newreleases.io/)
+1. Copy and paste our GitHub repo URL: **`https://github.com/CMSgov/CMCS-DSG-DSS-Certification`** 
+2. Create an account on: [newreleases.io](https://newreleases.io/)
 3. After creating your account, paste our gitHub repo URL into the _Project Name_ field to setup the notification.
 
 ![releasenotification](https://user-images.githubusercontent.com/34281281/169134714-cfe37ea4-0d30-428a-91cf-3cd6dfc11ab4.gif)
