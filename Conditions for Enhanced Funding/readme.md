@@ -3,7 +3,16 @@
 ## Overview
 Regulatory requirements that span business areas, previously called “enterprise,” are now Conditions for Enhanced Funding (CEF) and mirror the “Standards and Conditions” in regulation. Under SMC, CMS significantly reduced number of requirements from 5 core MECT checklists to 22 conditions. 
 
-States must attest that the system complies with all the CEF outlined at 42 CFR 433.112 **(add link)** and that the system remains in compliance with Medicaid program standards, laws, regulations, and industry best practices once it is in production.
+States must attest that the system complies with all the CEF outlined at [42 CFR 433.112](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.112) and that the system remains in compliance with Medicaid program standards, laws, regulations, and industry best practices once it is in production.
+
+## Conditions for Enhanced Funding
+The information in the following table contains the Conditions for Enhanced Funding (CEF) described in 42 C.F.R. § 433.112 that are applicable for all MES modules.
+
+This table, combined with the applicable business area outcomes, are a starting point for aligning the state’s goals for a project with applicable CMS-required outcomes.
+
+**download link goes here**
+
+**table of CEFs goes here** 
 
 ## Tips & Best Practices
 
@@ -34,8 +43,8 @@ States must attest that the system complies with all the CEF outlined at 42 CFR 
 -	States can hold a tabletop BCP/DR test to meet this provision.  However, states should plan for the real live BCP/DR testing to ensure their contractors can meet the state’s defined Recovery Time Objective and Recovery Point Objective. 
 
 ### ConOps
--	A Concept of Operations (ConOps) is a user-oriented document that “describes systems characteristics for a proposed system from a user's perspective. A CONOPS also describes the user organization, mission, and objectives from an integrated systems point of view and is used to communicate overall quantitative and qualitative system characteristics to stakeholders." **(add footnote)**
--	A ConOps "describes the proposed system in terms of the user needs it will fulfill, its relationship to existing systems or procedures, and the ways it will be used. CONOPS can be tailored for many purposes, for example, to obtain consensus among the acquirer, developers, supporters, and user agencies on the operational concept of a proposed system. Additionally, a CONOPS may focus on communicating the user's needs to the developer or the developer's ideas to the user and other interested parties." **(add footnote)**
+-	A Concept of Operations (ConOps) is a user-oriented document that “describes systems characteristics for a proposed system from a user's perspective. A CONOPS also describes the user organization, mission, and objectives from an integrated systems point of view and is used to communicate overall quantitative and qualitative system characteristics to stakeholders."[^1]
+-	A ConOps "describes the proposed system in terms of the user needs it will fulfill, its relationship to existing systems or procedures, and the ways it will be used. CONOPS can be tailored for many purposes, for example, to obtain consensus among the acquirer, developers, supporters, and user agencies on the operational concept of a proposed system. Additionally, a CONOPS may focus on communicating the user's needs to the developer or the developer's ideas to the user and other interested parties."[^2]
 
 ### Security & Privacy
 -	Internal security and privacy personnel that is not part of the original MES DDI team can be the independent assessor to evaluate the security and privacy risk posture of the MES module.
@@ -45,23 +54,16 @@ States must attest that the system complies with all the CEF outlined at 42 CFR 
 -	Typically, SSAE Type 2 SOC-1 or SOC-2 are not comprehensive enough to demonstrate the security and privacy risk posture for the MES environment, but states have the authority to make an informed risk tolerance decision to leverage these reports.  Please ensure the proper scoping of these complementary assessment frameworks is providing sufficient assessment boundary to cover the MES IT environment.
 
 ## Additional Resources
--	SMC SMDL Guidance Document **(add link)**
--	MES Testing Guidance Framework **(add link)**
--	508 Compliance 
-- -	https://www.section508.gov/test
-- -	https://accessibility.18f.gov
--	Address Gaps in Cybersecurity:  HHS OCR releases crosswalk between HIPAA Security Rule and NIST Cybersecurity Framework and NIST SP 800-53 controls. **(add link)** 
-
-## Conditions for Enhanced Funding
-The information in the following table contains the Conditions for Enhanced Funding (CEF) described in 42 C.F.R. § 433.112 that are applicable for all MES modules.
-
-This table, combined with the applicable business area outcomes, are a starting point for aligning the state’s goals for a project with applicable CMS-required outcomes.
-
-**download link goes here**
-
-**table of CEFs goes here** 
+-	[SMC SMDL Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
+-	[MES Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf)
+-	[Section 508 Guidance](https://www.section508.gov/test)
+-	[Accessibility Guidance](https://accessibility.18f.gov)
+-	[Address Gaps in Cybersecurity:  HHS OCR releases crosswalk between HIPAA Security Rule and NIST Cybersecurity Framework and NIST SP 800-53 controls](https://www.hhs.gov/sites/default/files/nist-csf-to-hipaa-security-rule-crosswalk-02-22-2016-final.pdf)
 
 ## References
--	42 C.F.R. § 433.112 **(add link)**
--	45 C.F.R. § 95.621 **(add link)**
--	Medicaid.gov SMC Site **(add link)**
+-	[42 C.F.R. § 433.112](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.112) 
+-	[45 C.F.R. § 95.621](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-95/subpart-F/subject-group-ECFR8ea7e78ba47a262/section-95.621)
+-	[Medicaid.gov SMC Site](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html)
+
+[^1]: IEEE Computer Society, March 19, 1998, IEEE Guide for Information Technology—System Definition—Concept of Operations (ConOps) Document (IEEE Std 1362-1998).
+[^2]: Office of Management and Budget, December 5, 1994, Operational Concept Description (OCD), Data Item Description DI-IPSC-81430.
