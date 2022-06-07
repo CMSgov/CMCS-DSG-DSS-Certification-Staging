@@ -24,8 +24,6 @@ We are actively gathering and evaluating outcomes statements crafted by states f
 
 Please send examples from your state that you'd like to share to <MESCertificationRepo@cms.hhs.gov>. Our team will collect and share the best examples.
 
-## Include reporting periodicity (default is annual) and data stratificiation blurb
-
 {% assign states = "MES Outcomes - State-Specific HIE" %}
 
 <div align="right" class="ds-u-margin-bottom--2">
