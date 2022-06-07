@@ -1,1 +1,27 @@
+# Program Integrity (PI)
+
+#### How this system supports the Medicaid Program
+
+PI systems monitor for waste, fraud, and abuse, to ensure Medicaid funds are distributed properly and accurately.
+
+---
+
+## CMS-Required Outcomes
+
+Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-Required Outcomes and Metrics are used to demonstrate that a system is compliant with the applicable federal regulations which pertain to that specific system or module. CMS-Required outcomes form the baseline for system/module functionality, which must continue to receive enhanced federal funding for operations.
+
+
+---
+
+## State-Specific Outcomes - CMS Approved
+
+States requesting enhanced FFP for systems that fulfill _state-specific program needs,_ beyond minimum legal requirements and the baseline of the _CMS-required outcomes_, should propose _State-Specific Outcomes_ which address the proposed enhancements.
+
+When drafting state-specific outcomes statements, keep [these tips]({{ site.baseurl }}/writing-outcome-statements) in mind.
+
+### Examples for Prescription Drug Monitoring Programs
+
+We are actively gathering and evaluating outcomes statements crafted by states for this business area.
+
+Please send examples from your state that you'd like to share to <MESCertificationRepo@cms.hhs.gov>. Our team will collect and share the best examples.
 
