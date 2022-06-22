@@ -26,8 +26,8 @@ toc:
     link: /certification-process
   - title: Writing a good outcome statement
     link: /writing-outcome-statements
-  - title: Conditions for Enhanced Funding
-    link: /Conditions for Enhanced Funding/readme.md
+  - subdir: Conditions for Enhanced Funding
+    title: Conditions for Enhanced Funding
   - title: Roadmap
     url: "https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/wiki/MES-Certification-Repo-Roadmap"
     external: true
