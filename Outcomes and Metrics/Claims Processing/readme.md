@@ -10,7 +10,7 @@ Claims processing systems cover the ingestion and validation of claims against r
 
 Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-Required Outcomes and Metrics are used to demonstrate that a system is compliant with the applicable federal regulations which pertain to that specific system or module. CMS-Required outcomes form the baseline for system/module functionality, which must continue to receive enhanced federal funding for operations.
 
-{% assign cms = "CEFs" %}
+{% assign cms = "MES Outcomes - CMS-Required Claims Processing" %}
 
 <div align="right" class="ds-u-margin-bottom--2">
   <a href="{{ site.baseurl }}/downloads/{{ cms }}.csv" target="_blank" download>Click here to download the CMS-Required outcomes in a CSV file</a>
