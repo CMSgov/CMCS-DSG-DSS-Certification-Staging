@@ -10,7 +10,7 @@ The information in the following table contains the Conditions for Enhanced Fund
 
 This table, combined with the applicable business area outcomes, are a starting point for aligning the state’s goals for a project with applicable CMS-required outcomes.
 
-{% assign cms = "MES Outcomes - CMS-Required Claims Processing" %}
+{% assign cms = "CEFs" %}
 
 <div align="right" class="ds-u-margin-bottom--2">
   <a href="{{ site.baseurl }}/downloads/{{ cms }}.csv" target="_blank" download>Click here to download the Conditions for Enhanced Funding in a CSV file</a>
