@@ -10,9 +10,13 @@ The information in the following table contains the Conditions for Enhanced Fund
 
 This table, combined with the applicable business area outcomes, are a starting point for aligning the state’s goals for a project with applicable CMS-required outcomes.
 
-**download link goes here**
+{% assign cms = "CEFs" %}
 
-**table of CEFs goes here** 
+<div align="right" class="ds-u-margin-bottom--2">
+  <a href="{{ site.baseurl }}/downloads/{{ cms }}.csv" target="_blank" download>Click here to download the Conditions for Enhanced Funding in a CSV file</a>
+</div>
+
+{% include table.html table=cms %}
 
 ## Tips & Best Practices
 
