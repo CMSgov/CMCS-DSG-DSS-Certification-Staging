@@ -13,7 +13,7 @@ This table, combined with the applicable business area outcomes, are a starting 
 {% assign cms = "CEFs" %}
 
 <div align="right" class="ds-u-margin-bottom--2">
-  <a href="https://raw.githubusercontent.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/CEF/_data/CEFs.csv" target="_blank" download>Click here to download the Conditions for Enhanced Funding in a CSV file</a>
+  <a href="{{ site.baseurl }}/downloads/{{ cms }}.csv" target="_blank" download>Click here to download the Conditions for Enhanced Funding in a CSV file</a>
 </div>
 
 {% include table.html table=cms %}
