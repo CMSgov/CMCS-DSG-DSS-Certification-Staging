@@ -35,7 +35,11 @@ defaults:
       path: "/Outcomes and Metrics/*/*.csv"
     values:
       layout: "csv"
-
+  - scope:
+      path: "/Conditions of Enhanced Funding/*/*.csv"
+    values:
+      layout: "csv"
+      
 titles_from_headings:
   enabled: true
   strip_title: true
