@@ -1,43 +1,43 @@
-﻿Reference #,Outcome,Source(s),Metric(s) Example
-CP2 ,"The system performs comprehensive validation of claims and claims adjustments, including validity of services. ","42 C.F.R. 431.052
+Reference #,CMS Required Outcomes,Recommended Metrics,Regulatory Source(s)
+CP2,"The system performs comprehensive validation of claims and claims adjustments, including validity of services. ","Count or percentage of claims, claims adjustments,  accepted claims, suspended claims, rejected claims;","42 C.F.R. 431.052
 42 C.F.R. 431.055
 42 C.F.R. 447.26
 42 C.F.R. 447.45(f)
 45 C.F.R. 162.1002
 SMD Letter 10-017
-SMM Part 11 Section 11300","Count or percentage of claims, claims adjustments,  accepted claims, suspended claims, rejected claims;"
-FM5 ,The system accurately tallies recoupments by tracking repayments and amounts outstanding for individual transactions and in aggregate for a provider.,42 C.F.R. 447,"Repayment aging report showing counts/aggregate received/outstanding 60 days or less, >60 days, and any additional periods useful for State management of receivables."
-PBM9,"The system supports the identification of patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, or prescribing or billing practices indicating abuse or excessive utilization among physicians, pharmacists and individuals receiving benefits by enabling the collection of pharmacy data to be used in retrospective drug utilization reviews.","42 C.F.R. 456.703, 456.705(b), 456.709 
-Section 1927 (g) of the SSA",Provide a sample report of post-production operational measures that calculate the average cost avoidance per claim
+SMM Part 11 Section 11300"
+FM5,The system accurately tallies recoupments by tracking repayments and amounts outstanding for individual transactions and in aggregate for a provider.,"Repayment aging report showing counts/aggregate received/outstanding 60 days or less, >60 days, and any additional periods useful for State management of receivables.",42 C.F.R. 447
+PBM9,"The system supports the identification of patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, or prescribing or billing practices indicating abuse or excessive utilization among physicians, pharmacists and individuals receiving benefits by enabling the collection of pharmacy data to be used in retrospective drug utilization reviews.",Provide a sample report of post-production operational measures that calculate the average cost avoidance per claim,"42 C.F.R. 456.703, 456.705(b), 456.709 
+Section 1927 (g) of the SSA"
 PI1,"System can check member record to ensure the member on the claim was enrolled in the Medicaid program and the benefit was covered at the time of service. Membership enrollment records the system is checking against are updated daily.
 
-*Applicable to CP",42 C.F.R. 455.1(a),Count of claims with a non-member/total claims submitted (Target=0%)
+*Applicable to CP",Count of claims with a non-member/total claims submitted (Target=0%),42 C.F.R. 455.1(a)
 PI2,"System provides a method for identifying suspected inappropriate services and incorrect billing. 
 
-*Applicable to CP, E&E, MM",42 C.F.R. 455.13,"Count of algorithms initiated/count state-specified target number of algorithms
+*Applicable to CP, E&E, MM","Count of algorithms initiated/count state-specified target number of algorithms
 
-Number of new algorithms initiated annually (possibly 2 or 3 new initiatives quarterly or annually)"
-PI3,System can verify with beneficiaries whether services billed by providers were received.,42 C.F.R. 455.20,"Ad-hoc reporting capabilties
-"
-PI4,"System can suspend Medicaid payments in whole or in part to providers for whom the agency has determined there is a credible allegation of fraud and is conducting an investigation and other activities, including provide notice of suspension; referrals to MFCU; and documentation and record retention.",42 C.F.R. 455.23(a-g),"Track number of PI FWA detection and actionable cases sent ending in payment suspension/All cases initiated
- "
+Number of new algorithms initiated annually (possibly 2 or 3 new initiatives quarterly or annually)",42 C.F.R. 455.13
+PI3,System can verify with beneficiaries whether services billed by providers were received.,"Ad-hoc reporting capabilties
+",42 C.F.R. 455.20
+PI4,"System can suspend Medicaid payments in whole or in part to providers for whom the agency has determined there is a credible allegation of fraud and is conducting an investigation and other activities, including provide notice of suspension; referrals to MFCU; and documentation and record retention.","Track number of PI FWA detection and actionable cases sent ending in payment suspension/All cases initiated
+ ",42 C.F.R. 455.23(a-g)
 PI5,"System can perform provider lock-in for identified members responsible for fraudulent activity, or that have utilized services in excess of what is medically necessary (as defined by state guidelines), and can send notice to the impacted member and the appropriate provider.
 
-*Applicable to PM",42 C.F.R. 431.54(f),"Number of provider lock-in identified, Number of notices sent to impacted members and providers"
+*Applicable to PM","Number of provider lock-in identified, Number of notices sent to impacted members and providers",42 C.F.R. 431.54(f)
 PI6,"System can recover improper payments by: 
 (a) Tracking repayments and outstanding amounts due at an individual transaction level as well as aggregating by provider, time period
 (b) Supporting electronic transfer back to the state
-(c ) Temporarily limiting future payments to provider(s) who have an outstanding recovery balance.","42 C.F.R. 447
+(c ) Temporarily limiting future payments to provider(s) who have an outstanding recovery balance.",Total recovered dollars/Total dollars identified ,"42 C.F.R. 447
 42 C.F.R. 431.1002
-42 C.F.R. 433.300-322",Total recovered dollars/Total dollars identified 
-PI7,System can complete the required independent certified audit of Disproportionate Share Hospital (DSH) payments for each Medicaid State Plan rate year using payment and utilization information.,42 C.F.R. 455.304(d),Percentage of DSH audits completed in a plan year
+42 C.F.R. 433.300-322"
+PI7,System can complete the required independent certified audit of Disproportionate Share Hospital (DSH) payments for each Medicaid State Plan rate year using payment and utilization information.,Percentage of DSH audits completed in a plan year,42 C.F.R. 455.304(d)
 PI8,"System can reject claims for items or services that were ordered or referred that do not contain a National Provider Identifier.
 
-*Applicable to CP",42 C.F.R. 455.440,Count of claims rejected with a missing NPI/Total claims submitted (Target=0%)
-PI9,System can support activities conducted by Medicaid RACs can including review all claims submitted by providers of items or services for which payment has been made to identify underpayments and overpayments and recoup overpayments as necessary.,42 C.F.R. 455.506,"Provide a copy of the RAC report of total claims submitted, underpayments, ovrpayments and recoup overpayments"
-PI10,System can refer all cases of suspected provider fraud to the state's Medicaid Fraud Unit and provide access to Case Tracking as applicable.,42 C.F.R. 455.21(a),"Cases sent to MFCU/All cases initiated
-"
-PI11,"System can sample and review active cases, including negative cases, to determine eligibility errors in accordance with the state's MEQC pilot planning document.",42 C.F.R. 431.814(b),Percentage of eligibility errors
+*Applicable to CP",Count of claims rejected with a missing NPI/Total claims submitted (Target=0%),42 C.F.R. 455.440
+PI9,System can support activities conducted by Medicaid RACs can including review all claims submitted by providers of items or services for which payment has been made to identify underpayments and overpayments and recoup overpayments as necessary.,"Provide a copy of the RAC report of total claims submitted, underpayments, ovrpayments and recoup overpayments",42 C.F.R. 455.506
+PI10,System can refer all cases of suspected provider fraud to the state's Medicaid Fraud Unit and provide access to Case Tracking as applicable.,"Cases sent to MFCU/All cases initiated
+",42 C.F.R. 455.21(a)
+PI11,"System can sample and review active cases, including negative cases, to determine eligibility errors in accordance with the state's MEQC pilot planning document.",Percentage of eligibility errors,42 C.F.R. 431.814(b)
 PI12,"System can submit following information to CMS for among other purposes, estimating improper payments in Medicaid and CHIP, that include, but are not limited to—
 (1) Adjudicated fee-for-service or managed care claims information, or both, on a quarterly basis, from the review year;
 (2) Upon request from CMS, provider contact information that has been verified by the state as current;
@@ -48,9 +48,9 @@ PI12,"System can submit following information to CMS for among other purposes, e
 (7) Information on claims that were selected as part of the sample, but changed in substance after selection, for example, successful provider appeals; (8) Adjustments made within 60 days of the adjudication dates for the original claims or line items, with sufficient information to indicate the nature of the adjustments and to match the adjustments to the original claims or line items;
 (9) Case documentation to support the eligibility review, as requested by CMS;
 (10) A corrective action plan for purposes of reducing erroneous payments in FFS, managed care, and eligibility; and
-(11) Other information that the Secretary determines is necessary for these purposes.",42 C.F.R. §431.970,Ad-hoc reporting capabilties
-PM11,"A state user can assign and screen all applications by a risk categorization of limited, moderate, or high for a provider at the time of new application, re-enrollment, or re-validation of enrollment. A state user can adjust a provider's risk level due to payment suspension or moratorium.",42 CFR 455.450,"Number of providers in each category by category for each new application, re-enrollment/revalidation 
+(11) Other information that the Secretary determines is necessary for these purposes.",Ad-hoc reporting capabilties,42 C.F.R. §431.970
+PM11,"A state user can assign and screen all applications by a risk categorization of limited, moderate, or high for a provider at the time of new application, re-enrollment, or re-validation of enrollment. A state user can adjust a provider's risk level due to payment suspension or moratorium.","Number of providers in each category by category for each new application, re-enrollment/revalidation 
 
-Number of providers with changes from moderate to high due to payment suspension or moratorium"
-PM17,A state user can report required information about fraud and abuse to the appropriate officials.,42 CFR 455.17,Number of open FWA investigations by provider type and status (This may already be submitted by states)
-PM18,"The system, or a state user, can suspend payment to providers in cases of fraud. ",42 CFR 455.23,Number of providers in suspend status due to fraud include reasons and aging by provider type
+Number of providers with changes from moderate to high due to payment suspension or moratorium",42 CFR 455.450
+PM17,A state user can report required information about fraud and abuse to the appropriate officials.,Number of open FWA investigations by provider type and status (This may already be submitted by states),42 CFR 455.17
+PM18,"The system, or a state user, can suspend payment to providers in cases of fraud. ",Number of providers in suspend status due to fraud include reasons and aging by provider type,42 CFR 455.23
