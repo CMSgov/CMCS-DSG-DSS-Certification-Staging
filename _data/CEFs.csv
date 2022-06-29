@@ -1,0 +1,85 @@
+"Ref #","Condition","Example Evidence"
+"1","CMS determines the system is likely to provide more efficient, economical, and effective administration of the State plan. ","All business outcomes are met. The system should support an effective and efficient approach to achieving business outcomes via CMS-required and/or state-specific outcome metrics.
+
+Citation to CMS approved APD AoA/CBA/ROI."
+"2","The system meets the system requirements, standards and conditions, and performance standards in Part 11 of the State Medicaid Manual, as periodically amended.","Refer to each business area modular implementation streamlined business outcomes and metrics. 
+
+Can be a state self-attestation."
+"3","The system is compatible with the claims processing and information retrieval systems used in the administration of Medicare for prompt eligibility verification and for processing claims for persons eligible for both programs.","Refer to streamlined claims business outcomes and metrics certification material. 
+
+Provide evidence of processing dual-eligible beneficiaries. 
+
+Can be N/A depending on the MES module. 
+
+Can be a state self-attestation."
+"4","The system supports the data requirements of quality improvement organizations established under Part B of title XI of the Act.","Provide evidence on how the MES module interfaces with the quality improvement organizations. 
+
+Can be N/A depending on the MES module. "
+"5","The State owns any software that is designed, developed, installed or improved with 90 percent FFP. ","Demonstrated in the contractual provisions between the state Medicaid agency and vendor. 
+
+Citation to the CMS-approved APD’s reference."
+"6","The Department has a royalty-free, non-exclusive, and irrevocable license to reproduce, publish, or otherwise use and authorize others to use, for Federal Government purposes, software, modifications to software, and documentation that is designed, developed, installed or enhanced with 90 percent FFP. ","Demonstrated in the contractual provisions between the state Medicaid agency and the vendor. 
+
+Citation to the CMS-approved APD’s reference."
+"7","The costs of the system are determined in accordance with 45 C.F.R 75, subpart E.","Demonstrated in the contractual provisions between the state Medicaid agency and vendor. 
+
+Citation to the CMS-approved APD’s reference."
+"8","The Medicaid agency agrees in writing to use the system for the period of time specified in the advance planning document (approved by CMS) or for any shorter period of time that CMS determines justifies the Federal funds invested. ","Citation to the CMS-approved APD.
+
+Can be a state self-attestation."
+"9","The agency agrees in writing that the information in the system will be safeguarded in accordance with 42 C.F.R. 431 subpart F of this subchapter. ","HIPAA BAA
+
+HIPAA sanction rules 
+
+State Privacy Laws and regulations 
+
+Periodic Security and Privacy Assessment"
+"10","Use a modular, flexible approach to systems development, including the use of open interfaces and exposed application programming interfaces; the separation of business rules from core programming, available in both human and machine readable formats.","Conceptual data model that depicts high-level data and relationships with other state Medicaid systems/modules.
+
+System adopts a Serviced Oriented Architecture and/or an open API based architecture, automated arrangement, coordination, and management of the system.
+
+Screenshot or demonstration of the business rules engine control panel.
+
+Enterprise system diagrams to show how the open architecture is integrated in the overall solution. 
+
+Test reports and demonstrations showing that individual modules are successfully integrated with the open architecture."
+"11","Align to, and advance increasingly, in maturity for business, architecture, and data.","Citation to the CMS-approved APD’s reference. 
+
+Can be a state self-attestation."
+"12","The agency ensures alignment with, and incorporation of, industry standards adopted by the Office of the National Coordinator for Health IT in accordance with 45 C.F.R. part 170, subpart B: The HIPAA privacy, security and transaction standards; accessibility standards established under section 508 of the Rehabilitation Act, or standards that provide greater accessibility for individuals with disabilities, and compliance with Federal civil rights laws; standards adopted by the Secretary under section 1104 of the Affordable Care Act; and standards and protocols adopted by the Secretary under section 1561 of the Affordable Care Act.","An independent third-party auditor security and privacy controls assessment report and penetration test. 
+
+508 test report or equivalent"
+"13","Promote sharing, leverage, and reuse of Medicaid technologies and systems within and among States.","Describe and document how the SMA leverages reuse opportunities.
+
+Citation to the CMS approved APD’s reference.
+
+Can be a state self-attestation."
+"14","Support accurate and timely processing and adjudications/eligibility determinations and effective communications with providers, beneficiaries, and the public.","Refer to applicable business outcomes and metrics related to the following but not limited to, Claims, Pharmacy, Eligibility and Enrollment areas. 
+
+Can be N/A depending on the MES module. "
+"15","Produce transaction data, reports, and performance information that would contribute to program evaluation, continuous improvement in business operations, and transparency and accountability.","CMS has recorded that the SMA is in T-MSIS reporting compliance with monthly reports
+
+The system maintains online access to at least four years of selected management reports and five years of annual reports.
+
+The system can record and monitor the performance and utilization of resources within the overall system.
+
+The system generates performance measures for business processes"
+"16","The system supports seamless coordination and integration with the Marketplace, the Federal Data Services Hub, and allows interoperability with health information exchanges, public health agencies, human services programs, and community organizations providing outreach and enrollment assistance services as applicable.","Refer to applicable business outcomes and metrics related to the following but not limited to, Claims, Pharmacy, Eligibility and Enrollment areas.
+
+Can be N/A depending on the MES module. "
+"17","For E&E systems, the State must have delivered acceptable MAGI-based system functionality, demonstrated by performance testing and results based on critical success factors, with limited mitigations and workarounds.","Refer to applicable business outcomes and metrics related to the Eligibility and Enrollment module.
+
+Can be N/A depending on the MES module. "
+"18","The State must submit plans that contain strategies for reducing the operational consequences of failure to meet applicable requirements for all major milestones and functionality. This should include, but not be limited to, the Disaster Recovery Plan and related Disaster Recovery Test results.","Provide module specific BCP, DRP, and Annual DR test results, which are coordinated with the other related SMA DRP/BCP plans. "
+"19","The agency, in writing through the APD, must identify key state personnel by name, type and time commitment assigned to each project.","Demonstrated in the contractual provisions between SMA and vendor. 
+
+Citation to the CMS approved APD’s reference."
+"20","Systems and modules developed, installed or improved with 90 percent match must include documentation of components and procedures such that the systems could be operated by a variety of contractors or other users.","Provide MES module specific transition plan, ConOps documentation, and relevant knowledgebase documentation."
+"21","For software systems and modules developed, installed or improved with 90 percent match, the State must consider strategies to minimize the costs and difficulty of operating the software on alternate hardware or operating systems.","Demonstrated in the contractual provisions between the SMA and vendor. 
+
+Citation to the CMS approved APD AoA or otherwise."
+"22","Other conditions for compliance with existing statutory and regulatory requirements, issued through formal guidance procedures, determined by the Secretary to be necessary to update and ensure proper implementation of those existing requirements.","The system captures and stores relevant information necessary to support Medicaid Fraud Control Unit (MFCU) investigations
+
+Other reporting metrics such as CMS-37 and CMS-64 quarterly estimates and expenditure reports as applicable. 
+
+Can be a state self-attestation."
