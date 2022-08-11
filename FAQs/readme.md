@@ -1,6 +1,6 @@
 # Streamlined Modular Certification Frequently Asked Questions (FAQs)
 
-The following FAQs were prepared to help answer questions about the new Streamlined Modular Certification (SMC) process and requirements. This information is meant to help answer questions about SMC. The official SMC Guidance can be found on Medicaid.gov and is the primary source of information on SMC process and requirements. Other helpful information is on the Certification GitHub and you can always reach out to your State Officer with questions.  
+The following FAQs were prepared to help answer questions about the new Streamlined Modular Certification (SMC) process and requirements. This information is meant to help answer questions about SMC. The official [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) can be found on Medicaid.gov and is the primary source of information on SMC process and requirements. Other helpful information is on the [Certification GitHub](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/) and you can always reach out to your State Officer with questions.  
 
 We will continue to add to the FAQ as new questions arise.
 
@@ -30,10 +30,10 @@ For all systems that comprise the MES, SMC is designed to:
 -	Leverage data and testing to better inform our assessment of the successful delivery of systems and better inform subsequent funding decisions
 
 ### Q: How can I learn about the new SMC process and requirements? 
-A: The SMC SMDL is the primary source of information on the new SMC process and requirements. There are materials and tools available to help facilitate the SMC process on Medicaid.gov and the CMS Certification Repository on GitHub. The GitHub repository is a collaborative space where states can learn, share, and contribute information about the MES Certification process and its related artifacts.
+A: The SMC SMDL is the primary source of information on the new SMC process and requirements. There are materials and tools available to help facilitate the SMC process on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the [CMS Certification Repository on GitHub](https://github.com/CMSgov/CMCS-DSG-DSS-Certification). The GitHub repository is a collaborative space where states can learn, share, and contribute information about the MES Certification process and its related artifacts.
 
 ### Q: When was the SMC State Medicaid Directors Letter (SMDL) released?
-A: CMS issued guidance introducing SMC on April 14, 2022. The release included the SMDL, the Certification Guidance document with appendices, the Testing Guidance Framework, the Intake Form template, and other tools to help states with SMC. This information can be found on Medicaid.gov. 
+A: CMS issued guidance introducing SMC on April 14, 2022. The release included the SMDL, the Certification Guidance document with appendices, the Testing Guidance Framework, the Intake Form template, and other tools to help states with SMC. This information can be found on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html). 
 
 ### Q: Will SMC be used to certify Electronic Visit Verification (EVV) investments?
 A: No, Electronic Visit Verification (EVV) systems will still be certified using the “EVV Outcomes-based Certification (OBC)” guidance released on October 24, 2019, but SMC applies to all other MES modules, including Eligibility and Enrollment. 
