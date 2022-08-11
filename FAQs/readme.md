@@ -76,7 +76,7 @@ A: States should work with their CMS State Officers to determine the best path f
 ## Outcomes and Metrics {#outcomes}
 
 ### Q: Are there resources to help states work with their State Officers to develop appropriate state-specific outcomes and metrics?
-A: States should discuss their ideas for outcomes early in the planning process so that they can be included in the APD. State-specific outcomes should be specific to the IT investment the state is making and should allow the state to demonstrate progress towards meetings its goals. Please see the SMDL and other resources on Medicaid.gov and the CMS Certification Repository on GitHub https://cmsgov.github.io/CMCS-DSG-DSS-Certification/. 
+A: States should discuss their ideas for outcomes early in the planning process so that they can be included in the APD. State-specific outcomes should be specific to the IT investment the state is making and should allow the state to demonstrate progress towards meetings its goals. Please see the SMDL and other resources on Medicaid.gov and the [CMS Certification Repository on GitHub](https://cmsgov.github.io/CMCS-DSG-DSS-Certification/). 
 
 ### Q: Where can states find examples and more information on CMS-required and state-specific outcomes and metrics?
 A: The CMS Certification Repository on GitHub provides a collaborative space where states can learn, share, and contribute information about the MES Certification process and its related artifacts. Additionally, there are tools on the MES wiki to help State Officers work with states to develop state-specific outcomes. 
@@ -113,7 +113,7 @@ A: The Intake Form is used by the states and CMS to track what a state is trying
 
 Given that states need to include outcomes and metrics in their APDs, it is important that the Intake Form match what is listed in the APD. When a state approaches ORR and CR, they will need to meet with CMS to finalize and approve the specific evidence that the state will provide as a part of the certification process. 
 
-The Intake Form template can be found on the GitHub Repository as well as Medicaid.gov (https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html). 
+The Intake Form template can be found on the GitHub Repository as well as [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html). 
 
 ### Q: When should a state fill out the Intake Form?
 A: States should start filling out the Intake Form once the APD has been approved. If a state did not complete the Intake Form as part of the APD approval and the project is nearing ORR, CMS will work with the state to complete the Intake Form with outcomes and metrics selected by the state.
