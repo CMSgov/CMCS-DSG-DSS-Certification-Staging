@@ -81,6 +81,8 @@ A: States should work with their CMS State Officers to determine the best path f
 
 ## Outcomes and Metrics {#outcomes}
 
+Please visit the [Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/) page on GitHub for additional information.
+
 ### Q: Are there resources to help states work with their State Officers to develop appropriate state-specific outcomes and metrics?
 A: States should discuss their ideas for outcomes early in the planning process so that they can be included in the APD. State-specific outcomes should be specific to the IT investment the state is making and should allow the state to demonstrate progress towards meetings its goals. Please see the SMDL and other resources on Medicaid.gov and the CMS Certification Repository on GitHub. 
 
@@ -111,8 +113,6 @@ CMS anticipates that states may need to revisit and update outcomes and metrics 
 A: Under SMC, states will select CMS-required outcomes under each relevant module. CMS-required outcomes for specific MES modules can be found in Appendix B of the SMDL. These outcomes are aligned with regulatory and policy requirements that states must follow when implementing modules or capabilities. The lists in Appendix B are the “menu” the state chooses from to select the CMS-required outcomes that are applicable for a given project.
 
 States should also propose their own state-specific outcomes that are informed by what they are trying to accomplish for their Medicaid program. State-specific outcomes should be specific to the IT investment the state is making and should allow the state to demonstrate progress towards meetings its programmatic goals.
-
-Please visit the [Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/) page on GitHub for additional information.
 
 ***
 
