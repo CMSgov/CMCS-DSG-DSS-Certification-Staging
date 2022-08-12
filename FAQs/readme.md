@@ -4,6 +4,8 @@ The following FAQs were prepared to help answer questions about the new Streamli
 
 We will continue to add to the FAQ as new questions arise.
 
+[Download the FAQs as a PDF](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/raw/FAQs-and-Ongoing-Reporting/FAQs/SMC%20FAQs%20for%20States.pdf)
+
 - [Overview of SMC](#overview)
 - [How will SMC Impact States?](#impact)
 - [Outcomes and Metrics](#outcomes)
