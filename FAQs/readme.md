@@ -112,7 +112,7 @@ A: Under SMC, states will select CMS-required outcomes under each relevant modul
 
 States should also propose their own state-specific outcomes that are informed by what they are trying to accomplish for their Medicaid program. State-specific outcomes should be specific to the IT investment the state is making and should allow the state to demonstrate progress towards meetings its programmatic goals.
 
-Please visit the [Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing-Reporting/) page on GitHub for additional information.
+Please visit the [Metrics and Ongoing Reporting]({{ site.baseurl}}/Ongoing-Reporting/) page on GitHub for additional information.
 
 ***
 
