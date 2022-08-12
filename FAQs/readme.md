@@ -11,6 +11,8 @@ We will continue to add to the FAQ as new questions arise. [Download the FAQs as
 - [Certification](#certification)
 - [Reporting Requirements](#reporting)
 
+***
+
 ## Overview of SMC {#overview}
 
 ### Q: What is SMC?
@@ -52,6 +54,8 @@ A: SMC reduces the administrative burden for states so they can focus their reso
 ### Q: How does SMC differ from Outcomes-Based Certification (OBC)?
 A: CMS has been piloting OBC methods for a few years. The EVV OBC Process and SMC represent the current state of the art of OBC for certification of Medicaid IT systems. CMS is committed to using outcomes and metrics to assess the performance of state systems. As we move forward with SMC, CMS will be collecting feedback from states and will continue to look for opportunities to improve the certification process and evolve the outcomes-based approach.
 
+***
+
 ## How will SMC Impact States? {#impact}
 
 ### Q: What requirements will states need to follow under SMC?
@@ -72,6 +76,8 @@ A: The state will need to work with CMS to coordinate and agree upon an approach
 
 ### Q: Can a state still use MECT/MEET if it is in the process of certifying their system?
 A: States should work with their CMS State Officers to determine the best path forward and smoothest transition process. States that are significantly far along in their preparations for module certification under the MECT or MEET framework may elect to proceed with certification under the relevant legacy certification toolkit. However, states that elect to do so will also be expected to produce and submit operational reports for their systems. 
+
+***
 
 ## Outcomes and Metrics {#outcomes}
 
@@ -106,6 +112,10 @@ A: Under SMC, states will select CMS-required outcomes under each relevant modul
 
 States should also propose their own state-specific outcomes that are informed by what they are trying to accomplish for their Medicaid program. State-specific outcomes should be specific to the IT investment the state is making and should allow the state to demonstrate progress towards meetings its programmatic goals.
 
+Please visit the [Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing-Reporting/) page on GitHub for additional information.
+
+***
+
 ## Intake Form {#intake}
 
 ### Q: What is the Intake Form and how should it be used? 
@@ -121,6 +131,8 @@ A: States should start filling out the Intake Form once the APD has been approve
 ### Q: Are hyperlinks in the Intake Form required?  
 A: As a part of ORR and CR, states are required to identify evidence and provide “State Comments” for each outcome identified. The evidence and comments are critical to conveying context and any important information for CMS to review in advance of an ORR or CR. When identifying evidence, hyperlinks should be used to reference documents or information that is too long to put into the Intake Form. If the link is too a large document, references to applicable page numbers is needed to ensure CMS is reviewing the specific evidence for a given outcome. Box is now the preferred method for storing information so CMS can maintain the certification record and make access to information easier. Box supports hyperlinking.
 
+***
+
 ## Certification {#certification}
 
 ### Q: Does the state need at least six months of metrics reporting from a live system in order to request to schedule a CR? 
@@ -130,6 +142,8 @@ A: No, a state does not need at least six months of metrics reporting of a live 
 A: CMS will not be “recertifying” systems on an annual basis. Rather, states will submit operational reports containing data and/or other evidence that modules continue to meet all applicable requirements for the state’s claimed federal matching funds. Operational reports should include metric data corresponding to the agreed-upon outcomes listed in the APD for each applicable MES module.
 
 These reports should be submitted annually in support of the Operational APD (OAPD) request, however, more frequent reporting on key operational metrics may be necessary. States will coordinate with their CMS State Officers to determine which modules and metrics may need more frequent reporting.
+
+***
 
 ## Reporting Requirements {#reporting}
 
