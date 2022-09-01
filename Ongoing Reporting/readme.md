@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual (ADD LINK) serves as a guide for how MES metric data, reports, and performance information should be submitted by states and processed by the CMS Data Team to support CMS’s goal to have all state metrics included in one database. The process flows described in the document apply to all 13 modules included in the [Streamlining Modular Certification (SMC)](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the [Electronic Visit Verification (EVV) module under the Outcome Based Certification (OBC)](https://mitre.sharepoint.com/sites/strengthening-accountability-for-state-it-investments-project/Shared%20Documents/Task%209%20Metrics/02_Metrics%20Procedures%20Manual/Metrics%20Procedures%20Manual%20Working) (FIX LINK?).  
+The Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual (ADD LINK) serves as a guide for how MES metric data, reports, and performance information should be submitted by states and processed by the CMS Data Team to support CMS’s goal to have all state metrics included in one database. The process flows described in the document apply to all 13 modules included in the [Streamlining Modular Certification (SMC)](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the [Electronic Visit Verification (EVV) module under the Outcome Based Certification (OBC)](https://mitre.sharepoint.com/sites/strengthening-accountability-for-state-it-investments-project/Shared%20Documents/Task%209%20Metrics/02_Metrics%20Procedures%20Manual/Metrics%20Procedures%20Manual%20Working) ==(FIX LINK?)==.  
  
 In accordance with 42 C.F.R. §§ 433.112(b)(15) and 433.116(b), (c), and (i), states must be capable of producing data, reports, and performance information from and about their MES modules to facilitate evaluation, continuous improvement in business operations, and transparency and accountability, as a condition for receiving enhanced federal matching for MES expenditures. Metrics provide evidence about whether the intended outcomes are achieved through the delivery of a new module or enhancement to an existing module. Metrics reporting enhances transparency and accountability of IT solutions to help ensure the MES and its modules are meeting statutory and regulatory requirements, as well as the state’s program goals. State reporting also gives states and CMS early and ongoing insight into program evaluation and opportunities for continuous improvement. 
  
@@ -12,11 +12,13 @@ States must submit operational reports to CMS containing metrics annually in sup
 
 Figure 1 identifies the state and CMS operational reporting activities at each of the MES certification milestones (i.e., Advance Planning Document (APD), Operational Readiness Review (ORR), Certification Review (CR), and operational reports submissions). A state will initiate the process by including the initial metric definitions in the Intake Form and Operational Report, in preparation for APD submission. After the APD is approved, the CMS team will import the metric definitions into the database. Updates to the metric definitions may occur prior to the ORR, where the CMS team may again import the metric definitions that have been updated by the state. Leading up to the CR, the metric definitions are then validated and numerical metric data is provided as part of the operational report. This additional data is added to the CMS metrics database after the CR is complete. Once a state has been certified, it is expected they will continue to report the operational metrics on a quarterly (for EVV modules) or annual (SMC modules) basis. 
 
-(INSERT DIAGRAM HERE)
+<center>Figure 1. Operational Reporting Activities by MES Certification Milestones</center>
+<center>==(INSERT DIAGRAM HERE)==</center>
+Definitions: CMS, Centers for Medicare & Medicaid Services
 
 ### Key Takeaways for States
 
-- States must submit an Intake Form (ADD LINK) and Operational Report Workbook (ADD LINK) at multiple steps of the certification process and continue building on these documents over time. 
+- States must submit an Intake Form ==(ADD LINK)== and Operational Report Workbook ==(ADD LINK)== at multiple steps of the certification process and continue building on these documents over time. 
 - [Box](https://cmsbox.account.box.com/login) is the default repository for all operational reports. 
 - Data is checked and validated at multiple steps of the operational reporting process. 
 - Collaboration between the states and CMS is critical to ensure quality metrics and timely reporting. EVV metrics should be submitted quarterly in operational reports, whereas SMC-related metrics should be submitted in operational reports on an annual basis. 
@@ -32,7 +34,7 @@ Any systems that were certified prior to the release of SMD # 22-001, are requir
 - [Streamlined Modular Certification](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html)
 - [Outcomes-based Certification for Electronic Visit Verification (EVV) Systems (PDF)](https://www.medicaid.gov/federal-policy-guidance/downloads/cib102419.pdf)
 - [Box](https://cmsbox.account.box.com/login)
-- Metrics Procedures Manual (ADD LINK)
+- Metrics Procedures Manual ==(ADD LINK)==
 
 ## References
 
