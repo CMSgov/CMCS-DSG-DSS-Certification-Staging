@@ -13,7 +13,7 @@ States must submit operational reports to CMS containing metrics annually in sup
 Figure 1 identifies the state and CMS operational reporting activities at each of the MES certification milestones (i.e., Advance Planning Document (APD), Operational Readiness Review (ORR), Certification Review (CR), and operational reports submissions). A state will initiate the process by including the initial metric definitions in the Intake Form and Operational Report, in preparation for APD submission. After the APD is approved, the CMS team will import the metric definitions into the database. Updates to the metric definitions may occur prior to the ORR, where the CMS team may again import the metric definitions that have been updated by the state. Leading up to the CR, the metric definitions are then validated and numerical metric data is provided as part of the operational report. This additional data is added to the CMS metrics database after the CR is complete. Once a state has been certified, it is expected they will continue to report the operational metrics on a quarterly (for EVV modules) or annual (SMC modules) basis. 
 
 <center>Figure 1. Operational Reporting Activities by MES Certification Milestones</center>
-![Timeline of Operational Reporting Activities Aligned to MES Certificaton Milestones]({{ site.baseurl }}/Ongoing Reporting/Operational Reporting Cert Milestones.png)
+<img src:"{{ site.baseurl }}/Ongoing Reporting/Operational Reporting Cert Milestones.png" width="100%"> 
 Definitions: CMS, Centers for Medicare & Medicaid Services
 
 ### Key Takeaways for States
