@@ -169,7 +169,7 @@ A: States are required to report on metrics for all projects receiving enhanced 
 A: States should work with their State Officer to decide on the most appropriate and meaningful metrics for their project. Over time, CMS may consider periodically updating the GitHub based on the metrics proposed by states.  
  
 ### Q: What metric information are states expected to present at ORR? At CR? 
-A: At ORR, states should have their metrics clearly defined and mapped to relevant CMS-required and state-specific outcomes. The state should be prepared to discuss the outcomes and planned metrics. States should be prepared to discuss why some outcomes were selected and not others, how the state plans to generate the identified metrics, and the expected cadence and format of reporting. 
+A: At ORR, states should have their metrics clearly defined and mapped to relevant CMS-required and state-specific outcomes. The state should be prepared to discuss the outcomes and planned metrics. States should be prepared to discuss why some outcomes were selected and not others, how the state plans to generate the identified metrics, and the expected cadence and format of reporting.
 
 At CR, states need to have been operational for ***at least*** 6 months to receive certification. States ***must*** also provide metric data back to the state's requested retroactive certification date, for all months the system has been operational. States should be ready to discuss the numerical data presented in the operational report, anomalies in the data, changes to metric methodology, and any plans for future reporting. 
  
