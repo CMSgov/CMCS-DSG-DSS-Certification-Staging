@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual <mark>(ADD LINK)</mark> serves as a guide for how MES metric data, reports, and performance information should be submitted by states and processed by the CMS Data Team to support CMS’s goal to have all state metrics included in one database. The process flows described in the document apply to all 13 modules included in the [Streamlining Modular Certification (SMC)](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the [Electronic Visit Verification (EVV) module under the Outcome Based Certification (OBC)](https://mitre.sharepoint.com/sites/strengthening-accountability-for-state-it-investments-project/Shared%20Documents/Task%209%20Metrics/02_Metrics%20Procedures%20Manual/Metrics%20Procedures%20Manual%20Working) <mark>(FIX LINK?)</mark>.  
+The Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual <mark>(ADD LINK)</mark> serves as a guide for how MES metric data, reports, and performance information should be submitted by states and processed by the CMS Data Team to support CMS’s goal to have all state metrics included in one database. The process flows described in the document apply to all 13 modules included in the [Streamlining Modular Certification (SMC)](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the [Electronic Visit Verification (EVV) module under the Outcome Based Certification (OBC)](https://www.medicaid.gov/medicaid/data-systems/certification/electronic-visit-verification-outcome-based-certification/index.html).  
  
 In accordance with 42 C.F.R. §§ 433.112(b)(15) and 433.116(b), (c), and (i), states must be capable of producing data, reports, and performance information from and about their MES modules to facilitate evaluation, continuous improvement in business operations, and transparency and accountability, as a condition for receiving enhanced federal matching for MES expenditures. Metrics provide evidence about whether the intended outcomes are achieved through the delivery of a new module or enhancement to an existing module. Metrics reporting enhances transparency and accountability of IT solutions to help ensure the MES and its modules are meeting statutory and regulatory requirements, as well as the state’s program goals. State reporting also gives states and CMS early and ongoing insight into program evaluation and opportunities for continuous improvement. 
  
@@ -18,7 +18,7 @@ Definitions: CMS, Centers for Medicare & Medicaid Services
 
 ### Key Takeaways for States
 
-- States must submit an [Intake Form](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Appendix%20E%20Intake%20Form%20Template.xlsx) and Operational Report Workbook <mark>(ADD LINK)</mark> at multiple steps of the certification process and continue building on these documents over time. 
+- States must submit an [Intake Form](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-intake-form.xlsx) and Operational Report Workbook <mark>(ADD LINK)</mark> at multiple steps of the certification process and continue building on these documents over time. 
 - [Box](https://cmsbox.account.box.com/login) is the default repository for all operational reports. 
 - Data is checked and validated at multiple steps of the operational reporting process. 
 - Collaboration between the states and CMS is critical to ensure quality metrics and timely reporting. EVV metrics should be submitted quarterly in operational reports, whereas SMC-related metrics should be submitted in operational reports on an annual basis. 
@@ -35,6 +35,7 @@ Any systems that were certified prior to the release of SMD # 22-001, are requir
 - [Outcomes-based Certification for Electronic Visit Verification (EVV) Systems (PDF)](https://www.medicaid.gov/federal-policy-guidance/downloads/cib102419.pdf)
 - [Box](https://cmsbox.account.box.com/login)
 - Metrics Procedures Manual <mark>(ADD LINK)</mark>
+- [Metrics FAQs]({{ site.baseurl }}/FAQs/)
 
 ## References
 
