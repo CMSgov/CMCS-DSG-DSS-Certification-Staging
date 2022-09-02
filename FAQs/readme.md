@@ -157,6 +157,8 @@ Please see the SMC Guidance for more information.
 A: After the CR, states will begin submitting operational reports. States must submit operational reports containing data and/or other evidence that modules are meeting all applicable requirements for the state’s claimed federal matching funds to demonstrate ongoing, successful system operations. These reports should be submitted at least annually in support of the OAPD request, however, more frequent reporting on key operational metrics may be necessary. Operational reports should include metric data corresponding to the agreed-upon outcomes listed in the APD for each applicable MES module. 
 States should coordinate with their CMS State Officers to determine which modules and metrics may need more frequent reporting.  Please see the SMC Guidance for more information.
 
+***
+
 ## Metrics {#metrics}
 
 ### Q: What is the purpose of metrics? Why are they required under SMC? 
