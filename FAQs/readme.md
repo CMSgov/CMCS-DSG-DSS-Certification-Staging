@@ -10,6 +10,7 @@ We will continue to add to the FAQ as new questions arise. [Download the FAQs as
 - [Intake Form](#intake)
 - [Certification](#certification)
 - [Reporting Requirements](#reporting)
+- [Metrics](#metrics)
 
 ***
 
@@ -155,3 +156,25 @@ Please see the SMC Guidance for more information.
 ### Q: What are operational reports?
 A: After the CR, states will begin submitting operational reports. States must submit operational reports containing data and/or other evidence that modules are meeting all applicable requirements for the state’s claimed federal matching funds to demonstrate ongoing, successful system operations. These reports should be submitted at least annually in support of the OAPD request, however, more frequent reporting on key operational metrics may be necessary. Operational reports should include metric data corresponding to the agreed-upon outcomes listed in the APD for each applicable MES module. 
 States should coordinate with their CMS State Officers to determine which modules and metrics may need more frequent reporting.  Please see the SMC Guidance for more information.
+
+## Metrics {#metrics}
+
+### Q: What is the purpose of metrics? Why are they required under SMC? 
+A: Metrics reporting enhances transparency and accountability of Internet Technology solutions to help ensure the Medicaid Enterprise System (MES) and its modules are meeting statutory and regulatory requirements as well as the state’s program goals. In accordance with 42 C.F.R. §433.112(b)(15) and §433.116(b), (c), and (i), states must be capable of producing data, reports, and performance information from and about their MES modules to facilitate evaluation, continuous improvement in business operations, and transparency and accountability, as a condition for receiving enhanced federal matching for MES expenditures. State reporting also gives states and CMS early and ongoing insight into program evaluation and opportunities for continuous improvement. 
+ 
+### Q: Are states required to report on all of the CMS-required metrics currently listed on GitHub? 
+A: States are required to report on metrics for all projects receiving enhanced FFP. The GitHub contains recommended metrics for states to use and and are the default set for their projects and subsequent operational reporting. If states believe they can produce high value data that is more relevant to their project and business needs with an alternative set of metrics, CMS encourages the state to propose them to their State Officer. As a general rule, states should start with what is listed on GitHub when identifying metrics for relevant CMS-required outcomes and then speak to their State Officer about on what they would like to report. 
+ 
+### Q: What should states do if they do not think the GitHub metrics are relevant for their current module under review? 
+A: States should work with their State Officer to decide on the most appropriate and meaningful metrics for their project. Over time, CMS may consider periodically updating the GitHub based on the metrics proposed by states.  
+ 
+### Q: What metric information are states expected to present at ORR? At CR? 
+A: At ORR, states should have their metrics clearly defined and mapped to relevant CMS-required and state-specific outcomes. The state should be prepared to discuss the outcomes and planned metrics. States should be prepared to discuss why some outcomes were selected and not others, how the state plans to generate the identified metrics, and the expected cadence and format of reporting. 
+  
+At CR, states need to have been operational for ***at least*** 6 months to receive certification. States ***must*** also provide metric data back to the state's requested retroactive certification date, for all months the system has been operational. States should be ready to discuss the numerical data presented in the operational report, anomalies in the data, changes to metric methodology, and any plans for future reporting. 
+ 
+### Q: How much metric data are states expected to provide in order for a CR to be scheduled? 
+A: In accordance with SMD #22-001, states must submit all agreed upon operational metrics related to the module, beginning from the time the system became operational as the system of record and up until the end of the most recent quarter, in order for a state to schedule their CR date. The system must by live and the state must be able to show they are collecting and able to report metric data. For example, if your state is collecting metrics on a monthly basis and you are looking to schedule a CR, you should provide all available months of data before being able to request a CR. 
+ 
+### Q: How often do states need to submit operational reports? 
+A: States are required to submit operational reports on an annual basis. Although states report annually, the data should be broken down by month. The State Officer may require more frequent reporting for specific metrics. 
