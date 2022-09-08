@@ -70,7 +70,7 @@ You should review Appendix B of the SMDL for the list of CMS-required outcomes, 
 ### Q: If my state is in the Development phase, DDI, and has not yet gone through ORR and CR, how does the SMC SMDL release affect my state?
 A: You should make sure your state has submitted outcomes and metrics and filled out the Intake Form. If not, your state should work with its State Officer to identify outcomes and metrics though an APD-Update (APD-U) or during preparation of the Intake Form for an ORR or CR.
 
-Please review the SMC SMDL, the Certification Guidance document, and other materials for more information.
+You should also review Appendix B of the SMDL for the list of CMS-required outcomes and identify which ones will apply to your specific project so that you understand them and are ready to enter them into an intake form after the APD is approved.
 
 ### Q: If my state is receiving enhanced match for operations and maintenance (O&M) of a previously certified system and operating a system of record, how does the SMC SMDL release affect them?
 A: The state will need to work with CMS to coordinate and agree upon an approach, including selecting applicable outcomes and metrics, and a schedule to begin operational reporting. 
@@ -93,7 +93,7 @@ A: The CMS Certification Repository on GitHub provides a collaborative space whe
 ### Q: When should states develop state-specific outcomes?
 A: States should begin to develop state-specific outcomes and related metrics early in the planning phase and update CMS on progress throughout the IT investment cycle. 
 
-States will need to submit to CMS for approval an Advance Planning Document (APD) that includes state-specific outcomes, as well as CMS-required outcomes related to the MES module, metrics, and the applicable Conditions for Enhanced Funding (CEF). States should be in frequent contact with their CMS State Officer for support with drafting an APD that include state-specific outcomes and related metrics that clearly align the proposed IT project with the state’s goals. 
+States will need to submit to CMS for approval an Advance Planning Document (APD) that includes state-specific outcomes, and metrics. States should be in frequent contact with their CMS State Officer for support with drafting an APD that include state-specific outcomes and related metrics that clearly align the proposed IT project with the state’s goals. 
 
 ### Q: Do states need to develop state-specific outcomes for all projects?
 A: In certain circumstances a project may only have CMS-required outcomes, (e.g., if a state is proposing a project to implement a new basic capability, or if the goal of the state’s project is to become compliant with a federal requirement). However, this should be exception rather than the rule. 
@@ -101,7 +101,7 @@ A: In certain circumstances a project may only have CMS-required outcomes, (e.g.
 Additionally, states with legacy systems that are already certified and in O&M do not need to go back and create new state-specific outcomes. 
 
 ### Q: Are states expected to have a metric for every outcome? 
-A: No, it is not expected that states have one metric for every outcome. One metric may be relevant for multiple outcomes in a given module. Alternatively, multiple metrics may be appropriate for a single outcome. It is worth noting that not every outcome will require a metric – some may only require an attestation or demo during the Certification Review and should be noted in the Intake Form. States must work with their State Officer to discuss those outcomes that may not have metrics and receive approval.  
+A: No, it is not expected that states have one metric for every outcome. One metric may be relevant for multiple outcomes in each module. Alternatively, multiple metrics may be appropriate for a single outcome. It is worth noting that not every outcome will require a metric – some may only require an attestation or demo during the Certification Review and should be noted in the Intake Form. States must work with their State Officer to discuss those outcomes that may not have metrics and receive approval.  
 
 ### Q: When and how should states report progress on CMS-required outcomes, state-specific outcomes, and metrics?
 A: Once CMS approves the APD, the state should enter the CMS-required outcomes, state-specific outcomes, and metrics from the APD into the Intake Form for discussion and approval with their CMS State Officer. Together, they should agree on a preliminary list of evidence that will be used to demonstrate that outcomes have been achieved. 
@@ -120,9 +120,9 @@ States should also propose their own state-specific outcomes that are informed b
 ## Intake Form {#intake}
 
 ### Q: What is the Intake Form and how should it be used? 
-A: The Intake Form is used by the states and CMS to track what a state is trying to achieve with a given project, including the CMS-required outcomes, state-specific outcomes, metrics, and associated evidence. Ideally, the Intake Form is started in between submission of the state's APD and submission of the state's RFP. The Intake Form is completed and customized by the state for each state project. Under SMC, states will fill out the Intake Form by including their state-specific outcomes as well as CMS-required outcomes that document compliance with applicable regulations. States will also need to identify the metrics they are using to evaluate their progress in achieving CMS-required and state-specific outcomes. 
+A: The Intake Form is used by the states and CMS to track what a state is trying to achieve with a given project, including the CMS-required outcomes, state-specific outcomes, metrics, and associated evidence. Ideally, the Intake Form is started in between submission of the state's APD and submission of the state's RFP. After APD approval, states will fill out the Intake Form by including their state-specific outcomes as well as CMS-required outcomes. States will also need to identify the metrics they are using to evaluate their progress in achieving CMS-required and state-specific outcomes. 
 
-Given that states need to include outcomes and metrics in their APDs, it is important that the Intake Form match what is listed in the APD. When a state approaches ORR and CR, they will need to meet with CMS to finalize and approve the specific evidence that the state will provide as a part of the certification process. 
+Given that states need to include state-specific outcomes and metrics in their APDs, it is important that the Intake Form match what is listed in the APD. When a state approaches ORR and CR, they will need to meet with CMS to finalize and approve the specific evidence that the state will provide as a part of the certification process. 
 
 The Intake Form template can be found on the GitHub Repository as well as [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html). 
 
