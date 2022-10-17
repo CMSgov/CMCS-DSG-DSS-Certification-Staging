@@ -2,7 +2,7 @@
 
 The following FAQs were prepared to help answer questions about the new Streamlined Modular Certification (SMC) process and requirements. This information is meant to help answer questions about SMC. The official [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) can be found on Medicaid.gov and is the primary source of information on SMC process and requirements. Other helpful information is on the Certification GitHub and you can always reach out to your State Officer with questions.  
 
-We will continue to add to the FAQ as new questions arise. [Download the FAQs as a PDF.](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/raw/FAQs-and-Ongoing-Reporting/FAQs/SMC%20FAQs%20for%20States.pdf)
+We will continue to add to the FAQ as new questions arise.
 
 - [Overview of SMC](#overview)
 - [How will SMC Impact States?](#impact)
@@ -63,14 +63,14 @@ A: CMS has been piloting OBC methods for a few years. The EVV OBC Process and SM
 A: The process and requirements states need to follow under the new SMC process are described in the SMC SMDL. The SMC SMDL contains several key elements which were not present in MEET and MECT. These elements include outcomes, metrics, and operational reports. In addition, states will need to complete Operational Readiness Reviews (ORRs) and Certification Reviews (CRs) rather than the Milestone Reviews required under the toolkits. 
 
 ### Q: If my state is in the Planning phase, how does the SMC SMDL release affect my state?
-A: When developing your IAPD, make sure it includes proposed state-specific outcomes and CMS-required outcomes, and metrics. 
-
-You should review Appendix B of the SMDL for the list of CMS-required outcomes, and determine which outcomes apply to your specific project. If you have questions about how to develop state-specific outcomes, you may request help from your CMS State Officer in developing state-specific outcomes. There is also information on outcomes and metrics on the CMS Repository on GitHub.
+A: When developing your IAPD, make sure it includes proposed state-specific outcomes and metrics. If you have questions about how to develop state-specific outcomes, you may request help from your CMS State Officer in developing state-specific outcomes. There is also information on outcomes and metrics on the CMS Repository on GitHub. 
+ 
+You should also review Appendix B of the SMDL for the list of CMS-required outcomes and identify which ones will apply to your specific project so that you understand them and are ready to enter them into an intake form after the APD is approved. 
 
 ### Q: If my state is in the Development phase, DDI, and has not yet gone through ORR and CR, how does the SMC SMDL release affect my state?
-A: You should make sure your state has submitted outcomes and metrics and filled out the Intake Form. If not, your state should work with its State Officer to identify outcomes and metrics though an APD-Update (APD-U) or during preparation of the Intake Form for an ORR or CR.
-
-You should also review Appendix B of the SMDL for the list of CMS-required outcomes and identify which ones will apply to your specific project so that you understand them and are ready to enter them into an intake form after the APD is approved.
+A: You should make sure your state has submitted outcomes and metrics and filled out the Intake Form. If not, your state should work with its State Officer to identify outcomes and metrics though an APD-Update (APD-U) or during preparation of the Intake Form for an ORR or CR. 
+ 
+Please review the SMC SMDL, the Certification Guidance document, and other materials for more information. 
 
 ### Q: If my state is receiving enhanced match for operations and maintenance (O&M) of a previously certified system and operating a system of record, how does the SMC SMDL release affect them?
 A: The state will need to work with CMS to coordinate and agree upon an approach, including selecting applicable outcomes and metrics, and a schedule to begin operational reporting. 
@@ -111,9 +111,9 @@ During ORR, the state must demonstrate that the system will support the collecti
 CMS anticipates that states may need to revisit and update outcomes and metrics (as defined below) for their investment over time. Any revisions to a state’s CMS-required or state-specific outcomes or metrics may require submitting an APD-Update (APD-U). The state should regularly contact their CMS State Officer to discuss such updates.
 
 ### Q: What module-specific outcome materials have been developed as part of SMC?
-A: Under SMC, states will select CMS-required outcomes under each relevant module. CMS-required outcomes for specific MES modules can be found in Appendix B of the SMDL. These outcomes are aligned with regulatory and policy requirements that states must follow when implementing modules or capabilities. The lists in Appendix B are the “menu” the state chooses from to select the CMS-required outcomes that are applicable for a given project.
-
-States should also propose their own state-specific outcomes that are informed by what they are trying to accomplish for their Medicaid program. State-specific outcomes should be specific to the IT investment the state is making and should allow the state to demonstrate progress towards meetings its programmatic goals.
+A: CMS-required outcomes for specific MES modules can be found in Appendix B of the SMDL. These outcomes are aligned with regulatory and policy requirements that states must follow when implementing modules or capabilities. The lists in Appendix B are the “menu” the state chooses from to select the CMS-required outcomes that are applicable for a given project. 
+ 
+States should also propose their own state-specific outcomes that are informed by what they are trying to accomplish for their Medicaid program. State-specific outcomes should be specific to the IT investment the state is making and should allow the state to demonstrate progress towards meetings its programmatic goals. 
 
 ***
 
