@@ -2,37 +2,66 @@ Reference #,CMS Required Outcomes,Recommended Metrics,Regulatory Sources
 EE1 Application,"The eligibility system receives, ingests, and processes the single-streamlined applications, change of circumstances, renewal forms, and any supporting documentation requested by the state (including telephonic signatures) from individuals, for all Medicaid eligibility groups and CHIP through online via multiple browsers, mail (paper), phone, and in-person (e.g., via kiosk) applications to support eligibility determination for all Insurance Affordability Programs (Federal Health Insurance Exchange), state Medicaid or CHIP, State-Based Marketplace (SBM), Basic Health Program (BHP)."," - Number/Percentage of applications (Medicaid only vs multi-benefit, when applicable) submitted through each modality (use Performance Indicator Data #5 'Number of Applications Received' submitted to CMS). 
  - Percentage of change in circumstances reported through each modality. 
  - Percentage of supporting documents/information submitted through each modality.  
- - Percentage of renewal documents submitted through each modality","42 CFR 435.907
-42 CFR 435.916
-42 CFR 436.901 (for Guam, Puerto Rico, and the Virgin Islands)"
+ - Percentage of renewal documents submitted through each modality","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.907
+ - 42 CFR 435.916
+ 
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.901"
 EE2 Application,"Individuals experience a user-friendly, dynamic, online application, such that subsequent questions are based on prior answers."," - Average time it takes to complete an online application.
  - User surveys
  - Abandonment rate of online applications
- - Outcome attestation of dynamic application skip logic","42 CFR 435.907
-42 CFR 436.901 (for Guam, Puerto Rico, and the Virgin Islands)"
+ - Outcome attestation of dynamic application skip logic","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.907
+ 
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.901"
 EE3 Automatic Enrollment,"Individuals eligible for automatic Medicaid eligibility are promptly enrolled (e.g., SSI recipients in 1634 states, individuals receiving a mandatory state supplement under a federally- or state-administered program, individuals receiving an optional State supplement per 42 CFR 435.230 , and deemed newborns). (Automatic enrollment in Guam, Puerto Rico, and the U.S. Virgin Islands is required only for individuals receiving cash assistance under a state plan for OAA, AFDC, AB, APTD, or AABD, and deemed newborns.)"," - Percentage of individuals receiving SSI automatically eligible (1634 states only)
- - Percentage of deemed newborns automatically eligible","42 CFR 435.117
-42 CFR 435.909
-42 CFR 436.909 and
-42 CFR 436.124 (for Guam, Puerto Rico, and the Virgin Islands)"
+ - Percentage of deemed newborns automatically eligible","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.117
+ - 42 CFR 435.909
+ 
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.909
+ - 42 CFR 436.124"
 EE4 Income Methodologies,The state correctly calculate income and household composition based on Modified Adjusted Gross Income (MAGI) and non-MAGI methodologies at application and renewal. Example business rules include subtracting 5 percentage points off FPL for applicable family size," - Most recent PERM results
- - Description/reports of internal quality assurance processes","42 CFR 435.603
-42 CFR 436.601 and 42 CFR 436.811-814 (for Guam, Puerto Rico, and the Virgin Islands)"
+ - Description/reports of internal quality assurance processes","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.601
+ - 42 CFR 435.603
+ - 42 CFR 435.811-814
+ 
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.601
+ - 42 CFR 436.811-814
+ - 42 CFR 436.901"
 EE5 Electronic Verification,"The eligibility system uses automated interfaces with electronic data sources to enable real-time or near real-time, no manual touch eligibility determinations. The data sources include (but are not limited to) SSA and the Department of Homeland Security (DHS) (directly or via the Federal Data Services Hub (FDSH)), state quarterly wage data, data from financial institutions for asset verification, Renewal and Redetermination Verification service through the FDSH, Public Assistance Reporting Information System (PARIS) to verify Medicaid coverage in other states."," - Number/percentage of individuals whose determinations were entirely automated 
- - Percentage of determinations that required a request for additional documentation from the applicant.","42 CFR 435.940-965
-42 CFR 435.945(d)
-42 CFR 436.901 (for Guam, Puerto Rico, and the Virgin Islands)"
+ - Percentage of determinations that required a request for additional documentation from the applicant.","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.940-965
+ - 42 CFR 435.945(d)
+ 
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.901
+ 
+For Puerto Rico:
+ - Consolidated Appropriations Act of 2023, Section 5101 (requiring an Asset Verification System to be implemented by 2026)"
 EE6 Timely Determinations,Individuals who apply for Medicaid based on disability receive an eligibility determination within 90 days and all other applicants receive an eligibility determination within 45 days.," - Percentage of determinations (individuals) whose eligibility is based on non-MAGI methodologies which took less than or equal to 90 days (use Performance Indicator Data #12 'Processing Time for Determinations' submitted to CMS)
  - Percentage of determinations (individuals) whose eligibility is based on MAGI methodologies which took less than or equal to 45 days (use Performance Indicator Data #12 'Processing Time for Determinations' submitted to CMS)
  - Percentage of determinations (individuals) whose eligibility is based on MAGI methodologies which took less than or equal to 45 days (use Performance Indicator Data #12 'Processing Time for Determinations' submitted to CMS)
  - Number of undetermined MAGI related applications (individuals) that are greater than 45 days from when they were received. 
- - Number of undetermined non-MAGI related applications (individuals) that are greater than 90 days from when they were received. ","42 CFR 435.911-912
-42 CFR 436.901 (for Guam, Puerto Rico, and the Virgin Islands)"
+ - Number of undetermined non-MAGI related applications (individuals) that are greater than 90 days from when they were received. ","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.911-912
+
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.901"
 EE7 Reasonable Opportunity Period,Individuals are enrolled for up to 90 days if pending verification of citizenship or immigration status.," - Number of individuals enrolled during a ROP period.
  - Number of people who remained enrolled at the end of the ROP.
- - Number of people disenrolled at the end of the ROP for failure to verify citizenship or immigration status.","42 CFR 435.407
-42 CFR 435.956
-42 CFR 436.407 and 436.901 (for Guam, Puerto Rico, and the Virgin Islands)"
+ - Number of people disenrolled at the end of the ROP for failure to verify citizenship or immigration status.","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.407
+ - 42 CFR 435.956
+ 
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.407
+ - 42 CFR 436.901"
 EE8 SSN Verification,Individuals are enrolled pending verification of SSN.," - Number of individuals enrolled pending verification of SSN
  - Number of people who remained enrolled upon verification of SSN
  - Number of people disenrolled for failure to verify SSN","42 CFR 435.910
