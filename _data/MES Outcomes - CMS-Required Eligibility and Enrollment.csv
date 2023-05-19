@@ -64,71 +64,123 @@ For Guam, Puerto Rico, and the Virgin Islands:
  - 42 CFR 436.901"
 EE8 SSN Verification,Individuals are enrolled pending verification of SSN.," - Number of individuals enrolled pending verification of SSN
  - Number of people who remained enrolled upon verification of SSN
- - Number of people disenrolled for failure to verify SSN","42 CFR 435.910
-42 CFR 435.956(d)
-42 CFR 436.901 (for Guam, Puerto Rico, and the Virgin Islands)"
+ - Number of people disenrolled for failure to verify SSN","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.910
+ - 42 CFR 435.956(d)
+ 
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.901"
 EE9 Notices,"Individuals receive system-generated timely automated (versus manual) eligibility notices and request for additional information for eligibility determination, as necessary."," - Percentage of notices automatically generated and sent
  - Types of notices that are automated.
  - Types of notices that are manually generally.
- - Percentage of terminations due to lack of response to a notice","42 CFR 431.210-214
-42 CFR 435.917-918
-42 CFR 436.901 (for Guam, Puerto Rico, and the Virgin Islands)"
-EE10 Notices,"Individuals receive electronic notices and alerts as applicable via their preferred mode of communication (e.g., email, text that notice is available in online account).", - Outcome attestation of ability for applicants to receive notifications in their preferred mode of communication.,"42 CFR 431.210-214
-42 CFR 435.917-918
-42 CFR 436.901 (for Guam, Puerto Rico, and the Virgin Islands)"
+ - Percentage of terminations due to lack of response to a notice","For all states, District of Columbia, and territories:
+ - 42 CFR 431.210-214
+ 
+For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.917-918
+ 
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.901"
+EE10 Notices,"Individuals receive electronic notices and alerts as applicable via their preferred mode of communication (e.g., email, text that notice is available in online account).", - Outcome attestation of ability for applicants to receive notifications in their preferred mode of communication.,"For all states, District of Columbia, and territories:
+ - 42 CFR 431.210-214
+
+For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.917-918
+
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.901"
 EE11 Enrollment,"Following an eligibility determination, the system promptly sends the beneficiary information to MMIS to complete enrollment into the appropriate delivery system (e.g., FFS, managed care)."," - Percentage of automated transmissions to the MMIS.
- - Percentage of transmissions to MMIS that require manual intervention or exceptions.","42 CFR 435.914
-42 CFR 436.901 (for Guam, Puerto Rico, and the Virgin Islands)"
+ - Percentage of transmissions to MMIS that require manual intervention or exceptions.","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.914
+ 
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.901"
 EE12 Presumptive Eligibility Applications,The system receives Presumptive Eligibility (PE) applications from all approved entities in an automated manner and facilitates eligibility termination if no full Medicaid application is received by the end of the month following the month of PE determination.," - Number of PE applications received.
  - Percentage of individuals disenrolled at the end of the PE period for failure to file a full application.
- - Percentage of individuals who are determined eligible for Medicaid by the end of the PE period.",42 CFR Parts 435.1110
-EE13 Annual Renewals,"The system uses electronic data sources to confirm eligibility, wherever possible, to facilitate ex-parte renewals.", - Percentage of individuals whose redeterminations were made using the Ex-Parte process.,"42 CFR 435.916
-42 CFR 436.901 (for Guam, Puerto Rico, and the Virgin Islands)"
+ - Percentage of individuals who are determined eligible for Medicaid by the end of the PE period.","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.1110"
+EE13 Annual Renewals,"The system uses electronic data sources to confirm eligibility, wherever possible, to facilitate ex-parte renewals.", - Percentage of individuals whose redeterminations were made using the Ex-Parte process.,"For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.916
+ 
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.901"
 EE14 Annual Renewals,"If ex-parte renewal cannot be completed, the system can automatically generate pre-populated renewal forms and distribute those forms via individuals' preferred communication mode."," - Percentage of individuals up for renewal who were sent a prepopulated renewal form.
- - Percentage of pre-populated renewals sent electronically and by mail.","42 CFR 435.916
-42 CFR 436.901 (for Guam, Puerto Rico, and the Virgin Islands)"
+ - Percentage of pre-populated renewals sent electronically and by mail.","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.916
+
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.901"
 EE15 Eligibility Category,The system applies an automated eligibility hierarchy that places an individual in the most advantageous group for which they are eligible at initial application and renewal.," - Outcome Attestation - Possibly the following: 
  - Test results (automated if possible) verifying that the system applies an automated eligibility hierarchy to assign individuals to the most advantageous category for which they are eligible. 
  - Most recent PERM report and related Corrective Action Plan, if applicable.
- - Demonstration of system functionality to apply the eligibility hierarchy in sub-production environment.","42 CFR 435.404
-42 CFR 436.404 (for Guam, Puerto Rico, and the Virgin Islands)"
+ - Demonstration of system functionality to apply the eligibility hierarchy in sub-production environment.","or states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.404
+ 
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.404"
 EE16 Eligibility Category,"The system uses automated business rules to assign accurate eligibility categories for all the mandatory and relevant optional eligibility groups at initial application and renewal. Example business rules include:
 ·       Correct identification of individuals age 19-64 at or below 133 percent FPL (VIII group)
-·       Correct alignment of eligibility categories to FMAP rate ", - Most recent PERM results,"42 CFR 435.404
-42 CFR 436.404 (for Guam, Puerto Rico, and the Virgin Islands)"
+·       Correct alignment of eligibility categories to FMAP rate ", - Most recent PERM results,"For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.404
+ 
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.404"
 EE17 Incarcerated individuals,Incarcerated individuals receive timely access to inpatient services and receive a timely and accurate eligibility determination upon release.," - Number/Percentage of individuals whose eligibility status was suspended due to incarceration, if applicable.
  - Number/Percentage of claims for inpatient services for incarcerated individuals.
- - Number/Percentage of claims paid for services other than inpatient services for incarcerated individuals.","42 CFR 435.1009
-42 CFR 436.1005 (for Guam, Puerto Rico, and the Virgin Islands)"
+ - Number/Percentage of claims paid for services other than inpatient services for incarcerated individuals.","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.1009
+ 
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.1005"
 EE18 Emergency Medicaid,Individuals whose coverage is limited to emergency services due to immigration status receive timely and accurate eligibility determination.," - Number/Percentage of claims paid for emergency services for individuals whose coverage is limited due to immigration status.
- - Number/Percentage of claims paid for services other than emergency services for individuals whose coverage is limited due to immigration status.","42 CFR 435.139
-42 CFR 440.255
-42 CFR 436.128 (for Guam, Puerto Rico, and the Virgin Islands)"
-EE19 Retroactive Eligibility,Individuals receive timely and accurate determinations of eligibility for the three months prior to the date of application if the individual would have been eligible and received Medicaid covered services., - Percentage of individuals who received retroactive coverage up to 3 months prior to the date of application. ,"42 CFR 435.915
-42 CFR 436.901 (for Guam, Puerto Rico, and the Virgin Islands)"
+ - Number/Percentage of claims paid for services other than emergency services for individuals whose coverage is limited due to immigration status.","For all states, District of Columbia, and territories:
+ - 42 CFR 440.255
+ 
+For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.139
+ 
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.128"
+EE19 Retroactive Eligibility,Individuals receive timely and accurate determinations of eligibility for the three months prior to the date of application if the individual would have been eligible and received Medicaid covered services., - Percentage of individuals who received retroactive coverage up to 3 months prior to the date of application. ,"For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.915
+
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.901"
 EE20 Effective Date of Eligibility,Individuals are promptly enrolled with the accurate effective date of eligibility in accordance with the approved State Plan.," - Outcome Attestation
  - Possibly: Test results (automated if possible) verifying that the system sets eligibility effective date according to state policy (pass/fail)   
- - Demonstration of process for assigning correct effective dates in sub- production environment (pass/fail)","42 CFR 435.915
-42 CFR 436.901 (for Guam, Puerto Rico, and the Virgin Islands)"
-EE21 Multi-Benefit Application,"In states that have an integrated eligibility system with human services programs, the system is able to pend application for one program without having to do so for Medicaid or CHIP programs, if needed.", - Individuals who apply for Medicaid on the basis of disability using a multi-benefit application receive determinations within 90 days and all other applicants using a multi-benefit application receive an eligibility determination within 45 days.,"June 18, 2013, CMS Guidance on State Alternative Applications for Health Coverage"
+ - Demonstration of process for assigning correct effective dates in sub- production environment (pass/fail)","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.915
+ 
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.901"
+EE21 Multi-Benefit Application,"In states that have an integrated eligibility system with human services programs, the system is able to pend application for one program without having to do so for Medicaid or CHIP programs, if needed.", - Individuals who apply for Medicaid on the basis of disability using a multi-benefit application receive determinations within 90 days and all other applicants using a multi-benefit application receive an eligibility determination within 45 days.,"For all states, District of Columbia, and territories:
+ - June 18, 2013, CMS Guidance on State Alternative Applications for Health Coverage"
 EE22 Integration with Other Programs,"The state maintains a coordinated eligibility and enrollment process with all insurance affordability programs by supporting bi-directional data-sharing for application-related data and adjudication status with all relevant insurance affordability programs (FFE, CHIP, SBE if applicable, BHP if applicable)."," - Success rate of Inbound Account Transfers from the state to the FFE (The state does not need to provide data for this metric; it will be taken from the CMS Weekly AT Report).
  - Success rate of Outbound Account Transfers from the FFE to the state (The state does not need to provide data for this metric; it will be taken from the CMS Weekly AT Report).
  - Success rate of Inbound Account Transfers from the state to the SBE, if applicable.
  - Success rate of Outbound Account Transfers from the SBE to the state, if applicable.
  - Number of applications sent to the state's separate CHIP (only applicable in states with separate CHIP programs)
- - Number of applications sent to the state's Basic Health Program (BHP) (only applicable in states with a BHP.",42 CFR 435.1200 
+ - Number of applications sent to the state's Basic Health Program (BHP) (only applicable in states with a BHP.","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.1200"
 EE23 Account Transfers (for FFE Determination States),Account Transfer information for individuals applying at the FFE from a determination state is automatically ingested and the state promptly enrolls individuals determined eligible by the FFE. ," - Number of days to enroll an individual who is determined eligible by the FFE.
- - Number of days to enroll an individual who is determined eligible by the SBE, if applicable.",42 CFR 435.1200 
+ - Number of days to enroll an individual who is determined eligible by the SBE, if applicable.","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.1200" 
 EE24 Account Transfers (for FFE Assessment States),Account Transfer information for individuals applying at the FFE from an assessment state is automatically ingested and the state conducts only the remaining verifications necessary to complete the determination process for individuals assessed as potential eligible by the FFE. ," - Average Number of days it takes to make an eligibility determination for Account Transfers from the FFE for non-disability related assessments.
  - Average Number of days it takes to make an eligibility determination for Account Transfers from the SBE, if applicable, for non-disability related assessments.
  - Average Number of days it takes to make an eligibility determination for Account Transfers from the FFE for disability related assessments.
- - Average Number of days it takes to make an eligibility determination for Account Transfers from the SBE, if applicable, for disability related assessments.",42 CFR 435.1200 
+ - Average Number of days it takes to make an eligibility determination for Account Transfers from the SBE, if applicable, for disability related assessments.","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.1200"
 EE25 Minimum Essential Coverage (MEC) Check,The system receives and responds to requests from the FFE in real-time to confirm whether an individual applying for coverage through the FFE currently has Minimum Essential Coverage through Medicaid or CHIP.," - Outcome Attestation 
- - Possibly: Test results (automated if possible) verifying that the system receives and responds to requests from the FFE for MEC check in real-time (Pass/fail)",42 CFR 435.1200 
+ - Possibly: Test results (automated if possible) verifying that the system receives and responds to requests from the FFE for MEC check in real-time (Pass/fail)","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.1200"
 EE26 Accessibility,"Persons with disabilities or with Limited English Proficiency (LEP) can submit a single streamlined application with any necessary assistance (e.g., TTY for the hearing impaired for phone applications, and language assistance for persons with LEP)."," - Number of calls using a TTY line.
  - Number of requests for translation services by language.
- - data on the Most common Help Desk calls from applicants and Beneficiaries.","42 CFR 435.905
-42 CFR 435.908
-42 CFR 436.901 (for Guam, Puerto Rico, and the Virgin Islands)"
+ - data on the Most common Help Desk calls from applicants and Beneficiaries.","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
+ - 42 CFR 435.905
+ - 42 CFR 435.908
+
+For Guam, Puerto Rico, and the Virgin Islands:
+ - 42 CFR 436.901"
 EE27 Appeals,"Beneficiaries and applicants can submit an appeal against an adverse action via multiple channels (e.g., online, phone, mail, in person) and the status and adjudication of an appeal can easily be accessed by necessary state staff and appellants."," - Percentage of appeals requested through each modality (mail, online, phone, in person). 
- - Number of pending appeals in the reporting period. ",42 CFR 431.221
+ - Number of pending appeals in the reporting period. ","For all states, District of Columbia, and territories:
+ - 42 CFR 431.221"
