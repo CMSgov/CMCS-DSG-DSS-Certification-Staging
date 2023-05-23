@@ -164,7 +164,7 @@ EE22 Integration with Other Programs,"The state maintains a coordinated eligibil
  - 42 CFR 435.1200"
 EE23 Account Transfers (for FFE Determination States),Account Transfer information for individuals applying at the FFE from a determination state is automatically ingested and the state promptly enrolls individuals determined eligible by the FFE. ," - Number of days to enroll an individual who is determined eligible by the FFE.
  - Number of days to enroll an individual who is determined eligible by the SBE, if applicable.","For states, District of Columbia, Northern Mariana Islands, and American Samoa:
- - 42 CFR 435.1200" 
+ - 42 CFR 435.1200"
 EE24 Account Transfers (for FFE Assessment States),Account Transfer information for individuals applying at the FFE from an assessment state is automatically ingested and the state conducts only the remaining verifications necessary to complete the determination process for individuals assessed as potential eligible by the FFE. ," - Average Number of days it takes to make an eligibility determination for Account Transfers from the FFE for non-disability related assessments.
  - Average Number of days it takes to make an eligibility determination for Account Transfers from the SBE, if applicable, for non-disability related assessments.
  - Average Number of days it takes to make an eligibility determination for Account Transfers from the FFE for disability related assessments.
