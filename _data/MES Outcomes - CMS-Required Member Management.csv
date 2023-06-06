@@ -1,4 +1,4 @@
-Reference #,CMS Required Outcomes,Recommended Metrics,Regulatory Sources
+Reference #,CMS Required Outcomes,Default Metrics,Regulatory Sources
 MM1,"The system auto-assigns managed care enrollees to appropriate managed care organizations, per state and federal regulations.", - Percentage of system auto assignment for MCO enrollees ongoing basis.,CFR 42 438.54
 MM2,"The system sends notice, or facilitates, to the enrolled member with an initial assignment, a reasonable period to change the selection, and appropriate information needed to make an informed choice. If no selection is made, the system either confirms the original assignment, or assigns the member to FFS."," - Notice to the enrollee must be provided by the later of 30 calendar days prior to the effective date of the termination, or 15 calendar days after receipt or issuance of the termination notice.
  - For States that choose to restrict disenrollment for periods of 90 days or more, States must send the notice no less than 60 calendar days before the start of each enrollment period.","CFR 42 438.10, 438.54"
