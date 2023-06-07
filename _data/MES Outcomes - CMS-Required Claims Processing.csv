@@ -1,4 +1,4 @@
-Reference #,CMS Required Outcomes,Default Metrics,Regulatory Sources
+Reference #,CMS Required Outcomes,Recommended Metrics,Regulatory Sources
 CP1 Receipt and Ingestion,"The system receives, ingests, and retains claims, claims adjustments, and supporting documentation submitted both electronically and by paper in standard formats."," - Count/percentage of claims received by submission channel (paper vs. electronic).
  - Median processing time for ingestion of non-electronic claims/documentation (from receipt to correct ingestion of/association with the associated claims record).",45 CFR 162.1102
 CP2 Validation,"The system performs comprehensive validation of claims and claims adjustments, including validity of services. ", - Count/percentage of claims/claims adjustments accepted/suspended/rejected for processing.,"42 CFR 431.052
