@@ -1,4 +1,4 @@
-Reference #,CMS Required Outcomes,Default Metrics,Regulatory Sources
+Reference #,CMS Required Outcomes,Recommended Metrics,Regulatory Sources
 PBM1,The system adjudicates claims within established time parameters to ensure timely pharmacy claims payments.," - Timely adjudication of pharmacy claims and encounters.
  - Percentage of claims paid on time (only if payment is included in RX module)
  - N/A if payments are issued from the MMIS system.","Section 1927(h) of the SSA 
