@@ -1,4 +1,4 @@
-Reference #,CMS Required Outcomes,Recommended Metrics,Regulatory Sources
+Reference #,CMS Required Outcomes,Default Metrics,Regulatory Sources
 TPL1 Application,"The system does the following:
 - Records third parties,
 - Determines the liability of third parties,
@@ -38,5 +38,5 @@ TPL10 Cost Effectiveness,The system enables the agency to seek reimbursement fro
 TPL11 MCO TPL Recovery,"As determined by the state policies, system(s) enables the state to manage and oversee TPL recoveries made by its MCOs."," - Number of dollars recovered due to MCO TPL recovery.
  - Percentage of recovered reimbursement attributed to MCOs.
  - Response time for MCOs to respond to SME regarding TPL recovery.",COB/TPL Training and Handbook- 2020 (pg. 53-55)
-TPL12 Privacy and Security,Appropriate privacy and security controls are in place so that information exchanged with other agencies is safeguarded., - Periodic risk analysis of these connections or exchange protocols between the data sharing parties.,42 CFR 433.138(h)
+TPL12 Privacy and Security,"Before requesting information from or releasing information to other agencies to identify legally liable third-party resources, state must execute data exchange agreements with those agencies.", - Periodic risk analysis of these connections or exchange protocols between the data sharing parties.,42 CFR 433.138(h)
 TPL13 Reimbursement Tracking,The system tracks TPL reimbursements received so that the state can reimburse the federal government in accordance with the state's FMAP., - Expected vs Actual TPL reimbursement,42 CFR 433.140 (c)
