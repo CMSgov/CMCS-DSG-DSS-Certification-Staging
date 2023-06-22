@@ -12,6 +12,8 @@ jobs:
             - "00:5c:4a:a0:67:2f:28:b1:81:83:b2:d3:40:da:c3:5e"
       # update this line when the repo is renamed
       - run: git remote add prod_repo git@github.com:CMSgov/CMCS-DSG-DSS-Certification.git
+      - run: git config --global user.email "jerome.lee@cms.hhs.gov"
+      - run: git config --global user.name "Jerome Lee"
       - run: git config pull.rebase false
       - run: git pull prod_repo main
       - run:
