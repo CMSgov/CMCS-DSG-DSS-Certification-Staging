@@ -20,7 +20,6 @@ Definitions: CMS, Centers for Medicare & Medicaid Services
 
 - States must submit an [Intake Form](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-intake-form.xlsx) and operational reports at multiple steps of the certification process and continue building on these documents over time. 
 - [Box](https://cmsbox.account.box.com/login) is the default repository for all operational reports. State are highly encouraged to use the [Operational Report Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/raw/main/Operational%20Report%20Workbook.xlsx) to submit their metrics data for operational reporting.
-
 - Data is checked and validated at multiple steps of the operational reporting process. 
 - Collaboration between the states and CMS is critical to ensure quality metrics and timely reporting. EVV metrics should be submitted quarterly in operational reports, whereas SMC-related metrics should be submitted in operational reports on an annual basis. 
 
