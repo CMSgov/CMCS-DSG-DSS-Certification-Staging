@@ -6,7 +6,7 @@ The purpose of this page is to re-introduce [MITA Framework](https://www.medicai
 
 ## Medicaid Information Technology Architecture (MITA)
 
-MITA 3.0 is the latest major release of MITA, a framework and an initiative to establish national guidelines for technologies, information, and processes that will enable a standard approach to Informational Technology (IT) project implementations for the state Medicaid Enterprise Systems. MITA is Included in sub-regulatory guidance to ensure state Medicaid IT projects align with national-level program goals and best practices.
+MITA 3.0 is the latest major release of MITA, a framework and an initiative to establish national guidelines for technologies, information, and processes that will enable a standard approach to Informational Technology (IT) implementations for state Medicaid Enterprise Systems. MITA is Included in sub-regulatory guidance to ensure state Medicaid IT projects align with national-level program goals and best practices.
 
 ## What's New
 
@@ -19,7 +19,7 @@ Updated 2023 goals from CMS include:
 
 ## MITA Governance Board (MGB)
 
-As part of the MITA initiative, DSG established the MGB in 2016 as a forum for states, providers, and IT industry representatives to provide their community perspectives on the strategic direction and approach for evolving the MITA framework.  The Board is being revitalized in 2023 with a new focus on updating the MITA framework to reflect current business and technical best practices for the state Medicaid enterprise.
+As part of the MITA initiative, DSG established the MGB in 2016 as a forum for states, providers, and IT industry representatives to provide their community perspectives on the strategic direction and approach for evolving the MITA framework.  The Board began reconvening March 2023 with a new focus on updating the MITA framework to reflect current business and technical best practices for the state Medicaid enterprise.
 
 MGB has sponsored and kicked off the following workgroups:
 - **MITA NextGen Workgroup:** Update and refine the roles of Business Architecture (BA), Technical Architecture (TA), and Information Architecture (IA) in the evolution of MITA.
