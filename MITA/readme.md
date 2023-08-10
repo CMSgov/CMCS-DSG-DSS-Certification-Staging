@@ -1,6 +1,6 @@
 # MITA and its Governance Board
 
-##Overview
+## Overview
 
 The purpose of this page is to re-introduce [MITA Framework](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-framework/index.html) to states and keep stakeholders abreast of the work being done by the [MITA Governance Board](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-governance-board-overview/index.html). 
 
@@ -31,5 +31,5 @@ Interested in Joining an MGB Workgroup? Contact us:  MITAGovBoard@cms.hhs.gov
 
 ##References
 
-- Current MITA Governance Board
+- [Current MITA Governance Board](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/raw/MESC-Updates/MITA/MITA_MGBMemberList_FFY2023.pdf)
 - [CMS MGB Site](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-governance-board-overview/index.html)
