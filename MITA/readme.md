@@ -27,7 +27,7 @@ MGB has sponsored and kicked off the following workgroups:
 - **State Self-Assessment (SS-A) Workgroup:** Research and recommend a reimagined SS-A that is less burdensome and more useful to states and CMS.
 - **MITA Communications Workgroup:** Promote awareness of MITA at conferences, distribute news about MITA changes, and design an improved approach to publishing MITA guidance.
 
-Interested in Joining an MGB Workgroup? Contact us: MITAGovBoard@cms.hhs.gov
+Interested in Joining an MGB Workgroup? Contact us: <MITAGovBoard@cms.hhs.gov>
 
 ## References
 
