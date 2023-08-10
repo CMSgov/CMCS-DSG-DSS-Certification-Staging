@@ -22,14 +22,14 @@ Updated 2023 goals from CMS include:
 As part of the MITA initiative, DSG established the MGB in 2016 as a forum for states, providers, and IT industry representatives to provide their community perspectives on the strategic direction and approach for evolving the MITA framework.  The Board is being revitalized in 2023 with a new focus on updating the MITA framework to reflect current business and technical best practices for the state Medicaid enterprise.
 
 MGB has sponsored and kicked off the following workgroups:
-- MITA NextGen Workgroup: Update and refine the roles of Business Architecture (BA), Technical Architecture (TA), and Information Architecture (IA) in the evolution of MITA.
-- MITA Interoperability Workgroup: Promote the principles of interoperability and open standards in Medicaid, including Fast Healthcare Interoperability Resources (FHIR), and produce guidance to help State agencies in their journeys toward interoperability.
-- State Self-Assessment (SS-A) Workgroup: Research and recommend a reimagined SS-A that is less burdensome and more useful to states and CMS.
-- MITA Communications Workgroup:  Promote awareness of MITA at conferences, distribute news about MITA changes, and design an improved approach to publishing MITA guidance.
+- **MITA NextGen Workgroup:** Update and refine the roles of Business Architecture (BA), Technical Architecture (TA), and Information Architecture (IA) in the evolution of MITA.
+- **MITA Interoperability Workgroup:** Promote the principles of interoperability and open standards in Medicaid, including Fast Healthcare Interoperability Resources (FHIR), and produce guidance to help State agencies in their journeys toward interoperability.
+- **State Self-Assessment (SS-A) Workgroup:** Research and recommend a reimagined SS-A that is less burdensome and more useful to states and CMS.
+- **MITA Communications Workgroup:** Promote awareness of MITA at conferences, distribute news about MITA changes, and design an improved approach to publishing MITA guidance.
 
-Interested in Joining an MGB Workgroup? Contact us:  MITAGovBoard@cms.hhs.gov
+Interested in Joining an MGB Workgroup? Contact us: MITAGovBoard@cms.hhs.gov
 
-##References
+## References
 
 - [Current MITA Governance Board](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/raw/MESC-Updates/MITA/MITA_MGBMemberList_FFY2023.pdf)
 - [CMS MGB Site](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-governance-board-overview/index.html)
