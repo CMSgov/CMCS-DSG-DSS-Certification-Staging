@@ -1,12 +1,15 @@
-MITA and its Governance Board
+# MITA and its Governance Board
 
-Overview
+##Overview
+
 The purpose of this page is to re-introduce [MITA Framework](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-framework/index.html) to states and keep stakeholders abreast of the work being done by the [MITA Governance Board](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-governance-board-overview/index.html). 
 
-Medicaid Information Technology Architecture (MITA)
+## Medicaid Information Technology Architecture (MITA)
+
 MITA 3.0 is the latest major release of MITA, a framework and an initiative to establish national guidelines for technologies, information, and processes that will enable a standard approach to Informational Technology (IT) project implementations for the state Medicaid Enterprise Systems. MITA is Included in sub-regulatory guidance to ensure state Medicaid IT projects align with national-level program goals and best practices.
 
-What's New
+## What's New
+
 Updated 2023 goals from CMS include:
 - Make MITA more meaningful and accessible 
 - Reduce burden on states 
@@ -14,7 +17,8 @@ Updated 2023 goals from CMS include:
 - Tighten integration with APD/Certification activities 
 - Release guidance that is aligned with current trends in healthcare and IT
 
-MITA Governance Board (MGB)
+## MITA Governance Board (MGB)
+
 As part of the MITA initiative, DSG established the MGB in 2016 as a forum for states, providers, and IT industry representatives to provide their community perspectives on the strategic direction and approach for evolving the MITA framework.  The Board is being revitalized in 2023 with a new focus on updating the MITA framework to reflect current business and technical best practices for the state Medicaid enterprise.
 
 MGB has sponsored and kicked off the following workgroups:
@@ -25,6 +29,7 @@ MGB has sponsored and kicked off the following workgroups:
 
 Interested in Joining an MGB Workgroup? Contact us:  MITAGovBoard@cms.hhs.gov
 
-References
+##References
+
 - Current MITA Governance Board
 - [CMS MGB Site](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-governance-board-overview/index.html)
