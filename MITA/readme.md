@@ -31,5 +31,5 @@ Interested in Joining an MGB Workgroup? Contact us: <MITAGovBoard@cms.hhs.gov>
 
 ## References
 
-- [Current MITA Governance Board](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/raw/MESC-Updates/MITA/MITA_MGBMemberList_FFY2023.pdf)
+- [Current MITA Governance Board](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/raw/MITA/MITA_MGBMemberList_FFY2023.pdf)
 - [CMS MGB Site](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-governance-board-overview/index.html)
