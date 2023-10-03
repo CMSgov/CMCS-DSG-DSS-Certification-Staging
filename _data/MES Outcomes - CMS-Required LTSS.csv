@@ -9,7 +9,7 @@ LTSS3,"LTSS system assigns, tracks and changes beneficiary prioritization and wa
  - Verify assigning and changing waitlist status.
  - Verify researching and finding prioritization and waitlist status. 
  - Verify ability to report on waitlist and prioritization status.","42 CFR 441.305"
-LTSS4,"LTSS system maintains a record of beneficiaries who have left the waiver program due to death or loss of eligibility for Medicaid under the State Plan to replace those beneficiaries with others on the waitlist."," - Verify ability to update beneficiary records for death, loss of edibility
+LTSS4,"LTSS system maintains a record of beneficiaries who have left the waiver program due to death or loss of eligibility for Medicaid under the State Plan to replace those beneficiaries with others on the waitlist."," - Verify ability to update beneficiary records for death, loss of eligibility
 – Pass/Fail",42 CFR 441.305
 LTSS5,"LTSS system stores the person-centered plan, including any updates or changes containing all required information and consent signatures."," - Percentage of beneficiaries with current and complete person-centered plan",42 CFR 441.302
 LTSS6,"LTSS system supports conflict-free case management via role-based access, proper firewalls, and mitigation strategies that provide beneficiaries appropriate access to records."," - Pass/Fail for the following: 
