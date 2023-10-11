@@ -1,9 +1,4 @@
 State,Medicaid Program Goal,Outcome Statement,Metric(s)
-MO,,Within 24 months business units use dashboards to manage programs.,"Performance will be measured by:
-- Making dashboards available at a minimum after each financial cycle. The dashboards availability on the determined time schedule will be monitored. It is expected 100% of the time the dashboard will be run. Number of times the dashboards have been accessed.
-- Analysis of requests for changes/enhancements to dashboards using operational modifications. We will track the reason for the change and the business units use of the dashboard for program operations. It is anticipated this will be used for further defining program metrics or a new use of data for program monitoring.
-- Development of a survey for user satisfaction/adoption/improvements - (Does your unit have a dashboard? What do you like about it, what do you wish to change?)
-"
 MO,,"Transform MHD from a transactional, request as needed data approach to a business intelligence driven model recognizing and treating data as an asset.","Performance will be measured by:
 - Conducting an initial data maturity analysis and prioritizing recommendations and review every two (2) years.
 - Establishing a Data Governance Council who is engaged and meets at a minimum of quarterly and has at least 60% participation as measured by attendence.
