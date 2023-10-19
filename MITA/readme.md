@@ -31,8 +31,8 @@ Interested in Joining an MGB Workgroup? Contact us: <MITAGovBoard@cms.hhs.gov>
 
 ## References
 
-- [Current MITA Governance Board](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/raw/staging/MITA/MITA_MGBMemberList_FFY2023.pdf)
+- [Current MITA Governance Board (Download)](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/raw/staging/MITA/MITA_MGBMemberList_FFY2023.pdf)
 - [CMS MGB Site](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-governance-board-overview/index.html)
-- [MITA Frequently Asked Questions](https://cmsbox.app.box.com/index.php?rm=box_download_shared_file&shared_name=9lduavfqsdf9foo8meji8d1svv9lafod&file_id=f_1338125648504)
-- MITA Monthly Newsletters
-  - [October 2023 Newsletter](https://cmsbox.app.box.com/index.php?rm=box_download_shared_file&shared_name=zku8uve0gk1hpc551iij0j80ydgfssen&file_id=f_1338129115196)
+- [MITA Frequently Asked Questions (Download)](https://cmsbox.app.box.com/index.php?rm=box_download_shared_file&shared_name=9lduavfqsdf9foo8meji8d1svv9lafod&file_id=f_1338125648504)
+- MITA Newsletters
+  - [October 2023 Newsletter (Download)](https://cmsbox.app.box.com/index.php?rm=box_download_shared_file&shared_name=zku8uve0gk1hpc551iij0j80ydgfssen&file_id=f_1338129115196)
