@@ -16,7 +16,7 @@ This table, combined with the applicable business area outcomes, are a starting 
 
 {% include table.html table=cms %}
 
-
+[Click here for CEF Tips and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEF Tips/)
 
 ## Additional Resources
 - [SMC SMDL Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
