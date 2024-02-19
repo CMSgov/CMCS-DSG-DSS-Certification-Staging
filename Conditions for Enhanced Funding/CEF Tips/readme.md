@@ -78,21 +78,21 @@
 - [Enrollment data performance indicator report](https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-chip-enrollment-data/monthly-medicaid-chip-application-eligibility-determination-and-enrollment-reports-data/index.html)
 
 ## References
-- 42 C.F.R. § 433.112 
-- 42 C.F.R. § 433.116 
-- 45 C.F.R. §164.308 
-- 45 C.F.R. § 95.621 
-- Medicaid.gov SMC Site 
-- State Medicaid Director Letter #22-001 
-- State Medicaid Director Letter #06-022 
-- State Medicaid Manual 
-- Business Associates  
-- Voluntary Product Accessibility Template (VPAT), see the latest WCAG version 
-- State Self-Assessment (SS-A) 
-- Example Risk Acceptance Form (see Attachment D) 
-- Example Concept of Operations template 
-- FedRAMP POA&M template 
-- ACA AE templates are posted in CMS zONE which requires additional access.  Please ask your state's ACA E&E ISSO for these templates.  
+- [42 C.F.R. § 433.112](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.112)
+- [42 C.F.R. § 433.116](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.116)
+- [45 C.F.R. §164.308](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-C/section-164.308)
+- [45 C.F.R. § 95.621](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-95/subpart-F/subject-group-ECFR8ea7e78ba47a262/section-95.621)
+- [Medicaid.gov SMC Site](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html)
+- [State Medicaid Director Letter #22-001](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html)
+- [State Medicaid Director Letter #06-022](https://downloads.cms.gov/cmsgov/archived-downloads/SMDL/downloads/SMD092006.pdf)
+- [State Medicaid Manual](https://www.cms.gov/Regulations-and-Guidance/Guidance/Manuals/Paper-Based-Manuals-Items/CMS021927)
+- [Business Associates](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/business-associates/index.html)
+- [Voluntary Product Accessibility Template (VPAT)](https://www.itic.org/policy/accessibility/vpat), see the latest WCAG version 
+- [State Self-Assessment (SS-A)](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-framework/index.html)
+- [Example Risk Acceptance Form](https://www.cms.gov/files/document/poamprocedurepdf) (see Attachment D) 
+- [Example Concept of Operations template](https://www.nasa.gov/reference/appendix-s-concept-of-operations-annotated-outline/)
+- [FedRAMP POA&M template](https://www.fedramp.gov/2022-06-28-update-poam-template/)
+- ACA AE templates are posted in CMS zONE which requires additional access. Please ask your state's ACA E&E ISSO for these templates.  
 
 
 [^1]: IEEE Computer Society, March 19, 1998, IEEE Guide for Information Technology—System Definition—Concept of Operations (ConOps) Document (IEEE Std 1362-1998).
