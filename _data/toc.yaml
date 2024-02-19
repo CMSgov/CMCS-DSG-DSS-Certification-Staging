@@ -27,8 +27,11 @@ toc:
     link: /certification-process
   - title: Writing a good outcome statement
     link: /writing-outcome-statements
-  - title: Conditions for Enhanced Funding
-    link: /Conditions for Enhanced Funding/
+  - section: Conditions for Enhanced Funding
+    subdir: Conditions for Enhanced Funding
+    items:
+      - title: CEFs
+      - title: CEF Tips
   - title: Metrics and Ongoing Reporting
     link: /Ongoing Reporting/
   - title: MITA
