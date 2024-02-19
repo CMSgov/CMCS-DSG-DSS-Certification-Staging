@@ -2,7 +2,7 @@
 
 The following FAQs were prepared to help answer questions about the new Streamlined Modular Certification (SMC) process and requirements. This information is meant to help answer questions about SMC. The official [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) can be found on Medicaid.gov and is the primary source of information on SMC process and requirements. Other helpful information is on the Certification GitHub and you can always reach out to your State Officer with questions.  
 
-We will continue to add to the FAQ as new questions arise. [Download the FAQs as a PDF.](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/raw/FAQs-and-Ongoing-Reporting/FAQs/SMC%20FAQs%20for%20States.pdf)
+We will continue to add to the FAQ as new questions arise. [Download the FAQs as a PDF.](https://cmsbox.app.box.com/index.php?rm=box_download_shared_file&shared_name=lwpwl5cpw5upxicmgrjymbokoyo9ygcu&file_id=f_1449153035306)
 
 - [Overview of SMC](#overview)
 - [How will SMC Impact States?](#impact)
