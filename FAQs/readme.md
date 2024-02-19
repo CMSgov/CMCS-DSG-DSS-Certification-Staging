@@ -120,9 +120,9 @@ States should also propose their own state-specific outcomes that are informed b
 
 ## Conditions for Enhanced Funding {#CEF}
 
-Please visit the [Conditions for Enhanced Funding (CEF)]({{site.baseurl}}/CEFs/) page on GitHub for example evidence.  The CEF includes privacy and security (see CEF 9, 12, and 18). 
+Please visit the [Conditions for Enhanced Funding (CEF)]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) page on GitHub for example evidence.  The CEF includes privacy and security (see CEF 9, 12, and 18). 
 
-Please visit the [CEF Tips and Best Practices]({{site.baseurl}}/CEF Tips/) page on GitHub for additional tips and best practices.   
+Please visit the [CEF Tips and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEF Tips/) page on GitHub for additional tips and best practices.   
 
 ### Q: What is the recommended timeline for addressing privacy and security during the Design, Development, and Implementation (DDI) and Maintenance and Operations (M&O)? 
 A: CMS recommends the following: 
