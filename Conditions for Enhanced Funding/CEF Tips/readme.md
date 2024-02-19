@@ -63,7 +63,6 @@
 -	In addition to the above HIPAA requirements, the state, in turn, should immediately report a security or privacy incident or breach, whether discovered by its own staff or reported by a contractor, to the CMS State Officer and CMS IT Service Desk at cms_it_service_desk@cms.hhs.gov. If a state is unable to report breaches to the CMS IT Service Desk via email, the state can contact the CMS IT Service Desk by phone at (800) 562-1963 or (410) 786-2580.
 -	The monthly project status report should include important security and privacy events. For example, completing a system security plan (SSP), or managing important steps in completing the independent third-party security and privacy audit and penetration test prior to ORR.
 
-
 ## Additional Resources
 - [SMC SMDL Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 - [MES Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf)
@@ -93,7 +92,6 @@
 - [Example Concept of Operations template](https://www.nasa.gov/reference/appendix-s-concept-of-operations-annotated-outline/)
 - [FedRAMP POA&M template](https://www.fedramp.gov/2022-06-28-update-poam-template/)
 - ACA AE templates are posted in CMS zONE which requires additional access. Please ask your state's ACA E&E ISSO for these templates.  
-
 
 [^1]: IEEE Computer Society, March 19, 1998, IEEE Guide for Information Technology—System Definition—Concept of Operations (ConOps) Document (IEEE Std 1362-1998).
 [^2]: Office of Management and Budget, December 5, 1994, Operational Concept Description (OCD), Data Item Description DI-IPSC-81430.
