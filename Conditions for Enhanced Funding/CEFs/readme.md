@@ -1,14 +1,12 @@
 # Conditions for Enhanced Funding (CEF)
 
 ## Overview
-Regulatory requirements that span business areas, previously called “enterprise,” are now Conditions for Enhanced Funding (CEF) and mirror the “Standards and Conditions” in regulation. Under SMC, CMS significantly reduced number of requirements from 5 core MECT checklists to 22 conditions. 
-
-States must attest that the system complies with all the CEF outlined at [42 CFR 433.112](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.112) and that the system remains in compliance with Medicaid program standards, laws, regulations, and industry best practices once it is in production.
+As a condition of receiving enhanced federal financial participation (FFP) for state expenditures on Medicaid Enterprise Systems (MES), states must attest that the system complies with all of the applicable 22 conditions for enhanced funding (CEF) as provided in [42 C.F.R. 433.112](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.112) and that the system remains compliant with federal Medicaid requirements for enhanced funding once it is in operation as provided in [42 C.F.R. 433.116](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.116).  
 
 ## Conditions for Enhanced Funding
-The information in the following table contains the Conditions for Enhanced Funding (CEF) described in 42 C.F.R. § 433.112 that are applicable for all MES modules.
+The information in the following table contains the CEF described in [42 C.F.R. 433.112](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.112) that are applicable for all MES modules. 
 
-This table, combined with the applicable business area outcomes, are a starting point for aligning the state’s goals for a project with applicable CMS-required outcomes.
+This table, combined with the applicable business area outcomes, are a starting point for aligning the state’s goals for a project with applicable CMS-required outcomes. 
 
 {% assign cms = "CEFs" %}
 
