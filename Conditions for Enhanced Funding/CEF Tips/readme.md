@@ -65,16 +65,35 @@
 
 
 ## Additional Resources
--	[SMC SMDL Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
--	[MES Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf)
--	[Section 508 Guidance](https://www.section508.gov/test)
--	[Accessibility Guidance](https://accessibility.18f.gov)
--	[Address Gaps in Cybersecurity:  HHS OCR releases crosswalk between HIPAA Security Rule and NIST Cybersecurity Framework and NIST SP 800-53 controls](https://www.hhs.gov/sites/default/files/nist-csf-to-hipaa-security-rule-crosswalk-02-22-2016-final.pdf)
+- [SMC SMDL Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
+- [MES Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf)
+- [Operational Report Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Operational%20Report%20Workbook.xlsx)
+- [Transformed Medicaid Statistical Information System (T-MSIS)](https://www.medicaid.gov/medicaid/data-systems/macbis/transformed-medicaid-statistical-information-system-t-msis/index.html)
+- [Section 508 Guidance](https://www.section508.gov/test)
+- [Accessibility Guidance](https://accessibility.18f.gov)
+- [Incident Response](https://www.cms.gov/about-cms/information-systems/privacy/incident-response)
+- [Address Gaps in Cybersecurity: HHS OCR releases crosswalk between HIPAA Security Rule and NIST Cybersecurity Framework and NIST SP 800-53 controls](https://www.hhs.gov/sites/default/files/nist-csf-to-hipaa-security-rule-crosswalk-02-22-2016-final.pdf)
+- [Risk assessment determination and scale as defined in NIST SP 800-30 Revision 1](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf), see Appendix G (Likelihood of Occurrence), H (Impact), and I (Risk Determination)
+- [PERM](https://www.cms.gov/data-research/monitoring-programs/improper-payment-measurement-programs/payment-error-rate-measurement-perm)
+- [Enrollment data performance indicator report](https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-chip-enrollment-data/monthly-medicaid-chip-application-eligibility-determination-and-enrollment-reports-data/index.html)
 
 ## References
--	[42 C.F.R. § 433.112](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.112) 
--	[45 C.F.R. § 95.621](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-95/subpart-F/subject-group-ECFR8ea7e78ba47a262/section-95.621)
--	[Medicaid.gov SMC Site](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html)
+- 42 C.F.R. § 433.112 
+- 42 C.F.R. § 433.116 
+- 45 C.F.R. §164.308 
+- 45 C.F.R. § 95.621 
+- Medicaid.gov SMC Site 
+- State Medicaid Director Letter #22-001 
+- State Medicaid Director Letter #06-022 
+- State Medicaid Manual 
+- Business Associates  
+- Voluntary Product Accessibility Template (VPAT), see the latest WCAG version 
+- State Self-Assessment (SS-A) 
+- Example Risk Acceptance Form (see Attachment D) 
+- Example Concept of Operations template 
+- FedRAMP POA&M template 
+- ACA AE templates are posted in CMS zONE which requires additional access.  Please ask your state's ACA E&E ISSO for these templates.  
+
 
 [^1]: IEEE Computer Society, March 19, 1998, IEEE Guide for Information Technology—System Definition—Concept of Operations (ConOps) Document (IEEE Std 1362-1998).
 [^2]: Office of Management and Budget, December 5, 1994, Operational Concept Description (OCD), Data Item Description DI-IPSC-81430.
