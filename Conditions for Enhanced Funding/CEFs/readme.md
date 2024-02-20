@@ -26,7 +26,7 @@ This table, combined with the applicable business area outcomes, are a starting 
 - [Section 508 Guidance](https://www.section508.gov/test)
 - [Accessibility Guidance](https://accessibility.18f.gov)
 - [Incident Response](https://www.cms.gov/about-cms/information-systems/privacy/incident-response)
-- [Address Gaps in Cybersecurity: HHS OCR releases crosswalk between HIPAA Security Rule and NIST Cybersecurity Framework and NIST SP 800-53 controls](https://www.hhs.gov/sites/default/files/nist-csf-to-hipaa-security-rule-crosswalk-02-22-2016-final.pdf)
+- [Address Gaps in Cybersecurity: HHS OCR releases crosswalk between HIPAA Security Rule and NIST Cybersecurity Framework and NIST SP 800-53 controls](https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents//nist-csf-to-hipaa-security-rule-crosswalk-02-22-2016-final.pdf)
 - [Risk assessment determination and scale as defined in NIST SP 800-30 Revision 1](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf), see Appendix G (Likelihood of Occurrence), H (Impact), and I (Risk Determination)
 - [PERM](https://www.cms.gov/data-research/monitoring-programs/improper-payment-measurement-programs/payment-error-rate-measurement-perm)
 - [Enrollment data performance indicator report](https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-chip-enrollment-data/monthly-medicaid-chip-application-eligibility-determination-and-enrollment-reports-data/index.html)
