@@ -2,11 +2,12 @@
 
 The following FAQs were prepared to help answer questions about the new Streamlined Modular Certification (SMC) process and requirements. This information is meant to help answer questions about SMC. The official [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) can be found on Medicaid.gov and is the primary source of information on SMC process and requirements. Other helpful information is on the Certification GitHub and you can always reach out to your State Officer with questions.  
 
-We will continue to add to the FAQ as new questions arise. [Download the FAQs as a PDF.](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/raw/FAQs-and-Ongoing-Reporting/FAQs/SMC%20FAQs%20for%20States.pdf)
+We will continue to add to the FAQ as new questions arise. [Download the FAQs as a PDF.](https://cmsbox.app.box.com/index.php?rm=box_download_shared_file&shared_name=lwpwl5cpw5upxicmgrjymbokoyo9ygcu&file_id=f_1449153035306)
 
 - [Overview of SMC](#overview)
 - [How will SMC Impact States?](#impact)
 - [Outcomes and Metrics](#outcomes)
+- [Conditions for Enhanced Funding](#CEF)
 - [Intake Form](#intake)
 - [Certification](#certification)
 - [Reporting Requirements](#reporting)
@@ -114,6 +115,24 @@ CMS anticipates that states may need to revisit and update outcomes and metrics 
 A: Under SMC, states will select CMS-required outcomes under each relevant module. CMS-required outcomes for specific MES modules can be found in Appendix B of the SMDL. These outcomes are aligned with regulatory and policy requirements that states must follow when implementing modules or capabilities. The lists in Appendix B are the “menu” the state chooses from to select the CMS-required outcomes that are applicable for a given project.
 
 States should also propose their own state-specific outcomes that are informed by what they are trying to accomplish for their Medicaid program. State-specific outcomes should be specific to the IT investment the state is making and should allow the state to demonstrate progress towards meetings its programmatic goals.
+
+***
+
+## Conditions for Enhanced Funding {#CEF}
+
+Please visit the [Conditions for Enhanced Funding (CEF)]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) page on GitHub for example evidence.  The CEF includes privacy and security (see CEF 9, 12, and 18). 
+
+Please visit the [CEF Tips and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEF Tips/) page on GitHub for additional tips and best practices.   
+
+### Q: What is the recommended timeline for addressing privacy and security during the Design, Development, and Implementation (DDI) and Maintenance and Operations (M&O)? 
+A: CMS recommends the following: 
+- **System Security Plan (SSP)** – must be drafted early in the DDI as it is included in the SCA and maintained throughout M&O.  
+- **Security Control Assessment (SCA)** – must be completed prior to go-live and the Security and Privacy Assessment Report (SAR) provided for ORR evidence. SCA must be completed biennially unless following Affordable Care Act (ACA) Administering Entity (AE) then annually. 
+- **Penetration Test** – must be complete prior to go-live. Penetration testing must be completed biennially (strongly recommending annually) unless following ACA AE then annually. 
+- **Vulnerability Scans** – must be completed continuously (recommend monthly) throughout DDI and M&O. 
+- **Plan of Action & Milestone (POA&M)** – must be updated throughout DDI and M&O with all vulnerabilities, including at minimum those from the penetration test, SCA, vulnerability scans, and disaster recovery findings. Recommend using the Affordable Care Act (ACA) Administering Entity (AE) POA&M template. 
+- **Disaster Recovery & Business Continuity Plan** – must be drafted early in the DDI as it is included in the SCA.  The plans must be reviewed yearly throughout DDI and M&O.
+- **Disaster Recovery Test** – strongly recommended to be performed yearly throughout DDI and M&O.  A test must be completed prior to go-live.  
 
 ***
 
