@@ -14,7 +14,7 @@
 ## 508 Compliance
 -	States should produce an objective artifact (e.g., Voluntary Product Accessibility Templates (VPAT)) for their 508-compliance test reports. Alternative formats to VPATs are acceptable as long as the state has performed 508-compliance testing and provides the reports as evidence prior to a review. States can follow tools and techniques at https://www.section508.gov/test or https://accessibility.18f.gov. Note that a VPAT is not an audit, as an audit goes into much greater detail.
 
-## System Architedcture
+## System Architecture
 -	States must show how open architecture and vendor communication allows the system to continue performing in a plug-and-play manner despite potential vendor turnover.
 -	States should provide a systems diagram that explains its architecture and the interaction between various aspects of the overarching MES ecosystem to demonstrate the larger system structure and how business areas communicate.
 
