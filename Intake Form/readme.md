@@ -55,8 +55,7 @@ For more information on CEFs and Outcomes:
 -	Outcomes and the Certification Process 
 -	Writing a Good Outcome Statement 
 
-States can also find more details within the SMC Guidance: 
--	Appendices A through D of Certification Guidance Microsoft Word - Guidance Doc - SMDL Streamlining Modular Certification for Medicaid Enterprise Systems.docx
+States can also find more details within the [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf), including additional details on:
 -	Conditions for Enhanced Funding
 -	CMS-required Outcomes
 -	Required Artifacts List
