@@ -41,14 +41,14 @@ For a given module or system, all CMS-required outcomes pertaining to that modul
 These reflect the unique circumstances or characteristics of the state or territory and its Medicaid program and focus on improvements to the program not specifically addressed by the CMS-required outcomes. State-Specific Outcomes should target specific business or policy problems and enable the state to demonstrate direct Medicaid program benefits. States should work with their CMS State Officer to finalize outcomes that address the proposed functionality.
 
 #### Numbering Conventions for State-specific Outcomes
-States may create a unique reference number for their state-specific outcomes in the Intake Form. Note that these reference numbers must match the Outcome Reference Numbers utilized in Column C of the Operational Reporting Workbook. The “Metrics Definitions” tab of the Operational Report Workbook contains more detail on numbering conventions. 
+States may create a unique reference number for their state-specific outcomes in the Intake Form. Note that these reference numbers must match the Outcome Reference Numbers utilized in Column C of the [Operational Reporting Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Operational%20Report%20Workbook.xlsx). The “Metrics Definitions” tab of the Operational Report Workbook contains more detail on numbering conventions. 
 
 If states have questions or need additional clarification, reach out to your CMS State Officer. A best practice utilized by many states is to request early input which may limit the amount of rework for the state and result in a more efficient review. 
 
 ## Resources
 For templates, please visit: 
 -	[Appendix E – Intake Form Template](https://cmsbox.app.box.com/index.php?rm=box_download_shared_file&shared_name=g5nbtla1h303w3keg9fx5pd6aalsuh7z&file_id=f_1379611642948) 
--	Operational Report Workbook
+-	[Operational Report Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Operational%20Report%20Workbook.xlsx)
 
 For more information on CEFs and Outcomes:
 -	Conditions for Enhanced Funding 
