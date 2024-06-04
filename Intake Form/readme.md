@@ -25,7 +25,7 @@ States must complete the following for the CEF Tab:
 -	For ORRs, states must complete columns C (Evidence) and D (Comments).
 -	For CRs, states must complete columns I (Evidence) and J (Comments).
 
-In the Evidence column, list the file name(s) of documents containing supporting evidence in Box. In the Comments column, describe how the contents of the Evidence files meet the criteria and any other information that is needed for evaluation. CEF criteria do not require metrics or demonstrations. States can refer to the GitHub Conditions for Enhanced Funding section for example evidence.
+In the Evidence column, list the file name(s) of documents containing supporting evidence in Box. In the Comments column, describe how the contents of the Evidence files meet the criteria and any other information that is needed for evaluation. CEF criteria do not require metrics or demonstrations. States can refer to the [GitHub Conditions for Enhanced Funding]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) section for example evidence.
 
 If a condition is not applicable, the state should mark "N/A" in the "State ORR Evidence" and "State CR Evidence" columns (Column C for ORR, Column I for CR). The state should include a brief explanation of why the outcome is not applicable to their system in the “Comments” column (Column D for ORR, Column J for CR). 
 
@@ -51,9 +51,9 @@ For templates, please visit:
 -	[Operational Report Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Operational%20Report%20Workbook.xlsx)
 
 For more information on CEFs and Outcomes:
--	Conditions for Enhanced Funding 
--	Outcomes and the Certification Process 
--	Writing a Good Outcome Statement 
+-	[Conditions for Enhanced Funding]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) 
+-	[Outcomes and the Certification Process]({{site.baseurl}}/certification-process.md) 
+-	[Writing a Good Outcome Statement]({{site.baseurl}}/writing-outcome-statements.md) 
 
 States can also find more details within the [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf), including additional details on:
 -	Conditions for Enhanced Funding
