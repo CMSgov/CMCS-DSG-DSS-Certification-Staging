@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The Intake Form Template is used throughout the Streamlined Modular Certification (SMC) process to track information about a state’s single Medicaid Enterprise Systems (MES) project undergoing certification. States will fill out the Intake Form Template by entering the CMS-required outcomes that document compliance with regulations applicable to their module or system, their state-specific outcomes, and the metrics used to show that the project is achieving its outcomes on a continuous basis.
+The [Intake Form Template](https://cmsbox.app.box.com/index.php?rm=box_download_shared_file&shared_name=g5nbtla1h303w3keg9fx5pd6aalsuh7z&file_id=f_1379611642948) is used throughout the Streamlined Modular Certification (SMC) process to track information about a state’s single Medicaid Enterprise Systems (MES) project undergoing certification. States will fill out the Intake Form Template by entering the CMS-required outcomes that document compliance with regulations applicable to their module or system, their state-specific outcomes, and the metrics used to show that the project is achieving its outcomes on a continuous basis.
 
 ## Using the Intake Form
 
@@ -47,7 +47,7 @@ If states have questions or need additional clarification, reach out to your CMS
 
 ## Resources
 For templates, please visit: 
--	Appendix E – Intake Form Template 
+-	[Appendix E – Intake Form Template](https://cmsbox.app.box.com/index.php?rm=box_download_shared_file&shared_name=g5nbtla1h303w3keg9fx5pd6aalsuh7z&file_id=f_1379611642948) 
 -	Operational Report Workbook
 
 For more information on CEFs and Outcomes:
