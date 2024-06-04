@@ -1,10 +1,10 @@
-#Intake Form Guidance 
+# Intake Form Guidance 
 
-##Purpose
+## Purpose
 
 The Intake Form Template is used throughout the Streamlined Modular Certification (SMC) process to track information about a state’s single Medicaid Enterprise Systems (MES) project undergoing certification. States will fill out the Intake Form Template by entering the CMS-required outcomes that document compliance with regulations applicable to their module or system, their state-specific outcomes, and the metrics used to show that the project is achieving its outcomes on a continuous basis.
 
-##Using the Intake Form
+## Using the Intake Form
 
 At the time of the ORR and CR, the CMS and MITRE reviewers will use the Intake Form Template to document their assessment of whether the state sufficiently demonstrated compliance with the conditions for enhanced funding and outcomes. This document becomes a part of the official record of the state’s certification, inclusive of the ORR and CR.  
 
@@ -14,11 +14,11 @@ States should make sure to always use the most current version of the Intake For
 
 As states prepare for their review, they will continuously add or update the Intake Form content. They may wish to share these interim copies with their CMS State Officer or review team for discussion or preliminary feedback. A finalized Intake Form must be uploaded to Box at minimum two weeks prior to the review date along with all other required evidence for the ORR or CR. This version will be utilized during the CMS Certification Team’s evidence review and will be returned following completion of the review with the CMS Certification Team’s adjudication and comments. 
 
-##Tips and Best Practices
+## Tips and Best Practices
 
 The following sections provide tips and best practices for completing the CEF Tab and Outcomes & Metrics Tab of the Intake Form.
 
-###Conditions for Enhanced Funding Tab Instructions  
+### Conditions for Enhanced Funding Tab Instructions  
 The state will use this tab to demonstrate the applicability of and evidence for the CEF for the system being reviewed. 
  
 States must complete the following for the CEF Tab: 
@@ -29,23 +29,23 @@ In the Evidence column, list the file name(s) of documents containing supporting
 
 If a condition is not applicable, the state should mark "N/A" in the "State ORR Evidence" and "State CR Evidence" columns (Column C for ORR, Column I for CR). The state should include a brief explanation of why the outcome is not applicable to their system in the “Comments” column (Column D for ORR, Column J for CR). 
 
-###Outcomes and Metrics Tab Instructions  
-####Outcomes and Metrics
+### Outcomes and Metrics Tab Instructions  
+#### Outcomes and Metrics
 The state will use this tab to demonstrate evidence for both the CMS-required outcomes and any state-specific outcomes for both ORRs and CRs. 
 
 Appendix B of the SMC Guidance document contains the complete listing of CMS-required outcomes for each specific MES module. CMS-required outcomes are aligned with statutory, regulatory, and policy requirements that states must demonstrate compliance with when implementing modules or capabilities. The state must perform an analysis that crosswalks the capabilities of the module or system the state is bringing for certification with the CMS-required outcomes and capture those in the Intake Form. 
 
 For a given module or system, all CMS-required outcomes pertaining to that module or system listed in Appendix B should be included in the Intake Form and the state should clearly indicate which outcomes are applicable. If a given outcome is not applicable, the state should mark "N/A" for “Metrics” (Column C), "State ORR Evidence" (Column F), and “State CR Evidence”  (Column L). The state should include a brief explanation of why the outcome is not applicable to their system in the “Comments” column (Column G for ORR, Column M for CR). 
 
-####State-specific Outcomes
+#### State-specific Outcomes
 These reflect the unique circumstances or characteristics of the state or territory and its Medicaid program and focus on improvements to the program not specifically addressed by the CMS-required outcomes. State-Specific Outcomes should target specific business or policy problems and enable the state to demonstrate direct Medicaid program benefits. States should work with their CMS State Officer to finalize outcomes that address the proposed functionality.
 
-####Numbering Conventions for State-specific Outcomes
+#### Numbering Conventions for State-specific Outcomes
 States may create a unique reference number for their state-specific outcomes in the Intake Form. Note that these reference numbers must match the Outcome Reference Numbers utilized in Column C of the Operational Reporting Workbook. The “Metrics Definitions” tab of the Operational Report Workbook contains more detail on numbering conventions. 
 
 If states have questions or need additional clarification, reach out to your CMS State Officer. A best practice utilized by many states is to request early input which may limit the amount of rework for the state and result in a more efficient review. 
 
-##Resources
+## Resources
 For templates, please visit: 
 -	Appendix E – Intake Form Template 
 -	Operational Report Workbook
