@@ -52,8 +52,8 @@ For templates, please visit:
 
 For more information on CEFs and Outcomes:
 -	[Conditions for Enhanced Funding]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) 
--	[Outcomes and the Certification Process]({{site.baseurl}}/certification-process.md) 
--	[Writing a Good Outcome Statement]({{site.baseurl}}/writing-outcome-statements.md) 
+-	[Outcomes and the Certification Process]({{site.baseurl}}/certification-process) 
+-	[Writing a Good Outcome Statement]({{site.baseurl}}/writing-outcome-statements) 
 
 States can also find more details within the [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf), including additional details on:
 -	Conditions for Enhanced Funding
