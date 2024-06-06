@@ -1,6 +1,13 @@
 toc:
   - title: Home
     link: /
+  - section: SMC Process Overview
+    subdir: SMC Process
+    items:
+      - title: Overview
+      - title: Planning
+      - title: Development
+      - title: Production
   - title: Outcomes + the certification process
     link: /certification-process
   - title: Writing a good outcome statement
@@ -36,6 +43,8 @@ toc:
       - title: Third Party Liability (TPL)
   - title: Metrics and Ongoing Reporting
     link: /Ongoing Reporting/
+  - title: Using Box
+    link: /Box/
   - title: MITA
     link: /MITA/
   - title: Frequently Asked Questions
