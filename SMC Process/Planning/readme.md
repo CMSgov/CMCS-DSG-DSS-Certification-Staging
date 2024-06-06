@@ -5,16 +5,16 @@ The Advanced Planning Documents (APD) is the starting point of the process and s
 
 CMS-Required Outcomes are based on statutory, regulatory, and policy requirements and provide a baseline for what is required of an MES module.  The state should identify its MES module and review all CMS-required outcomes listed under that applicable module and determine if each outcome applies to their module.
 
-The state-specific outcomes are what a state hopes to realize with the proposed Medicaid Enterprise Systems (MES) project which not only serves as justification for the investment but also serves as a way to measure whether or not a project was a success. State-specific outcomes should target specific problems and derive Medicaid benefits. Refer to writing a good outcome statement for additional information. 
+The state-specific outcomes are what a state hopes to realize with the proposed Medicaid Enterprise Systems (MES) project which not only serves as justification for the investment but also serves as a way to measure whether or not a project was a success. State-specific outcomes should target specific problems and derive Medicaid benefits. Refer to [writing a good outcome statement]]({{site.baseurl}}/writing-outcome-statements/) for additional information. 
 
-Metrics should be defined within the APD and used for continuous monitoring throughout the maintenance & operation of the system. Metrics provide evidence about whether the intended outcomes are achieved through the delivery of a new module or enhancement to an existing module. Metrics reporting enhances transparency and accountability of IT solutions to help ensure the MES and its modules are meeting statutory and regulatory requirements, as well as the state’s program goals. Refer to metrics and ongoing reporting for additional information. 
+Metrics should be defined within the APD and used for continuous monitoring throughout the maintenance & operation of the system. Metrics provide evidence about whether the intended outcomes are achieved through the delivery of a new module or enhancement to an existing module. Metrics reporting enhances transparency and accountability of IT solutions to help ensure the MES and its modules are meeting statutory and regulatory requirements, as well as the state’s program goals. Refer to [metrics and ongoing reporting]]({{site.baseurl}}/Ongoing Reporting/) for additional information. 
 
 To illustrate a state-specific outcome and metric, consider the following hypothetical example:
 
 <center><img src="{{ site.baseurl }}/SMC Process/Planning/State Example.png"></center>
 
 ## Procurement Planning 
-After the APD is approved and prior to releasing an RFP, the state should copy the CMS-required outcomes, state-specific outcomes, and metrics from the APD to the Streamlined Modular Certification Intake Form Template. Once this is drafted, it should be discussed with their CMS State Officer and a preliminary list of evidence for both Operational Readiness Review (ORR) and Certification Review (CR) should be added for the Conditions for Enhanced Funding (CEF) and Outcome and Metrics tabs. Those CEFs and outcomes determined as not applicable should include the reason why it is not applicable to this module’s certification. The drafted Intake Form will then be used throughout the IT investment lifecycle and updated as needed. Refer to <<ADD LINK ONCE PUBLISHED>> for filling out the Intake Form.
+After the APD is approved and prior to releasing an RFP, the state should copy the CMS-required outcomes, state-specific outcomes, and metrics from the APD to the [Streamlined Modular Certification Intake Form Template](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-intake-form.xlsx). Once this is drafted, it should be discussed with their CMS State Officer and a preliminary list of evidence for both Operational Readiness Review (ORR) and Certification Review (CR) should be added for the Conditions for Enhanced Funding (CEF) and Outcome and Metrics tabs. Those CEFs and outcomes determined as not applicable should include the reason why it is not applicable to this module’s certification. The drafted Intake Form will then be used throughout the IT investment lifecycle and updated as needed. Refer to the [Intake Form guidance]({{site.baseurl}}/Intake Form/) for filling out the Intake Form.
 
 ## Best Practices
 
@@ -43,7 +43,7 @@ The state should know when the following are scheduled for completion and are ei
     -	The type of test is not strict, but a test must be performed at a minimum yearly and the first one should be performed prior to go-live. The test does need to include details on meeting the RTO and RPO listed in the Disaster Recovery plan.
     -	If there are gaps or issues documented from the test prior to go-live, the state should resolve them before the CR review. A retest should be considered if there were major gaps or issues.
 -	508 Compliance 
-    -	A Voluntary Product Accessibility Template (VPAT) is preferred otherwise the state must ensure all the latest applicable WCAG are tested and results reported on, along with noting why others are not applicable.
+    -	A [Voluntary Product Accessibility Template (VPAT)](https://www.itic.org/policy/accessibility/vpat) is preferred otherwise the state must ensure all the latest applicable WCAG are tested and results reported on, along with noting why others are not applicable.
     -	This testing should be done for all UI development and documentation updated continuously as applicable.
     -	The state should define the level of compliance. Industry best practice is Level AA (which means that all Level A and Level AA are supported or not applicable – not partially or do not support).
 -	T-MSIS, if applicable
