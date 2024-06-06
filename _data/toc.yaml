@@ -10,7 +10,7 @@ toc:
       - title: Production
   - title: Outcomes + the certification process
     link: /certification-process
-  - title: Writing a good outcome statement
+  - title: Writing a Good Outcome Statement
     link: /writing-outcome-statements
   - title: Using the Intake Form
     link: /Intake Form 
@@ -19,7 +19,7 @@ toc:
     items:
       - title: CEFs
       - title: CEF Tips
-  - section: MES Modules
+  - section: MES Module Outcomes and Metrics
     subdir: Outcomes and Metrics
     items:
       # As long as these titles are the same as the corresponding filenames, the
