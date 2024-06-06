@@ -36,16 +36,16 @@ For the ORR, the following steps are completed:
 5.	A Tear-out will be created by the CMS Certification Team including observations, recommendations, and action items. The Tear-out will be sent to the state along with an updated Intake Form (with CMS columns filled out) approximately one week after the ORR meeting.
 6.	The Tear-out recommendations should be reviewed, and action taken as necessary (not required) as the state’s response will need to be reviewed during the CR. The state should continue working with its CMS State Officer to address all observations as the project goes into production and in preparation for the CR.
 
-<img src="{{ site.baseurl }}/SME Process/Development/ORR Flow.png" width="100%">
+<img src="{{ site.baseurl }}/SMC Process/Development/ORR Flow.png" width="100%">
 
 ## Best Practices
 
 ### ORR Evidence 
-- For additional guidance on how to complete the Intake Form, please review the Intake Form Guidance on GitHub.<<<ADD LINK>> 
+- For additional guidance on how to complete the Intake Form, please review the [Intake Form Guidance]({{site.baseurl}}/Intake Form/).
 - If the evidence documentation is lengthy and only one section applies to the evidence, the SMA should use the “State Evidence” column of the Intake Form to identify the section/page.
         - Ensure documentation needed as evidence or required artifacts are included as tasks or milestones in the project schedule so states can properly track the completion of all documentation.  
 - It’s highly encouraged the state utilize the Operational Report Workbook and provide the final draft at the time of the ORR with the Metrics Definitions tab completed. This also helps show that the state is prepared to report on the metrics starting after go-live.
-- The CMS Box folder structure is set up by CMS SO and they provide access as applicable. CMS SO will establish one root CMS Box folder for each separate module certification effort. The state (or designate) will place the files in the appropriate folders. Further guidance on how to set up CMS Box can be found on GitHub. <<ADD LINK>> 
+- The CMS Box folder structure is set up by CMS SO and they provide access as applicable. CMS SO will establish one root CMS Box folder for each separate module certification effort. The state (or designate) will place the files in the appropriate folders. Further guidance on how to [set up CMS Box]({{site.baseurl}}/Box/) can be found on GitHub. <<ADD LINK>> 
         - Some files could be duplicated across CMS Box folders. For example, the APD could be in both the Background Documentation folder and the CEF folder.
 
 ### Privacy & Security/ CEF
@@ -59,18 +59,18 @@ For the ORR, the following steps are completed:
 ### Review Preparation
 - States are highly encouraged to utilize the sample agenda provided by the CMS Certification Team:
 
-<img src="{{ site.baseurl }}/SME Process/Development/ORR Agenda.png" width="100%">
+<img src="{{ site.baseurl }}/SMC Process/Development/ORR Agenda.png" width="100%">
 
 ## Resources 
-- SMC Guidance Document – see Appendix C for Required Artifacts and Appendix D for Framework for the Independent Third-Party Security and Privacy Assessment Guidelines for Medicaid Enterprise Systems
-- Code of Federal Regulations
-- Streamlined Modular Certification Intake Form template (click on link under Related Resources section)
-- Metrics and Ongoing Reporting (includes Metrics Procedures Manual and FAQs under the Resources section) 
-- CEF Example Evidence, Tips, and Best Practices
-- Intake Form Guidance
+- [SMC Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) – see Appendix C for Required Artifacts and Appendix D for Framework for the Independent Third-Party Security and Privacy Assessment Guidelines for Medicaid Enterprise Systems
+- [Code of Federal Regulations](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433)
+- Streamlined Modular Certification Intake Form template
+- [Metrics and Ongoing Reporting]]({{site.baseurl}}/Ongoing Reporting/) (includes Metrics Procedures Manual and FAQs under the Resources section) 
+- [CEF Example Evidence, Tips, and Best Practices]]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/)
+- [Intake Form Guidance]({{site.baseurl}}/Intake Form/)
 - Example Monthly Project Status Reporting Template
-- Medicaid Enterprise Systems Testing Guidance Framework (click on link under the Related Resources section)
-- Using Box
+- [Medicaid Enterprise Systems Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf)
+- [Using Box]({{site.baseurl}}/Box/)
 
 ## References
 - [Transformed Medicaid Statistical Information System (T-MSIS)](https://www.medicaid.gov/medicaid/data-systems/macbis/transformed-medicaid-statistical-information-system-t-msis/index.html)
