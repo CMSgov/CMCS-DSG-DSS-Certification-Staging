@@ -19,8 +19,8 @@ In accordance with 42 CFR 433.116, the enhanced FFP may be claimed retroactive t
 The state will be able to schedule their review as early as three months in advance of their target date. For example, if the state intends to hold a CR in March, then they can submit their request for the review as early as December. It’s advised the CR take place toward the end of the 7th month after go-live, as metrics must be pulled and provided with the evidence and required artifacts no later than 2 weeks prior to the CR.
 
 To schedule a CR, the state must provide the following entry criteria: 
-- 	System go-live date
-- 	Certification Request Letter 
+- System go-live date
+- Certification Request Letter 
     - Ensure all elements outline in Appendix C are included. A template has been made available for states on GitHub.  
 - System Acceptance Letter 
 - Metric data dating back to the go-live date, up to the most recent quarter
@@ -40,7 +40,7 @@ For the CR, the following steps are completed:
 5.	A Tear-out will be created by the CMS Certification Team including observations, recommendations, findings, and action items. This will be sent to the state along with the updated Intake Form (with CMS columns filled out) and the Certification Decision Letter and CR Report approximately 60 days after the CR meeting.
 6.	The Tear-out recommendations should be reviewed, and actions taken as necessary. Any identified findings will require a Corrective Action Plan (CAP) with ongoing reporting to the CMS State Officer until resolved.  
 
-<center><img src="{{ site.baseurl }}/SMC Process/Production/OR Flow.png"></center>
+<center><img src="{{ site.baseurl }}/SMC Process/Production/CR Flow.png"></center>
 
 ## Best Practices
 
@@ -49,12 +49,14 @@ For the CR, the following steps are completed:
     - The metrics can be logged in the Operational Report Workbook monthly, quarterly, or yearly, depending on the metric.
     - Reporting should include comments (reference defects, risks, or issues) for those metric values that were not expected or not meeting the state’s internal benchmark.
     - The state should utilize the same Operational Report Workbook when submitting ongoing reporting. 
+
 ### Privacy and Security 
 - All critical and high vulnerabilities must be resolved before receiving certification and may impact FFP. 
+
 ### Review Preparation 
 - States are highly encouraged to utilize the sample agenda provided by the CMS Certification Team:
 
-<center><img src="{{ site.baseurl }}/SMC Process/Production/OR Agenda.png"></center>
+<center><img src="{{ site.baseurl }}/SMC Process/Production/CR Agenda.png"></center>
 
 ## Resources 
 - [SMC Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) – see Appendix C for Required Artifacts and Appendix D for Framework for the Independent Third-Party Security and Privacy Assessment Guidelines for Medicaid Enterprise Systems
