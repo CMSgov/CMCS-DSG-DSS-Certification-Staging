@@ -55,17 +55,17 @@ The state should know when the following are scheduled for completion and are ei
     -	Should be completed prior to the Operational Readiness Testing so these procedures can be tested and updated prior to go-live.
 
 ## Resources 
--	SMC Guidance Document – see Appendix B for the CMS-required outcomes, Appendix C for Required Artifacts, and Appendix D for Framework for the Independent Third-Party Security and Privacy Assessment Guidelines for Medicaid Enterprise Systems
--	Code of Federal Regulations
--	MES module outcomes (by business area) on the MES Certification Repository (GitHub)
--	Writing a good outcome statement
--	Streamlined Modular Certification Intake Form template (click on link under Related Resources section)
--	Metrics and Ongoing Reporting (includes Metrics Procedures Manual and FAQs under the Resources section) 
--	CEF Example Evidence, Tips, and Best Practices
--	<<Placeholder for the tips for filling out the Intake Form link>>
+-	[SMC Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) – see Appendix B for the CMS-required outcomes, Appendix C for Required Artifacts, and Appendix D for Framework for the Independent Third-Party Security and Privacy Assessment Guidelines for Medicaid Enterprise Systems
+-	[Code of Federal Regulations](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433)
+-	MES module outcomes (by business area)
+-	[Writing a good outcome statement]({{site.baseurl}}/writing-outcome-statements)
+-	[Streamlined Modular Certification Intake Form template](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-intake-form.xlsx)
+-	[Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/) (includes Metrics Procedures Manual and FAQs under the Resources section) 
+-	[CEF Example Evidence, Tips, and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/)
+-	[Intake Form Guidance]({{site.baseurl}}/Intake Form/)
 
 ## References
--	SMDL #02-005 Attachment A: An APD Guidance Document. April 4, 2002 (page 18)
--	Medicaid and CHIP Frequently Asked Questions (FAQs) Advanced Planning Documents (APD) for System Development Associated with 1115 Demonstrations June 13, 2019
--	SMD # 16-009 Mechanized Claims Processing and Information Retrieval Systems – APD Requirements June 27, 2016 
--	Transformed Medicaid Statistical Information System (T-MSIS)
+-	[SMDL #02-005 Attachment A: An APD Guidance Document. April 4, 2002](https://www.medicaid.gov/Federal-Policy-Guidance/downloads/smd040402.pdf) (page 18)
+-	[Medicaid and CHIP Frequently Asked Questions (FAQs) Advanced Planning Documents (APD) for System Development Associated with 1115 Demonstrations June 13, 2019](https://www.medicaid.gov/federal-policy-guidance/downloads/faq061319.pdf)
+-	[SMD # 16-009 Mechanized Claims Processing and Information Retrieval Systems – APD Requirements June 27, 2016](https://www.medicaid.gov/federal-policy-guidance/downloads/smd16009.pdf) 
+-	[Transformed Medicaid Statistical Information System (T-MSIS)](https://www.medicaid.gov/medicaid/data-systems/macbis/transformed-medicaid-statistical-information-system-t-msis/index.html)
