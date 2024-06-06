@@ -36,4 +36,41 @@ For the ORR, the following steps are completed:
 5.	A Tear-out will be created by the CMS Certification Team including observations, recommendations, and action items. The Tear-out will be sent to the state along with an updated Intake Form (with CMS columns filled out) approximately one week after the ORR meeting.
 6.	The Tear-out recommendations should be reviewed, and action taken as necessary (not required) as the state’s response will need to be reviewed during the CR. The state should continue working with its CMS State Officer to address all observations as the project goes into production and in preparation for the CR.
 
+<img src="{{ site.baseurl }}/SME Process/Development/ORR Flow.png" width="100%">
 
+## Best Practices
+
+### ORR Evidence 
+- For additional guidance on how to complete the Intake Form, please review the Intake Form Guidance on GitHub.<<<ADD LINK>> 
+- If the evidence documentation is lengthy and only one section applies to the evidence, the SMA should use the “State Evidence” column of the Intake Form to identify the section/page.
+        - Ensure documentation needed as evidence or required artifacts are included as tasks or milestones in the project schedule so states can properly track the completion of all documentation.  
+- It’s highly encouraged the state utilize the Operational Report Workbook and provide the final draft at the time of the ORR with the Metrics Definitions tab completed. This also helps show that the state is prepared to report on the metrics starting after go-live.
+- The CMS Box folder structure is set up by CMS SO and they provide access as applicable. CMS SO will establish one root CMS Box folder for each separate module certification effort. The state (or designate) will place the files in the appropriate folders. Further guidance on how to set up CMS Box can be found on GitHub. <<ADD LINK>> 
+        - Some files could be duplicated across CMS Box folders. For example, the APD could be in both the Background Documentation folder and the CEF folder.
+
+### Privacy & Security/ CEF
+- All critical and high vulnerabilities, regardless of origin, should be resolved prior to go-live. If the state does not resolve prior to go-live, the state might not get FFP back to the day of go-live.
+- All critical and possibly high-severity defects should be resolved prior to go-live (the state should be clear on requirements in their Master Test Plan).
+- The state must complete a risk acceptance if the Independent Security Assessment, Independent penetration tests, POA&M documenting the status of all vulnerabilities, proof of 508 compliance (e.g., VPAT), Disaster Recovery Plan, and Test Results are not done prior to the ORR. 
+        - Each state must develop its own Risk Acceptance form internally as part of its own internal governance processes. The state can leverage existing forms (using sections as applicable) and put them in their official state letterhead template to formalize them for submission to CMS.
+        - This is a document that shows the state accepts the privacy and security risks of going live without assessing and correcting risks and there is a potential for incidents.
+        - The form does not need CMS approval, but the state must send it to CMS to ensure communication is clear.
+
+### Review Preparation
+- States are highly encouraged to utilize the sample agenda provided by the CMS Certification Team:
+
+<img src="{{ site.baseurl }}/SME Process/Development/ORR Agenda.png" width="100%">
+
+## Resources 
+- SMC Guidance Document – see Appendix C for Required Artifacts and Appendix D for Framework for the Independent Third-Party Security and Privacy Assessment Guidelines for Medicaid Enterprise Systems
+- Code of Federal Regulations
+- Streamlined Modular Certification Intake Form template (click on link under Related Resources section)
+- Metrics and Ongoing Reporting (includes Metrics Procedures Manual and FAQs under the Resources section) 
+- CEF Example Evidence, Tips, and Best Practices
+- Intake Form Guidance
+- Example Monthly Project Status Reporting Template
+- Medicaid Enterprise Systems Testing Guidance Framework (click on link under the Related Resources section)
+- Using Box
+
+## References
+- [Transformed Medicaid Statistical Information System (T-MSIS)](https://www.medicaid.gov/medicaid/data-systems/macbis/transformed-medicaid-statistical-information-system-t-msis/index.html)
