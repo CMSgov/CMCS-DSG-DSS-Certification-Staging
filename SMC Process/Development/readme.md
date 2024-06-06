@@ -27,12 +27,12 @@ To schedule an ORR, the state must provide the following entry criteria:
 For the ORR, the following steps are completed:
 1.	The state finalizes the state columns of the Intake Form.  
 2.	Preferably earlier but no later than two weeks before the ORR, the state uploads all evidence, required artifacts listed within Appendix C of the SMC Guidance, the Intake Form, the ORR agenda, and the presentation the state will use for the ORR in CMS Box. 
-    a.	No files uploaded to CMS Box should be redacted, this includes but is not limited to security risk assessments, penetration tests, screen prints, or reports that include PHI/PII.
-    b.	The state also sends the completed Intake Form to the CMS State Officer and to MES@cms.hhs.gov. 
-    c.	The CMS Certification Team will then begin a review of the evidence and required artifacts. 
+    1.	No files uploaded to CMS Box should be redacted, this includes but is not limited to security risk assessments, penetration tests, screen prints, or reports that include PHI/PII.
+    2.	The state also sends the completed Intake Form to the CMS State Officer and to MES@cms.hhs.gov. 
+    3.	The CMS Certification Team will then begin a review of the evidence and required artifacts. 
 3.	Approximately one week prior to the review, an Information Request Listing (IRL) will be sent to the state by the CMS Certification Team. This includes questions and feedback on the files uploaded to CMS Box. The state should respond in writing by the time of the review and modify the agenda to address feedback from the CMS Certification Team during the review.
 4.	The ORR meeting is held, and action items are documented, reviewed, and agreed to. 
-    a.	The state should try to respond to all action items as soon as possible, preferably within 24 hours.
+    1.	The state should try to respond to all action items as soon as possible, preferably within 24 hours.
 5.	A Tear-out will be created by the CMS Certification Team including observations, recommendations, and action items. The Tear-out will be sent to the state along with an updated Intake Form (with CMS columns filled out) approximately one week after the ORR meeting.
 6.	The Tear-out recommendations should be reviewed, and action taken as necessary (not required) as the state’s response will need to be reviewed during the CR. The state should continue working with its CMS State Officer to address all observations as the project goes into production and in preparation for the CR.
 
