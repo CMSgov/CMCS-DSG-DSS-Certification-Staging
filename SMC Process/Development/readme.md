@@ -36,7 +36,7 @@ For the ORR, the following steps are completed:
 5.	A Tear-out will be created by the CMS Certification Team including observations, recommendations, and action items. The Tear-out will be sent to the state along with an updated Intake Form (with CMS columns filled out) approximately one week after the ORR meeting.
 6.	The Tear-out recommendations should be reviewed, and action taken as necessary (not required) as the state’s response will need to be reviewed during the CR. The state should continue working with its CMS State Officer to address all observations as the project goes into production and in preparation for the CR.
 
-<img src="{{ site.baseurl }}/SMC Process/Development/ORR Flow.png" width="100%">
+<center><img src="{{ site.baseurl }}/SMC Process/Development/ORR Flow.png"></center>
 
 ## Best Practices
 
@@ -45,7 +45,7 @@ For the ORR, the following steps are completed:
 - If the evidence documentation is lengthy and only one section applies to the evidence, the SMA should use the “State Evidence” column of the Intake Form to identify the section/page.
         - Ensure documentation needed as evidence or required artifacts are included as tasks or milestones in the project schedule so states can properly track the completion of all documentation.  
 - It’s highly encouraged the state utilize the Operational Report Workbook and provide the final draft at the time of the ORR with the Metrics Definitions tab completed. This also helps show that the state is prepared to report on the metrics starting after go-live.
-- The CMS Box folder structure is set up by CMS SO and they provide access as applicable. CMS SO will establish one root CMS Box folder for each separate module certification effort. The state (or designate) will place the files in the appropriate folders. Further guidance on how to [set up CMS Box]({{site.baseurl}}/Box/) can be found on GitHub. <<ADD LINK>> 
+- The CMS Box folder structure is set up by CMS SO and they provide access as applicable. CMS SO will establish one root CMS Box folder for each separate module certification effort. The state (or designate) will place the files in the appropriate folders. Further guidance on how to [set up CMS Box]({{site.baseurl}}/Box/) can be found on GitHub.
         - Some files could be duplicated across CMS Box folders. For example, the APD could be in both the Background Documentation folder and the CEF folder.
 
 ### Privacy & Security/ CEF
@@ -59,7 +59,7 @@ For the ORR, the following steps are completed:
 ### Review Preparation
 - States are highly encouraged to utilize the sample agenda provided by the CMS Certification Team:
 
-<img src="{{ site.baseurl }}/SMC Process/Development/ORR Agenda.png" width="100%">
+<center><img src="{{ site.baseurl }}/SMC Process/Development/ORR Agenda.png"></center>
 
 ## Resources 
 - [SMC Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) – see Appendix C for Required Artifacts and Appendix D for Framework for the Independent Third-Party Security and Privacy Assessment Guidelines for Medicaid Enterprise Systems
