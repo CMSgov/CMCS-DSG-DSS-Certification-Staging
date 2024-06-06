@@ -81,10 +81,10 @@ Answer: You may differentiate the file name of a new version of a file by includ
 - Example 2: “AK_PBM_CEF1_v2”
 
 #### Question: What module abbreviations should I use?
-Answer: Please use the module abbreviations referenced in Appendix B of the Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual, copied in the table below.
+Answer: Please use the module abbreviations referenced in Appendix B of the [Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual](https://cmsbox.app.box.com/index.php?rm=box_download_shared_file&shared_name=2qxx3bdojh6e36j0vv2jj5frereykw2s&file_id=f_1301951764618), copied in the table below.
 
 ## Module Abbreviations
-Copied from Appendix B of the Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual.
+Copied from Appendix B of the [Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual](https://cmsbox.app.box.com/index.php?rm=box_download_shared_file&shared_name=2qxx3bdojh6e36j0vv2jj5frereykw2s&file_id=f_1301951764618).
 
 | Module Abbreviation | Module Description |
 | ------------------- | ------------------ |
