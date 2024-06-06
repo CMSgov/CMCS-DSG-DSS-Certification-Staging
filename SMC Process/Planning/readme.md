@@ -11,7 +11,7 @@ Metrics should be defined within the APD and used for continuous monitoring thro
 
 To illustrate a state-specific outcome and metric, consider the following hypothetical example:
 
-<img src="{{ site.baseurl }}/SMC Process/Planning/State Example.png" width="100%">
+<center><img src="{{ site.baseurl }}/SMC Process/Planning/State Example.png"></center>
 
 ## Procurement Planning 
 After the APD is approved and prior to releasing an RFP, the state should copy the CMS-required outcomes, state-specific outcomes, and metrics from the APD to the Streamlined Modular Certification Intake Form Template. Once this is drafted, it should be discussed with their CMS State Officer and a preliminary list of evidence for both Operational Readiness Review (ORR) and Certification Review (CR) should be added for the Conditions for Enhanced Funding (CEF) and Outcome and Metrics tabs. Those CEFs and outcomes determined as not applicable should include the reason why it is not applicable to this module’s certification. The drafted Intake Form will then be used throughout the IT investment lifecycle and updated as needed. Refer to <<ADD LINK ONCE PUBLISHED>> for filling out the Intake Form.
