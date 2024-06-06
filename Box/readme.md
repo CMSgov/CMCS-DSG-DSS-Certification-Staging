@@ -8,6 +8,7 @@ Your CMS State Officer will establish a single Box folder for each individual mo
 
 **State Name or Territory Name**
 -	State or Territory Abbreviation and Module Abbreviation (see below table for module abbreviations)
+
 **ORR**
 - 	Evidence* – should contain the Intake Form and two subfolders:
     - 	CEF – should contain the evidence listed in the Intake Form for applicable Conditions for Enhanced Funding. There is no need for additional sub-folders.
@@ -15,6 +16,7 @@ Your CMS State Officer will establish a single Box folder for each individual mo
 - Metrics – should contain the metrics definitions for ORR. CMS highly encourages states to use the Operational Report Workbook.
 - Presentation – should contain the presentation for the day of the review and any other meeting documentation.
 - Required Artifacts – should contain the applicable Required Artifacts listed in Appendix C of the Streamlined Modular Certification for Medicaid Enterprise Systems Certification Guidance. 
+
 **CR**
 - Evidence* – should contain the Intake Form and two subfolders:
         - CEF – should contain the evidence listed in the Intake Form for applicable Conditions for Enhanced Funding. There is no need for additional sub-folders.
@@ -22,6 +24,7 @@ Your CMS State Officer will establish a single Box folder for each individual mo
 - Metrics – should contain the monthly metrics data reports required for CR. CMS highly encourages states to use the Operational Report Workbook. 
 - Presentation – should contain the presentation for the day of the review and any other meeting documentation.
 - Required Artifacts – should contain the applicable Required Artifacts listed in Appendix C of the Streamlined Modular Certification for Medicaid Enterprise Systems Certification Guidance.
+
 **Project Status Reports**
 - Should contain all applicable status reports for the entire project.
 
@@ -38,8 +41,8 @@ Benefits of using Box include:
  
 - **One Platform for your Content.** CMS and state partners can find, organize, edit, share, and centralize their content on an all-inclusive storage platform. Since its integration into the SMC process, many states have easily uploaded files to CMS Box while maintaining surrounding data, like permissions, metadata, and version history.
 - **Collaboration.** CMS and state partners can efficiently collaborate, increasing transparency and partnership with CMS. CMS can leverage the information submitted by states to improve their experience with Medicaid.
-        - Standardization of state evidence submission supports collaboration and removes ambiguity in reporting requirements with a clearly defined evidence folder organization structure.
-        - Only users who have been granted access to a folder by your CMS State Officer will have access to the information uploaded to that folder. Additionally, only the CMS Certification Team assigned to a given review and supporting CMS and MITRE leadership will be granted access to a state's review documentation.
+		- Standardization of state evidence submission supports collaboration and removes ambiguity in reporting requirements with a clearly defined evidence folder organization structure.
+		- Only users who have been granted access to a folder by your CMS State Officer will have access to the information uploaded to that folder. Additionally, only the CMS Certification Team assigned to a given review and supporting CMS and MITRE leadership will be granted access to a state's review documentation.
 - **Privacy and Security.** Box includes secure file sharing, permission controls, and built-in security and compliance – reducing the number of tools needed to protect your data. Many state Medicaid agencies have securely uploaded private metric data files to Box with confidence. 
 - **HHS Records Management.** Box abides by the Department of Health and Human Services (HHS) records management policies outlined in 44 U.S.C. § 2901(2), thereby enabling CMS to adhere to federal records retention regulations without needing to access state repositories.
 
@@ -69,8 +72,8 @@ Answer: The most important practice to follow when naming files is to be consist
 - Outcome number
 - Document title or description as appropriate, (e.g., “VPAT”)
 - Additional fields such as a vendor or system name may be added for clarification when needed. For example:
-        - “AK_PBM_CEF1” for Alaska PBM CEF outcome 1
-        - “DE _EE12” for Delaware E&E CMS-required outcome EE12
+		- “AK_PBM_CEF1” for Alaska PBM CEF outcome 1
+	        - “DE _EE12” for Delaware E&E CMS-required outcome EE12
 
 Question: How should I differentiate the file name of a newer version of a file to avoid duplications or confusion?
 Answer: You may differentiate the file name of a new version of a file by including at the end of the filename either the upload date of the file (example 1) or file version (example 2).
