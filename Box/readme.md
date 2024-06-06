@@ -53,19 +53,19 @@ To learn more about using the Box platform, see the video tutorials on the Box w
 
 ### Frequently Asked Questions
 
-Question: Who should I contact to create my state’s Box folder for an upcoming certification? 
+#### Question: Who should I contact to create my state’s Box folder for an upcoming certification? 
 Answer: Please contact your CMS State Officer to initially set up your folder in Box and add collaborators. A leader from your state team will then be given Editor, Uploader, or Viewer privileges.
 
-Question: Can we use our document repository for a certification, instead of Box? 
+#### Question: Can we use our document repository for a certification, instead of Box? 
 Answer:  If a state would prefer to use its document repository, the CMS State Officer is responsible for copying state documentation to the relevant Box folder. If a state encounters difficulty using the Box repository, please reach out to your CMS State Officer to discuss.
 
-Question: How should I populate the Intake Form evidence columns with evidence files saved in Box?
+#### Question: How should I populate the Intake Form evidence columns with evidence files saved in Box?
 Answer: The state may either include the exact filename (if a single document) or file folder of the outcome evidence as it appears in CMS Box when populating the Intake Form evidence columns.
 
-Question: Is there a file size limit for file uploads?
+#### Question: Is there a file size limit for file uploads?
 Answer: There is a 150 GB size limit on uploads. In the situation where your file is above the file size limit, we recommend you create a ZIP file. A ZIP is a common file format that’s used to compress one or more files together into a single location. This reduces file size and makes it easier to transport or store, see instructions to create a ZIP file on the Box website here.
 
-Question: Is there a preferred naming convention for file and folder names? 
+#### Question: Is there a preferred naming convention for file and folder names? 
 Answer: The most important practice to follow when naming files is to be consistent with your filename conventions for each module certification. Consider including the following elements in your filename:
 - State abbreviation (using the USPS code)
 - Module
@@ -75,7 +75,7 @@ Answer: The most important practice to follow when naming files is to be consist
 	- “AK_PBM_CEF1” for Alaska PBM CEF outcome 1
 	- “DE _EE12” for Delaware E&E CMS-required outcome EE12
 
-Question: How should I differentiate the file name of a newer version of a file to avoid duplications or confusion?
+#### Question: How should I differentiate the file name of a newer version of a file to avoid duplications or confusion?
 Answer: You may differentiate the file name of a new version of a file by including at the end of the filename either the upload date of the file (example 1) or file version (example 2).
 - Example 1: “AK_PBM_CEF1_06032023” 
 - Example 2: “AK_PBM_CEF1_v2”
