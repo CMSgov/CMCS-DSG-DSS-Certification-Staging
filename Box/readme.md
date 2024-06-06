@@ -7,12 +7,12 @@ In accordance with 42 C.F.R. §§ 433.112(b)(15) and 433.116(b), (c), and (i) an
 Your CMS State Officer will establish a single Box folder for each individual module or system undergoing certification contained in the state’s root folder under the certification and metrics data folder. Sub-folders for an Operational Readiness Review (ORR) and a Certification Review (CR) will be created as follows:
 
 **State Name or Territory Name**
--	State or Territory Abbreviation and Module Abbreviation (see below table for module abbreviations)
+- State or Territory Abbreviation and Module Abbreviation (see below table for module abbreviations)
 
 **ORR**
-- 	Evidence* – should contain the Intake Form and two subfolders:
-    - 	CEF – should contain the evidence listed in the Intake Form for applicable Conditions for Enhanced Funding. There is no need for additional sub-folders.
-    - 	Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by outcome.
+- Evidence* – should contain the Intake Form and two subfolders:
+    - CEF – should contain the evidence listed in the Intake Form for applicable Conditions for Enhanced Funding. There is no need for additional sub-folders.
+    - Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by outcome.
 - Metrics – should contain the metrics definitions for ORR. CMS highly encourages states to use the Operational Report Workbook.
 - Presentation – should contain the presentation for the day of the review and any other meeting documentation.
 - Required Artifacts – should contain the applicable Required Artifacts listed in Appendix C of the Streamlined Modular Certification for Medicaid Enterprise Systems Certification Guidance. 
@@ -73,12 +73,12 @@ Answer: The most important practice to follow when naming files is to be consist
 - Document title or description as appropriate, (e.g., “VPAT”)
 - Additional fields such as a vendor or system name may be added for clarification when needed. For example:
 		- “AK_PBM_CEF1” for Alaska PBM CEF outcome 1
-	        - “DE _EE12” for Delaware E&E CMS-required outcome EE12
+		- “DE _EE12” for Delaware E&E CMS-required outcome EE12
 
 Question: How should I differentiate the file name of a newer version of a file to avoid duplications or confusion?
 Answer: You may differentiate the file name of a new version of a file by including at the end of the filename either the upload date of the file (example 1) or file version (example 2).
-	Example 1: “AK_PBM_CEF1_06032023” 
-	Example 2: “AK_PBM_CEF1_v2”
+- Example 1: “AK_PBM_CEF1_06032023” 
+- Example 2: “AK_PBM_CEF1_v2”
 
 Question: What module abbreviations should I use?
 Answer: Please use the module abbreviations referenced in Appendix B of the Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual, copied in the table below.
