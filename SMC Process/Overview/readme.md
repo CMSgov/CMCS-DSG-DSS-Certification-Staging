@@ -9,12 +9,12 @@ The SMC pathway consists of the three following phases and is independent of the
 
 As shown below, engagement during each phase of the Information Technology (IT) investment lifecycle will include the following touchpoints:
 
-<IMAGE>
+<img src="{{ site.baseurl }}/SMC Process/Overview/Process Overview.png" width="100%">
 
 ## For information on each phase please visit the following phases: 
--	Planning [embedded hyperlink]
--	Development [embedded hyperlink]
--	Production [embedded hyperlink]
+-	[Planning]({{site.baseurl}}/SMC Process/Planning/)
+-	[Development]({{site.baseurl}}/SMC Process/Development/)
+-	[Production]({{site.baseurl}}/SMC Process/Production/)
 
 The information included in this reference material is supplemental to the SMC Guidance. This material does not replace the SMC Guidance but includes additional details for states to help them navigate the certification process.
 
