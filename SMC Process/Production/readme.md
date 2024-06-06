@@ -28,15 +28,15 @@ To schedule a CR, the state must provide the following entry criteria:
 
 For the CR, the following steps are completed:
 1.	The state finalizes the state columns of the Intake Form.  
-    a.	The state must use the exact filename(s), which was loaded in CMS Box when populating the Intake Form evidence columns. 
+    1.	The state must use the exact filename(s), which was loaded in CMS Box when populating the Intake Form evidence columns. 
 2.	Preferably earlier but no later than two weeks before the CR, the state saves all evidence, required artifacts, the Intake Form, metrics (via Operational Report Workbook), the CR agenda, and the presentation the state will use for the CR in CMS Box appropriate folders. 
-    a.	No files uploaded to CMS Box should be redacted, this includes but is not limited to security risk assessments, penetration tests, screen prints, or reports that include PHI/PII.
-    b.	The state also sends the completed Intake Form to the CMS State Officer and to MES@cms.hhs.gov. 
-    c.	The CMS Certification Team will then begin a review of the evidence and required artifacts. 
+    1.	No files uploaded to CMS Box should be redacted, this includes but is not limited to security risk assessments, penetration tests, screen prints, or reports that include PHI/PII.
+    2.	The state also sends the completed Intake Form to the CMS State Officer and to MES@cms.hhs.gov. 
+    3.	The CMS Certification Team will then begin a review of the evidence and required artifacts. 
 3.	Approximately one week prior to the review, an Information Request Listing (IRL) will be sent to the state by the CMS Certification Team. This includes questions and feedback on the files uploaded to CMS Box. The state should respond in writing by the time of the review and modify the agenda to address feedback from the CMS Certification Team during the review.
 4.	The CR meeting is held, and action items are documented, reviewed, and agreed to. 
-    a.	The demonstrations must be in the production environment (test data should not be entered).
-    b.	The state should try to respond to all action items as soon as possible, preferably within 24 hours.
+    1.	The demonstrations must be in the production environment (test data should not be entered).
+    2.	The state should try to respond to all action items as soon as possible, preferably within 24 hours.
 5.	A Tear-out will be created by the CMS Certification Team including observations, recommendations, findings, and action items. This will be sent to the state along with the updated Intake Form (with CMS columns filled out) and the Certification Decision Letter and CR Report approximately 60 days after the CR meeting.
 6.	The Tear-out recommendations should be reviewed, and actions taken as necessary. Any identified findings will require a Corrective Action Plan (CAP) with ongoing reporting to the CMS State Officer until resolved.  
 
