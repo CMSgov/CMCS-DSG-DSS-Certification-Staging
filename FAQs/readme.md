@@ -148,9 +148,6 @@ The Intake Form template can be found on the GitHub Repository as well as [Medic
 ### Q: When should a state fill out the Intake Form?
 A: States should start filling out the Intake Form once the APD has been approved. If a state did not complete the Intake Form as part of the APD approval and the project is nearing ORR, CMS will work with the state to complete the Intake Form with outcomes and metrics selected by the state.
 
-### Q: Are hyperlinks in the Intake Form required?  
-A: As a part of ORR and CR, states are required to identify evidence and provide “State Comments” for each outcome identified. The evidence and comments are critical to conveying context and any important information for CMS to review in advance of an ORR or CR. When identifying evidence, hyperlinks should be used to reference documents or information that is too long to put into the Intake Form. If the link is too a large document, references to applicable page numbers is needed to ensure CMS is reviewing the specific evidence for a given outcome. Box is now the preferred method for storing information so CMS can maintain the certification record and make access to information easier. Box supports hyperlinking.
-
 ***
 
 ## Certification {#certification}

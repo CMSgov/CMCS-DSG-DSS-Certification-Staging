@@ -1,12 +1,12 @@
-# Welcome to the CMS Certification Repository
+# Welcome to the MES Certification Repository
 
-The CMS Certification Repository is a space for states, CMS, and vendors to learn, share, and contribute information about the MES Certification process and its related artifacts. From this site you can access the latest-and-greatest information about CMS-Required outcomes and recommended metrics as well as view CMS approved state-specific outcomes and metrics.
+The MES Certification Repository is a space for states, CMS, and vendors to learn, share, and contribute information about the MES Certification process and its related artifacts. From this site you can access the latest-and-greatest information about CMS-Required outcomes and recommended metrics as well as view CMS approved state-specific outcomes and metrics.
 
 ## Getting Started
 
 ### Outcomes and Metrics
 
-The Outcomes and Metrics in this repository is organized by MES business areas on the left. Certification is still required if your project does not neatly fall into one of the business areas. You may still find relevant outcomes and metrics examples across other business areas. As needed, work with your state team and State Officer to create state-specific outcomes statements.
+The Outcomes and Metrics in this repository is organized by MES modules on the left. Certification is still required if your project does not neatly fall into one of the modules. You may still find relevant outcomes and metrics examples across other modules. As needed, work with your state team and State Officer to create state-specific outcomes statements.
 
 ### Intake Form
 
