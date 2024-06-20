@@ -13,6 +13,9 @@
 
 ## 508 Compliance
 -	States should produce an objective artifact (e.g., Voluntary Product Accessibility Templates (VPAT)) for their 508-compliance test reports. Alternative formats to VPATs are acceptable as long as the state has performed 508-compliance testing and provides the reports as evidence prior to a review. States can follow tools and techniques at https://www.section508.gov/test or https://accessibility.18f.gov. Note that a VPAT is not an audit, as an audit goes into much greater detail.
+- A final rule “Nondiscrimination on the Basis of Disability; Accessibility of Web Information and Services of State and Local Government Entities” was published on April 8, 2024, requiring State and local government’s web content and mobile apps to conform to WCAG 2.1 Level AA. Compliance is required 2 or 3 years from the published date of April 24, 2024, depending on public entity size and has exceptions as noted in the rule.
+- The above rule does not apply to the internal, non public systems.  As stated within the rule:  "...several commenters asked whether this definition would cover internal, non public applications, such as web content used solely by employees. The Department reiterates that this rule includes requirements for the web content and mobile apps provided or made available by public entities within the scope of title II. While this rule is not promulgated under title I of the ADA, it is important to note that compliance with this ADA title II rule will not relieve title II entities of their distinct employment-related obligations under title I of the ADA, which could include, for example, accommodations for a web developer with a disability working for a public entity."
+
 
 ## System Architecture
 -	States must show how open architecture and vendor communication allows the system to continue performing in a plug-and-play manner despite potential vendor turnover.
@@ -75,8 +78,10 @@
 - [Risk assessment determination and scale as defined in NIST SP 800-30 Revision 1](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf), see Appendix G (Likelihood of Occurrence), H (Impact), and I (Risk Determination)
 - [PERM](https://www.cms.gov/data-research/monitoring-programs/improper-payment-measurement-programs/payment-error-rate-measurement-perm)
 - [Enrollment data performance indicator report](https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-chip-enrollment-data/monthly-medicaid-chip-application-eligibility-determination-and-enrollment-reports-data/index.html)
+- [508 accessibility Level AA compliance new rule: Nondiscrimination on the Basis of Disability; Accessibility of Web Information and Services of State and Local Government Entities (ada.gov)](https://www.ada.gov/assets/pdfs/web-rule.pdf)  Note: compliance is required 2 or 3 years from published date of April 24, 2024, depending on public entity size and has exceptions as noted in the rule.
 
 ## References
+- [28 CFR Part 35](https://www.ecfr.gov/current/title-28/chapter-I/part-35)
 - [42 C.F.R. § 433.112](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.112)
 - [42 C.F.R. § 433.116](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.116)
 - [45 C.F.R. §164.308](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-C/section-164.308)
