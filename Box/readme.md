@@ -49,7 +49,7 @@ Benefits of using Box include:
 If you have any questions about using Box, please reach out to your CMS State Officer. 
 
 ## Learn More About Using Box
-To learn more about using the Box platform, see the video tutorials at https://www.box.com/events/live-demos.
+To learn more about using the Box platform, see the video tutorials for [Demos and Use Cases for Box](https://www.box.com/events/live-demos).
 
 ### Frequently Asked Questions
 
@@ -63,7 +63,7 @@ Answer:  If a state would prefer to use its document repository, the CMS State O
 Answer: The state may either include the exact filename (if a single document) or file folder of the outcome evidence as it appears in CMS Box when populating the Intake Form evidence columns.
 
 #### Question: Is there a file size limit for file uploads?
-Answer: There is a 150 GB size limit on uploads. In the situation where your file is above the file size limit, we recommend you create a ZIP file. A ZIP is a common file format that’s used to compress one or more files together into a single location. This reduces file size and makes it easier to transport and/or store. Visit https://experience.dropbox.com/resources/what-is-a-zip-file for instructions on creating a ZIP file.
+Answer: There is a 150 GB size limit on uploads. In the situation where your file is above the file size limit, we recommend you create a ZIP file. A ZIP is a common file format that’s used to compress one or more files together into a single location. This reduces file size and makes it easier to transport and/or store. Visit ["What is a Zip File?"](https://experience.dropbox.com/resources/what-is-a-zip-file) for instructions on creating a ZIP file.
 
 #### Question: Is there a preferred naming convention for file and folder names? 
 Answer: The most important practice to follow when naming files is to be consistent with your filename conventions for each module certification. Consider including the following elements in your filename:
