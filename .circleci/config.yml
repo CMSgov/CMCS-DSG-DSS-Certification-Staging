@@ -18,7 +18,7 @@ jobs:
       - run: git merge origin/main --allow-unrelated-histories -X theirs
       - run:
           name: "Updating prod"
-          command: "git push prod_repo main:main"
+          command: "git push prod_repo main:main --force"
 
 workflows:
   # Workflow to deploy staging repo changes to prod on changes to main
