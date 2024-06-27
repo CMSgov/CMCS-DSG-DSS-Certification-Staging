@@ -14,8 +14,8 @@ jobs:
       - run: git remote add prod_repo git@github.com:CMSgov/CMCS-DSG-DSS-Certification.git
       - run: git config --global user.email "jerome.lee@cms.hhs.gov"
       - run: git config --global user.name "Jerome Lee"
-      - run: git config pull.rebase false
-      - run: git pull prod_repo main --no-edit
+      - run: git fetch origin
+      - run: git merge origin/main --allow-unrelated-histories
       - run:
           name: "Updating prod"
           command: "git push prod_repo main:main"
