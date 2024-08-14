@@ -30,7 +30,7 @@ When drafting state-specific outcomes statements, keep [these tips]({{ site.base
 
 We are actively gathering and evaluating outcomes statements crafted by states for this business area.
 
-Please send examples from your state that you'd like to share to <MESCertificationRepo@cms.hhs.gov>. Our team will collect and share the best examples.
+Please send examples from your state that you'd like to share to <MES@cms.hhs.gov>. Our team will collect and share the best examples.
 
 {% assign states = "MES Outcomes - State-Specific Member Management" %}
 
