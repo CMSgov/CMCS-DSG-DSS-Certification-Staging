@@ -38,11 +38,8 @@ Box folders are already established for each state’s ongoing operational repor
 
 **Note:** Data submissions that have formatting errors or are missing information need to be corrected by the state before they can be processed.
 
-
-<center>Example 1</center>
 <img src="{{ site.baseurl }}/Box/Example 1.png" width="100%">
 
-<center>Example 2</center>
 <img src="{{ site.baseurl }}/Box/Example 2.png" width="100%">
 
 ## Benefits of Using Box
