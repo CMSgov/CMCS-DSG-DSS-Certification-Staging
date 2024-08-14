@@ -42,6 +42,6 @@ If you would like to sign up for email notifications for changes to the site:
 ![releasenotification](https://user-images.githubusercontent.com/34281281/169134714-cfe37ea4-0d30-428a-91cf-3cd6dfc11ab4.gif)
 
 ## Contributing
-The MES team will be iterating on the site over time and would love to know how it can be improved. We are also actively gathering and evaluating outcomes statements crafted by states across all business areas. If you are interested in sharing examples to be hosted on this site, send them to: <MESCertificationRepo@cms.hhs.gov>. 
+The MES team will be iterating on the site over time and would love to know how it can be improved. We are also actively gathering and evaluating outcomes statements crafted by states across all business areas. If you are interested in sharing examples to be hosted on this site, send them to: <MES@cms.hhs.gov>. 
 
-If you have any other feedback or suggestions please email them to <MESCertificationRepo@cms.hhs.gov> and our team will get back to you. 
+If you have any other feedback or suggestions please email them to <MES@cms.hhs.gov> and our team will get back to you. 
