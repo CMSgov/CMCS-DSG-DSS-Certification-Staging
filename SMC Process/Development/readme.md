@@ -17,7 +17,7 @@ To schedule an ORR, the state must provide the following entry criteria:
 - Go-live date.
     - State will provide their anticipated go-live date, along with well-documented and defined go/no-go exit criteria.
 - User Acceptance Testing (UAT) completion date 
-    - The state must provide a timeline for when UAT and any other testing will be complete. Additional guidelines can be found in MES Testing Guidance Framework.
+    - The state must provide a timeline for when UAT and any other testing will be complete. Additional guidelines can be found in [MES Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf).
     - All UAT should be completed prior to the ORR.
 - The following files or a projected timeline for completion:
     - The independent, third-party security and privacy controls assessment report (SAR) and penetration test results conducted within the last 2 years from the requested ORR date,
