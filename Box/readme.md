@@ -1,4 +1,4 @@
-# Using CMS Box in the Certification on Ongoing Operational Reporting Processes
+# Using CMS Box in the Certification and Ongoing Operational Reporting Processes
 
 In accordance with 42 C.F.R. §§ 433.112(b)(15) and 433.116(b), (c), and (i) and to support the work of Streamlined Modular Certification (SMC) framework, the Centers for Medicare and Medicaid Services (CMS) uses Box to easily upload files for certification and ongoing operational reporting, including secure file exchange and storage of Protected Health Information (PHI) and Personally Identifiable Information (PII) files. The Box Cloud Content Management Platform has achieved numerous U.S. Government certifications for privacy and security regulatory and compliance, including, but not limited to, FedRAMP Moderate, DoD SRG IL4, NIST SP 800-171, AICPA SOC 2/SOC 3/AT 101 Type II, IRS Publication 1075, and HIPAA. 
 
@@ -6,7 +6,7 @@ In accordance with 42 C.F.R. §§ 433.112(b)(15) and 433.116(b), (c), and (i) an
 
 Your CMS State Officer will establish a single Box folder for each individual module or system undergoing certification contained in the **state’s root folder**. You should see your applicable state folder with “ – Certifications” at the end. All unredacted certification related files should be uploaded to the applicable Operational Readiness Review (ORR) and Certification Review (CR) folders. Refer to Example 1 and the Module Abbreviation table below. Sub-folders for each module certification will be created as follows:
 
-**State Name and Module Abbreviation**
+**State Abbreviation and Module Abbreviation**
 
 **ORR**
 - Evidence* – should contain the Intake Form and two subfolders:
@@ -112,7 +112,7 @@ Adapted from Appendix B of the [Medicaid Enterprise Systems (MES) Data Submissio
 | HIE | Health Information Exchange |
 | LTSS | Long-Term Services and Support |
 | MM | Member Management |
-| Multi | Mulitple modules within one review |
+| Multi | Mulitple modules within one file |
 | PBM | Pharmacy Benefits Manager |
 | PDMP | Prescription Drug Monitoring Program |
 | PI | Program Integrity |
