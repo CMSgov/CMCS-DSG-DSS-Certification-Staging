@@ -5,9 +5,9 @@ Once a system is in production, states should be able to regularly and consisten
 ## Operational Reporting
 In accordance with 42 CFR 433.112(b)(15), states are required to report on the system’s performance to CMS as a condition for receiving enhanced funding. Reporting metrics enhance transparency and accountability of IT solutions in meeting regulatory requirements as well as the state’s program goals. 
 
-In preparation for the CR, the state should submit metrics monthly in the appropriate CMS Box folder, preferably utilizing the Operational Report Workbook. To be certified, states must submit at least six months of metrics data or data back to your requested retroactive certification date, whichever is greater.
+In preparation for the CR, the state should submit metrics in the appropriate CMS Box certification folder, preferably utilizing the Operational Report Workbook. To be certified, states must submit at least six months of metrics data or data back to your requested retroactive certification date, whichever is greater.
 
-After the CR, states must submit operational reports to CMS containing metrics annually in support of a state’s Operational Advanced Planning Documents (OAPD) request. CMS may determine the need for some metrics requiring states to report more frequently.
+After the CR, states must submit operational reports in the appropriate CMS Box metrics folder containing metrics. For all modules, the state must provide a monthly breakdown of metric data within its ORW, as applicable. A state must submit the ORW for all modules with its Operational Advanced Planning Documents (OAPD) submission. The ORWs of EVV modules must be submitted on a quarterly basis.
 
 ## Certification Review (CR)
 A CR is necessary for the state to receive enhanced federal funding for system maintenance and operations. The CR is focused on demonstrating the impact of that functionality in production, as assessed by metrics.
@@ -16,45 +16,57 @@ CMS encourages states to include all appropriate program, business operations, a
 
 In accordance with 42 CFR 433.116, the enhanced FFP may be claimed retroactive to the first day in the calendar quarter following the implementation date of the module. Should the state need to claim FFP beyond the two-year timely filing limit, the state must submit the certification letter with a good cause waiver for approval before requesting the funds beyond the two-year limit.
 
-The state will be able to schedule their review as early as three months in advance of their target date. For example, if the state intends to hold a CR in March, then they can submit their request for the review as early as December. It’s advised the CR take place toward the end of the 7th month after go-live, as metrics must be pulled and provided with the evidence and required artifacts no later than 2 weeks prior to the CR.
+The state will be able to schedule their review as early as three months in advance of their target date. For example, if the state intends to hold a CR in March, then they can submit their request for the review as early as January. It’s advised the CR take place toward the end of the 7th month after go-live, as metrics must be pulled and provided with the evidence and required artifacts no later than 2 weeks prior to the CR.
 
 To schedule a CR, the state must provide the following entry criteria: 
-- System go-live date
-- Certification Request Letter 
-    - Ensure all elements outline in Appendix C are included. A template has been made available for states on GitHub.  
-- System Acceptance Letter 
-- Metric data dating back to the go-live date, up to the most recent quarter
-- Confirmation from the CMS T-MSIS Team that the system being certified has T-MSIS LSE SOP approval and meets all OBA compliance. 
+- Latest Intake Form
+    - This can be a draft but will need to be finalized and loaded to the applicable certification Box folder 2 weeks prior to the review.
+- Certification Request Letter
+    - Ensure all required elements, as outlined in Appendix C of the SMC Guidance and within the example Certification Request letter template on the MES Certification Repository, are present.
+    - One required element is the System Acceptance Letter.  This is a letter from the state (on the state’s letterhead) to the vendor clearly stating the date the system was accepted along with the go-live date.  See the example System Acceptance Letter on MES Certification Repository.
+    - Send the Certification Request Letter and applicable attachments via email to the CMS State Officer and MES@cms.hhs.gov.  
+    - Since the Certification Request Letter and the System Acceptance Letter are also SMC Required Artifacts (see Appendix C of SMC Guidance), the state should also upload them to the applicable Box folder for certification.
+- Metric data back to go-live date
+    - States must submit data back to the go-live date (or the date requesting retroactive certification), up to the most recent month end.
+- The independent, third-party security and privacy controls assessment report (SAR) and penetration test results conducted within the last two years from the requested CR date.
+- Most recent Plan of Action & Milestones (POA&M) documenting the status of all vulnerabilities (from SAR, penetration tests, vulnerability scans, and disaster recovery test results). 
+    - All very high (i.e. critical) and high findings must be resolved prior to scheduling a CR date.
+- Link to CMS Box location
+    - Work with your CMS State Officer, who will set up a file structure in CMS Box and provide this link. 
+- The CMS State Officer will reach out to the CMS T-MSIS team to get confirmation via email that the state and system being certified meets all Outcomes Based Assessment (OBA) compliance.
+
+Note that meeting the above entry criteria for ORR only clears the way for scheduling the ORR. The state must provide the most up-to-date documents two weeks prior to the ORR in the applicable certification Box folders for evaluation by the CMS Certification Team.
 
 For the CR, the following steps are completed:
-1.	The state finalizes the state columns of the Intake Form.  
-    1.	The state must use the exact filename(s), which was loaded in CMS Box when populating the Intake Form evidence columns. 
-2.	Preferably earlier but no later than two weeks before the CR, the state saves all evidence, required artifacts, the Intake Form, metrics (via Operational Report Workbook), the CR agenda, and the presentation the state will use for the CR in CMS Box appropriate folders. 
-    1.	No files uploaded to CMS Box should be redacted, this includes but is not limited to security risk assessments, penetration tests, screen prints, or reports that include PHI/PII.
-    2.	The state also sends the completed Intake Form to the CMS State Officer and to MES@cms.hhs.gov. 
-    3.	The CMS Certification Team will then begin a review of the evidence and required artifacts. 
-3.	Approximately one week prior to the review, an Information Request Listing (IRL) will be sent to the state by the CMS Certification Team. This includes questions and feedback on the files uploaded to CMS Box. The state should respond in writing by the time of the review and modify the agenda to address feedback from the CMS Certification Team during the review.
-4.	The CR meeting is held, and action items are documented, reviewed, and agreed to. 
-    1.	The demonstrations must be in the production environment (test data should not be entered).
-    2.	The state should try to respond to all action items as soon as possible, preferably within 24 hours.
-5.	A Tear-out will be created by the CMS Certification Team including observations, recommendations, findings, and action items. This will be sent to the state along with the updated Intake Form (with CMS columns filled out) and the Certification Decision Letter and CR Report approximately 60 days after the CR meeting.
-6.	The Tear-out recommendations should be reviewed, and actions taken as necessary. Any identified findings will require a Corrective Action Plan (CAP) with ongoing reporting to the CMS State Officer until resolved.  
+1.	The state finalizes the state columns of the Intake Form.
+    - The state must use the exact filename(s), which was loaded in CMS Box when populating the Intake Form evidence columns.
+2.	Preferably earlier but no later than two weeks before the CR, the state saves all evidence, required artifacts, the Intake Form, metrics (via Operational Report Workbook), the CR agenda, and the presentation the state will use for the CR in CMS Box certification folders.
+    - No files uploaded to CMS Box should be redacted, this includes but is not limited to security risk assessments, penetration tests, screen prints, or reports that include PHI/PII.
+    - The state notifies the CMS State Officer when they have completed loading all documentation (no later than 2 weeks prior to the review date).
+    - The CMS Certification Team will then begin a review of the evidence and required artifacts.
+3.	Approximately one week prior to the review, an Information Request Listing (IRL) will be sent to the state by the CMS Certification Team. This includes questions and feedback on the files uploaded to CMS Box. Although providing written responses to these questions before the review is encouraged, it is not mandatory. The state should be prepared to address all outstanding questions from the IRL during the ORR or CR discussions and demonstrations.
+4.	The CR meeting is held, and action items are documented, reviewed, and agreed to.
+    - The demonstrations must be in the production environment (test data should not be entered).
+    - The state should try to respond to all action items as soon as possible, preferably within 24 hours.
+5.	 After the CR, CMS will review and enter comments into the Intake Form and assemble the certification package. CMS will follow up with the state to discuss any necessary remediations. Once certification is approved, the state will receive the updated Intake Form, the certification report, and the certification letter from CMS.
+  
 
 <center><img src="{{ site.baseurl }}/SMC Process/Production/CR Flow.png"></center>
 
 ## Best Practices
 
 ### Operational Reporting 
-- The Operational Report Workbook should be submitted at a cadence agreed upon with the CMS State Officer. 
-    - The metrics can be logged in the Operational Report Workbook monthly, quarterly, or yearly, depending on the metric.
+- The Operational Report Workbook should be submitted at a cadence agreed upon with the CMS State Officer.
+    - The metrics can be logged in the Operational Report Workbook monthly, quarterly, or yearly, depending on the metric (it is recommended to be monthly and required to be monthly for EVV modules).
     - Reporting should include comments (reference defects, risks, or issues) for those metric values that were not expected or not meeting the state’s internal benchmark.
-    - The state should utilize the same Operational Report Workbook when submitting ongoing reporting. 
+    - The state should utilize the same Operational Report Workbook when submitting ongoing reporting.
+
 
 ### Privacy and Security 
-- All critical and high vulnerabilities must be resolved before receiving certification and may impact FFP. 
+- All critical and high vulnerabilities must be resolved before scheduling certification and may impact FFP.
 
 ### Review Preparation 
-- States are highly encouraged to utilize the sample agenda provided by the CMS Certification Team:
+- States are highly encouraged to utilize the sample agenda provided by the CMS Certification Team, see one example below.
 
 <center><img src="{{ site.baseurl }}/SMC Process/Production/CR Agenda.png"></center>
 
