@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The [Intake Form Template](https://cmsbox.app.box.com/index.php?rm=box_download_shared_file&shared_name=g5nbtla1h303w3keg9fx5pd6aalsuh7z&file_id=f_1379611642948) is used throughout the Streamlined Modular Certification (SMC) process to track information about a state’s single Medicaid Enterprise Systems (MES) project undergoing certification. States will fill out the Intake Form Template by entering the CMS-required outcomes that document compliance with regulations applicable to their module or system, their state-specific outcomes, and the metrics used to show that the project is achieving its outcomes on a continuous basis.
+The [Intake Form Template](https://cmsbox.box.com/shared/static/j5u08eu921gdypak2idff5jaa0n94tge.xlsx) is used throughout the Streamlined Modular Certification (SMC) process to track information about a state’s single Medicaid Enterprise Systems (MES) project undergoing certification. States will fill out the Intake Form Template by entering the CMS-required outcomes that document compliance with regulations applicable to their module or system, their state-specific outcomes, and the metrics used to show that the project is achieving its outcomes on a continuous basis.
 
 ## Using the Intake Form
 
@@ -47,7 +47,7 @@ If states have questions or need additional clarification, reach out to your CMS
 
 ## Resources
 For templates, please visit: 
--	[Appendix E – Intake Form Template](https://cmsbox.app.box.com/index.php?rm=box_download_shared_file&shared_name=g5nbtla1h303w3keg9fx5pd6aalsuh7z&file_id=f_1379611642948) 
+-	[Appendix E – Intake Form Template](https://cmsbox.box.com/shared/static/j5u08eu921gdypak2idff5jaa0n94tge.xlsx)
 -	[Operational Report Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Operational%20Report%20Workbook.xlsx)
 
 For more information on CEFs and Outcomes:
