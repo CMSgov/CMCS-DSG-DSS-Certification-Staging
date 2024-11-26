@@ -27,19 +27,19 @@ toc:
       # then the toc.html include will need to be modified.
       - title: 1115 or Waiver Support Systems
       - title: Asset Verification System
-      - title: Claims Processing
-      - title: Decision Support System & Data Warehouse
+      - title: Claims Processing (CP)
+      - title: Decision Support System & Data Warehouse (DSSDW)
       - title: Electronic Visit Verification (EVV)
-      - title: Eligibility and Enrollment
-      - title: Encounter Processing System (EPS) & Managed Care System
-      - title: Financial Management
+      - title: Eligibility and Enrollment (EE)
+      - title: Encounter Processing System (EPS)
+      - title: Financial Management (FM)
       - title: Health Information Exchange (HIE)
       - title: Long Term Services & Supports (LTSS)
-      - title: Member Management
-      - title: Pharmacy Benefit Management (PBM) & Point of Sale (POS)
+      - title: Member Management (MM)
+      - title: Pharmacy Benefit Management (PBM)
       - title: Prescription Drug Monitoring Program (PDMP)
-      - title: Program Integrity
-      - title: Provider Management
+      - title: Program Integrity (PI)
+      - title: Provider Management (PM)
       - title: Third Party Liability (TPL)
   - title: Metrics and Ongoing Reporting
     link: /Ongoing Reporting/
