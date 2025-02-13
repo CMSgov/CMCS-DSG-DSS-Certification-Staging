@@ -10,7 +10,7 @@ Your CMS State Officer will establish a single Box folder for each individual mo
 
 **ORR**
 - Evidence* – should contain the Intake Form and two subfolders:
-    - CEF – should contain the evidence listed in the Intake Form for applicable CEFs. There is no need for additional sub-folders.
+    - CEF – should contain the evidence listed in the Intake Form for applicable Conditions for Enhanced Funding. There is no need for additional sub-folders.
     - Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by outcome.
 - Metrics – should contain the definitions of the metrics for ORR. CMS highly encourages states to use the [Operational Report Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Operational%20Report%20Workbook.xlsx).
 - Presentation – should contain the presentation for the day of the review and any other meeting documentation.
