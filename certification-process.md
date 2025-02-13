@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Outcomes and the certification process
+# Outcomes and the Certification Process
 Outcomes and metrics are important aspects of the Advance Planning Document (APD) and Streamlined Modular Certification (SMC) processes. However, not all Medicaid Enterprise System (MES) projects require certification, and not all APDs require outcomes.
 
 Typically, outcomes and metrics are required when states receive enhanced funding. Outcomes and metrics are not required if the activities and projects involved are routine or consist of planning and operational functions, such as hardware maintenance, gap analysis, Request for Proposal development, and security patches.
@@ -32,18 +32,18 @@ Generally, a certification must be performed for systems that:
 
 States should work with their CMS State Officer to determine if their proposed MES project requires certification.
 
-# Using This Repository 
+## Using This Repository 
 The MES Certification Repository is a space for states, CMS, and vendors to learn, share, and contribute information about the SMC process.
 
-## From this repository states can: 
+### From this repository states can: 
 -	Find examples and understand CMS expectations for developing outcomes and metrics
 -	Share outcomes and metrics with other states, suggest changes and provide feedback to CMS about outcomes and processes via <MES@cms.hhs.gov>
 
-## From this repository CMS will: 
+### From this repository CMS will: 
 -	Provide publicly available resources to guide states on how to write outcome statements and measure impact
 -	Share and update examples of outcome statements and metrics for use in state APDs and certification documents
 -	Review and upload state-approved outcomes and metrics
 
-## From this repository vendors can: 
+### From this repository vendors can: 
 -	Get direct access to the CMS-required outcomes or default metrics
 -	Share suggestions on changes and provide feedback to CMS about outcomes and processes via <MES@cms.hhs.gov>
