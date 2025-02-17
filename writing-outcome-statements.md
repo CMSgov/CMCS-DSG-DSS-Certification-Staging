@@ -18,12 +18,30 @@ The table below presents a checklist for a state’s approach and considerations
 
 | Step | Action | Things to Consider |
 | --- | --- | --- |
-| 1 | Align with Medicaid Program Goals |  |
-| 2 | Define Clear and Specific Business Outcomes |  |
-| 3 | Ask the “So What” Question |  |
-| 4 | Focus on Measurable Metrics |  |
-| 5 | Consider Stakeholder Impact |  |
-| 6 | Ensure Goals are Feasible and Realistic, Focusing on Quality Over Quantity |  |
-| 7 | Incorporate Continuous Improvement |  |
-| 8 | Use Clear and Concise Language |  |
+| 1 | Align with Medicaid Program Goals | <ul><li>**State-Specific Goals:** Review the state’s Medicaid plan and identify key goals such as improve patient care, reduce costs, or enhance system efficiency.</li><li>**CMS Requirements:** Ensure that the business outcomes align with CMS-required outcomes for compliance.</li></ul> |
+| 2 | Define Clear and Specific Business Outcomes | <ul><li>**Target Specific Problems:** Identify the state’s specific issues or needs for the MES project.</li><li>**Desired Results:** Articulate how the state’s success produces specific results.</li></ul> |
+| 3 | Ask the “So What” Question | <ul><li>A measurable outcome delivers more than data points for leadership’s assessment; a successful outcome represents actual benefits in economy, effectiveness, and efficiency for the state and the Medicaid program in general.</li><li>**Operational Efficiency:** Evaluate how the proposed outcome will streamline processes, reduce waste, and improve the overall efficiency of Medicaid operations.</li></ul> |
+| 4 | Focus on Measurable Metrics | <ul><li>**Quantifiable Metrics:** Choose metrics that can be easily measured and tracked over time.</li><li>**Baseline Data:** Establish current performance levels against which to measure improvement.</li></ul> |
+| 5 | Consider Stakeholder Impact | <ul><li>**Patient Benefits:** How will the project improve patient outcomes?</li><li>**Provider Benefits:** How will the project benefit healthcare providers?</li></ul> |
+| 6 | Ensure Goals are Feasible and Realistic, Focusing on Quality Over Quantity | <ul><li>**Achievable Goals:** Set realistic goals that can be achieved within the project timeline and budget.</li><li>**Quality Over Quantity:** Identify impactful metrics, not a large quantity of random information.</li><li>**Resource Availability:** Consider the resources available, including technology, staff, and funding.</li></ul> |
+| 7 | Incorporate Continuous Improvement | <ul><li>**Feedback Loops:** Include mechanisms that promote ongoing feedback and continuous improvement.</li><li>**Scalability:** Ensure the business outcomes can be scaled or adapted as the project evolves.</li></ul> |
+| 8 | Use Clear and Concise Language | <ul><li>**Avoid Jargon:** Use plain language that is easily understood by all stakeholders.</li><li>**Be Specific:** Avoid vague statements.</li></ul> |
 | 9 | Reassess State Needs and Update as Needed | <ul><li>**Reassess:** Reevaluate state-specific outcomes and metrics periodically to ensure continued relevancy.</li><li>**Update:** Once goals have been achieved, modify, archive, and/or add new metrics that meet current state and CMS needs.</li></ul> |
+
+## Determine Metrics (Data) that Show the Achievement of State-Specific Outcomes
+Once a state establishes its state-specific outcome statement for a desired module, it needs supporting metrics to measure the intended state-specific outcome. Metric data is the evidence that shows how the state accomplishes its state-specific outcomes on a continuous basis. Well-designed metrics enhance transparency and accountability of information technology systems, provide insight for efficient program evaluation and/or retirement of specific outcomes, and reveal opportunities for continuous improvement.
+
+In determining relevant metrics to measure state-specific outcomes, states should consider:
+-	What quantifiable metrics demonstrate that a module or system meets the desired state-specific outcome?
+-	How do the specific metrics help us assess the program results?
+-	What is the current baseline? *
+
+### Examples:
+-	“Average time to screen a provider.”
+-	“The number of Emergency Room and hospital readmissions.” (In relation to an outcome of increasing preventive care services.)
+-	“The percent of patient engagement within 30 days by their community care team after discharge.”
+
+* Please note that CMS does not currently require measurable benchmarks. However, states are encouraged to measure their progress in attaining state-specific outcomes should they wish. Setting a timebound benchmark establishes a clear, measurable target for improvement, making it easy to track progress and adjust as necessary. It also allows states to determine whether they have met their state-specific outcomes, in which case, these can be retired and new metrics identified for measurement.
+
+For more information or to share your state-specific outcomes and metrics, please contact your CMS State Officer or email <MES@cms.hhs.gov>.
+
