@@ -34,14 +34,14 @@ Once a state establishes its state-specific outcome statement for a desired modu
 In determining relevant metrics to measure state-specific outcomes, states should consider:
 -	What quantifiable metrics demonstrate that a module or system meets the desired state-specific outcome?
 -	How do the specific metrics help us assess the program results?
--	What is the current baseline? *
+-	What is the current baseline?^
 
 ### Examples:
 -	“Average time to screen a provider.”
 -	“The number of Emergency Room and hospital readmissions.” (In relation to an outcome of increasing preventive care services.)
 -	“The percent of patient engagement within 30 days by their community care team after discharge.”
 
-* Please note that CMS does not currently require measurable benchmarks. However, states are encouraged to measure their progress in attaining state-specific outcomes should they wish. Setting a timebound benchmark establishes a clear, measurable target for improvement, making it easy to track progress and adjust as necessary. It also allows states to determine whether they have met their state-specific outcomes, in which case, these can be retired and new metrics identified for measurement.
+^ Please note that CMS does not currently require measurable benchmarks. However, states are encouraged to measure their progress in attaining state-specific outcomes should they wish. Setting a timebound benchmark establishes a clear, measurable target for improvement, making it easy to track progress and adjust as necessary. It also allows states to determine whether they have met their state-specific outcomes, in which case, these can be retired and new metrics identified for measurement.
 
 For more information or to share your state-specific outcomes and metrics, please contact your CMS State Officer or email <MES@cms.hhs.gov>.
 
