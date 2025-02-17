@@ -220,4 +220,4 @@ A: Currently, CMS does not publish guidance on how to retire a metric. States sh
 - Do not delete the row in the ORW that contains the metric to be retired because this will generate an error in the database. Instead, the state should use a new column in the revised ORW (slated for release this Fall) that asks for the status of each metric in the OAPD (Active, Ended). Make a note in the ORW that the metric has ended and keep the metric in the ORW with the other current metrics.
 - Finally, please remember that Metric IDs cannot be reused. Retiring a metric also retires its associated Metric ID.
 
-We will continue to add to the FAQ as new questions arise. [Download the FAQs as a PDF.](https://cmsbox.box.com/shared/static/yd5glb19gfn2i62bsntlz8akn1tcwspf.pdf)
+We will continue to add to the FAQ as new questions arise. [Download the FAQs as a PDF.](https://cmsbox.box.com/shared/static/y86b5ah50sasofova2gb6g8dzfkdig5f.pdf)
