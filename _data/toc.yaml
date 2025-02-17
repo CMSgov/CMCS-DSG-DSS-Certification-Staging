@@ -47,6 +47,8 @@ toc:
     link: /Box/
   - title: Frequently Asked Questions
     link: /FAQs/
+  - title: Templates
+    link: /Templates/
   - title: Roadmap
     url: "https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/wiki/MES-Certification-Repo-Roadmap"
     external: true
