@@ -26,6 +26,5 @@ The table below presents a checklist for a state’s approach and considerations
 | 6 | Ensure Goals are Feasible and Realistic, Focusing on Quality Over Quantity |  |
 | 7 | Incorporate Continuous Improvement |  |
 | 8 | Use Clear and Concise Language |  |
-| 9 | Reassess State Needs and Update as Needed | -	Reassess: Reevaluate state-specific outcomes and metrics periodically to ensure continued relevancy.
--	Update: Once goals have been achieved, modify, archive, and/or add new metrics that meet current state and CMS needs.
- |
+| 9 | Reassess State Needs and Update as Needed | "-	Reassess: Reevaluate state-specific outcomes and metrics periodically to ensure continued relevancy.
+-	Update: Once goals have been achieved, modify, archive, and/or add new metrics that meet current state and CMS needs." |
