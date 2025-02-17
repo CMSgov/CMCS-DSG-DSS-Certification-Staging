@@ -1,7 +1,5 @@
 # Streamlined Modular Certification Frequently Asked Questions (FAQs)
 
-The following FAQs were prepared to help answer questions about the new Streamlined Modular Certification (SMC) process and requirements. This information is meant to help answer questions about SMC. The official [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) can be found on Medicaid.gov and is the primary source of information on SMC process and requirements. Other helpful information is on the Certification GitHub and you can always reach out to your State Officer with questions.  
-
 CMS prepared this set of FAQs to inform states and the public about the Streamlined Modular Certification (SMC) process and requirements. The official [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) is available at [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and is the primary source of information on the SMC process and requirements. Other helpful information is available in the MES Certification Repository, and State Officers are available to answer your questions. Questions may also be submitted via the Medicaid Enterprise System mailbox at <MES@cms.hhs.gov>. 
 
 - [Overview of SMC](#overview)
@@ -17,44 +15,25 @@ CMS prepared this set of FAQs to inform states and the public about the Streamli
 
 ## Overview of SMC {#overview}
 
-### Q: What is SMC?
-A: SMC is a new process for certifying discrete Medicaid information Technology (IT) systems or services. Known as Medicaid Enterprise Systems (MES) modules, they are used by a state’s Medicaid agency to manage, monitor, and administer their Medicaid program. This guidance reinforces the emphasis on modularity and reducing the burden associated with certification. 
+### Q1: What is SMC?
+A: Streamlined Modular Certification (SMC) is the process for certifying discrete Medicaid information technology (IT) systems. State Medicaid Agencies use these IT systems and modules, known as Medicaid Enterprise Systems (MES), to manage, monitor, and administer their Medicaid program. The SMC framework promotes reduced burden and increased flexibility for states while ensuring states meet federal requirements (and state-specific outcomes) for systems and modules.
 
-The guidance replaces the existing processes for obtaining CMS approval for an enhanced Federal Financial Participation (FFP) rate, known as the Medicaid Enterprise Certification Toolkit (MECT) and the Medicaid Eligibility and Enrollment Toolkit (MEET). 
-
-SMC introduces a new set of certification elements: 
--	Conditions for Enhanced Funding for which states must ensure ongoing compliance.  
--	CMS-required outcomes, which are based on statutory or regulatory requirements to promote the efficient, economical, and effective administration of the state’s Medicaid program. 
--	State-specific outcomes that reflect the unique circumstances, characteristics, or program priorities which the state’s IT project will directly address. 
--	Metrics to provide evidence about whether the outcomes are achieved on an ongoing basis. 
--	Required Artifacts are still required for certification, but the SMC SMDL reduces the number from 29 to 7 (Appendix C).
+SMC contains the following certification elements:
+-	Conditions for Enhanced Funding that require ongoing state compliance.
+-	CMS-required outcomes are based on statutory or regulatory requirements to promote the efficient, economical, and effective administration of the state’s Medicaid program.
+-	State-specific outcomes that reflect the unique circumstances, characteristics, or program priorities that the state’s IT project will directly address while ensuring benefit to the state’s Medicaid program.
+-	Metrics to provide evidence about whether the outcomes are achieved continuously.
+-	Required artifacts are required for certification. These are documents that demonstrate the progression of a state’s IT project.
 
 For all systems that comprise the MES, SMC is designed to:
--	Enhance collaboration between CMS and states to focus certification on demonstrated evidence to achieve business goals for state Medicaid programs
--	Leverage data and testing to better inform our assessment of the successful delivery of systems and better inform subsequent funding decisions
+-	Enhance collaboration between CMS and states to focus certification on demonstrated evidence to achieve business goals for state Medicaid programs.
+-	Leverage data and testing to better inform CMS’s assessment of the successful delivery of systems and better inform subsequent funding decisions.
 
-### Q: How can I learn about the new SMC process and requirements? 
-A: The SMC SMDL is the primary source of information on the new SMC process and requirements. There are materials and tools available to help facilitate the SMC process on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the CMS Certification Repository on GitHub. 
+### Q2: How can I learn about the new SMC process and requirements? 
+A: The [State Medicaid Director Letter (SMDL) # 22-001](https://www.medicaid.gov/federal-policy-guidance/downloads/smd22001.pdf) and the [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) are the primary sources of information on the SMC process and requirements. Materials and tools are available to help facilitate the SMC process on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the MES Certification Repository on GitHub.  
 
-### Q: When was the SMC State Medicaid Directors Letter (SMDL) released?
-A: CMS issued guidance introducing SMC on April 14, 2022. The release included the SMDL, the Certification Guidance document with appendices, the Testing Guidance Framework, the Intake Form template, and other tools to help states with SMC. This information can be found on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html). 
-
-### Q: Will SMC be used to certify Electronic Visit Verification (EVV) investments?
-A: No, Electronic Visit Verification (EVV) systems will still be certified using the “EVV Outcomes-based Certification (OBC)” guidance released on October 24, 2019, but SMC applies to all other MES modules, including Eligibility and Enrollment. 
-
-### Q: How does SMC differ from MECT/MEET?
-A: SMC has different tools and requirements than the MECT/MEET and should result in a more streamlined and efficient certification approach for states. Changes include:
--	With the exception of the Certification Request Letter and the System Acceptance Letter, states are no longer required to submit the artifacts listed in MECT/MEET Appendix B.
--	The Project Partnership Understanding (PPU) and IV&V Progress Report requirements have been eliminated, although states are required to submit Monthly Project Status Reports during DDI.
--	There is no Project Initiation Milestone Review. 
--	Instead of MECT/MEET checklists, there is a focus on the Conditions for Enhanced Funding, Outcomes, and Metrics. 
--	States will have to report against metrics regularly when a system is in production. 
-
-### Q: Why did CMS decide to create this new process?
-A: SMC reduces the administrative burden for states so they can focus their resources on best serving Medicaid beneficiaries. For example, CMS required states to submit 29 artifacts under MECT/MEET, compared to 7 under SMC. SMC supports states in their goals for adopting or enhancing technology that is effective, efficient, and maximizes the capacity of the Medicaid agency to serve its beneficiaries. SMC is designed to ensure state Medicaid IT modules are compliant with conditions for enhanced funding and other requirements while also supporting the state’s goals.  
-
-### Q: How does SMC differ from Outcomes-Based Certification (OBC)?
-A: CMS has been piloting OBC methods for a few years. The EVV OBC Process and SMC represent the current state of the art of OBC for certification of Medicaid IT systems. CMS is committed to using outcomes and metrics to assess the performance of state systems. As we move forward with SMC, CMS will be collecting feedback from states and will continue to look for opportunities to improve the certification process and evolve the outcomes-based approach.
+### Q3: How does SMC differ from Outcomes-Based Certification (OBC)?
+A: CMS only uses the OBC to determine Electronic Visit Verification (EVV) module certification. CMS uses the SMC to receive certification requests for all other Medicaid Management Information System (MMIS) and Eligibility & Enrollment (E&E) modules. 
 
 ***
 
