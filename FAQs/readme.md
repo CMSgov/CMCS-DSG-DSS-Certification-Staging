@@ -39,24 +39,43 @@ A: CMS only uses the OBC to determine Electronic Visit Verification (EVV) module
 
 ## What States Must Know about the SMC Process {#impact}
 
-### Q: What requirements will states need to follow under SMC?
-A: The process and requirements states need to follow under the new SMC process are described in the SMC SMDL. The SMC SMDL contains several key elements which were not present in MEET and MECT. These elements include outcomes, metrics, and operational reports. In addition, states will need to complete Operational Readiness Reviews (ORRs) and Certification Reviews (CRs) rather than the Milestone Reviews required under the toolkits. 
+### Q4: Why will CMS not sign Non-Disclosure Agreements (NDAs) or similar agreements from states or vendors?
+A: CMS operates under specific federal regulations prioritizing transparency and information access. CMS has the authority to conduct program reviews and audits as part of its federal oversight responsibilities. Regulations, including but not limited to 45 CFR 95.615 and 42 CFR 495.346, mandate that state agencies must provide the Department of Health and Human Services (HHS) with full access to their systems and records. This access encompasses all aspects of the system, such as state staff involvement, design developments, operations, and cost records of contractors and subcontractors. The primary reasons why CMS is not required to sign NDAs or similar agreements are:
 
-### Q: If my state is in the Planning phase, how does the SMC SMDL release affect my state?
-A: When developing your IAPD, make sure it includes proposed state-specific outcomes and CMS-required outcomes, and metrics. 
+1.	**Regulatory Compliance:** CMS is bound by federal regulations that require open access to information. Signing an NDA could conflict with these regulations, particularly 45 CFR 95.615, which ensures that the Department can evaluate the system's efficiency, economy, and effectiveness without restrictions.
+2.	**Transparency and Accountability:** As a federal agency, CMS is committed to maintaining transparency and accountability in its operations. NDAs could limit the ability of CMS and other oversight bodies to access necessary information, thereby hindering their ability to ensure that public funds are used appropriately and that systems are functioning as intended.
+3.	**Public Interest:** CMS must ensure that systems undergo scrutiny and review to protect the public interest, promote better service delivery, and safeguard against the misuse of resources and funds.
+4.	**Operational Efficiency:** Allowing unrestricted access to systems and records enables CMS to conduct timely and thorough evaluations. This helps identify areas for improvement and implement necessary changes swiftly, ultimately leading to more efficient and effective service delivery. 
 
-You should review Appendix B of the SMDL for the list of CMS-required outcomes, and determine which outcomes apply to your specific project. If you have questions about how to develop state-specific outcomes, you may request help from your CMS State Officer in developing state-specific outcomes. There is also information on outcomes and metrics on the CMS Repository on GitHub.
+In summary, CMS does not enter into NDAs with states during program or system review to maintain transparency and accountability, comply with legal requirements, and effectively fulfill its oversight responsibilities. This approach ensures that CMS can fulfill its mission to provide high-quality healthcare services while adhering to legal and ethical standards.
 
-### Q: If my state is in the Development phase, DDI, and has not yet gone through ORR and CR, how does the SMC SMDL release affect my state?
-A: You should make sure your state has submitted outcomes and metrics and filled out the Intake Form. If not, your state should work with its State Officer to identify outcomes and metrics though an APD-Update (APD-U) or during preparation of the Intake Form for an ORR or CR.
+However, this does not mean that CMS does not take steps to protect sensitive information. CMS has procedures in place to protect confidential and proprietary information, and it may enter into other types of legal agreements, such as MOU/MOA/DUA, that govern the use and disclosure of certain types of information.  To further support these efforts, CMS utilizes the Box Cloud Content Management Platform in accordance with 42 C.F.R. §§ 433.112(b)(15) and 433.116(b), (c), and (i). This platform facilitates the Streamlined Modular Certification (SMC) framework by enabling secure file exchange and storage of Protected Health Information (PHI) and Personally Identifiable Information (PII). Box has achieved numerous U.S. Government certifications for privacy and security, including FedRAMP Moderate, DoD SRG IL4, NIST SP 800-171, AICPA SOC 2/SOC 3/AT 101 Type II, IRS Publication 1075, and HIPAA. These certifications ensure that state files loaded in Box are secure, providing states with confidence in the safety of their information even in the absence of NDAs.
 
-You should also review Appendix B of the SMDL for the list of CMS-required outcomes and identify which ones will apply to your specific project so that you understand them and are ready to enter them into an intake form after the APD is approved.
 
-### Q: If my state is receiving enhanced match for operations and maintenance (O&M) of a previously certified system and operating a system of record, how does the SMC SMDL release affect them?
-A: The state will need to work with CMS to coordinate and agree upon an approach, including selecting applicable outcomes and metrics, and a schedule to begin operational reporting. 
+### Q5: What requirements must states comply with under SMC?
+A: The SMC Guidance and MES Certification Repository presents the process, requirements, and materials states must follow under the SMC process. This includes Conditions for Enhanced Funding (CEF), outcomes, and metrics as key elements. In addition, states must complete an Operational Readiness Review (ORR) and Certification Review (CR).
 
-### Q: Can a state still use MECT/MEET if it is in the process of certifying their system?
-A: States should work with their CMS State Officers to determine the best path forward and smoothest transition process. States that are significantly far along in their preparations for module certification under the MECT or MEET framework may elect to proceed with certification under the relevant legacy certification toolkit. However, states that elect to do so will also be expected to produce and submit operational reports for their systems. 
+### Q6: What are the key SMC process touchpoints, and how do they correspond to the IT lifecycle?
+A: The SMC process is designed to support the IT investment lifecycle phases as follows:
+-	**Planning – Should the APD be approved?**
+  - During the Planning phase, the state submits the Advance Planning Document (APD), including proposed outcomes and metrics, to the CMS State Officer for approval.
+  - For SMC, the state begins populating the Intake Form and Operational Report Workbook (ORW), which aligns with the approved APD outcomes and metrics.
+-	**Development – Is the project healthy?**
+  - During the Development phase, the state provides CMS monthly reports on project status in preparation for the Operational Readiness Review before system go-live.
+  - For SMC, the state submits the entry criteria to demonstrate review readiness, receives confirmation on an ORR date, finalizes the Intake Form, and places all certification documentation (evidence, required artifacts, Intake Form, ORW, ORR agenda, and presentation) in the CMS Box.
+-	**Production – Is the system delivering outcomes?**
+  - During the Production phase, the state continues to assure CMS of the project’s health via monthly status reports and operational reports documenting how well the system performs after go-live.
+  - For SMC, the state finalizes the Intake Form and submits entry criteria in preparation for CR, where the state will demonstrate the system in the live production environment. The state submits unredacted evidence, required artifacts, metrics data via the ORW, and the agenda and presentation for the CR. Once certified, the state submits the Operational APD (OAPD) to CMS for approval.
+
+
+### Q7: What is the Certification Request Letter, and where do states send it?
+A: States may download an example of the [Certification Request Letter Template] on the MES Certification Repository.
+
+States should email the Certification Request Letter to their CMS State Officer and <MES@cms.hhs.gov>. It is also used as an entry criteria for scheduling a CR and a required artifact. The state must also upload the letter to the applicable Box folder for certification.
+
+
+### Q8: How is the Information Request Listing used?
+A: One (1) week before the review, the state will receive an Information Request Listing (IRL) for any additional clarifications. Although CMS encourages written responses to these questions before the review, this is not mandatory. The state should be prepared to address all outstanding questions from the IRL during the ORR or CR discussions and demonstrations.
 
 ***
 
