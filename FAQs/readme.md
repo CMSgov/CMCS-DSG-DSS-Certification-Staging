@@ -58,18 +58,18 @@ A: The SMC Guidance and MES Certification Repository presents the process, requi
 ### Q6: What are the key SMC process touchpoints, and how do they correspond to the IT lifecycle?
 A: The SMC process is designed to support the IT investment lifecycle phases as follows:
 -	**Planning – Should the APD be approved?**
-  - During the Planning phase, the state submits the Advance Planning Document (APD), including proposed outcomes and metrics, to the CMS State Officer for approval.
-  - For SMC, the state begins populating the Intake Form and Operational Report Workbook (ORW), which aligns with the approved APD outcomes and metrics.
+    - During the Planning phase, the state submits the Advance Planning Document (APD), including proposed outcomes and metrics, to the CMS State Officer for approval.
+    - For SMC, the state begins populating the Intake Form and Operational Report Workbook (ORW), which aligns with the approved APD outcomes and metrics.
 -	**Development – Is the project healthy?**
-  - During the Development phase, the state provides CMS monthly reports on project status in preparation for the Operational Readiness Review before system go-live.
-  - For SMC, the state submits the entry criteria to demonstrate review readiness, receives confirmation on an ORR date, finalizes the Intake Form, and places all certification documentation (evidence, required artifacts, Intake Form, ORW, ORR agenda, and presentation) in the CMS Box.
+    - During the Development phase, the state provides CMS monthly reports on project status in preparation for the Operational Readiness Review before system go-live.
+    - For SMC, the state submits the entry criteria to demonstrate review readiness, receives confirmation on an ORR date, finalizes the Intake Form, and places all certification documentation (evidence, required artifacts, Intake Form, ORW, ORR agenda, and presentation) in the CMS Box.
 -	**Production – Is the system delivering outcomes?**
-  - During the Production phase, the state continues to assure CMS of the project’s health via monthly status reports and operational reports documenting how well the system performs after go-live.
-  - For SMC, the state finalizes the Intake Form and submits entry criteria in preparation for CR, where the state will demonstrate the system in the live production environment. The state submits unredacted evidence, required artifacts, metrics data via the ORW, and the agenda and presentation for the CR. Once certified, the state submits the Operational APD (OAPD) to CMS for approval.
+    - During the Production phase, the state continues to assure CMS of the project’s health via monthly status reports and operational reports documenting how well the system performs after go-live.
+    - For SMC, the state finalizes the Intake Form and submits entry criteria in preparation for CR, where the state will demonstrate the system in the live production environment. The state submits unredacted evidence, required artifacts, metrics data via the ORW, and the agenda and presentation for the CR. Once certified, the state submits the Operational APD (OAPD) to CMS for approval.
 
 
 ### Q7: What is the Certification Request Letter, and where do states send it?
-A: States may download an example of the [Certification Request Letter Template] on the MES Certification Repository.
+A: States may download an example of the [Certification Request Letter Template](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/SMC%20Certification%20Request%20Letter%20Template.docx) on the MES Certification Repository.
 
 States should email the Certification Request Letter to their CMS State Officer and <MES@cms.hhs.gov>. It is also used as an entry criteria for scheduling a CR and a required artifact. The state must also upload the letter to the applicable Box folder for certification.
 
