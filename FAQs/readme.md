@@ -2,10 +2,10 @@
 
 The following FAQs were prepared to help answer questions about the new Streamlined Modular Certification (SMC) process and requirements. This information is meant to help answer questions about SMC. The official [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) can be found on Medicaid.gov and is the primary source of information on SMC process and requirements. Other helpful information is on the Certification GitHub and you can always reach out to your State Officer with questions.  
 
-We will continue to add to the FAQ as new questions arise. [Download the FAQs as a PDF.](https://cmsbox.box.com/shared/static/yd5glb19gfn2i62bsntlz8akn1tcwspf.pdf)
+CMS prepared this set of FAQs to inform states and the public about the Streamlined Modular Certification (SMC) process and requirements. The official [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) is available at [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and is the primary source of information on the SMC process and requirements. Other helpful information is available in the MES Certification Repository, and State Officers are available to answer your questions. Questions may also be submitted via the Medicaid Enterprise System mailbox at <MES@cms.hhs.gov>. 
 
 - [Overview of SMC](#overview)
-- [How will SMC Impact States?](#impact)
+- [What States Must Know about the SMC Process](#impact)
 - [Outcomes and Metrics](#outcomes)
 - [Conditions for Enhanced Funding](#CEF)
 - [Intake Form](#intake)
@@ -58,7 +58,7 @@ A: CMS has been piloting OBC methods for a few years. The EVV OBC Process and SM
 
 ***
 
-## How will SMC Impact States? {#impact}
+## What States Must Know about the SMC Process {#impact}
 
 ### Q: What requirements will states need to follow under SMC?
 A: The process and requirements states need to follow under the new SMC process are described in the SMC SMDL. The SMC SMDL contains several key elements which were not present in MEET and MECT. These elements include outcomes, metrics, and operational reports. In addition, states will need to complete Operational Readiness Reviews (ORRs) and Certification Reviews (CRs) rather than the Milestone Reviews required under the toolkits. 
@@ -193,6 +193,8 @@ At CR, states need to have been operational for ***at least*** 6 months to recei
  
 ### Q: How much metric data are states expected to provide in order for a CR to be scheduled? 
 A: In accordance with SMD #22-001, states must submit all agreed upon operational metrics related to the module, beginning from the time the system became operational as the system of record and up until the end of the most recent quarter, in order for a state to schedule their CR date. The system must by live and the state must be able to show they are collecting and able to report metric data. For example, if your state is collecting metrics on a monthly basis and you are looking to schedule a CR, you should provide all available months of data before being able to request a CR. 
+
+We will continue to add to the FAQ as new questions arise. [Download the FAQs as a PDF.](https://cmsbox.box.com/shared/static/yd5glb19gfn2i62bsntlz8akn1tcwspf.pdf)
  
 ### Q: How often do states need to submit operational reports? 
 A: States are required to submit operational reports on an annual basis. Although states report annually, the data should be broken down by month. The State Officer may require more frequent reporting for specific metrics. 
