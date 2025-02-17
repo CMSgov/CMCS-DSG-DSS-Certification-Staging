@@ -83,36 +83,38 @@ A: One (1) week before the review, the state will receive an Information Request
 
 Please visit the [Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/) page on GitHub for additional information.
 
-### Q: Are there resources to help states work with their State Officers to develop appropriate state-specific outcomes and metrics?
-A: States should discuss their ideas for outcomes early in the planning process so that they can be included in the APD. State-specific outcomes should be specific to the IT investment the state is making and should allow the state to demonstrate progress towards meetings its goals. Please see the SMDL and other resources on Medicaid.gov and the CMS Certification Repository on GitHub. 
+### Q9: Are there resources to help states work with their State Officers to develop appropriate state-specific outcomes and metrics?
+A: States should discuss their ideas for outcomes early in the planning process and include these outcomes in the Advance Planning Document (APD). State-specific outcomes should be specific to the state’s IT investment and should help the state demonstrate progress toward meeting its goals. Resources to help states are available on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the MES Certification Repository on GitHub.
 
-### Q: Where can states find examples and more information on CMS-required and state-specific outcomes and metrics?
-A: The CMS Certification Repository on GitHub provides a collaborative space where states can learn, share, and contribute information about the MES Certification process and its related artifacts. Additionally, there are tools on the MES wiki to help State Officers work with states to develop state-specific outcomes. 
+### Q10: Where can states find examples and more information on CMS-required and state-specific outcomes and metrics?
+A: The MES Certification Repository on GitHub provides a collaborative space where states can learn, share, and contribute information about the SMC process and its related artifacts.
 
-### Q: When should states develop state-specific outcomes?
-A: States should begin to develop state-specific outcomes and related metrics early in the planning phase and update CMS on progress throughout the IT investment cycle. 
+### Q11: Do states need to develop state-specific outcomes for all projects?
+A: In certain circumstances, a project may only have CMS-required outcomes (e.g., if a state is proposing a project to implement a new basic capability or if the goal of the state’s project is to comply with a federal requirement).
 
-States will need to submit to CMS for approval an Advance Planning Document (APD) that includes state-specific outcomes, and metrics. States should be in frequent contact with their CMS State Officer for support with drafting an APD that include state-specific outcomes and related metrics that clearly align the proposed IT project with the state’s goals. 
+States should augment the CMS-required outcomes by having state-specific outcomes that emphasize alignment and contributions to the state’s Medicaid program strategies.
 
-### Q: Do states need to develop state-specific outcomes for all projects?
-A: In certain circumstances a project may only have CMS-required outcomes, (e.g., if a state is proposing a project to implement a new basic capability, or if the goal of the state’s project is to become compliant with a federal requirement). However, this should be exception rather than the rule. 
+### Q12: When should states develop state-specific outcomes?
+A: States should develop state-specific outcomes and related metrics early in the Planning phase and update CMS on progress throughout the IT investment cycle.
+States must obtain CMS approval for an Advance Planning Document (APD) that includes state-specific outcomes and metrics. States should engage their CMS State Officer’s support in drafting an APD that includes state-specific outcomes and related metrics that clearly align the proposed IT project with the state’s goals.
 
-Additionally, states with legacy systems that are already certified and in O&M do not need to go back and create new state-specific outcomes. 
+### Q13: Are states expected to have a metric for every outcome?
+A: CMS does not expect states to establish a metric for every outcome. One metric may be relevant for multiple outcomes in each module. Alternatively, multiple metrics may be appropriate for a single outcome. Some outcomes may only require an attestation or demonstration during the Certification Review and should be noted in the Intake Form. States must work with their MES State Officer to discuss any outcomes that may not have metrics and receive CMS’s approval for these outcomes.
 
-### Q: Are states expected to have a metric for every outcome? 
-A: No, it is not expected that states have one metric for every outcome. One metric may be relevant for multiple outcomes in each module. Alternatively, multiple metrics may be appropriate for a single outcome. It is worth noting that not every outcome will require a metric – some may only require an attestation or demo during the Certification Review and should be noted in the Intake Form. States must work with their State Officer to discuss those outcomes that may not have metrics and receive approval.  
+### Q14: When and how should states report progress on CMS-required outcomes, state-specific outcomes, and metrics?
+A: Once CMS approves the APD, the state should enter the CMS-required and state-specific outcomes from the APD into the Intake Form and metrics from the APD into the Operational Report Workbook for discussion and approval with their CMS State Officer. The state and their CMS State Officer should agree on a preliminary list of evidence to demonstrate that outcomes have been achieved (drafted in the Intake Form).
 
-### Q: When and how should states report progress on CMS-required outcomes, state-specific outcomes, and metrics?
-A: Once CMS approves the APD, the state should enter the CMS-required outcomes, state-specific outcomes, and metrics from the APD into the Intake Form for discussion and approval with their CMS State Officer. Together, they should agree on a preliminary list of evidence that will be used to demonstrate that outcomes have been achieved. 
+During ORR, the state must demonstrate that the system has met the outcomes and will support collecting and reporting metrics described in the APD. During CR, the state will need to demonstrate—with appropriate evidence—that the system in production is achieving the approved CMS-required and state-specific outcomes and metrics. States will also report on state-specific outcomes and related metrics in ongoing operational reports after the CR. Please refer to the SMC Guidance for more details.
 
-During ORR, the state must demonstrate that the system will support the collection and reporting of metrics described in the APD/APD-U. During CR, the state will need to demonstrate – with appropriate evidence – that the approved CMS-required and state-specific outcomes and metrics are being achieved by the system in production. States will also report on state-specific outcomes and related metrics and other elements in on-going operational reports after the CR. Please see the Guidance for more details.
+CMS anticipates that states may need to revisit and update outcomes and metrics for their investment periodically. States should first discuss any revisions to a state’s CMS-required outcomes, state-specific outcomes, or metrics with the CMS State Officer. Based on these revisions, the state may be required to submit an APD-Update (APD-U).
 
-CMS anticipates that states may need to revisit and update outcomes and metrics (as defined below) for their investment over time. Any revisions to a state’s CMS-required or state-specific outcomes or metrics may require submitting an APD-Update (APD-U). The state should regularly contact their CMS State Officer to discuss such updates.
+### Q15: What module-specific outcome materials have been developed as part of SMC?
+A: Under SMC, states will select all CMS-required outcomes for the certification module. CMS-required outcomes for MES modules are available in the MES Certification Repository. These outcomes are aligned with regulatory and policy requirements that states must follow when implementing modules.
 
-### Q: What module-specific outcome materials have been developed as part of SMC?
-A: Under SMC, states will select CMS-required outcomes under each relevant module. CMS-required outcomes for specific MES modules can be found in Appendix B of the SMDL. These outcomes are aligned with regulatory and policy requirements that states must follow when implementing modules or capabilities. The lists in Appendix B are the “menu” the state chooses from to select the CMS-required outcomes that are applicable for a given project.
+States should also propose their state-specific outcomes depending on what they seek to accomplish for their Medicaid program and if their goals are not otherwise included in the CMS-required outcomes. State-specific outcomes should be specific to the state’s IT investment and should help the state demonstrate progress toward meeting its programmatic goals.
 
-States should also propose their own state-specific outcomes that are informed by what they are trying to accomplish for their Medicaid program. State-specific outcomes should be specific to the IT investment the state is making and should allow the state to demonstrate progress towards meetings its programmatic goals.
+### Q16: What are hard edits regarding EVV, and are hard edits required to be in place before certification?
+A: The term “hard edits” for an EVV module means the claim should be denied if one of the six required data elements mandated by the 21st Century Cures Act is missing. Hard edits are not required to be in place before certification; however, CMS assumes the state will turn on hard edits for metrics efficiency. The Certification Team will include an observation/recommendation to advise that hard edits be in place. The state must check for all six required data elements for EVV, but they could post edit and pay (a “soft edit” instead of denying the claim). If the state is not checking for all six data elements on the claim, this could impact certification approval.
 
 ***
 
@@ -122,15 +124,15 @@ Please visit the [Conditions for Enhanced Funding (CEF)]({{site.baseurl}}/Cond
 
 Please visit the [CEF Tips and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEF Tips/) page on GitHub for additional tips and best practices.   
 
-### Q: What is the recommended timeline for addressing privacy and security during the Design, Development, and Implementation (DDI) and Maintenance and Operations (M&O)? 
-A: CMS recommends the following: 
-- **System Security Plan (SSP)** – must be drafted early in the DDI as it is included in the SCA and maintained throughout M&O.  
-- **Security Control Assessment (SCA)** – must be completed prior to go-live and the Security and Privacy Assessment Report (SAR) provided for ORR evidence. SCA must be completed biennially unless following Affordable Care Act (ACA) Administering Entity (AE) then annually. 
-- **Penetration Test** – must be complete prior to go-live. Penetration testing must be completed biennially (strongly recommending annually) unless following ACA AE then annually. 
-- **Vulnerability Scans** – must be completed continuously (recommend monthly) throughout DDI and M&O. 
-- **Plan of Action & Milestone (POA&M)** – must be updated throughout DDI and M&O with all vulnerabilities, including at minimum those from the penetration test, SCA, vulnerability scans, and disaster recovery findings. Recommend using the Affordable Care Act (ACA) Administering Entity (AE) POA&M template. 
-- **Disaster Recovery & Business Continuity Plan** – must be drafted early in the DDI as it is included in the SCA.  The plans must be reviewed yearly throughout DDI and M&O.
-- **Disaster Recovery Test** – strongly recommended to be performed yearly throughout DDI and M&O.  A test must be completed prior to go-live.  
+### Q17: What is the recommended timeline for addressing privacy and security during Design, Development, and Implementation (DDI) and Maintenance and Operations (M&O)?
+A: CMS recommends the following timeline for addressing privacy and security:
+- **System Security and Privacy Plan (SSPP)** – must be drafted early in the DDI because it is included in the Security Control Assessment (SCA) and maintained throughout M&O.
+- **Security Control Assessment (SCA)** - must be completed before go-live, and the Security and Privacy Assessment Report (SAR) must be provided for ORR evidence. Going forward, the SCA must be completed biennially unless the state is following the Affordable Care Act (ACA) Administering Entity (AE). Then, the state must complete it annually.
+- **Penetration Test** – must be completed before go-live. Penetration testing must be completed biennially (CMS strongly recommends annual Pen testing) unless the state is following ACA AE, then the state must complete it annually.
+- **Vulnerability Scans** – must be completed continuously (recommend monthly) throughout DDI and M&O.
+- **Plan of Action & Milestones (POA&M)** – must be updated throughout DDI and M&O and address all vulnerabilities, including, at minimum, those from the Penetration testing, SCA, vulnerability scans, and disaster recovery findings. CMS recommends using the ACA AE POA&M template.
+- **Disaster Recovery and Business Continuity Plan** - these plans must be drafted early in the DDI as an element of the SCA and reviewed yearly throughout DDI and M&O.
+- **Disaster Recovery Test** – strongly recommended to be completed yearly throughout DDI and M&O. A DR test should be completed before go-live.
 
 ***
 
