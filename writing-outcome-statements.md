@@ -18,7 +18,7 @@ The table below presents a checklist for a state’s approach and considerations
 
 | Step | Action | Things to Consider |
 | --- | --- | --- |
-| 1 | Align with Medicaid Program Goals | <ul><li>**State-Specific Goals:** Review the state’s Medicaid plan and identify key goals such as improve patient care, reduce costs, or enhance system efficiency.</li><li>**CMS Requirements:** Ensure that the business outcomes align with CMS-required outcomes for compliance.</li></ul> |
+| 1 | Align with Medicaid Program Goals | - **State-Specific Goals:** Review the state’s Medicaid plan and identify key goals such as improve patient care, reduce costs, or enhance system efficiency.<br>- **CMS Requirements:** Ensure that the business outcomes align with CMS-required outcomes for compliance. |
 | 2 | Define Clear and Specific Business Outcomes | <ul><li>**Target Specific Problems:** Identify the state’s specific issues or needs for the MES project.</li><li>**Desired Results:** Articulate how the state’s success produces specific results.</li></ul> |
 | 3 | Ask the “So What” Question | <ul><li>A measurable outcome delivers more than data points for leadership’s assessment; a successful outcome represents actual benefits in economy, effectiveness, and efficiency for the state and the Medicaid program in general.</li><li>**Operational Efficiency:** Evaluate how the proposed outcome will streamline processes, reduce waste, and improve the overall efficiency of Medicaid operations.</li></ul> |
 | 4 | Focus on Measurable Metrics | <ul><li>**Quantifiable Metrics:** Choose metrics that can be easily measured and tracked over time.</li><li>**Baseline Data:** Establish current performance levels against which to measure improvement.</li></ul> |
