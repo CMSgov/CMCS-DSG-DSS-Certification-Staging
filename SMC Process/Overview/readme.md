@@ -6,11 +6,12 @@ The  MES Information Technology (IT) investment lifecycle consists of three phas
 -	Planning phase: When the state is in the planning phase of a project, it develops the initial outcomes desired for the new module and works with CMS to refine them.
 -	Development phase: When the state and the vendor are in the Design, Development, and Implementation (DDI) phase, the state works with CMS to prepare for the Operational Readiness Review (ORR).
 -	Production phase:  When the module is live, the state works with CMS to prepare for the final CR.
+
 As shown below, engagement during each phase of the MES IT investment lifecycle will include the following SMC touchpoints (see unshaded boxes):
 
 <img src="{{ site.baseurl }}/SMC Process/Overview/Process Overview.png" width="100%">
 
-## For information on SMC in each phase please visit the following phases: 
+## For information on SMC in each phase, please visit the following phases: 
 -	[Planning]({{site.baseurl}}/SMC Process/Planning/)
 -	[Development]({{site.baseurl}}/SMC Process/Development/)
 -	[Production]({{site.baseurl}}/SMC Process/Production/)
