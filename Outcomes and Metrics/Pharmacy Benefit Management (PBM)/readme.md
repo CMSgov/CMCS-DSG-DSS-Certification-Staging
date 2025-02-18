@@ -1,4 +1,4 @@
-# Pharmacy Benefit Management (PBM) & Point of Sale (POS)
+# Pharmacy Benefit Management (PBM)
 
 #### How this system supports the Medicaid Program
 
