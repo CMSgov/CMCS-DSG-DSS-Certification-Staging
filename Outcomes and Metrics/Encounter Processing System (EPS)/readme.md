@@ -1,4 +1,4 @@
-# Encounter Processing System (EPS) & Managed Care System
+# Encounter Processing System (EPS)
 
 #### How this system supports the Medicaid Program
 
