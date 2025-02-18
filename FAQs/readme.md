@@ -120,7 +120,7 @@ A: The term “hard edits” for an EVV module means the claim should be denied 
 
 ## Conditions for Enhanced Funding {#CEF}
 
-Please visit the [Conditions for Enhanced Funding (CEF)]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) page on GitHub for examples of evidence.  The CEF includes privacy and security (see CEF 9, 12, and 18). 
+Please visit the [Conditions for Enhanced Funding (CEF)]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) page on GitHub for examples of evidence.  The CEF includes privacy and security (please refer to CEF 9, 12, and 18). 
 
 Please visit the [CEF Tips and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEF Tips/) page on GitHub for additional tips and best practices.   
 
