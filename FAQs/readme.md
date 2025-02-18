@@ -120,7 +120,7 @@ A: The term “hard edits” for an EVV module means the claim should be denied 
 
 ## Conditions for Enhanced Funding {#CEF}
 
-Please visit the [Conditions for Enhanced Funding (CEF)]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) page on GitHub for example evidence.  The CEF includes privacy and security (see CEF 9, 12, and 18). 
+Please visit the [Conditions for Enhanced Funding (CEF)]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) page on GitHub for examples of evidence.  The CEF includes privacy and security (see CEF 9, 12, and 18). 
 
 Please visit the [CEF Tips and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEF Tips/) page on GitHub for additional tips and best practices.   
 
@@ -143,7 +143,7 @@ A: The states and CMS use the Intake Form to track what a state seeks to achieve
 
 Given that states must include state-specific outcomes and metrics in their APDs, it is important that the Intake Form matches what is listed in the APD. When a state approaches ORR and CR, it will need to meet with CMS to finalize and approve the specific evidence it will provide as part of the certification process.
 
-The Intake Form template can be found on the GitHub Repository as well as [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html). 
+The Intake Form template is available in the MES Certification Repository as well as on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html). 
 
 ### Q19: When should a state fill out the Intake Form?
 A: States should start filling out the Intake Form once the outcomes and metrics in the APD have been approved. If a state did not complete the Intake Form as part of the APD approval and the project is nearing ORR, CMS will work with the state to complete the Intake Form with outcomes and metrics selected by the state.
@@ -217,7 +217,7 @@ A: If the state’s system has been certified or if it has a legacy system in op
 A: Currently, CMS does not publish guidance on how to retire a metric. States should, however, note the following:
 - If a state believes it is ready to retire a metric and will no longer report on it, it should inform its State Officer about the change and explain the reason for retiring it in the Operational Reporting Workbook (ORW) and via an APD-U submission.
 - If a state wishes to revise its reported metrics, it should discuss the change with its State Officer and update the metrics via the APD submission. Depending on the changes, a revised metric may include retiring the current one and creating a new one. Once the state has updated the metrics, with approval from the SO, it should report this within the ORW.
-- Do not delete the row in the ORW that contains the metric to be retired because this will generate an error in the database. Instead, the state should use a new column in the revised ORW (slated for release this Fall) that asks for the status of each metric in the OAPD (Active, Ended). Make a note in the ORW that the metric has ended and keep the metric in the ORW with the other current metrics.
+- Do not delete the row in the ORW that contains the metric to be retired because this will generate an error in the database. Make a note in the ORW that the metric has ended and keep the metric in the ORW with the other current metrics.
 - Finally, please remember that Metric IDs cannot be reused. Retiring a metric also retires its associated Metric ID.
 
-We will continue to add to the FAQ as new questions arise. [Download the FAQs as a PDF.](https://cmsbox.box.com/shared/static/y86b5ah50sasofova2gb6g8dzfkdig5f.pdf)
+CMS will continue to add to the FAQs as new questions arise. [Download the FAQs as a PDF.](https://cmsbox.box.com/shared/static/y86b5ah50sasofova2gb6g8dzfkdig5f.pdf)
