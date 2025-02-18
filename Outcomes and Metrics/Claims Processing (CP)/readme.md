@@ -1,4 +1,4 @@
-# Claims Processing
+# Claims Processing (CP)
 
 #### How this system supports the Medicaid Program
 
