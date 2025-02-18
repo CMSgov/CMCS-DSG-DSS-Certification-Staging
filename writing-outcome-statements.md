@@ -4,12 +4,10 @@ States requesting enhanced Federal Financial Participation (FFP) for Medicaid En
 A good state-specific outcome helps a state monitor the desired functionality and efficiency of its Medicaid program and operations. States should collaborate with their CMS State Officer to finalize state-specific outcomes that comply fully with Medicaid statutes and regulations, as well as a set of metrics that assure a practicable assessment of the proposed module’s effectiveness. States can draw on the process and considerations in this document to write good state-specific outcomes and determine effective metrics for their measurement and assessment.
 
 ## Identify the State-Specific Outcome
-Technology should enable better program outcomes. How does the project align with the goals of the state’s Medicaid program and therefore provide a benefit beyond technical specifics? 
-
 To begin, states should (1) clearly define the primary objective of their MES project initiative and (2) focus on the desired result that addresses the state’s specific challenge or need.
 
 ### Examples:
--	**"Increase the number of Medicaid patients who can schedule appointments online."** This target of this outcome is improving patient access to scheduling services, which addresses current issues with accessibility and convenience.
+-	**"Increase the number of Medicaid patients who can schedule appointments online."** The target of this outcome is improving patient access to scheduling services, which addresses current issues with accessibility and convenience.
 -	**"Expand the provider directory of active Medicaid providers, ensuring accurate and up-to-date information.”** This outcome focuses on expanding and maintaining the accuracy of the provider directory. The successful result helps assure adequate capacity to serve expected enrollments in a given service area while maintaining a sufficient number, mix, and geographic distribution of providers.
 
 ## Checklist
