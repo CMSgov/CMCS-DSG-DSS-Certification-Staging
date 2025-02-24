@@ -126,7 +126,7 @@ Please visit the [CEF Tips and Best Practices]({{site.baseurl}}/Conditions for
 
 ### Q17: What is the recommended timeline for addressing privacy and security during Design, Development, and Implementation (DDI) and Maintenance and Operations (M&O)?
 A: CMS recommends the following timeline for addressing privacy and security:
-- **System Security and Privacy Plan (SSPP)** – must be drafted early in the DDI because it is included in the Security Control Assessment (SCA) and maintained throughout M&O.
+- **System Security and Privacy Plan (SSP)** – must be drafted early in the DDI because it is included in the Security Control Assessment (SCA) and maintained throughout M&O.
 - **Security Control Assessment (SCA)** - must be completed before go-live, and the Security and Privacy Assessment Report (SAR) must be provided for ORR evidence. Going forward, the SCA must be completed biennially unless the state is following the Affordable Care Act (ACA) Administering Entity (AE). Then, the state must complete it annually.
 - **Penetration Test** – must be completed before go-live. Penetration testing must be completed biennially (CMS strongly recommends annual Pen testing) unless the state is following ACA AE, then the state must complete it annually.
 - **Vulnerability Scans** – must be completed continuously (recommend monthly) throughout DDI and M&O.
