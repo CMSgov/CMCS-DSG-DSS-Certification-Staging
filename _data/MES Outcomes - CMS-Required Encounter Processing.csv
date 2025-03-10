@@ -3,4 +3,4 @@ EPS01,Encounter Data Submission to States,"The system ingests encounter data (su
 42 CFR 438.604"
 EPS02,Managed Care Contracts,"The system ensures encounter data accurately reflects the services provided under the state's MCO contract(s) and aligns with the state’s managed care quality strategy for improving healthcare and services.", , ,"42 CFR 438.242;
 42 CFR 438.340"
-EPS03,Capitation Rates and Payment Comparisons,"f the state performs payment comparisons between capitation rates and Fee-For-Service (FFS) claims data, then the system facilitates the state's use of encounter data for such comparisons to ensure financial accuracy and efficiency.", , ,42 CFR 438.4
+EPS03,Capitation Rates and Payment Comparisons,"If the state performs payment comparisons between capitation rates and Fee-For-Service (FFS) claims data, then the system facilitates the state's use of encounter data for such comparisons to ensure financial accuracy and efficiency.", , ,42 CFR 438.4
