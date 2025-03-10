@@ -25,5 +25,5 @@ PBM06,"Identifying Fraud, Waste and Abuse","The system enables collection of pha
 42 CFR 456.709;
 Section 1927 (g) of the SSA;
 Section 1944 (e)(1) of the SSA",N/A,N/A
-PBM07,Rebate Processing,"The system captures the necessary data quarterly to ensure timely processing and invoicing of manufacturer rebates and the capability to track, monitor, and report rebate cost savings for the Medicaid program.",Section 1927 of the SSA, including 1927(b)(2);
+PBM07,Rebate Processing,"The system captures the necessary data quarterly to ensure timely processing and invoicing of manufacturer rebates and the capability to track, monitor, and report rebate cost savings for the Medicaid program.","Section 1927 of the SSA, including 1927(b)(2);
 42 CFR 447, Subpart I, Payment for Drugs",PBM-07.1,Total cost savings as a percent of total rebate dollars invoiced
