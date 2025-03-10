@@ -14,7 +14,7 @@ The Intake Form Template is used throughout the Streamlined Modular Certificatio
 
 The template here contains CMS-required E&E outcomes as an example of how content should appear in the Intake Form. A blank copy of the intake form is also available on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html).
 
-[Download the Intake Form](https://cmsbox.box.com/shared/static/rahky9ak0qavq4ex0ywh9z5poewae8xe.docx)
+[Download the Intake Form](https://cmsbox.box.com/shared/static/2gncwjuo6pp6wkvsefmzbh8iqaagpa2f.xlsx)
 
 ### Example Templates
 
