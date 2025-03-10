@@ -9,8 +9,8 @@ PBM02,Accurate Adjudication of Claims,"The system adjudicates pharmacy claims ac
 Section 1927(h) of SSA;
 42 CFR 447.45;
 42 CFR 447.46;
-42 CFR 438.242",PBM-02.1,Percent of rejected claims due to provider (prescriber) not enrolled
- , , , ,PBM-02.2,Percent of rejected claims due to provider (pharmacy) not enrolled
+42 CFR 438.242",PBM-02.1,"Percent of rejected claims due to provider (prescriber) not enrolled"
+ , , , ,PBM-02.2,"Percent of rejected claims due to provider (pharmacy) not enrolled"
 PBM03,Prior Authorization,"The system enables the beneficiary to have timely access to medication if the system has the capability to perform prior authorization and provides a response by telephone or other telecommunication devices within 24 hours of a request. The system also provides for dispensing of at least a 72-hour supply of a covered outpatient prescription drug in an emergency situation (unless excluded under the SSA).","Section 1927(d)(5) of the SSA",PBM-03.1,Percent of Prior Authorization requests responded to within 24 hours
  , , , ,PBM-03.2,Percent of 72-hour emergency supply requests filled
 PBM04,CMS Reporting,"The system supports CMS oversight of the safe, effective, and appropriate dispensing of medications by enabling the capability to provide data to support the creation of the CMS annual report on the operation and status of the state's DUR program.","Section 1927(g)(3)(D) of the SSA; 
