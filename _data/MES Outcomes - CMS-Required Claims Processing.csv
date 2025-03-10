@@ -5,7 +5,7 @@ CP02,Adjudication,"The system performs comprehensive claims adjudication resulti
  , , , ,CP-02.2,Suspended Claims as a Percentage of Total Claims
 CP03,Prior Authorization,"The system confirms authorization for services that require prior approval to manage costs or ensure patient safety, and that the services provided are consistent with the authorization.","42 CFR 440.230 (e);
 CMS Interoperability and Prior Authorization Final Rule CMS-0057-F",CP-03.1,Urgent Non-Drug Prior Authorizations Responded to Within 72 hours as a Percentage of Total Requests
- , , , ,CP03.2,Standard Non-Drug Prior Authorizations Responded to Within 7 Calendar Days as a Percentage of Total Requests
+ , , , ,CP-03.2,Standard Non-Drug Prior Authorizations Responded to Within 7 Calendar Days as a Percentage of Total Requests
 CP04,Accurate Calculation,"The system correctly calculates payable amounts in accordance with the State Plan and logs accounts payable amounts for payment processing.","State Medicaid Manual, Part 11 Section 11325, Claims Processing;
 42 CFR 447 Subpart A, general payment provisions under Medicaid",N/A,N/A
 CP05,Claims Processing Denials,"The system captures applicable claims denial reason codes","45 CFR 162.920(c)(4)(iv);
