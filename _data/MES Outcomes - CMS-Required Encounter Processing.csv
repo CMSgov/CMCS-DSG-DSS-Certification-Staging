@@ -1,6 +1,6 @@
-Outcome Reference #,Outcome Title,Outcome Statement,Metric ID,Metric,Regulatory Sources
-EPS01,Encounter Data Submission to States,"The system ingests encounter data (submissions and re-submissions) from MCOs, submitted in industry standard formats (e.g., ASC X12N), and sends transaction quality feedback to the MCOs in industry standard reports.",EPS-01.1,Percentage of Failed Transaction Quality Checks by MCO,"42 CFR 438.242;
-42 CFR 438.604"
-EPS02,Managed Care Contracts,"The system ensures encounter data accurately reflects the services provided under the state's MCO contract(s) and aligns with the state’s managed care quality strategy for improving healthcare and services.", , ,"42 CFR 438.242;
-42 CFR 438.340"
-EPS03,Capitation Rates and Payment Comparisons,"If the state performs payment comparisons between capitation rates and Fee-For-Service (FFS) claims data, then the system facilitates the state's use of encounter data for such comparisons to ensure financial accuracy and efficiency.", , ,42 CFR 438.4
+Outcome Reference #,Outcome Title,Outcome Statement,Regulatory Sources,Metric ID,Metric
+EPS01,Encounter Data Submission to States,"The system ingests encounter data (submissions and re-submissions) from MCOs, submitted in industry standard formats (e.g., ASC X12N), and sends transaction quality feedback to the MCOs in industry standard reports.","42 CFR 438.242;
+42 CFR 438.604",EPS-01.1,Percentage of Failed Transaction Quality Checks by MCO
+EPS02,Managed Care Contracts,"The system ensures encounter data accurately reflects the services provided under the state's MCO contract(s) and aligns with the state’s managed care quality strategy for improving healthcare and services.","42 CFR 438.242;
+42 CFR 438.340",N/A,N/A
+EPS03,Capitation Rates and Payment Comparisons,"If the state performs payment comparisons between capitation rates and Fee-For-Service (FFS) claims data, then the system facilitates the state's use of encounter data for such comparisons to ensure financial accuracy and efficiency.",42 CFR 438.4,N/A,N/A
