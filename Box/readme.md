@@ -94,10 +94,10 @@ The file path is noted here:
 
 
 #### Question: What module abbreviations should I use?
-Answer: Please use the module abbreviations referenced in Appendix B of the [Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual](https://cmsbox.box.com/shared/static/0jskif02f9fbax7owesvxdmrgyk3cle0.pdf), copied in the table below.
+Answer: Please use the module abbreviations referenced in Appendix B of the [Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual](https://cmsbox.box.com/shared/static/jo7m1igi9lon34mey7dfc29jw4zwi5k8.pdf), copied in the table below.
 
 ## Module Abbreviations
-Adapted from Appendix B of the [Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual](https://cmsbox.box.com/shared/static/0jskif02f9fbax7owesvxdmrgyk3cle0.pdf).
+Adapted from Appendix B of the [Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual](https://cmsbox.box.com/shared/static/jo7m1igi9lon34mey7dfc29jw4zwi5k8.pdf).
 
 | Module Abbreviation | Module Description |
 | ------------------- | ------------------ |
