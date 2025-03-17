@@ -1,54 +1,33 @@
-Reference #,CMS Required Outcomes,Default Metrics,Regulatory Sources
-PM1 Application,"A provider can initiate, save, and apply to be a Medicaid provider. "," - Number of requests to help desk for problems with initiating, saving, and applying. 
- - Average time to enroll from point of submit. 
-a.   Total time to enroll all providers/
-b.   Total # of enrolled providers",42 CFR 455.410(a)
-PM2 Screening,"A state user can view screening results from other authorized agencies (Medicare, CHIP, other related agencies) to approve provider if applicable. "," - Average Time to screen providers upon initial application without Return to Provider time. 
-(Total time to screen all providers – RTP time)/Total # providers screened
- - Average Time to screen providers upon initial application with Return to Provider time included. 
-Total time to screen all providers/Total # providers screened",42 CFR 455.410(c)
-PM3 Screening,A state user can verify that any provider purporting to be licensed in a state is licensed by such state and confirm that the provider's license has not expired and that there are no current limitations on the provider's license ensure valid licenses for a provider.," - Number of enrollment denials and reasons for denials.  
- - Average Time to screen providers upon initial application without Return to Provider time
-(Total time to screen all providers – RTP time)/Total # providers screened
- - Average Time to screen providers upon initial application with Return to Provider time included
-Total time to screen all providers/Total # providers screened
- - Average Time to credential providers 
-Total time to credential providers/Total # of credentialed providers",42 CFR 455.412
-PM4 Revalidation,The system tracks the provider enrollment period to ensure that the state initiates provider revalidation at least every five years.," - Number of providers scheduled for revalidation by year. (Total # of providers in Medicaid)
- - Percentage of providers enrolled in the state system that are in the CMS Adverse Actions List.
- - # of state providers enrolled that are on the CMS Adverse Actions List/
- - # state providers enrolled",42 CFR 455.414
-PM5 Termination,"A state user (or the system, based on automated business rules) must terminate or deny a provider's enrollment upon certain conditions (refer to the specific regulatory requirements conditions in 42CFR455.416).", - Number of providers denied enrollment or termination of participation with reason.  Provide denial or termination reason. ,42 CFR 455.416
-PM6 Reactivation,"After deactivation, a provider seeking reactivation must be re-screened by the state and submit payment of associated application fees before their enrollment is reactivated."," - Number of providers seeking reactivation and TAT for enrollment. 
- - Number of providers seeking reactivation with submittal of payment and TAT for enrollment. ",42 CFR 455.420
-PM7 Appeal,"A provider can appeal a termination or denial decision, and a state user can monitor the appeal process and resolution including nursing homes and ICFs/IID. ", - Number of provider (by provider type) appeals and status of appeal:  include TAT to final determination. ,42 CFR 455.422
-PM8 Site Visits,A state user can manage information for mandatory pre-enrollment and post-enrollment site visits conducted on a provider in a moderate or high-risk category.," - Number of providers scheduled for site visit categorized by moderate and high risk.  
- - Number of Providers with past due site visits.  Include number of days past due",FR 455.432(a)
-PM9 Background Checks,"A state user can view the status of criminal background checks, fingerprinting, and site visits for a provider as required based on their risk level and state law."," - List of providers in pending status due to checks listed in outcome.  Provide screen shots of high-risk providers. 
- - Number of provider enrollments in process listed by outcomes check and status of outcome check and duration for each check. For example:  10 providers undergoing background checks.  Aging range from 1 -10 days. ",42 CFR 455.434
-PM10 External Systems Checks,"The system checks appropriate databases to confirm a provider's identity and exclusion status for enrollment and reenrollment and conducts routine checks using federal databases including: Social Security Administration's Death Master File, the National Plan and Provider Enumeration System (NPPES), the List of Excluded Individuals/Entities (LEIE), and the Excluded Parties List System (EPLS). Authorized users can view the results of the data matches as needed."," - Number of providers in pending status due to other database confirmations.  Include the reason for pending.  For example:  # of providers pending for NPPES verification or mismatch and or # of providers found in the Death Master File
- - Number of providers by provider type found in the Death Master File and the enrollment status of each ",42 CFR 455.436
-PM 11 Risk Level Assignment,"A state user can assign and screen all applications by a risk categorization of limited, moderate, or high for a provider at the time of new application, re-enrollment, or re-validation of enrollment. A state user can adjust a provider's risk level due to payment suspension or moratorium."," - Number of providers in each category by category for each new application, re-enrollment/revalidation 
- - Number of providers with changes from moderate to high due to payment suspension or moratorium",42 CFR 455.450
-PM 12 Application Fees,The system can collect application fees. A state user ensures any applicable application fee is collected before executing a provider agreement.," - Total number of providers in the network, # of providers in pend status due to lack of application fee, # of providers denied due to lack of application fee payment
- - Aging report of number of providers with lack of application fee payment in enrollment pend status",42 CFR 455.460
-PM 13 Moratoria,A state user can set CMS and state-imposed temporary moratoria on new providers or provider types in six-month increments.," - Number of providers in temporary moratoria status and duration range
- - Number of providers in temporary moratoria outside of 6 months",42 CFR 455.470
-PM 14 Network Adequacy,A state user can determine network adequacy based upon federal regulations and state plan., - Network adequacy is already reported on,42 CFR 438.68
-PM 15 Sanctions and Terminations,"A state user, and/or the system, can send and receive provider sanction and termination information shared from other states and Medicare to determine continued enrollment for providers.", - Provider enrollment stats for providers in pend and denied status due to sanction and or pending sanction and Medicare information. ,42 CFR 455.416(c)
-PM 16 Notices and Communications,"The system can generate relevant notices or communications to providers to include, but not limited to, application status, requests for additional information, re-enrollment termination, investigations of fraud, suspension of payment in cases of fraud.", - Provide a copy of relevant notices and communications submitted to providers for each outcome category.,42 CFR 455.23
-PM 17 Fraud,A state user can report required information about fraud and abuse to the appropriate officials., - Number of open FWA investigations by provider type and status (This may already be submitted by states),42 CFR 455.17
-PM 18 Payment Suspension,"The system, or a state user, can suspend payment to providers in cases of fraud. ", - Number of providers in suspend status due to fraud include reasons and aging by provider type,42 CFR 455.23
-PM 19 Agreements and Disclosures,A state user can view provider agreements and disclosures as required by federal and state regulations.," - These are related to ownership regulations.
- - Number of providers identifying as one or more of the ownership relationships.  List by ownership relationship type","42 CFR 455.104
-42 CFR 455.105
-42 CFR 455.106
-42 CFR 455.107"
-PM 20 Change in Circumstances,"A state user can view information from a managed care plan describing changes in a network provider's circumstances that may affect the provider's eligibility to participate in Medicaid, including termination of the provider agreement."," - List of providers by provider type who have been released from the managed care entity due to:
-- Change in state residence
-- Investigation of FWA
-- Death
-- Others as defined by state
-- Include provider state Medicaid status",42 CFR 438.608(a)
-PM 21 Directory,A beneficiary can view and search a provider directory.," - Number of help desk tickets logged for inaccessibility to provider directory. 
- - Number of website hits on provider directory page. ",42 CFR 438.10(h)
+Outcome Reference #,Outcome Title,Outcome Statement,Regulatory Sources,Metric ID,Metric
+PM01,Application,"The system allows providers to initiate, save, and submit applications to be a Medicaid provider.",42 CFR 455.410(b),PM-01.1,Number of Provider Applications Submitted
+PM02,Screening and Adjudication,"The system is used to screen all applications according to 42 CFR 455 subpart E, Provider Screening and Enrollment. Provider screening must include, but is not limited to, regulatory guidance as required for verification of provider licenses, site visits, criminal background checks, federal database checks, National Provider Identifiers, and screening levels for Medicaid providers.","42 CFR 455:
+-	410  Other Agencies;
+-	412  Licenses;
+-	420  Reactivation;
+-	432 Site visits;
+-	434  Background checks;
+-	436  Database checks;
+-	440  National Provider Identifier;
+-	450  Screening Levels;
+-	460  Application Fee;
+-	470 Temporary Moratoria",PM-02.1,Average Time to Enroll Providers
+ , , , ,PM-02.2,Percent of Provider Applications Approved
+ , , , ,PM-02.3,Percent of Provider Applications Denied
+ , , , ,PM-02.4,Number of Provider Applications Pending
+PM03,Communication with Providers,"The system notifies the provider of application status (i.e., acceptance, denial, request for additional information), re-enrollment termination, investigations of fraud, and suspension of payment in cases of fraud.","42 CFR 455.23(b);
+42 CFR 433.112(b)(1);
+42 CFR 433.112(b)(14)",N/A,N/A
+PM04,Revalidation,"The system revalidates the enrollment of all providers regardless of provider type at least every 5 years.",42 CFR 455.414,PM-04.1,Percent of Providers Scheduled for Revalidation
+PM05,Termination and Appeals,"The system terminates a provider's enrollment based on conditions in 42 CFR 455.416. The provider has appeal rights available under procedures established by State law or regulations.","42 CFR 455.416;
+42 CFR 455.417;
+42 CFR 455.422",PM-05.1,Percent of Providers Terminated by Month
+PM06,MCO Provider Change of Status,"The system ingests information about changes in an MCO provider enrollee's circumstances that may affect enrollment eligibility (i.e., change of address or death), termination of the provider agreement, or require prompt referral of any potential fraud, waste, or abuse.","42 CFR 438.604;
+42 CFR 438.608 (a)",PM-06.1,Number of Managed Care Providers Change of Status
+PM07,Provider Directory,"The system facilitates the timely publication and updating of a provider directory per applicable regulation.","42 CFR 438.10(h);
+42 CFR 431.70;
+Section 1902 of the SSA, (a)(83)",N/A,N/A
+PM08,Provider Portal,"Providers have capability to perform self-service functions, such as updating address and phone number and securely messaging the state.","42 CFR 433.112 (b)(1)  CMS will approve for FFP if CMS determines the system is likely to provide more efficient, economical, and effective administration of the State plan",N/A,N/A
+PM09,Agreements and Disclosures,"The system facilitates state capability to manage and access provider agreements and disclosures.","42 CFR 455.104;
+42 CFR 455.105;
+42 CFR 455.106;
+42 CFR 455.107",N/A,N/A
