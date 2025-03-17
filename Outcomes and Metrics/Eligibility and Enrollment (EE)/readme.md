@@ -1,4 +1,4 @@
-# Eligibility and Enrollment (E&E)
+# Eligibility and Enrollment (EE)
 
 #### How this system supports the Medicaid Program
 

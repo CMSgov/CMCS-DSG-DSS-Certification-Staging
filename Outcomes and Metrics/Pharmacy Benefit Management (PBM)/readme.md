@@ -1,8 +1,8 @@
-# Provider Management
+# Pharmacy Benefit Management (PBM)
 
 #### How this system supports the Medicaid Program
 
-Provider management module includes processes (initial and ongoing) to screen and enroll providers into Medicaid, as well as to keep provider information current and to provide data to authorized requesters. Provider outreach and communications, as well as responding to provider requests and issues, are included.
+Pharmacy Benefit Management (PBM) systems provide services which may include claims adjudication, rebate administration, utilization monitoring, drug utilization review, and preferred drug list oversight.
 
 ---
 
@@ -10,7 +10,7 @@ Provider management module includes processes (initial and ongoing) to screen an
 
 Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-Required Outcomes and Metrics are used to demonstrate that a system is compliant with the applicable federal regulations which pertain to that specific system or module. CMS-Required outcomes form the baseline for system/module functionality, which must continue to receive enhanced federal funding for operations.
 
-{% assign cms = "MES Outcomes - CMS-Required Provider Management" %}
+{% assign cms = "MES Outcomes - CMS-Required PBM" %}
 
 <div align="right" class="ds-u-margin-bottom--2">
   <a href="{{ site.baseurl }}/downloads/{{ cms }}.csv" target="_blank" download>Click here to download the CMS-Required outcomes in a CSV file</a> 
@@ -26,13 +26,13 @@ States requesting enhanced FFP for systems that fulfill _state-specific program 
 
 When drafting state-specific outcomes statements, keep [these tips]({{ site.baseurl }}/writing-outcome-statements) in mind.
 
-### Examples for Provider Management
+### Examples for Pharmacy Benefit Management
 
 We are actively gathering and evaluating outcomes statements crafted by states for this business area.
 
 Please send examples from your state that you'd like to share to <MES@cms.hhs.gov>. Our team will collect and share the best examples.
 
-{% assign states = "MES Outcomes - State-Specific Provider Management" %}
+{% assign states = "MES Outcomes - State-Specific PBM" %}
 
 <div align="right" class="ds-u-margin-bottom--2">
   <a href="{{ site.baseurl }}/downloads/{{ states }}.csv" target="_blank" download>Click here to download the State-Specific outcomes in a CSV file</a>  

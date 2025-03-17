@@ -1,40 +1,49 @@
 ---
 layout: default
 ---
-# Outcomes + the certification process
-Outcomes statements and metrics are part of the Advance Planning Document (APD) process and the Streamlined Modular Certification (SMC) process. The program outcomes a state hopes to realize with a proposed Medicaid Enterprise Systems (MES) project not only serve as justification for the investment, but also serve as a way to measure whether or not a project was a success. Not all projects require certification and not all APDs require outcomes. The following is a general overview of when outcomes and metrics are applicable to the APD process and the certification process.
+# Outcomes and the Certification Process
+Outcomes and metrics are important aspects of the Advance Planning Document (APD) and Streamlined Modular Certification (SMC) processes. However, not all Medicaid Enterprise System (MES) projects require certification, and not all APDs require outcomes.
 
-## APD process 
-An APD serves as the mechanism by which states obtain Federal support for certain systems related expenditures. Regulations establishing the different types of APDs and requirements for each can be found at 45 CFR 95.610. The APDs identified include Planning, Implementation and Operations. As CMS considers program outcomes in its review of states' proposed MES projects, the following will help determine when outcomes and associated metrics are required as a part of the APD. The following is a general guide and states should work with their respective State Officer on the specific details as they relate to a proposed MES project and the need to include outcomes and metrics in an APD.
+Typically, outcomes and metrics are required when states receive enhanced funding. Outcomes and metrics are not required if the activities and projects involved are routine or consist of planning and operational functions, such as hardware maintenance, gap analysis, Request for Proposal development, and security patches.
 
-- Planning - Activities related to systems planning require outcomes and metrics. The outcomes and metrics within the Planning APD will be primarily focused on state-specific outcomes.
-- Implementation - Activities related to the design, development and implementation of an automated component of the MES require outcomes and metrics. The outcomes and metrics within the Implementation APD will generally include a combination of both CMS-required and state-specific outcomes. 
-- Operations - Activities that improve system performance or extend the life of the system require outcomes and metrics. Routine operating activities do not require outcomes and metrics separate from those that were identified as a condition for continued maintenance and operations support.
+CMS-required outcomes are based on statutory or regulatory requirements to promote the efficient, economical, and effective administration of a state’s Medicaid program. State-specific outcomes and the associated metrics measure the success of a MES project. State-specific outcomes should target specific state problems and produce Medicaid program benefits. See [Writing a Good Outcome page]({{site.baseurl}}/writing-outcome-statements) for more information on outcomes.
 
-## Certification process 
-The Streamlined Modular Certification process is the certification process that CMS is piloting to ensure systems are assessed and determined to be either compliant or non-compliant with Federal requirements (CMS-required outcomes) and, when applicable, state requirements (state-specific outcomes). As previously mentioned, program outcomes and associated metrics serve as a way to measure whether or not a project was a success. The inclusion of outcomes and metrics within an APD does not necessarily mean that the proposed project will require certification. However, for those projects that do require certification, the outcomes and metrics identified within the APD help define the scope of the certification under the SMC engagement model. 
+This general overview explains when outcomes and metrics are applicable to the APD and SMC certification processes.
 
-Generally, certification must be performed  for systems that replace an existing MES component, new MES components, major modifications/enhancements, system rebuilds, commercial off-the-shelf solutions and related services supporting certain Medicaid business and system areas. This is a general, non-exhaustive list and states should work with their respective State Officer on the specific details as they relate to a proposed MES project and the need for a certification engagement.
+## APD Process 
+States submit an APD to obtain federal financial support for certain system-related expenditures. Regulations establishing the different types of APDs and requirements for each system are available at 45 CFR §95.610. There are three main types of APDs: Planning (PAPD), Implementation (IAPD), and Operations (OAPD). (Other APDs include APD Updates (APD-U) and As Needed APDs). States should draw on the following guidance when working with their CMS State Officer to establish specific details for a proposed MES project and to determine when the APD must include outcomes and metrics.
 
-## State-specific outcomes 
-States requesting enhanced FFP for systems that fulfill *state-specific program needs,* beyond minimum legal requirements and the baseline of the *CMS-required outcomes*, should propose *State-Specific Outcomes* which address the proposed enhancements.
+-	**Planning** – The PAPD may only need state-specific outcomes (no metrics) for planning functions like proof-of-concept activities, gap analysis, or strategic planning. When PAPDs involve new or replacement MES modules, they should include both CMS-required and state-specific outcomes as well as metrics.
+-	**Implementation** – CMS-required and state-specific outcomes, along with metrics, are required if the IAPD involves design, development, and implementation; services; or enhancements to the MES.
+-	**Operations** – An OAPD requires outcomes and metrics if the new activities, such as enhancements or new technology, will improve or extend the life of the system. For routine operations, however, such as hardware or software upgrades, patches, or reference code updates, an OAPD does not require outcomes and metrics.
 
-*State-Specific Outcomes* should target specific problems and derive Medicaid program benefits. 
+Including outcomes and metrics within an APD does not mean that the proposed project requires certification. For any projects requiring certification, the outcomes and metrics identified within an APD help define the scope of the certification under the SMC engagement model.
 
-# Utilizing this repo 
-The CMS Certification Repository is a space for states, CMS, and vendors to learn, share, and contribute information about the MES Certification process and its related artifacts. 
+## Certification Process 
+CMS relies on the SMC process to assess whether systems comply with federal requirements (CMS-required outcomes) and, when applicable, with state requirements (state-specific outcomes).
 
-## From this repo states can: 
-- Find examples and expectations for developing outcomes and metrics
-- Share outcomes and metrics with other states and see examples of what other states have created
-- Suggest changes and provide feedback to CMS regarding outcomes requirements and processes via <MESCertificationRepo@cms.hhs.gov>
+Generally, a certification must be performed for systems that:
+-	Replace an existing MES component
+-	Implement new MES components
+-	Develop major modifications and/or enhancements
+-	Execute system rebuilds
+-	Implement commercial off-the-shelf solutions
+-	Employ related services supporting certain Medicaid business and system areas
 
-## From this repo CMS will: 
-- Provide publicly available resources to guide states in how to write outcome statements and measure impact
-- Share and update examples of outcome statements and metrics for use in their APDs and certification documents
-- Baseline the outcomes and metrics received from states, and compare outcomes and metrics to examples and submissions from other states
+States should work with their CMS State Officer to determine if their proposed MES project requires certification.
 
-## From this repo vendors can: 
-- Get direct access to the CMS required outcomes or recommended metrics
-- Share suggestions and feedback to CMS regarding  outcomes requirements and processes via <MESCertificationRepo@cms.hhs.gov>
+## Using This Repository 
+The MES Certification Repository is a space for states, CMS, and vendors to learn, share, and contribute information about the SMC process.
 
+### From this repository states can: 
+-	Find examples and understand CMS expectations for developing outcomes and metrics
+-	Share outcomes and metrics with other states, suggest changes and provide feedback to CMS about outcomes and processes via <MES@cms.hhs.gov>
+
+### From this repository CMS will: 
+-	Provide publicly available resources to guide states on how to write outcome statements and measure impact
+-	Share and update examples of outcome statements and metrics for use in state APDs and certification documents
+-	Review and upload state-approved outcomes and metrics
+
+### From this repository vendors can: 
+-	Get direct access to the CMS-required outcomes or default metrics
+-	Share suggestions on changes and provide feedback to CMS about outcomes and processes via <MES@cms.hhs.gov>

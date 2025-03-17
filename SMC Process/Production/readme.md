@@ -35,7 +35,7 @@ To schedule a CR, the state must provide the following entry criteria:
     - Work with your CMS State Officer, who will set up a file structure in CMS Box and provide this link. 
 - The CMS State Officer will reach out to the CMS T-MSIS team to get confirmation via email that the state and system being certified meets all Outcomes Based Assessment (OBA) compliance.
 
-Note that meeting the above entry criteria for ORR only clears the way for scheduling the ORR. The state must provide the most up-to-date documents two weeks prior to the ORR in the applicable certification Box folders for evaluation by the CMS Certification Team.
+Note that meeting the above entry criteria for CR only clears the way for scheduling the CR. The state must provide the most up-to-date documents two weeks prior to the CR in the applicable certification Box folders for evaluation by the CMS Certification Team.
 
 For the CR, the following steps are completed:
 1.	The state finalizes the state columns of the Intake Form.
