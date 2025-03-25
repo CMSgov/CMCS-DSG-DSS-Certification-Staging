@@ -29,8 +29,8 @@ To schedule a CR, the state must provide the following entry criteria:
 - Metric data back to go-live date
     - States must submit data back to the go-live date (or the date requesting retroactive certification), up to the most recent month end.
 - The independent, third-party security and privacy controls assessment report (SAR) and penetration test results conducted within the last two years from the requested CR date.
-- Most recent Plan of Action & Milestones (POA&M) documenting the status of all vulnerabilities (from SAR, penetration tests, vulnerability scans, and disaster recovery test results). 
-    - All very high (i.e. critical) and high findings must be resolved prior to scheduling a CR date.
+- Most recent Plan of Action & Milestones (POA&M) documenting the status of vulnerabilities (from SAR, penetration tests, vulnerability scans, and disaster recovery test results). 
+    - All critical vulnerabilities should be resolved prior to scheduling a CR date.  However, states can request a date with unresolved critical items if a mitigation/remediation plan is submitted and approved by CMS, using the recommended risk acceptance template, which can be found in Attachment D of CMS Information Security Plan of Action and Milestones (POA&M) Guidelines.
 - Link to CMS Box location
     - Work with your CMS State Officer, who will set up a file structure in CMS Box and provide this link. 
 - The CMS State Officer will reach out to the CMS T-MSIS team to get confirmation via email that the state and system being certified meets all Outcomes Based Assessment (OBA) compliance.
