@@ -24,7 +24,7 @@ To schedule an ORR, the state must provide the following entry criteria:
         - If this is for an Eligibility & Enrollment (E&E) review, the state must provide the most recent Authority to Connect (ATC) to the CMS Hub approval letter
         - States should provide a Security and Privacy Assessment Report (SAR) and Penetration Test report completed by an independent assessor on a periodic basis, at a minimum of every two years per 45 C.F.R. § 95.621(f)(3),
     - Plan of Action & Milestones (POA&M) documenting the most recent status of vulnerabilities regardless of risk level (from SAR, penetration tests, vulnerability scans, disaster recovery test results). 
-        - All critical vulnerabilities should be resolved prior to scheduling a review date. However, states can request a date with unresolved critical items if a mitigation/remediation plan is submitted using the recommended risk acceptance template, which can be found in Attachment D of CMS Information Security Plan of Action and Milestones (POA&M) Guidelines.
+        - All critical vulnerabilities should be resolved prior to scheduling a review date. However, states can request a date with unresolved critical items if a mitigation/remediation plan is submitted using the recommended risk acceptance template, which can be found in Attachment D of CMS Information Security Plan of Action and Milestones (POA&M) Procedure.
 - Link to CMS Box location
     - Work with your CMS State Officer, who will set up a file structure in CMS Box and provide this link.
 
