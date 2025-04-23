@@ -53,6 +53,8 @@ For the CR, the following steps are completed:
 
 <center><img src="{{ site.baseurl }}/SMC Process/Production/CR Flow.png"></center>
 
+[Download the CR Sample Agenda](https://cmsbox.box.com/shared/static/fgu9lgtsw66s57s10vkz1zvvb7wrn2xp.docx)
+
 ## Best Practices
 
 ### Operational Reporting 
