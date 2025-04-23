@@ -53,8 +53,6 @@ For the CR, the following steps are completed:
 
 <center><img src="{{ site.baseurl }}/SMC Process/Production/CR Flow.png"></center>
 
-[Download the CR Sample Agenda](https://cmsbox.box.com/shared/static/fgu9lgtsw66s57s10vkz1zvvb7wrn2xp.docx)
-
 ## Best Practices
 
 ### Operational Reporting 
@@ -71,6 +69,8 @@ For the CR, the following steps are completed:
 - States are highly encouraged to utilize the sample agenda provided by the CMS Certification Team, see one example below.
 
 <center><img src="{{ site.baseurl }}/SMC Process/Production/CR Agenda.png"></center>
+
+[Download the CR Sample Agenda](https://cmsbox.box.com/shared/static/fgu9lgtsw66s57s10vkz1zvvb7wrn2xp.docx)
 
 ## Resources 
 - [SMC Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) – see Appendix C for Required Artifacts and Appendix D for Framework for the Independent Third-Party Security and Privacy Assessment Guidelines for Medicaid Enterprise Systems
