@@ -46,8 +46,6 @@ For the ORR, the following steps are completed:
 
 <center><img src="{{ site.baseurl }}/SMC Process/Development/ORR Flow.png"></center>
 
-[Download the ORR Sample Agenda](https://cmsbox.box.com/shared/static/wagbeuch4koazooybvb9qa3rfkoxjga3.docx)
-
 ## Best Practices
 
 ### ORR Evidence 
@@ -62,6 +60,8 @@ For the ORR, the following steps are completed:
 - States are highly encouraged to utilize the sample agenda provided by the CMS Certification Team, see the example below.
 
 <center><img src="{{ site.baseurl }}/SMC Process/Development/ORR Agenda.png"></center>
+
+[Download the ORR Sample Agenda](https://cmsbox.box.com/shared/static/wagbeuch4koazooybvb9qa3rfkoxjga3.docx)
 
 ## Resources 
 - [SMC Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) – see Appendix C for Required Artifacts and Appendix D for Framework for the Independent Third-Party Security and Privacy Assessment Guidelines for Medicaid Enterprise Systems
