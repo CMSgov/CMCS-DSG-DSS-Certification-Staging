@@ -46,6 +46,8 @@ For the ORR, the following steps are completed:
 
 <center><img src="{{ site.baseurl }}/SMC Process/Development/ORR Flow.png"></center>
 
+[Download the ORR Sample Agenda](https://cmsbox.box.com/shared/static/wagbeuch4koazooybvb9qa3rfkoxjga3.docx)
+
 ## Best Practices
 
 ### ORR Evidence 
