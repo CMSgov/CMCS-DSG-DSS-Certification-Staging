@@ -10,7 +10,7 @@ Your CMS State Officer will establish a single Box folder for each individual mo
 
 **ORR**
 - Evidence* – should contain the Intake Form and two subfolders:
-    - Conditions for Enhanced Funding (CEF) – should contain the evidence listed in the Intake Form for applicable CEFs. There is no need for additional sub-folders.
+    - CEF – should contain the evidence listed in the Intake Form for applicable Conditions for Enhanced Funding. There is no need for additional sub-folders.
     - Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by outcome.
 - Metrics – should contain the definitions of the metrics for ORR. CMS highly encourages states to use the [Operational Report Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Operational%20Report%20Workbook.xlsx).
 - Presentation – should contain the presentation for the day of the review and any other meeting documentation.
@@ -21,7 +21,7 @@ Your CMS State Officer will establish a single Box folder for each individual mo
 	- CEF – should contain the evidence listed in the Intake Form for applicable Conditions for Enhanced Funding. There is no need for additional sub-folders.
 	- Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by the outcome.
 - Metrics – should contain the monthly metrics data reports required for CR. CMS highly encourages states to use the [Operational Report Workbook Template](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Operational%20Report%20Workbook.xlsx). Note: once the state is certified, they will need to load the final metrics to the applicable metric folder on CMS Box.
-- Day of CR Presentation – should contain the presentation for the day of the review and any other meeting documentation.
+- Presentation – should contain the presentation for the day of the review and any other meeting documentation.
 - Required Artifacts – should contain the applicable Required Artifacts listed in Appendix C of the [Streamlined Modular Certification for Medicaid Enterprise Systems Certification Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf). This will also contain any files applicable to the entry criteria.
 
 **Project Status Reports**
