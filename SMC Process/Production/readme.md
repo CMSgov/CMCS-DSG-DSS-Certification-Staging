@@ -29,13 +29,13 @@ To schedule a CR, the state must provide the following entry criteria:
 - Metric data back to go-live date
     - States must submit data back to the go-live date (or the date requesting retroactive certification), up to the most recent month end.
 - The independent, third-party security and privacy controls assessment report (SAR) and penetration test results conducted within the last two years from the requested CR date.
-- Most recent Plan of Action & Milestones (POA&M) documenting the status of all vulnerabilities (from SAR, penetration tests, vulnerability scans, and disaster recovery test results). 
-    - All very high (i.e. critical) and high findings must be resolved prior to scheduling a CR date.
+- Most recent Plan of Action & Milestones (POA&M) documenting the status of vulnerabilities (from SAR, penetration tests, vulnerability scans, and disaster recovery test results). 
+    - All critical vulnerabilities should be resolved prior to scheduling a CR date.  However, states can request a date with unresolved critical items if a mitigation/remediation plan is submitted and approved by CMS, using the recommended risk acceptance template, which can be found in Attachment D of CMS Information Security Plan of Action and Milestones (POA&M) Procedure.
 - Link to CMS Box location
     - Work with your CMS State Officer, who will set up a file structure in CMS Box and provide this link. 
 - The CMS State Officer will reach out to the CMS T-MSIS team to get confirmation via email that the state and system being certified meets all Outcomes Based Assessment (OBA) compliance.
 
-Note that meeting the above entry criteria for ORR only clears the way for scheduling the ORR. The state must provide the most up-to-date documents two weeks prior to the ORR in the applicable certification Box folders for evaluation by the CMS Certification Team.
+Note that meeting the above entry criteria for CR only clears the way for scheduling the CR. The state must provide the most up-to-date documents two weeks prior to the CR in the applicable certification Box folders for evaluation by the CMS Certification Team.
 
 For the CR, the following steps are completed:
 1.	The state finalizes the state columns of the Intake Form.
@@ -69,6 +69,8 @@ For the CR, the following steps are completed:
 - States are highly encouraged to utilize the sample agenda provided by the CMS Certification Team, see one example below.
 
 <center><img src="{{ site.baseurl }}/SMC Process/Production/CR Agenda.png"></center>
+
+[Download the CR Sample Agenda](https://cmsbox.box.com/shared/static/fgu9lgtsw66s57s10vkz1zvvb7wrn2xp.docx)
 
 ## Resources 
 - [SMC Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) – see Appendix C for Required Artifacts and Appendix D for Framework for the Independent Third-Party Security and Privacy Assessment Guidelines for Medicaid Enterprise Systems
