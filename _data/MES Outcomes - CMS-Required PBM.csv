@@ -1,29 +1,29 @@
-Reference #,CMS Required Outcomes,Default Metrics,Regulatory Sources
-PBM1,The system adjudicates claims within established time parameters to ensure timely pharmacy claims payments.," - Timely adjudication of pharmacy claims and encounters.
- - Percentage of claims paid on time (only if payment is included in RX module)
- - N/A if payments are issued from the MMIS system.","Section 1927(h) of the SSA 
-42 CFR 456.722 - POS requirement to support claims adjudication or payment"
-PBM2,"The system adjudicates claims accurately within established parameters. The module can be configured to provide authority/ability to override a reject/edit/denied claim and then resubmit to ensure timely provider claims payments."," - Accurately identifies enrolled providers.
- - Pharmacy claims and encounters are priced according to the correct pricing algorithm.",42 CFR 456.722 
-PBM3,The system captures the necessary data to ensure timely processing of manufacturer rebates as well as the capability to track rebates to promote beneficiary cost savings.," - The system has the capability to accept/store/apply the rebate and covered outpatient drug (COD) information received from CMS and manufacturers necessary to generate rebate invoices.
- - Timely identification of eligible PAD claims/encounters that do not convert to NDC units.","Section 1927 of the SSA 
- 42 CFR 447.509"
-PBM4,"The system has the capability to support cost savings by capturing, storing, and transferring data to the payment process system to generate invoices of participating drug manufacturers within 60 days of the end of each quarter."," - Percentage Rebate Invoiced per Dollar (Note if invoice period is behind the actual reporting period).
-- Issue timely invoicing within established parameters (+/- 5 days).","Section 1927 of the SSA 
-42 CFR 447.520 
-Section 1927(b)(2) of the SSA 
-42 CFR 447.511"
-PBM5,"The system supports cost savings by enabling the tracking, monitoring, and reporting of manufacturer's pharmacy drugs and rebate savings. "," - Provide a sample of the CMS rebate report and the manufacturer rebate report with production data. 
- - Provide the post-production operational measure of rebates collection.","Section 1927 of the SSA 
-42 CFR 447.520 
-Section 1927(b)(2) of the SSA 
-42 CFR 447.511"
-PBM6,The system enables the beneficiary to have timely access to medication if the system has the capability to perform prior authorization and provide a response by telephone or other telecommunication devices within 24 hours of a request and provides for the dispensing of at least 72-hour supply of a covered outpatient prescription drug in an emergency situation (unless excluded under the SSA ).," - Timely Access:  Response to a Prior Authorization request provided within 24 hours.
- - Timely Access: Emergency 72-hour fill requests reject rate - this can be the % of total POS claims not authorized with a 72-hour emergency fill.",Section 1927(d)(5) of the SSA 
-PBM7,"The system supports CMS oversight of the safe, effective, and appropriate dispensing of medications by enabling the capability to provide data to support the creation of the CMS annual report on the operation and status of the state's DUR program.", - Provide a copy of the State’s DUR Report,"Section 1927(g)(3)(D) of the SSA 
-42 CFR 456.712
-Section 1944(e)(1) of the SSA"
-PBM8,"The system supports the safe, effective, and appropriate dispensing of medications by enabling the capability to provide point-of-sale or point of distribution prospective review of drug therapy based upon predetermined standards, including standards for counseling.", - Provide a sample report showing the ability to provide prospective review data with a timestamp prior to adjudication.,"42 CFR 456.703, 456.705(b) 456.709
-Section 1927 (g) of the SSA"
-PBM9,"The system supports the identification of patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, or prescribing or billing practices indicating abuse or excessive utilization among physicians, pharmacists and individuals receiving benefits by enabling the collection of pharmacy data to be used in retrospective drug utilization reviews.", - Provide a sample report of post-production operational measures that calculate the average cost avoidance per claim.,"42 CFR 456.703, 456.705(b) 456.709
-Section 1927 (g) of the SSA"
+Outcome Reference #,Outcome Title,Outcome Statement,Regulatory Sources,Metric ID,Metric
+PBM01,Timely Adjudication of Claims,"The system adjudicates pharmacy claims within state-established time parameters.","42 CFR 456.722;
+Section 1027(h) of SSA;
+42 CFR 447.45;
+42 CFR 447.46;
+42 CFR 438.242",PBM-01.1,Average time in seconds to adjudicate claims
+ , , , ,PBM-01.2,Percent of claims adjudicated on time
+PBM02,Accurate Adjudication of Claims,"The system adjudicates pharmacy claims accurately for enrolled providers within state-established time parameters.","42 CFR 456.722;
+Section 1927(h) of SSA;
+42 CFR 447.45;
+42 CFR 447.46;
+42 CFR 438.242",PBM-02.1,"Percent of rejected claims due to provider (prescriber) not enrolled"
+ , , , ,PBM-02.2,"Percent of rejected claims due to provider (pharmacy) not enrolled"
+PBM03,Prior Authorization,"The system enables the beneficiary to have timely access to medication if the system has the capability to perform prior authorization and provides a response by telephone or other telecommunication devices within 24 hours of a request. The system also provides for dispensing of at least a 72-hour supply of a covered outpatient prescription drug in an emergency situation (unless excluded under the SSA).","Section 1927(d)(5) of the SSA",PBM-03.1,Percent of Prior Authorization requests responded to within 24 hours
+ , , , ,PBM-03.2,Percent of 72-hour emergency supply requests filled
+PBM04,CMS Reporting,"The system supports CMS oversight of the safe, effective, and appropriate dispensing of medications by enabling the capability to provide data to support the creation of the CMS annual report on the operation and status of the state's DUR program.","Section 1927(g)(3)(D) of the SSA; 
+42 CFR 456.712;
+Section 1944(e)(1) of the SSA",N/A,N/A
+PBM05,Prospective Drug Use Review,"The system supports safe, effective, and appropriate dispensing of medications by enabling the capability to provide point-of-sale or point of distribution prospective review of drug therapy using predetermined standards, including standards for counseling.","42 CFR 456.703;
+42 CFR 456.705 (b);
+Section 1927(g) of the SSA;
+42 CFR 456.712;
+Section 1944 (e)(1) of the SSA",N/A,N/A
+PBM06,"Identifying Fraud, Waste and Abuse","The system enables collection of pharmacy data for retrospective drug utilization reviews to help identify patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, or prescribing or billing practices indicating abuse, or excessive utilization among physicians, pharmacists, and individuals receiving benefits.","42 CFR 456.703;
+42 CFR 456.709;
+Section 1927 (g) of the SSA;
+Section 1944 (e)(1) of the SSA",N/A,N/A
+PBM07,Rebate Processing,"The system captures the necessary data quarterly to ensure timely processing and invoicing of manufacturer rebates and the capability to track, monitor, and report rebate cost savings for the Medicaid program.","Section 1927 of the SSA, including 1927(b)(2);
+42 CFR 447, Subpart I, Payment for Drugs",PBM-07.1,Total cost savings as a percent of total rebate dollars invoiced
