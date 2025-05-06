@@ -10,6 +10,8 @@ Pharmacy Benefit Management (PBM) systems provide services which may include cla
 
 Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-Required Outcomes and Metrics are used to demonstrate that a system is compliant with the applicable federal regulations which pertain to that specific system or module. CMS-Required outcomes form the baseline for system/module functionality, which must continue to receive enhanced federal funding for operations.
 
+If a state chooses to use metrics from those listed below, it must calculate them using the specification sheet for those metrics. Download the specification sheets here. <ADD LINK>
+
 {% assign cms = "MES Outcomes - CMS-Required PBM" %}
 
 <div align="right" class="ds-u-margin-bottom--2">
