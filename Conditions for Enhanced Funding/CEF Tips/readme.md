@@ -30,7 +30,7 @@ The Conditions for Enhanced Funding under 42 CFR 433.112(b), specifically CEF 9,
 - [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 - [Transformed Medicaid Statistical Information System (T-MSIS)](https://www.medicaid.gov/medicaid/data-systems/macbis/transformed-medicaid-statistical-information-system-t-msis/index.html)
 - [Section 508 Guidance](https://www.section508.gov/test)
-- [Accessibility Guidance](https://accessibility.18f.gov)
+- [Accessibility Guidance](https://guides.18f.org/accessibility/)
 
 ## References
 - [28 CFR Part 35](https://www.ecfr.gov/current/title-28/chapter-I/part-35)
