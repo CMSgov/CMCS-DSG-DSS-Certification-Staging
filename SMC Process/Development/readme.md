@@ -1,4 +1,4 @@
-# Development test
+# Development
 
 At the beginning of the Design, Development, and Implementation (DDI) phase, the state should develop a Master Test Plan, in consultation with the [Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf). The Master Test Plan describes in detail how the testing is being planned and how it will be managed across different test levels. It gives a bird’s eye view of the key decisions taken, the strategies to be implemented, and the testing effort involved in the project. 
 
