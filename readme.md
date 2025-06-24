@@ -1,4 +1,4 @@
-# Welcome to the MES Certification Repository
+# Welcome to the MES Certification Repository test
 
 The MES Certification Repository is a space for states, CMS, and vendors to learn, share, and contribute information about the MES Certification process and its related artifacts. From this site you can access the latest-and-greatest information about CMS-Required outcomes and recommended metrics as well as view CMS approved state-specific outcomes and metrics.
 
@@ -18,7 +18,7 @@ The template here contains CMS-required E&E outcomes as an example of how conten
 
 ### Example Templates
 
-- [Operational Report Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Operational%20Report%20Workbook.xlsx) - An example template states may use for submitting metrics data
+- [Operational Report Workbook](/Operational%20Report%20Workbook.xlsx) - An example template states may use for submitting metrics data
 - [Example Certification Request Letter Template](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/SMC%20Certification%20Request%20Letter%20Template.docx) - An example template of the Certification Request Letter that states must submit to CMS to request certification
 - [Example System Acceptance Letter Template](https://cmsbox.box.com/shared/static/rahky9ak0qavq4ex0ywh9z5poewae8xe.docx) - An example template states may use for the required system acceptance letter artifact
 - [Example Monthly Project Status Reporting Template](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Streamlined%20Modular%20Certification%20Required%20Monthly%20Project%20Status%20Report%20Example%20Template.docx) - An example template states may use to submit required monthly status reports
