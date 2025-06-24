@@ -1,4 +1,4 @@
-# Streamlined Modular Certification Frequently Asked Questions (FAQs)
+# Streamlined Modular Certification Frequently Asked Questions (FAQs) test
 
 CMS prepared this set of FAQs to inform states and the public about the Streamlined Modular Certification (SMC) process and requirements. The official [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) is available at [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and is the primary source of information on the SMC process and requirements. Other helpful information is available in the MES Certification Repository, and State Officers are available to answer your questions. Questions may also be submitted via the Medicaid Enterprise System mailbox at <MES@cms.hhs.gov>. 
 
@@ -69,7 +69,7 @@ A: The SMC process is designed to support the IT investment lifecycle phases as 
 
 
 ### Q7: What is the Certification Request Letter, and where do states send it?
-A: States may download an example of the [Certification Request Letter Template](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/SMC%20Certification%20Request%20Letter%20Template.docx) on the MES Certification Repository.
+A: States may download an example of the [Certification Request Letter Template](../SMC%20Certification%20Request%20Letter%20Template.docx) on the MES Certification Repository.
 
 States should email the Certification Request Letter to their CMS State Officer and <MES@cms.hhs.gov>. It is also used as an entry criteria for scheduling a CR and a required artifact. The state must also upload the letter to the applicable Box folder for certification.
 
@@ -220,4 +220,4 @@ A: Currently, CMS does not publish guidance on how to retire a metric. States sh
 - Do not delete the row in the ORW that contains the metric to be retired because this will generate an error in the database. Make a note in the ORW that the metric has ended and keep the metric in the ORW with the other current metrics.
 - Finally, please remember that Metric IDs cannot be reused. Retiring a metric also retires its associated Metric ID.
 
-CMS will continue to add to the FAQs as new questions arise. [Download the FAQs as a PDF.](https://cmsbox.box.com/shared/static/y86b5ah50sasofova2gb6g8dzfkdig5f.pdf)
+CMS will continue to add to the FAQs as new questions arise. [Download the FAQs as a PDF.](../FAQ_Sept2024.pdf)
