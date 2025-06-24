@@ -1,4 +1,4 @@
-# Metrics and Ongoing Reporting test
+# Metrics and Ongoing Reporting
 
 ## Overview
 
