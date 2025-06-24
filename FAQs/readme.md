@@ -1,4 +1,4 @@
-# Streamlined Modular Certification Frequently Asked Questions (FAQs) test
+# Streamlined Modular Certification Frequently Asked Questions (FAQs)
 
 CMS prepared this set of FAQs to inform states and the public about the Streamlined Modular Certification (SMC) process and requirements. The official [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) is available at [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and is the primary source of information on the SMC process and requirements. Other helpful information is available in the MES Certification Repository, and State Officers are available to answer your questions. Questions may also be submitted via the Medicaid Enterprise System mailbox at <MES@cms.hhs.gov>. 
 
