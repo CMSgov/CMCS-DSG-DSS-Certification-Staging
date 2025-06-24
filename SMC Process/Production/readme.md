@@ -1,4 +1,4 @@
-# Production test
+# Production
 
 Once a system is in production, states should be able to regularly and consistently provide metrics that demonstrate the system complies with applicable regulations and meets outcomes. States begin reporting on metrics after go-live and before the Certification Review. From then, and for as long as the state continues to receive enhanced funding for its MES solution, metrics are reported at least annually.
 
