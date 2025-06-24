@@ -44,7 +44,7 @@ The Conditions for Enhanced Funding under 42 CFR 433.112(b), specifically CEF 9,
 - [State Medicaid Manual](https://www.cms.gov/Regulations-and-Guidance/Guidance/Manuals/Paper-Based-Manuals-Items/CMS021927)
 - [State Self-Assessment (SS-A)](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-framework/index.html)
 - [Example Risk Acceptance Form](https://www.cms.gov/files/document/poamprocedurepdf) (see Attachment D) 
-- [Example Concept of Operations template](https://www.nasa.gov/reference/appendix-s-concept-of-operations-annotated-outline/)
+- [Example Concept of Operations Template](https://www.nasa.gov/reference/appendix-s-concept-of-operations-annotated-outline/)
 
 [^1]: [IEEE Computer Society, March 19, 1998, IEEE Guide for Information Technology—System Definition—Concept of Operations (ConOps) Document (IEEE Std 1362-1998)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=761853).
 [^2]: [Office of Management and Budget, December 5, 1994, Operational Concept Description (OCD), Data Item Description DI-IPSC-81430](https://www.dau.edu/cop/se/documents/operational-concept-description-ocd-data-item-description-did).
