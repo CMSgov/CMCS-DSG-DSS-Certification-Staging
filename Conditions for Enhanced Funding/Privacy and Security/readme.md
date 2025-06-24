@@ -73,6 +73,7 @@ All federal and state agencies and their contractors must comply with various fe
     - A final rule, “Nondiscrimination on the Basis of Disability; Accessibility of Web Information and Services of State and Local Government Entities,” was published on April 8, 2024, requiring that state and local government web content and mobile applications conform to WCAG 2.1 Level AA.  Compliance is required two or three years from the published date of April 24, 2024, depending on the public entity's size and exceptions documented in the rule. 
     - The foregoing final rule does not apply to the internal, non-public systems.  The rule states:
 
+
     > …several commenters asked whether this definition would cover internal, non public applications, such as web content used solely by employees. The Department reiterates that this rule includes requirements for the web content and mobile apps provided or made available by public entities within the scope of Title II. While this rule is not promulgated under Title I of the ADA, it is important to note that compliance with this ADA Title II rule will not relieve Title II entities of their distinct employment-related obligations under Title I of the ADA, which could include, for example, accommodations for a web developer with a disability working for a public entity. 
 
 - Business Continuity and Disaster Recovery 
