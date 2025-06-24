@@ -1,4 +1,4 @@
-# Templates test
+# Templates
 
 ## Required
 - [Intake Form](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) - Used to track information about a state’s single Medicaid Enterprise Systems (MES) project undergoing certification
@@ -13,4 +13,4 @@
 - [CR Sample Agenda](../CR%20Sample%20Agenda.docx) - An example agenda for an Certification Review
 
 ## Other Resources
-- [MES Data Submissions and Intake Procedures Manual](https://../MES%20Data%20Submissions%20and%20Intake%20Procedures%20Manual_2.0.pdf) - An overview of the metrics submission process and data ingestion process
+- [MES Data Submissions and Intake Procedures Manual](../MES%20Data%20Submissions%20and%20Intake%20Procedures%20Manual_2.0.pdf) - An overview of the metrics submission process and data ingestion process
