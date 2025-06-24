@@ -19,7 +19,7 @@ Use the links below to navigate to each section of this page:
 - [Additional Resources](#resources)
 - [References](#references)
 
-## Laws, Regulations, and Policies{#policy}
+## Laws, Regulations, and Policies {#policy}
 All federal and state agencies and their contractors must comply with various federal and state security and privacy laws and regulations, depending on the types of data processed and other factors.  The following key federal laws and regulations are essential to understanding the basic security and privacy requirements for federal agencies, state partners, and contractors: 
 - [Privacy Act of 1974](https://www.govinfo.gov/content/pkg/USCODE-2018-title5/pdf/USCODE-2018-title5-partI-chap5-subchapII-sec552a.pdf)
 - [e-Government Act of 2002](https://www.govinfo.gov/content/pkg/PLAW-107publ347/pdf/PLAW-107publ347.pdf)
@@ -35,18 +35,18 @@ All federal and state agencies and their contractors must comply with various fe
 - [45 CFR § 95.621](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-95/subpart-F/subject-group-ECFR8ea7e78ba47a262/section-95.621)
 - [MARS-E](https://www.cms.gov/files/document/mars-e-v2-2-vol-2-ae-aca-sspfinal08032021.pdf) is required for the Medicaid Enterprise Systems Eligibility and Enrollment (E&E) module.  Note: CMS has approved and published The Acceptable Risk Controls for ACA, Medicaid, and Partner Entities (ARC-AMPE) on March 4, 2025, and its implementation must be completed by March 4, 2026. Other MES modules must follow HIPAA and adhere to the latest published NIST standards: [NIST SP 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) and/or [NIST SP 800-171](https://csrc.nist.gov/pubs/sp/800/171/r3/final).  Only states can mandate that other MES modules use MARS-E / ARC-AMPE.
 
-## Documentation and Reporting{#documentation}
+## Documentation and Reporting {#documentation}
 - The State Medicaid Agency (SMA) and vendor must provide fully detailed, unredacted results of all privacy and security evidence, including but not limited to the Security Assessment Report (SAR), penetration tests, vulnerability scans, and the Plan of Action and Milestones (POA&M). 
 - All security and privacy documents should be uploaded to the designated CMS repository. 
 - The SAR and penetration test must clearly state the range of dates when the assessment was performed, not simply the date the report was generated. 
 - The SMA must conduct the security and privacy analysis, complete the SAR, and perform the penetration test assessment every two years unless the state is following the Affordable Care Act (ACA) Administering Entity (AE) template.  These assessments must be completed within two years of the dates of the applicable operational readiness review (ORR) or certification review (CR). 
 - The monthly project status report should discuss important security and privacy events, such as completing a System Security Plan (SSP) or managing important steps in completing the independent third-party security and privacy audit and penetration test before the ORR.
 
-## Independent Assessor Requirements{#assessment}
+## Independent Assessor Requirements {#assessment}
 - The assessor performing the SAR and penetration test must be an independent third party and not involved in the Design, Development, and Implementation (DDI) or operations, except for the Independent Verification and Validation (IV&V) contractor. 
 - The SMA is not required to use the same assessor for the SAR and penetration test.
 
-## Security and Privacy Compliance Artifacts{#artifacts}
+## Security and Privacy Compliance Artifacts {#artifacts}
 - DO NOT REDACT ANY FILE. 
 - Security Assessment Report 
     - If the SMA relies on security and privacy guidance other than the National Institute of Standards and Technology (NIST), they must provide a crosswalk to the latest published NIST Special Publication (SP) 800-53 control families to ensure coverage. 
@@ -81,7 +81,7 @@ All federal and state agencies and their contractors must comply with various fe
     - CMS strongly recommends a live test and does not recommend doing a tabletop exercise year after year. 
     - States must document in the POA&M any deficiencies found during the system-level DR test (the Reference section provides an example template).
 
-## Security and Privacy Risk Management{#risk}
+## Security and Privacy Risk Management {#risk}
 - Risk Acceptance Form 
     - The Risk Acceptance Form records the weaknesses that require an official risk acceptance.  The organization’s authorities should rigorously explore ways to mitigate the risks before deciding to accept them.  Once all options are exhausted, accepting risk might be the unavoidable outcome.  It is imperative to clearly describe the overview of the risk along with its source in the Risk Acceptance Form. 
     - The Risk Acceptance Form identifies the responsible entities and stakeholders of this process and the necessary mitigation procedures essential to the risk acceptance decision.  The form provides context for the risk acceptance process and specifies the required activities for its completion. 
@@ -92,7 +92,7 @@ All federal and state agencies and their contractors must comply with various fe
         - Moderate – 90 days 
         - Low – 365 days
 
-## Periodic Assessment Timing{#timing}
+## Periodic Assessment Timing {#timing}
 - The SAR and penetration test must be completed by an independent assessor every two years per 45 CFR §95.621(f)(3) unless the state is following the Affordable Care Act Administering Entity template.  CMS highly recommends that states conduct an annual SAR and penetration test to ensure their implementation of effective security and privacy safeguards. 
 - As required by 45 CFR §95.621(f)(2)(iii), the state must conduct a SAR and penetration test whenever there are significant system changes. 
 - CMS strongly recommends updating the Plan of Action and Milestones monthly and including all new and updated open findings from vulnerability scans, penetration test, and assessments. 
@@ -103,7 +103,7 @@ All federal and state agencies and their contractors must comply with various fe
 - The HIPAA Breach Notification Rule, 45 CFR §164.400-414, requires HIPAA covered entities and their business associates to provide notification following a breach of unsecured PHI.  Similar breach notification provisions implemented and enforced by the Federal Trade Commission apply to vendors of personal health records and their third-party service providers pursuant to Section 13407 of the HITECH Act. 
 - The HHS HIPAA Breach Notification Rule website offers more information and guidance on the breach reporting requirements.  In addition to the foregoing HIPAA requirements, the state, in turn, should immediately report a security or privacy incident or breach, whether discovered by its own staff or reported by a contractor, to the CMS MES State Officer and CMS IT Service Desk at cms_it_service_desk@cms.hhs.gov.  If a state is unable to report breaches to the CMS IT Service Desk via email, the state can contact the CMS IT Service Desk by phone at (800) 562-1963 or (410) 786-2580.
 
-## Security and Privacy FAQs{#faq}
+## Security and Privacy FAQs {#faq}
 ### 1. Can a state’s internal staff perform as an independent security and privacy assessor of MES modules? 
 Answer: Yes, internal state security and privacy personnel can evaluate the security and privacy posture of the MES module if they are not part of the MES Design, Development, and Implementation or Operations teams and possess the appropriate qualifications as detailed in the SMC Guidance for evaluation of the implementation of security and privacy controls.  The internal state staff must be familiar with HIPAA regulations, NIST standards, and other applicable federal privacy and cybersecurity regulations and guidance.  State staff also must meet the requirements for assessor independence and objectivity and demonstrate their capability to perform penetration testing and vulnerability scans. 
 
@@ -138,7 +138,7 @@ Answer: CMS recommends the following timeline for addressing privacy and securit
 - Disaster Recovery and Business Continuity Plans – states must draft these plans early in the DDI as an element of the SCA and review them annually throughout DDI and M&O. 
 - Disaster Recovery Test – CMS strongly recommends completing the Disaster Recovery Test annually throughout DDI and M&O.  States should complete a DR test before go-live.
 
-## Other Recommended Practices{#recommendations}
+## Other Recommended Practices {#recommendations}
 - Implement Multi-Factor Authentication (MFA) for all users, including internal staff and external vendors, as a foundational cybersecurity practice. 
 - Implement strong encryption of data at rest and in transit to prevent compromise of PII/PHI. 
 - Update and patch software and hardware regularly, and monthly at a minimum. 
@@ -146,7 +146,7 @@ Answer: CMS recommends the following timeline for addressing privacy and securit
 - Perform system and data backups and test data restoration on a regular cadence. 
 - Train staff on their role and performance expectations to prevent cybersecurity attacks.
 
-## Additional Resources{#resources}
+## Additional Resources {#resources}
 - [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 - [Section 508 Guidance](https://www.section508.gov/test)
 - [Accessibility Guidance](https://accessibility.18f.gov/)
@@ -155,7 +155,7 @@ Answer: CMS recommends the following timeline for addressing privacy and securit
 - [Risk assessment determination and scale as defined in NIST SP 800-30 Revision 1](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf), refer to Appendix G (Likelihood of Occurrence), H (Impact), and I (Risk Determination). 
 - [508 accessibility Level AA compliance new rule: Nondiscrimination on the Basis of Disability; Accessibility of Web Information and Services of State and Local Government Entities (ada.gov)](https://www.ada.gov/assets/pdfs/web-rule.pdf).  Note: compliance is required two or three years from the publication date of April 24, 2024, depending on public entity size and has exceptions as noted in the rule.
 
-## References{#references}
+## References {#references}
 - [28 CFR Part 35](https://www.ecfr.gov/current/title-28/chapter-I/part-35)
 - [42 C.F.R. § 433.112](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.112)
 - [42 C.F.R. § 433.116](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.116)
