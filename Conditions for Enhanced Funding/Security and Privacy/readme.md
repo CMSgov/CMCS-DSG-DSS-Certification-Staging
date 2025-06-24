@@ -149,7 +149,7 @@ Answer: CMS recommends the following timeline for addressing privacy and securit
 ## Additional Resources {#resources}
 - [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 - [Section 508 Guidance](https://www.section508.gov/test)
-- [Accessibility Guidance](https://accessibility.18f.gov/)
+- [Accessibility Guidance](https://guides.18f.org/accessibility/)
 - [Incident Response](https://www.cms.gov/about-cms/information-systems/privacy/incident-response)
 - [Address Gaps in Cybersecurity: HHS OCR releases crosswalk between HIPAA Security Rule and NIST Cybersecurity Framework and NIST SP 800-53 controls](https://www.hhs.gov/hipaa/for-professionals/security/nist-security-hipaa-crosswalk/index.html)
 - [Risk assessment determination and scale as defined in NIST SP 800-30 Revision 1](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf), refer to Appendix G (Likelihood of Occurrence), H (Impact), and I (Risk Determination). 
