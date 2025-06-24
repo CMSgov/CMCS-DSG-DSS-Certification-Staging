@@ -1,4 +1,4 @@
-# Conditions for Enhanced Funding (CEF) test
+# Conditions for Enhanced Funding (CEF)
 
 ## Overview
 As a condition of receiving enhanced federal financial participation (FFP) for state expenditures on Medicaid Enterprise Systems (MES), states must attest that the system complies with all of the applicable 22 conditions for enhanced funding (CEF) as provided in [42 C.F.R. 433.112](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.112) and that the system remains compliant with federal Medicaid requirements for enhanced funding once it is in operation as provided in [42 C.F.R. 433.116](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.116).  
@@ -21,7 +21,7 @@ This table, combined with the applicable business area outcomes, are a starting 
 ## Additional Resources
 - [SMC SMDL Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 - [MES Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf)
-- [Operational Report Workbook](/raw/main/Operational%20Report%20Workbook.xlsx)
+- [Operational Report Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Operational%20Report%20Workbook.xlsx)
 - [Transformed Medicaid Statistical Information System (T-MSIS)](https://www.medicaid.gov/medicaid/data-systems/macbis/transformed-medicaid-statistical-information-system-t-msis/index.html)
 - [Section 508 Guidance](https://www.section508.gov/test)
 - [Accessibility Guidance](https://accessibility.18f.gov)
