@@ -1,4 +1,4 @@
-# Conditions for Enhanced Funding (CEF) Tips & Best Practices tes
+# Conditions for Enhanced Funding (CEF) Tips & Best Practices
 
 ## General
 - Typically, there is no need to perform separate demonstrations or develop slides for CEFs during the reviews. Providing the appropriate evidence and accounting for discussion time on the review agenda for additional questions from CMS is sufficient. Files uploaded to CMS Box as evidence for CEFs should not be redacted. This includes, but is not limited to, security risk assessments, penetration tests, screenshots, or reports that include PHI/PII.
