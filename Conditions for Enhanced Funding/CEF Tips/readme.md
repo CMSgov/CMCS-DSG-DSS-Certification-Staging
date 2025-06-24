@@ -1,4 +1,4 @@
-# Conditions for Enhanced Funding (CEF) Tips & Best Practices
+# Conditions for Enhanced Funding (CEF) Tips & Best Practices test
 
 ## General
 - Typically, there is no need to perform separate demonstrations or develop slides for CEFs during the reviews. Providing the appropriate evidence and accounting for discussion time on the review agenda for additional questions from CMS is sufficient. Files uploaded to CMS Box as evidence for CEFs should not be redacted. This includes, but is not limited to, security risk assessments, penetration tests, screenshots, or reports that include PHI/PII.
@@ -69,7 +69,7 @@
 ## Additional Resources
 - [SMC SMDL Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 - [MES Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf)
-- [Operational Report Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Operational%20Report%20Workbook.xlsx)
+- [Operational Report Workbook](../../Operational%20Report%20Workbook.xlsx)
 - [Transformed Medicaid Statistical Information System (T-MSIS)](https://www.medicaid.gov/medicaid/data-systems/macbis/transformed-medicaid-statistical-information-system-t-msis/index.html)
 - [Section 508 Guidance](https://www.section508.gov/test)
 - [Accessibility Guidance](https://accessibility.18f.gov)
