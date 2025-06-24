@@ -1,4 +1,4 @@
-# Using CMS Box in the Certification and Ongoing Operational Reporting Processes test
+# Using CMS Box in the Certification and Ongoing Operational Reporting Processes
 
 In accordance with 42 C.F.R. §§ 433.112(b)(15) and 433.116(b), (c), and (i) and to support the work of Streamlined Modular Certification (SMC) framework, the Centers for Medicare and Medicaid Services (CMS) uses Box to easily upload files for certification and ongoing operational reporting, including secure file exchange and storage of Protected Health Information (PHI) and Personally Identifiable Information (PII) files. The Box Cloud Content Management Platform has achieved numerous U.S. Government certifications for privacy and security regulatory and compliance, including, but not limited to, FedRAMP Moderate, DoD SRG IL4, NIST SP 800-171, AICPA SOC 2/SOC 3/AT 101 Type II, IRS Publication 1075, and HIPAA. 
 
