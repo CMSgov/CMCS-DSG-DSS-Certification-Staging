@@ -1,4 +1,4 @@
-# Intake Form Guidance test
+# Intake Form Guidance
 
 ## Purpose
 
