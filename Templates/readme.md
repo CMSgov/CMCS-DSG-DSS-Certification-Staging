@@ -13,6 +13,4 @@
 - [CR Sample Agenda](../CR%20Sample%20Agenda.docx) - An example agenda for an Certification Review
 
 ## Other Resources
-- [MES Data Submissions and Intake Procedures Manual](../MES%20Data%20Submissions%20and%20Intake%20Procedures%20Manual_2.0.pdf) - An overview of the metrics submission process and data ingestion process
-
-<a href="../MES%20Data%20Submissions%20and%20Intake%20Procedures%20Manual_2.0.pdf" title="MES Data Submissions and Intake Procedures Manual" download>MES Data Submissions and Intake Procedures Manual</a>
+- <a href="../MES%20Data%20Submissions%20and%20Intake%20Procedures%20Manual_2.0.pdf" title="MES Data Submissions and Intake Procedures Manual" download>MES Data Submissions and Intake Procedures Manual</a> - An overview of the metrics submission process and data ingestion process
