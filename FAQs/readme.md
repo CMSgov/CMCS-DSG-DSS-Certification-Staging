@@ -212,4 +212,4 @@ A: Currently, CMS does not publish guidance on how to retire a metric. States sh
 - Do not delete the row in the ORW that contains the metric to be retired because this will generate an error in the database. Make a note in the ORW that the metric has ended and keep the metric in the ORW with the other current metrics.
 - Finally, please remember that Metric IDs cannot be reused. Retiring a metric also retires its associated Metric ID.
 
-CMS will continue to add to the FAQs as new questions arise. <a href="../FAQ_Sept2024.pdf" title="Download the FAQs as a PDF." download>MES Data Submissions and Intake Procedures Manual</a>
+CMS will continue to add to the FAQs as new questions arise. <a href="../FAQ_Sept2024.pdf" title="Download the FAQs as a PDF" download>Download the FAQs as a PDF.</a>
