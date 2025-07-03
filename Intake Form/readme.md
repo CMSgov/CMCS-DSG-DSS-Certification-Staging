@@ -1,8 +1,8 @@
-# Intake Form Guidance 
+# Intake Form Guidance
 
 ## Purpose
 
-The [Intake Form Template](https://cmsbox.box.com/shared/static/2gncwjuo6pp6wkvsefmzbh8iqaagpa2f.xlsx) is used throughout the Streamlined Modular Certification (SMC) process to track information about a state’s single Medicaid Enterprise Systems (MES) project undergoing certification. States will fill out the Intake Form Template by entering the CMS-required outcomes that document compliance with regulations applicable to their module or system, their state-specific outcomes, and the metrics used to show that the project is achieving its outcomes on a continuous basis.
+The [Intake Form Template](../Appendix%20E%20Intake%20Form%20Template.xlsx) is used throughout the Streamlined Modular Certification (SMC) process to track information about a state’s single Medicaid Enterprise Systems (MES) project undergoing certification. States will fill out the Intake Form Template by entering the CMS-required outcomes that document compliance with regulations applicable to their module or system, their state-specific outcomes, and the metrics used to show that the project is achieving its outcomes on a continuous basis.
 
 ## Using the Intake Form
 
@@ -41,14 +41,14 @@ For a given module or system, all CMS-required outcomes pertaining to that modul
 These reflect the unique circumstances or characteristics of the state or territory and its Medicaid program and focus on improvements to the program not specifically addressed by the CMS-required outcomes. State-Specific Outcomes should target specific business or policy problems and enable the state to demonstrate direct Medicaid program benefits. States should work with their CMS State Officer to finalize outcomes that address the proposed functionality.
 
 #### Numbering Conventions for State-specific Outcomes
-States may create a unique reference number for their state-specific outcomes in the Intake Form. Note that these reference numbers must match the Outcome Reference Numbers utilized in Column C of the [Operational Reporting Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Operational%20Report%20Workbook.xlsx). The “Metrics Definitions” tab of the Operational Report Workbook contains more detail on numbering conventions. 
+States may create a unique reference number for their state-specific outcomes in the Intake Form. Note that these reference numbers must match the Outcome Reference Numbers utilized in Column C of the [Operational Reporting Workbook](../Operational%20Report%20Workbook.xlsx). The “Metrics Definitions” tab of the Operational Report Workbook contains more detail on numbering conventions. 
 
 If states have questions or need additional clarification, reach out to your CMS State Officer. A best practice utilized by many states is to request early input which may limit the amount of rework for the state and result in a more efficient review. 
 
 ## Resources
 For templates, please visit: 
--	[Appendix E – Intake Form Template](https://cmsbox.box.com/shared/static/2gncwjuo6pp6wkvsefmzbh8iqaagpa2f.xlsx)
--	[Operational Report Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Operational%20Report%20Workbook.xlsx)
+-	[Appendix E – Intake Form Template](../Appendix%20E%20Intake%20Form%20Template.xlsx)
+-	[Operational Report Workbook](../Operational%20Report%20Workbook.xlsx)
 
 For more information on CEFs and Outcomes:
 -	[Conditions for Enhanced Funding]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) 

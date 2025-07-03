@@ -70,18 +70,18 @@ For the CR, the following steps are completed:
 
 <center><img src="{{ site.baseurl }}/SMC Process/Production/CR Agenda.png"></center>
 
-[Download the CR Sample Agenda](https://cmsbox.box.com/shared/static/fgu9lgtsw66s57s10vkz1zvvb7wrn2xp.docx)
+[Download the CR Sample Agenda](../../CR%20Sample%20Agenda.docx)
 
 ## Resources 
 - [SMC Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) – see Appendix C for Required Artifacts and Appendix D for Framework for the Independent Third-Party Security and Privacy Assessment Guidelines for Medicaid Enterprise Systems
 - [Code of Federal Regulations](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433)
 - [Streamlined Modular Certification Intake Form template](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-intake-form.xlsx)
 - [Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/) (includes Metrics Procedures Manual and FAQs under the Resources)
-- [Example Monthly Project Status Reporting Template](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Streamlined%20Modular%20Certification%20Required%20Monthly%20Project%20Status%20Report%20Example%20Template.docx) 
+- [Example Monthly Project Status Reporting Template](../../Streamlined%20Modular%20Certification%20Required%20Monthly%20Project%20Status%20Report%20Example%20Template.docx) 
 - [Medicaid Enterprise Systems Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf) 
 - [Using Box]({{site.baseurl}}/Box/)
-- [Example Certification Request Letter Template](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/SMC%20Certification%20Request%20Letter%20Template.docx) 
-- [Operational Report Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Operational%20Report%20Workbook.xlsx) 
+- [Example Certification Request Letter Template](../../SMC%20Certification%20Request%20Letter%20Template.docx) 
+- [Operational Report Workbook](../../Operational%20Report%20Workbook.xlsx) 
 
 ## References
 - [CEF Example Evidence, Tips, and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/)
