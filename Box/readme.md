@@ -12,7 +12,7 @@ Your CMS State Officer will establish a single Box folder for each individual mo
 - Evidence* – should contain the Intake Form and two subfolders:
     - CEF – should contain the evidence listed in the Intake Form for applicable Conditions for Enhanced Funding. There is no need for additional sub-folders.
     - Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by outcome.
-- Metrics – should contain the definitions of the metrics for ORR. CMS highly encourages states to use the [Operational Report Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Operational%20Report%20Workbook.xlsx).
+- Metrics – should contain the definitions of the metrics for ORR. CMS highly encourages states to use the [Operational Report Workbook Template](../Operational%20Report%20Workbook.xlsx).
 - Presentation – should contain the presentation for the day of the review and any other meeting documentation.
 - Required Artifacts – should contain the applicable Required Artifacts listed in Appendix C of the [Streamlined Modular Certification for Medicaid Enterprise Systems Certification Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf). This will also contain any files applicable to the entry criteria.
 
@@ -20,7 +20,7 @@ Your CMS State Officer will establish a single Box folder for each individual mo
 - Evidence* – should contain the Intake Form and two subfolders:
 	- CEF – should contain the evidence listed in the Intake Form for applicable Conditions for Enhanced Funding. There is no need for additional sub-folders.
 	- Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by the outcome.
-- Metrics – should contain the monthly metrics data reports required for CR. CMS highly encourages states to use the [Operational Report Workbook Template](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Operational%20Report%20Workbook.xlsx). Note: once the state is certified, they will need to load the final metrics to the applicable metric folder on CMS Box.
+- Metrics – should contain the monthly metrics data reports required for CR. CMS highly encourages states to use the [Operational Report Workbook Template](../Operational%20Report%20Workbook.xlsx). Note: once the state is certified, they will need to load the final metrics to the applicable metric folder on CMS Box.
 - Presentation – should contain the presentation for the day of the review and any other meeting documentation.
 - Required Artifacts – should contain the applicable Required Artifacts listed in Appendix C of the [Streamlined Modular Certification for Medicaid Enterprise Systems Certification Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf). This will also contain any files applicable to the entry criteria.
 
@@ -94,10 +94,10 @@ The file path is noted here:
 
 
 #### Question: What module abbreviations should I use?
-Answer: Please use the module abbreviations referenced in Appendix B of the [Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual](https://cmsbox.box.com/shared/static/jo7m1igi9lon34mey7dfc29jw4zwi5k8.pdf), copied in the table below.
+Answer: Please use the module abbreviations referenced in Appendix B of the <a href="../MES%20Data%20Submissions%20and%20Intake%20Procedures%20Manual_2.0.pdf" title="MES Data Submissions and Intake Procedures Manual" download>MES Data Submissions and Intake Procedures Manual</a>, copied in the table below.
 
 ## Module Abbreviations
-Adapted from Appendix B of the [Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual](https://cmsbox.box.com/shared/static/jo7m1igi9lon34mey7dfc29jw4zwi5k8.pdf).
+Adapted from Appendix B of the <a href="../MES%20Data%20Submissions%20and%20Intake%20Procedures%20Manual_2.0.pdf" title="MES Data Submissions and Intake Procedures Manual" download>MES Data Submissions and Intake Procedures Manual</a>.
 
 | Module Abbreviation | Module Description |
 | ------------------- | ------------------ |

@@ -69,7 +69,7 @@ A: The SMC process is designed to support the IT investment lifecycle phases as 
 
 
 ### Q7: What is the Certification Request Letter, and where do states send it?
-A: States may download an example of the [Certification Request Letter Template](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/SMC%20Certification%20Request%20Letter%20Template.docx) on the MES Certification Repository.
+A: States may download an example of the [Certification Request Letter Template](../SMC%20Certification%20Request%20Letter%20Template.docx) on the MES Certification Repository.
 
 States should email the Certification Request Letter to their CMS State Officer and <MES@cms.hhs.gov>. It is also used as an entry criteria for scheduling a CR and a required artifact. The state must also upload the letter to the applicable Box folder for certification.
 
@@ -124,46 +124,38 @@ Please visit the [Conditions for Enhanced Funding (CEF)]({{site.baseurl}}/Cond
 
 Please visit the [CEF Tips and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEF Tips/) page on GitHub for additional tips and best practices.   
 
-### Q17: What is the recommended timeline for addressing privacy and security during Design, Development, and Implementation (DDI) and Maintenance and Operations (M&O)?
-A: CMS recommends the following timeline for addressing privacy and security:
-- **System Security and Privacy Plan (SSP)** – must be drafted early in the DDI because it is included in the Security Control Assessment (SCA) and maintained throughout M&O.
-- **Security Control Assessment (SCA)** - must be completed before go-live, and the Security and Privacy Assessment Report (SAR) must be provided for ORR evidence. Going forward, the SCA must be completed biennially unless the state is following the Affordable Care Act (ACA) Administering Entity (AE). Then, the state must complete it annually.
-- **Penetration Test** – must be completed before go-live. Penetration testing must be completed biennially (CMS strongly recommends annual Pen testing) unless the state is following ACA AE, then the state must complete it annually.
-- **Vulnerability Scans** – must be completed continuously (recommend monthly) throughout DDI and M&O.
-- **Plan of Action & Milestones (POA&M)** – must be updated throughout DDI and M&O and address all vulnerabilities, including, at minimum, those from the Penetration testing, SCA, vulnerability scans, and disaster recovery findings. CMS recommends using the ACA AE POA&M template.
-- **Disaster Recovery and Business Continuity Plan** - these plans must be drafted early in the DDI as an element of the SCA and reviewed yearly throughout DDI and M&O.
-- **Disaster Recovery Test** – strongly recommended to be completed yearly throughout DDI and M&O. A DR test should be completed before go-live.
+Please visit the [CEF Security and Privacy]({{site.baseurl}}/Conditions for Enhanced Funding/Security and Privacy/) page on GitHub for additional security and privacy tips, best practices, and FAQs.  
 
 ***
 
 ## Intake Form {#intake}
 
-### Q18: What is the Intake Form, and how should it be used?
+### Q17: What is the Intake Form, and how should it be used?
 A: The states and CMS use the Intake Form to track what a state seeks to achieve with a given project, including the CMS-required outcomes, state-specific outcomes, metrics, and associated evidence. Ideally, the state begins working on the Intake Form between the submission of the state’s APD and the submission of the state’s Request for Proposal (RFP). After APD approval, states will fill out the Intake Form by including their state-specific outcomes as well as CMS-required outcomes. States will also identify their proposed metrics to evaluate their progress in achieving CMS-required and state-specific outcomes.
 
 Given that states must include state-specific outcomes and metrics in their APDs, it is important that the Intake Form matches what is listed in the APD. When a state approaches ORR and CR, it will need to meet with CMS to finalize and approve the specific evidence it will provide as part of the certification process.
 
 The Intake Form template is available in the MES Certification Repository as well as on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html). 
 
-### Q19: When should a state fill out the Intake Form?
+### Q18: When should a state fill out the Intake Form?
 A: States should start filling out the Intake Form once the outcomes and metrics in the APD have been approved. If a state did not complete the Intake Form as part of the APD approval and the project is nearing ORR, CMS will work with the state to complete the Intake Form with outcomes and metrics selected by the state.
 
 ***
 
 ## Certification {#certification}
 
-### Q20: When can the state schedule their review?  Are there readiness requirements?
+### Q19: When can the state schedule their review?  Are there readiness requirements?
 A: The SMC review calendar opens on the first day of each month for the upcoming three months, including that month. States must demonstrate their readiness for review by submitting all the entry criteria for either ORR or CR. The CMS State Officer will send an email containing the entry criteria for the state’s response. The CMS Certification Team will review and confirm the completion of the entry criteria before confirming a review date.
 
-### Q21: Are Required Artifacts part of the Entry Criteria?
+### Q20: Are Required Artifacts part of the Entry Criteria?
 A: While there is some overlap, Required Artifacts must be submitted to the state’s CMS Box folders two weeks before the review date. By contrast, Entry Criteria items are submitted to schedule the review date. The SMC Guidance provides descriptions of what each Required Artifact should typically include.
 
 It is important to distinguish between Evidence and Required Artifacts. Evidence is documentation or data that proves the achievement of an outcome as listed in the Intake Form on the Outcomes and Metrics tab. On the other hand, Required Artifacts are documents that demonstrate the progression of a state’s project and are not typically used as evidence for outcomes.
 
-### Q22: Does the state need at least six months of metrics from a live system before requesting to schedule a CR?
+### Q21: Does the state need at least six months of metrics from a live system before requesting to schedule a CR?
 A: No, a state does not need at least six months of metrics reporting of a live system to request a CR date; however, the state must be able to provide all metric data back to the go-live date (a minimum of six months) two weeks before the CR date. Please refer to the SMC Guidance for requirements for requesting a CR.
 
-### Q23: Will CMS conduct an annual recertification of state investments?
+### Q22: Will CMS conduct an annual recertification of state investments?
 A: CMS will not “recertify” systems on an annual basis. Instead, states will submit operational reports containing data and/or other evidence to show that modules continue to meet all applicable requirements for the state’s claimed federal matching funds. Operational reports should include metric data corresponding to the agreed-upon outcomes listed in the APD for each applicable MES module.
 
 These operational reports should be submitted annually in support of the Operational APD (OAPD) request; however, more frequent reporting on key operational metrics may be necessary. States will coordinate with their CMS State Officer to determine which modules and metrics may need more frequent reporting.
@@ -172,12 +164,12 @@ These operational reports should be submitted annually in support of the Operati
 
 ## Reporting Requirements {#reporting}
 
-### Q24: What is the monthly project status report? Which states must start submitting these reports?
+### Q23: What is the monthly project status report? Which states must start submitting these reports?
 A: The monthly project status report is required during the Development phase or DDI (i.e. after the Implementation APD is approved leading up to the CR). This report is required as part of ORR and CR evidence. The monthly project status report apprises CMS of the project’s progress toward achieving the CEF and desired program outcomes.
 
 The monthly project status report includes information and updates on progress tracking, the testing framework, test results, and the defect and risk list. An example format is available in the MES Certification Repository on GitHub. The monthly project status report should be submitted to the state’s CMS State Officer via the applicable folder on CMS Box.
 
-### Q25: What are operational reports, and what are states’ obligations for submitting them?
+### Q24: What are operational reports, and what are states’ obligations for submitting them?
 A: To effectively demonstrate ongoing, successful system operations, states must submit operational reports containing metric data to CMS. The state’s operational reports must contain the metrics noted in their APD. The metrics captured in the operational reports document that the system is meeting the state’s planned outcomes and are evidence that the module meets all applicable requirements to demonstrate ongoing, successful system operations for the state’s claimed federal matching funds.
 
 Before the CR, the state should populate the Operational Reporting Workbook (ORW) with its metric data and submit it to its CMS Box certification folder. CMS developed the ORW as a standardized method to simplify the submission of agreed metric definitions and values. All states can use the ORW at all stages of the operational reporting process.
@@ -186,38 +178,38 @@ If the state is going through certification, it can submit all metric data captu
 
 These operational reports should be submitted according to a cadence determined by CMS, whether monthly, quarterly, or, at a minimum, annually, in support of the OAPD request. States should coordinate with their CMS State Officer to determine which modules and metrics need more frequent reporting and the required submission cadence.  (“Frequency” refers to the capture of the metric data, while “cadence” addresses the timing of report submission to CMS.)
 
-### Q26: Do operational reports need to be submitted using the Operational Report Workbook (ORW) template?
+### Q25: Do operational reports need to be submitted using the Operational Report Workbook (ORW) template?
 A: Although the ORW is not yet required, CMS strongly encourages its use to ensure states capture all relevant details about their metrics in a format that can be included in the database. If state-submitted data does not align with the database, states will be asked to resubmit their data or risk failing compliance with required operational reporting.
 
 ***
 
 ## Metrics {#metrics}
 
-### Q27: What is the purpose of metrics? Why are they required under SMC? 
+### Q26: What is the purpose of metrics? Why are they required under SMC? 
 A: Metrics reporting enhances transparency and accountability of Medicaid Enterprise System (MES) projects. Metrics help ensure the module meets statutory and regulatory requirements and the state’s program goals. In accordance with 42 C.F.R. §433.112(b)(15) and §433.116(b), (c), and (i), states must be capable of producing data, reports, and performance information from and about their MES modules to facilitate evaluation, continuous improvement in business operations, and transparency and accountability, as a condition for receiving enhanced federal matching for MES expenditures. State reporting of metrics also gives states and CMS early and continuing insight into program evaluation and opportunities for continuous improvement.
  
-### Q28: Are states required to report on all CMS-required metrics currently listed on GitHub?
+### Q27: Are states required to report on all CMS-required metrics currently listed on GitHub?
 A: The MES Certification Repository provides a default set of recommended metrics for each required outcome. If states have alternative metrics that better suit their project needs, they can propose these to their State Officer for approval. States should begin with the metrics listed in the MES Certification Repository and maintain regular communication with their State Officer regarding the metrics they plan to report. States are required to report on applicable metrics for projects undergoing certification and legacy systems receiving enhanced funding.
  
-### Q29: What should states do if they believe the default metrics are not relevant for their current module under review? 
+### Q28: What should states do if they believe the default metrics are not relevant for their current module under review? 
 A: States should work with their State Officer to select the most appropriate and meaningful metrics for their project. As states identify outcomes and metrics that are more applicable to their project than the CMS-required outcomes and default metrics, states should review and discuss these state-specific outcomes and metrics with their State Officer. State Officer approval of any state-specific outcomes and metrics is required before states can include and begin reporting on them in the OAPD. 
  
-### Q30: What metric information are states expected to present at ORR? At CR?
+### Q29: What metric information are states expected to present at ORR? At CR?
 A: At ORR, the state should be prepared to discuss the outcomes and planned metrics. In addition, the state should be prepared to discuss how it intends to generate the identified metrics and the expected reporting cadence.
 
 At CR, states must have been operational for **at least** six months to receive a systems certification approval. States **must** also provide metric data back to the state’s requested retroactive certification date for all months the system has been operational. States should be ready to discuss the numerical data presented in the operational report, anomalies in the data, changes to the metric methodology, and any plans for future reporting.
  
-### Q31: How much metric data should states provide to schedule a CR?
+### Q30: How much metric data should states provide to schedule a CR?
 A: States must submit all agreed-upon operational metrics related to the module, starting from the date the system became operational as the system of record and up to the most recent month's end. This is a prerequisite for CMS to schedule the state’s CR date. The system must be live, and the state must be able to show that it is collecting and reporting metric data. For example, if a state collects metrics monthly and wants to schedule a CR, the state should provide all available months of data before requesting a CR. The state must submit a minimum of six months of data two weeks prior to the CR.
  
-### Q32: How often must states submit operational reports?
+### Q31: How often must states submit operational reports?
 A: If the state’s system has been certified or if it has a legacy system in operation for which it seeks enhanced funding, the state must submit operational reports according to a cadence established by CMS (monthly, quarterly—as for EVV—or, in some cases, annually). The frequency of capturing metrics is monthly for many modules but may be annual for others. The State Officer might require more frequent reporting for specific metrics.
 
-### Q33: What steps must a state take to retire a metric?
+### Q32: What steps must a state take to retire a metric?
 A: Currently, CMS does not publish guidance on how to retire a metric. States should, however, note the following:
 - If a state believes it is ready to retire a metric and will no longer report on it, it should inform its State Officer about the change and explain the reason for retiring it in the Operational Reporting Workbook (ORW) and via an APD-U submission.
 - If a state wishes to revise its reported metrics, it should discuss the change with its State Officer and update the metrics via the APD submission. Depending on the changes, a revised metric may include retiring the current one and creating a new one. Once the state has updated the metrics, with approval from the SO, it should report this within the ORW.
 - Do not delete the row in the ORW that contains the metric to be retired because this will generate an error in the database. Make a note in the ORW that the metric has ended and keep the metric in the ORW with the other current metrics.
 - Finally, please remember that Metric IDs cannot be reused. Retiring a metric also retires its associated Metric ID.
 
-CMS will continue to add to the FAQs as new questions arise. [Download the FAQs as a PDF.](https://cmsbox.box.com/shared/static/y86b5ah50sasofova2gb6g8dzfkdig5f.pdf)
+CMS will continue to add to the FAQs as new questions arise. <a href="../FAQ_Sept2024.pdf" title="Download the FAQs as a PDF" download>Download the FAQs as a PDF.</a>
