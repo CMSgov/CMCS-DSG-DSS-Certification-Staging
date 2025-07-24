@@ -11,24 +11,24 @@ The state must undergo an ORR with its CMS State Officer prior to releasing its 
 
 The state will be able to schedule its review no more than three months in advance of the target date. For example, if the state intends to hold an ORR in March, then they can submit their request for the review as early as January. 
 
-To schedule an ORR, the state must provide the following entry criteria:
-- Latest Intake Form
-    - This can be a draft but will need to be finalized and loaded to the applicable certification Box folder 2 weeks prior to the review. This allows the Certification team to review and ensure that all the CMS-required outcomes have been appropriately captured and identify opportunities for technical assistance.
-- Go-live date.
-    - State will provide their anticipated go-live date, along with well-documented and defined go/no-go exit criteria.
-- User Acceptance Testing (UAT) completion date 
-    - The state must provide a timeline for when UAT and any other testing will be complete. Additional guidelines can be found in [MES Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf).
-    - All UAT should be completed prior to the ORR.
-- The following files or a projected timeline for completion:
-    - The independent, third-party security and privacy controls assessment report (SAR) and penetration test results conducted within the last 2 years from the requested ORR date,
-        - If this is for an Eligibility & Enrollment (E&E) review, the state must provide the most recent Authority to Connect (ATC) to the CMS Hub approval letter
-        - States should provide a Security and Privacy Assessment Report (SAR) and Penetration Test report completed by an independent assessor on a periodic basis, at a minimum of every two years per 45 C.F.R. § 95.621(f)(3),
-    - Plan of Action & Milestones (POA&M) documenting the most recent status of vulnerabilities regardless of risk level (from SAR, penetration tests, vulnerability scans, disaster recovery test results). 
-        - All critical vulnerabilities should be resolved prior to scheduling a review date. However, states can request a date with unresolved critical items if a mitigation/remediation plan is submitted using the recommended risk acceptance template, which can be found in Attachment D of CMS Information Security Plan of Action and Milestones (POA&M) Procedure.
+Prior to requesting to schedule an Operational Readiness Review (ORR), the state must provide the following information:
+- Anticipated Go-live date
+    - The state should also provide detailed go/no-go exit criteria and the decision date.
+- User Acceptance Testing (UAT) completion date
+    - The state must provide a timeline for when UAT for go-live functionality will be complete. Additional guidelines can be found in [MES Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf).
+- Operational Reporting / Metrics
+    - Latest Intake Form
+        - This can be a draft but will need to be finalized and loaded to the applicable certification Box folder two weeks prior to the actual review. This allows the Certification team to review and ensure that all the CMS-required outcomes and Conditions for Enhanced Funding have been appropriately captured and identify opportunities for technical assistance.
+    - The following files or a projected timeline for completion:
+        - The independent, third-party security and privacy controls assessment report (SAR) and penetration test results conducted within the last two years, per 45 C.F.R. § 95.621(f)(3), from the requested ORR date.
+            - If this is for an Eligibility & Enrollment (E&E) review, the state must provide the most recent Authority to Connect (ATC) to the CMS Hub approval letter.
+	- Plan of Action & Milestones (POA&M) documenting the most recent status of vulnerabilities regardless of risk level (from SAR, penetration tests, vulnerability scans, disaster recovery test results).
+	    - All critical vulnerabilities should be resolved prior to scheduling a review date. However, states can request a date with unresolved critical items if a mitigation/remediation plan is submitted using the recommended risk acceptance template, which can be found in Attachment D of the CMS Information Security POA&M Procedure document.
 - Link to CMS Box location
-    - Work with your CMS State Officer, who will set up a file structure in CMS Box and provide this link.
+        - Work with your CMS State Officer, who will set up a file structure in CMS Box and provide this link.
 
-Note that meeting the above entry criteria for ORR only clears the way for scheduling the ORR. The state must provide the most up-to-date documents two weeks prior to the ORR in the applicable certification Box folders for evaluation by the CMS Certification Team.
+Note that meeting the above entry criteria for ORR only clears the way for scheduling the ORR. Two weeks prior to the ORR, the state must provide the most up-to-date documents in the applicable certification [Box folders]({{site.baseurl}}/Box/) for evaluation by the CMS Certification Team.
+
 
 For the ORR, the following steps are completed:
 1. The state finalizes the state columns of the Intake Form.
@@ -66,13 +66,13 @@ For the ORR, the following steps are completed:
 ## Resources 
 - [SMC Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) – see Appendix C for Required Artifacts and Appendix D for Framework for the Independent Third-Party Security and Privacy Assessment Guidelines for Medicaid Enterprise Systems
 - [Code of Federal Regulations](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433)
-- [Streamlined Modular Certification Intake Form template](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-intake-form.xlsx)
+- [Templates]({{site.baseurl}}/Templates/)
 - [Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/) (includes Metrics Procedures Manual and FAQs under the Resources section) 
 - [CEF Example Evidence, Tips, and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/)
 - [Intake Form Guidance]({{site.baseurl}}/Intake Form/)
-- [Example Monthly Project Status Reporting Template](../../Streamlined%20Modular%20Certification%20Required%20Monthly%20Project%20Status%20Report%20Example%20Template.docx)
 - [Medicaid Enterprise Systems Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf)
 - [Using Box]({{site.baseurl}}/Box/)
+- [CMS Information Security POA&M Procedure document](https://www.cms.gov/files/document/poamprocedurepdf)
 
 ## References
 - [Transformed Medicaid Statistical Information System (T-MSIS)](https://www.medicaid.gov/medicaid/data-systems/macbis/transformed-medicaid-statistical-information-system-t-msis/index.html)
