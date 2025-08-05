@@ -11,6 +11,3 @@
 - [Example SMC Monthly Project Status Report with T-MSIS Compliance Plan](../SMC%20Monthly%20Project%20Status%20Report%20Template%20w%20T-MSIS%20Compliance%20Plan.docx) - An example template of a monthly project status report states may use when also reporting on plans for resolving T-MSIS data quality issues
 - [ORR Sample Agenda](../ORR%20Sample%20Agenda.docx) - An example agenda for an Operational Readiness Review
 - [CR Sample Agenda](../CR%20Sample%20Agenda.docx) - An example agenda for an Certification Review
-
-## Other Resources
-- <a href="../MES%20Data%20Submissions%20and%20Intake%20Procedures%20Manual_2.0.pdf" title="MES Data Submissions and Intake Procedures Manual" download>MES Data Submissions and Intake Procedures Manual</a> - An overview of the metrics submission process and data ingestion process
