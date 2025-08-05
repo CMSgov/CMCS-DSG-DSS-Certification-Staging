@@ -21,11 +21,11 @@ Prior to requesting to schedule an Operational Readiness Review (ORR), the state
         - This can be a draft but will need to be finalized and loaded to the applicable certification Box folder two weeks prior to the actual review. This allows the Certification Team to review and ensure that all the CMS-required outcomes and Conditions for Enhanced Funding have been appropriately captured and identify opportunities for technical assistance.
     - The following files or a projected timeline for completion:
         - The independent, third-party security and privacy controls assessment report (SAR) and penetration test results conducted within the last two years, per 45 C.F.R. § 95.621(f)(3), from the requested ORR date.
-            - If this is for an Eligibility & Enrollment (E&E) review, the state must provide the most recent Authority to Connect (ATC) to the CMS Hub approval letter.
+        - If this is for an Eligibility & Enrollment (E&E) review, the state must provide the most recent Authority to Connect (ATC) to the CMS Hub approval letter.
 	- Plan of Action & Milestones (POA&M) documenting the most recent status of vulnerabilities regardless of risk level (from SAR, penetration tests, vulnerability scans, disaster recovery test results).
 	    - All critical vulnerabilities should be resolved prior to scheduling a review date. However, states can request a date with unresolved critical items if a mitigation/remediation plan is submitted using the recommended risk acceptance template, which can be found in Attachment D of the CMS Information Security POA&M Procedure document.
 - Link to CMS Box location
-        - Work with your CMS State Officer, who will set up a file structure in CMS Box and provide this link.
+    - Work with your CMS State Officer, who will set up a file structure in CMS Box and provide this link.
 
 Note that meeting the above entry criteria for ORR only clears the way for scheduling the ORR. Two weeks prior to the ORR, the state must provide the most up-to-date documents in the applicable certification [Box folders]({{site.baseurl}}/Box/) for evaluation by the CMS Certification Team.
 
