@@ -74,7 +74,7 @@ For the CR, the following steps are completed:
 [Download the CR Sample Agenda](../../CR%20Sample%20Agenda.docx)
 
 ## Resources 
-- [SMC Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
+- [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 - [Code of Federal Regulations](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433)
 - [Templates]({{site.baseurl}}/Templates/)
 - [Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/Overview/) (includes FAQs under the Resources section) 
