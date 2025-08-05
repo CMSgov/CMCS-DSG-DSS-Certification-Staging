@@ -24,7 +24,7 @@ States may need to update outcomes and metrics due to lessons learned, changing 
 
 States are required to use the Operational Report Workbook (ORW) template to submit their operational metrics by module (ADD LINK TO ORW). The Excel template includes three tabs: the first contains general instructions completing it, followed by two tabs for data entry, titled “Metric Definitions” and “Metric Values.” Additional instructions for the ORW are located on the MES Certification Repository.   
 
-For the state-submitted metrics data to be successfully processed, the state needs to fill in and correctly format the required data fields. [Refer to the Operational Report Workbook Validation Rules]({{site.baseurl}}/Ongoing%20Reporting/Rule%20and%20Guidelines/), for the list of required data and data entry rules.  
+For the state-submitted metrics data to be successfully processed, the state needs to fill in and correctly format the required data fields. Refer to the [Operational Report Workbook Validation Rules]({{site.baseurl}}/Ongoing%20Reporting/Rule%20and%20Guidelines/), for the list of required data and data entry rules.  
 
 The state should use the following filename format and should not exceed 255 characters: 
 
