@@ -6,7 +6,7 @@ CMS reviews the metrics included in the operational reports during the APD revie
 
 Metrics provide evidence of whether intended outcomes are achieved through the delivery of a new module or enhancement to an existing module. Metric reporting enhances transparency and accountability and helps to ensure that a state’s MES and its modules meet statutory and regulatory requirements, as well as the state’s own program goals. Metrics reporting also gives states and CMS early and ongoing insights to use for program evaluation and continuous improvement. 
 
-[Download this page as a PDF](../Metrics%20Intake%20and%20Procedures%20Manual.pdf). 
+[Download this page as a PDF](../../Metrics%20Intake%20and%20Procedures%20Manual.pdf). 
 
 ## Detailed MES Data Submission and Intake Process
 
@@ -16,7 +16,7 @@ Module-specific outcomes and metrics must be included when submitting an APD or 
 
 Default metrics for MES modules are available on the CMS MES Certification Repository. 
 
-For information on how to develop state outcomes and metrics statements, refer to [Writing a Good Outcome]({{site.baseurl}}/writing-outcome-statements.md). 
+For information on how to develop state outcomes and metrics statements, refer to [Writing a Good Outcome]({{site.baseurl}}/writing-outcome-statements). 
 
 States may need to update outcomes and metrics due to lessons learned, changing Medicaid priorities, or feedback from a certification. If a state revises its outcomes and metrics, an APD-Update (APD-U) is required. States should consult their CMS MES State Officer to discuss such updates.  
 
