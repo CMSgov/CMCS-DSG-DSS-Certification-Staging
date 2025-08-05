@@ -21,23 +21,20 @@ The state will be able to schedule their review as early as three months in adva
 Prior to scheduling a Certification Review (CR), the state must provide the following to CMS:
 - Operational Report / Metrics
     - Latest Intake Form
-        - This can be a draft but will need to be finalized and loaded to the applicable certification Box folder two weeks prior to the review. This allows the Certification team to review and ensure that all the CMS-required outcomes and Conditions for Enhanced Funding have been appropriately captured and identify opportunities for technical assistance.
+        - This can be a draft but will need to be finalized and loaded to the applicable certification Box folder two weeks prior to the review. This allows the Certification Team to review and ensure that all the CMS-required outcomes and Conditions for Enhanced Funding have been appropriately captured and identify opportunities for technical assistance.
     - Metric data back to the requested go-live date
         - States must submit data back to the go-live date (or the date requesting retroactive certification), up to the most recent month end.
-    - If no ORR was conducted, or depending upon the timing of the ORR, the state will need to provide: 
-        - The independent, third-party security and privacy controls assessment report (SAR) and penetration test results conducted within the last two years from the requested CR date.
-        - Most recent Plan of Action & Milestones (POA&M) documenting the status of vulnerabilities (from SAR, penetration tests, vulnerability scans, and disaster recovery test results).
+    - The independent, third-party security and privacy controls assessment report (SAR) and penetration test results conducted within the last two years from the requested CR date.
+    - Most recent Plan of Action & Milestones (POA&M) documenting the status of vulnerabilities (from SAR, penetration tests, vulnerability scans, and disaster recovery test results).
         - All critical vulnerabilities should be resolved prior to scheduling a CR date. However, states can request a date with unresolved critical items if a mitigation/remediation plan is submitted and approved by CMS, using the recommended risk acceptance template, which can be found in Attachment D of the CMS Information Security Plan of Action and Milestones (POA&M) Procedure document.
-- Link to CMS Box location
-    - Work with your CMS State Officer, who will set up a file structure in CMS Box, grant access, and provide this link.
-- As necessary, the CMS State Officer will contact the CMS T-MSIS team to get confirmation via email that the state and system being certified meet all Outcomes-Based Assessment (OBA) compliance.
-
-Once the above activities have been completed, the state may submit a Certification Request letter.
 - Certification Request Letter
     - The letter should align with the [example template]({{site.baseurl}}/Templates/) posted on the Medicaid Enterprise Systems (MES) Certification Repository.
     - The letter should include all information required for inclusion in [SMDL 22-001](https://www.medicaid.gov/federal-policy-guidance/downloads/smd22001.pdf). See the [example System Acceptance Letter]({{site.baseurl}}/Templates/) on the MES Certification Repository.
     - Send the Certification Request Letter and applicable attachments via email to the CMS State Officer and MES@cms.hhs.gov.
     - Since the Certification Request Letter and the System Acceptance Letter are also SMC Required Artifacts (see SMC Guidance), these documents should also be uploaded to the applicable [Box folder]({{site.baseurl}}/Box/) for certification.
+- Link to CMS Box location
+    - Work with your CMS State Officer, who will set up a file structure in CMS Box, grant access, and provide this link.
+- As necessary, the CMS State Officer will contact the CMS T-MSIS team to get confirmation via email that the state and system being certified meet all Outcomes-Based Assessment (OBA) compliance.
 
 Note that meeting the above entry criteria for CR only clears the way for scheduling the CR. The state must provide the most up-to-date documents two weeks prior to the CR in the applicable certification [Box folders]({{site.baseurl}}/Box/) for evaluation by the CMS Certification Team.
 
@@ -77,7 +74,7 @@ For the CR, the following steps are completed:
 [Download the CR Sample Agenda](../../CR%20Sample%20Agenda.docx)
 
 ## Resources 
-- [SMC Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) – see Appendix C for Required Artifacts and Appendix D for Framework for the Independent Third-Party Security and Privacy Assessment Guidelines for Medicaid Enterprise Systems
+- [SMC Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 - [Code of Federal Regulations](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433)
 - [Templates]({{site.baseurl}}/Templates/)
 - [Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/Overview/) (includes FAQs under the Resources section) 
