@@ -26,4 +26,4 @@ The following rules, recommendations, and notes are intended to help the state f
 
 ## ORW Field Definitions and Rules
 
-A detailed explanation of field specifications, descriptions, and validation rules is available here <ADD LINK TO NEW VALIDATION FILE>. 
+A [detailed explanation of field specifications, descriptions, and validation rules](../ORW_Validation.xlxs) is available for download. 
