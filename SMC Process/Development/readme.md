@@ -18,7 +18,7 @@ Prior to requesting to schedule an Operational Readiness Review (ORR), the state
     - The state must provide a timeline for when UAT for go-live functionality will be complete. Additional guidelines can be found in [MES Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf).
 - Operational Reporting / Metrics
     - Latest Intake Form
-        - This can be a draft but will need to be finalized and loaded to the applicable certification Box folder two weeks prior to the actual review. This allows the Certification team to review and ensure that all the CMS-required outcomes and Conditions for Enhanced Funding have been appropriately captured and identify opportunities for technical assistance.
+        - This can be a draft but will need to be finalized and loaded to the applicable certification Box folder two weeks prior to the actual review. This allows the Certification Team to review and ensure that all the CMS-required outcomes and Conditions for Enhanced Funding have been appropriately captured and identify opportunities for technical assistance.
     - The following files or a projected timeline for completion:
         - The independent, third-party security and privacy controls assessment report (SAR) and penetration test results conducted within the last two years, per 45 C.F.R. § 95.621(f)(3), from the requested ORR date.
             - If this is for an Eligibility & Enrollment (E&E) review, the state must provide the most recent Authority to Connect (ATC) to the CMS Hub approval letter.
@@ -64,7 +64,7 @@ For the ORR, the following steps are completed:
 [Download the ORR Sample Agenda](../../ORR%20Sample%20Agenda.docx)
 
 ## Resources 
-- [SMC Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) – see Appendix C for Required Artifacts and Appendix D for Framework for the Independent Third-Party Security and Privacy Assessment Guidelines for Medicaid Enterprise Systems
+- [SMC Guidance Document](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 - [Code of Federal Regulations](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433)
 - [Templates]({{site.baseurl}}/Templates/)
 - [Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/Overview/) (includes FAQs under the Resources section) 
