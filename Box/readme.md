@@ -94,27 +94,4 @@ The file path is noted here:
 
 
 #### Question: What module abbreviations should I use?
-Answer: Please use the module abbreviations referenced in Appendix B of the <a href="../MES%20Data%20Submissions%20and%20Intake%20Procedures%20Manual_2.0.pdf" title="MES Data Submissions and Intake Procedures Manual" download>MES Data Submissions and Intake Procedures Manual</a>, copied in the table below.
-
-## Module Abbreviations
-Adapted from Appendix B of the <a href="../MES%20Data%20Submissions%20and%20Intake%20Procedures%20Manual_2.0.pdf" title="MES Data Submissions and Intake Procedures Manual" download>MES Data Submissions and Intake Procedures Manual</a>.
-
-| Module Abbreviation | Module Description |
-| ------------------- | ------------------ |
-| CM | Case Management |
-| CP | Claims Processing |
-| DW/DS | Data Warehouse/Decision Support Systems |
-| EE | Eligibility and Enrollment |
-| EPS | Encounter Processing System |
-| EVV | Electronic Visit Verification |
-| FI | Fiscal Intermediary |
-| FM | Financial Management |
-| HIE | Health Information Exchange |
-| LTSS | Long-Term Services and Support |
-| MM | Member Management |
-| Multi | Mulitple modules within one file |
-| PBM | Pharmacy Benefits Manager |
-| PDMP | Prescription Drug Monitoring Program |
-| PI | Program Integrity |
-| PM | Provider Management |
-| TPL | Third-Party Liability |
+Answer: Please use the module abbreviations listed in the table on the [State Abbreviations Page]({{site.baseurl}}/Ongoing Reporting/State Abbreviations/).
