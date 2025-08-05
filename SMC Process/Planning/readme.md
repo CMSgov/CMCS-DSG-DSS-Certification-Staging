@@ -60,7 +60,7 @@ The state should know when the following are scheduled for completion and are ei
 -	MES module outcomes (by business area)
 -	[Writing a good outcome statement]({{site.baseurl}}/writing-outcome-statements)
 -	[Streamlined Modular Certification Intake Form template](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-intake-form.xlsx)
--	[Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/) (includes Metrics Procedures Manual and FAQs under the Resources section) 
+-	[Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/Overview/) (includes FAQs under the Resources section) 
 -	[CEF Example Evidence, Tips, and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/)
 -	[Intake Form Guidance]({{site.baseurl}}/Intake Form/)
 
