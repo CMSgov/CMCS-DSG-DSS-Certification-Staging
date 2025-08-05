@@ -16,7 +16,7 @@ Module-specific outcomes and metrics must be included when submitting an APD or 
 
 Default metrics for MES modules are available on the CMS MES Certification Repository. 
 
-For information on how to develop state outcomes and metrics statements, refer to [Writing a Good Outcome on the MES Certification Repository]({{site.baseurl}}/writing-outcome-statements.md). 
+For information on how to develop state outcomes and metrics statements, refer to [Writing a Good Outcome]({{site.baseurl}}/writing-outcome-statements.md). 
 
 States may need to update outcomes and metrics due to lessons learned, changing Medicaid priorities, or feedback from a certification. If a state revises its outcomes and metrics, an APD-Update (APD-U) is required. States should consult their CMS MES State Officer to discuss such updates.  
 
