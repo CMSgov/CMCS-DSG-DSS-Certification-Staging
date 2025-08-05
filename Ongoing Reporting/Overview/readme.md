@@ -24,7 +24,7 @@ States may need to update outcomes and metrics due to lessons learned, changing 
 
 States are required to use the Operational Report Workbook (ORW) template to submit their operational metrics by module (ADD LINK TO ORW). The Excel template includes three tabs: the first contains general instructions completing it, followed by two tabs for data entry, titled “Metric Definitions” and “Metric Values.” Additional instructions for the ORW are located on the MES Certification Repository.   
 
-For the state-submitted metrics data to be successfully processed, the state needs to fill in and correctly format the required data fields. Refer to the [Operational Report Workbook Validation Rules]({{site.baseurl}}/Ongoing%20Reporting/Rule%20and%20Guidelines/), for the list of required data and data entry rules.  
+For the state-submitted metrics data to be successfully processed, the state needs to fill in and correctly format the required data fields. Refer to the [Operational Report Workbook Validation Rules]({{site.baseurl}}/Ongoing%20Reporting/Rules%20and%20Guidelines/), for the list of required data and data entry rules.  
 
 The state should use the following filename format and should not exceed 255 characters: 
 
@@ -44,7 +44,7 @@ When the state uploads an operational report file to the state appropriate CMS B
 
 ### Step 3: Data Ingestion
 
-To be successfully processed, the state-submitted metrics reports must meet the reporting specifications described in the [Operational Report Workbook Validation Rules]({{site.baseurl}}/Ongoing%20Reporting/Rule%20and%20Guidelines/), e.g., the correct file name format, content in the required columns, and correctly formatted data.  
+To be successfully processed, the state-submitted metrics reports must meet the reporting specifications described in the [Operational Report Workbook Validation Rules]({{site.baseurl}}/Ongoing%20Reporting/Rules%20and%20Guidelines/), e.g., the correct file name format, content in the required columns, and correctly formatted data.  
 
 If the file is processed successfully and loaded into the CMS database, the report’s status is Completed, and the processed file is moved to the “archive” subfolder within the state’s metrics folder. If there are issues importing the data, CMS will work with the state to help resolve the issues. When re-submitting a corrected file, the state should rename the file to the new submission date and upload it to the same metrics folder on Box.  
 
