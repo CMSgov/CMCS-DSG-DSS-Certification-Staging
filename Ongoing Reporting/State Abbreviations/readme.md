@@ -3,6 +3,7 @@ State Abbreviations
 The table below lists the states with their approved code for metrics reporting. 
 
 | State | Abbreviation |
+| ----- | ------------ |
 | Alabama | AL |
 | Alaska | AK |
 | American Samoa | AS |
