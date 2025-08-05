@@ -94,4 +94,4 @@ The file path is noted here:
 
 
 #### Question: What module abbreviations should I use?
-Answer: Please use the module abbreviations listed in the table on the [State Abbreviations Page]({{site.baseurl}}/Ongoing Reporting/State Abbreviations/).
+Answer: Please use the module abbreviations listed in the table on the [Modules Abbreviations Page]({{site.baseurl}}/Ongoing Reporting/Module Abbreviations/).
