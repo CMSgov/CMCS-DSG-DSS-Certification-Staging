@@ -55,7 +55,7 @@ For example, if Wyoming originally submitted its EVV data file on September 1, 2
 - [Streamlined Modular Certification Guidance](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html)
 - [Electronic Visit Verification Outcomes-Based Certification](https://www.medicaid.gov/medicaid/data-systems/certification/electronic-visit-verification-outcome-based-certification) (REMOVE? / REPLACE?)
 - [CMS Box](https://cmsbox.account.box.com/login)
-- [Metrics FAQs](({{site.baseurl}}/FAQs/)
+- [Metrics FAQs]({{site.baseurl}}/FAQs/)
 - Operational Report Workbook (ADD LINK TO ORW)
 
 ## References
