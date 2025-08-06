@@ -14,7 +14,9 @@ The Intake Form Template tracks information about a state’s MES module for cer
 
 Download the Intake Form (Pre-populated for EVV) (ADD LINK)
 
-### Example Templates
+Additional guidance on how to use the Inatke Form is available [here]({{site.baseurl}}/Intake Form/).
+
+### Additional Templates
 
 The [Templates Page]({{site.baseurl}}/Templates/) contains a list of required and recommended certification-related templates.
 
