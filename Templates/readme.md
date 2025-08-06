@@ -9,4 +9,4 @@
 - [Example Certification Request Letter Template](../SMC%20Certification%20Request%20Letter%20Template.docx) - States must submit the Certification Request Letter to CMS via email to their CMS MES State Officer and MES@cms.hhs.gov to officially request certification
 - [Example System Acceptance Letter Template](../SMC%20System%20Acceptance%20Letter%20Sample_v2.docx) - The required System Acceptance Letter must accompany the Certification Request Letter for any official certification request
 - [ORR Sample Agenda](../ORR%20Sample%20Agenda.docx) - An example agenda for an Operational Readiness Review
-- [CR Sample Agenda](../CR%20Sample%20Agenda.docx) - An example agenda for an Certification Review
+- [CR Sample Agenda](../CR%20Sample%20Agenda.docx) - An example agenda for a Certification Review
