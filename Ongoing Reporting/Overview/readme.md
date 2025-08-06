@@ -30,7 +30,7 @@ The state should use the following filename format and should not exceed 255 cha
 
 Operational_Report_StateAbb_ModuleAbb_YYYY-MM-DD.xlsx 
 
-The date used should be the date when the state submits its data file to the state’s metric folder located on CMS Box. The filename should use standard [state abbreviations]({{site.baseurl}}/Ongoing%20Reporting/State%20Abbreviations/) and [Module Type abbreviations]({{site.baseurl}}/Ongoing%20Reporting/Module%20Abbreviations/).  For example, “Operational_Report_VA_CP_2022-01-22.xlsx”. 
+The date used should be the date when the state submits its data file to the state’s metric folder located on CMS Box. The filename should use standard [State abbreviations]({{site.baseurl}}/Ongoing%20Reporting/State%20Abbreviations/) and [Module Type abbreviations]({{site.baseurl}}/Ongoing%20Reporting/Module%20Abbreviations/).  For example, “Operational_Report_VA_CP_2022-01-22.xlsx”. 
 
 ### Step 2: Submit to CMS Box
 
