@@ -35,24 +35,9 @@ The following table includes guidance on filling out the Metric Definition tab i
 | **Description** | Metric data will be sourced from the POA&M(s), reported quarterly in [list the months it will be reported in by the state here] on the Metric Values tab (using three measure counts), and sent to CMS, with each module’s ORW, quarterly along with the latest POA&M(s). |
 | **Value Type** | Numerical |
 | **Reporting Frequency** | Quarterly |
-| **Definitions** | Definitions are based on NIST Special Publication 800-30 Revision 1; the latest published definitions should be followed.
-Very high risk means that a threat event could be expected to have multiple severe or catastrophic adverse effects on organizational operations, organizational assets, individuals, other organizations, or the Nation.
-High risk means that a threat event could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, individuals, other organizations, or the Nation.
-Moderate risk means that a threat event could be expected to have a serious adverse effect on organizational operations, organizational assets, individuals, other organizations, or the Nation.
-Low risk means that a threat event could be expected to have a limited adverse effect on organizational operations, organizational assets, individuals, other organizations, or the Nation.
-Very low risk means that a threat event could be expected to have a negligible adverse effect on organizational operations, organizational assets, individuals, other organizations, or the Nation. |
-| **Additional Guidance** | "For all identified risks and vulnerabilities, a POA&M must be utilized to monitor progress and closure. All mitigated and closed POA&M entries must be tracked for at least one year.
-The POA&M should include all levels of findings, with at a minimum the following fields:
-- Identifier
-- Control Family
-- Description
-- Source
-- Date Identified
-- Scheduled Completion Date
-- Actual Completion Date
-- Status
-- Risk Level
-- Comments" |
+| **Definitions** | Definitions are based on NIST Special Publication 800-30 Revision 1; the latest published definitions should be followed.  </br>
+**Very high risk** means that a threat event could be expected to have multiple severe or catastrophic adverse effects on organizational operations, organizational assets, individuals, other organizations, or the Nation. </br>**High risk** means that a threat event could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, individuals, other organizations, or the Nation. </br>**Moderate risk** means that a threat event could be expected to have a serious adverse effect on organizational operations, organizational assets, individuals, other organizations, or the Nation. </br>**Low risk** means that a threat event could be expected to have a limited adverse effect on organizational operations, organizational assets, individuals, other organizations, or the Nation. </br>**Very low risk** means that a threat event could be expected to have a negligible adverse effect on organizational operations, organizational assets, individuals, other organizations, or the Nation. |
+| **Additional Guidance** | For all identified risks and vulnerabilities, a POA&M must be utilized to monitor progress and closure. All mitigated and closed POA&M entries must be tracked for at least one year. </br>The POA&M should include all levels of findings, with at a minimum the following fields: </br>- Identifier </br>- Control Family </br>- Description </br>- Source </br>- Date Identified </br>- Scheduled Completion Date </br>- Actual Completion Date </br>- Status </br>- Risk Level </br>- Comments |
 
 The following table includes guidance on filling out the ORW, Metric Values tab, Measure Count & Measure Count Description columns.  
 
