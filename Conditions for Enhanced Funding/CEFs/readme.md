@@ -41,7 +41,7 @@ High risk means that a threat event could be expected to have a severe or catast
 Moderate risk means that a threat event could be expected to have a serious adverse effect on organizational operations, organizational assets, individuals, other organizations, or the Nation.
 Low risk means that a threat event could be expected to have a limited adverse effect on organizational operations, organizational assets, individuals, other organizations, or the Nation.
 Very low risk means that a threat event could be expected to have a negligible adverse effect on organizational operations, organizational assets, individuals, other organizations, or the Nation. |
-| **Additional Guidance** | For all identified risks and vulnerabilities, a POA&M must be utilized to monitor progress and closure. All mitigated and closed POA&M entries must be tracked for at least one year.
+| **Additional Guidance** | "For all identified risks and vulnerabilities, a POA&M must be utilized to monitor progress and closure. All mitigated and closed POA&M entries must be tracked for at least one year.
 The POA&M should include all levels of findings, with at a minimum the following fields:
 - Identifier
 - Control Family
@@ -52,7 +52,7 @@ The POA&M should include all levels of findings, with at a minimum the following
 - Actual Completion Date
 - Status
 - Risk Level
-- Comments |
+- Comments" |
 
 The following table includes guidance on filling out the ORW, Metric Values tab, Measure Count & Measure Count Description columns.  
 
