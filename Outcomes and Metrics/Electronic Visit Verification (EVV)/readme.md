@@ -20,14 +20,14 @@ Click here to download the CMS-required outcomes in the Intake Form (ADD LINK)
 | EVV04 |  |  | 4.1: Automated test report and screenshot showing that data elements received by the EVV solution or data aggregator that are not compliant with the state's EVV data definitions are rejected, and that the system returns an error message to the sender.<br/>4.2: Automated test report and screenshot showing that data elements received by the EVV solution or data aggregator that are compliant with the state's EVV data<br/>definitions are accepted.<br/>4.3: The state's EVV data definitions, available to all relevant stakeholders. | MITA 3.0 IA ML3 |
 | EVV05 |  |  | 5.1: Explanation of 1) how the state uses EVV data to check each of the items listed for encounters, if applicable, and 2) how the state uses EVV data to apply edits to claims.<br/>5.2: Screenshots showing claims that were edited, along with reason codes for the following scenarios:<br/>- Provider mismatch<br/>- Type of services not approved for that beneficiary<br/>- Number of units not approved or that exceed an approved amount | MBP |
 | EVV06 |  |  | 6.1: Automated test report(s) and screenshot(s) verifying that the EVV solution correctly transfers and receives data to/from all interfacing systems and that incorrect transmissions are flagged, and error messages are generated.<br/>6.2: High-level diagram showing all interfaces and types of data flow.<br/>6.3: Explanation of how changes to the system are communicated to stakeholders. If this is automated, example informational message. | MITA 3.0 TCM ML3 and ML2, industry best practice  |
-| EVV07 |  |  | 7.1: Automated test report and screenshot(s) showing that, for each alternative submission method, the required EVV data is correctly received and stored.<br/>7.2: Training materials for users that explain how visit information can be submitted should the primary method of submission be out of service. | MBP |
-| EVV08 |  |  | 8.1: Training plan and materials, record of when training occurred or are scheduled, and for which stakeholder groups. For states that only aggregate data from providers' or MCOs' EVV platforms, this means an explanation of how those stakeholders can properly send data to the state. | Section 1903(l) of the Social Security Act, as added by the 21st Century Cures Act (“Cures Act,” Pub. L. No. 114-255) |
-| EVV09 |  |  | 9.1: List of all languages supported and how they are supported (e.g., translated user interfaces, on-call translators, etc.). | Civil Rights Act of 1964, Title VI, Affordable Health Care Act of 2010, Sect. 1557 |
+| EVV07 |  | - [EVV System Availability](#availability)  | 7.1: Automated test report and screenshot(s) showing that, for each alternative submission method, the required EVV data is correctly received and stored.<br/>7.2: Training materials for users that explain how visit information can be submitted should the primary method of submission be out of service. | MBP |
+| EVV08 |  | - [EVV System Availability](#availability)  | 8.1: Training plan and materials, record of when training occurred or are scheduled, and for which stakeholder groups. For states that only aggregate data from providers' or MCOs' EVV platforms, this means an explanation of how those stakeholders can properly send data to the state. | Section 1903(l) of the Social Security Act, as added by the 21st Century Cures Act (“Cures Act,” Pub. L. No. 114-255) |
+| EVV09 |  | - [EVV System Availability](#availability) | 9.1: List of all languages supported and how they are supported (e.g., translated user interfaces, on-call translators, etc.). | Civil Rights Act of 1964, Title VI, Affordable Health Care Act of 2010, Sect. 1557 |
 
 
 The following tables include guidance on filling out the Metric Definition tab in the Operational Report Workbook (ORW). Note: “Frequency” refers to the capture of the metric data while “cadence” addresses the timing of report submission to CMS.
 
-
+{#association}
 | Metric Element | Description |
 | -------------- | ----------- |
 | **Name** | Association of EVV record to claim/encounter |
@@ -40,7 +40,7 @@ The following tables include guidance on filling out the Metric Definition tab i
 | **Definitions** | HHCS – home health care service<br/>PCS – personal care service<br/>Complete EVV record: all required data elements are captured in the record. According to the 21st Century Cures Act, these are  <br/>1) the type of service performed <br/>2) the individual receiving the service<br/>3) the date of the service<br/>4) the location of service delivery<br/>5) the individual providing the service<br/>6) the time the service begins and ends |
 | **Additional Guidance** | Claims and encounters counted in this calculation are those that are non-duplicative and were paid during the quarter.<br/>This metric does not stipulate how a state chooses to associate an EVV record with its corresponding claim or encounter. This metric is reported for the previous quarter, which allows the state to account for a complete quarter of data. For example, the first quarter’s results are reported in the second quarter. |
 
-
+{#match}
 | Metric Element | Description |
 | -------------- | ----------- |
 | **Name** | EVV record match against approved services, providers, and units |
@@ -53,7 +53,7 @@ The following tables include guidance on filling out the Metric Definition tab i
 | **Definitions** | The SMA should be checking claims and encounters against the associated EVV record to ensure that:  <br/>1)	the provider shown in the EVV record is associated with the beneficiary and matches the one in the claim/encounter submission<br/>2)	the procedure codes match those in the EVV record and were approved for the beneficiary<br/>3)	the number of units charged did not exceed the beneficiary’s total number of approved units<br/>Service codes for which the beneficiary, provider, service, or number of units do not match what is appropriate under the relevant authorities should not be paid. |
 | **Additional Guidance** | Claims/encounter procedure codes counted in this calculation are those that are non-duplicative and were paid during the quarter.<br/>This metric applies to all home visit-related authorities. Authorization could be in the form of a physician’s order, prior authorization, service plan, or other forms of approval under relevant authorities. This metric is reported for the previous quarter, which allows the state to account for a complete quarter of data. For example, the second quarter’s results are reported in the third quarter. |
 
-
+{#edits}
 | Metric Element | Description |
 | -------------- | ----------- |
 | **Name** | EVV records without manual edits |
@@ -66,7 +66,7 @@ The following tables include guidance on filling out the Metric Definition tab i
 | **Definitions** | A state-run EVV system is one that the state operates, either itself or through a contract with a vendor. |
 | **Additional Guidance** | EVV records counted in this calculation are those that are non-duplicative and were received during the quarter.<br/>This metric is reported for the previous quarter. Therefore, the first quarter’s results are reported during the second quarter. This allows the state to account for a complete quarter’s worth of data.<br/><br/>Some states’ EVV solutions aggregate data from providers’ or MCO EVV systems. Some such states may have stipulated that those records need to include information as to whether the original EVV record was manually edited. Other states may not have made this a requirement of their providers or MCOs. Those states that aggregate data and can report against this KPI should report against this KPI. |
 
-
+{#availability}
 | Metric Element | Description |
 | -------------- | ----------- |
 | **Name** | EVV System Availability |
