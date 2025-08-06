@@ -105,7 +105,7 @@ The letter formally sunsets the existing EVV OBC process. States must adhere to 
 
 ## Outcomes and Metrics {#outcomes}
 
-Please visit the [Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/) page on GitHub for additional information.
+Please visit the [Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/Overview/) page on GitHub for additional information.
 
 ### Q14: Are there resources to help states work with their State Officers to develop appropriate state-specific outcomes and metrics?
 A: States should discuss their ideas for outcomes early in the planning process and include these outcomes in the Advance Planning Document (APD). State-specific outcomes should be specific to the state’s IT investment and should help the state demonstrate progress toward meeting its goals. Resources to help states are available on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the MES Certification Repository on GitHub.
