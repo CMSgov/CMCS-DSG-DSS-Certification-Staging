@@ -87,7 +87,7 @@ The following tables include guidance on filling out the Metric Definition tab i
 
 ## State-Specific Outcomes - CMS Approved
 
-SStates requesting enhanced FFP for systems that fulfill _state-specific program needs_, beyond minimum legal requirements and the baseline of the _CMS-required outcomes_, should propose _state-specific outcomes_ that address the proposed enhancements.
+States requesting enhanced FFP for systems that fulfill _state-specific program needs_, beyond minimum legal requirements and the baseline of the _CMS-required outcomes_, should propose _state-specific outcomes_ that address the proposed enhancements.
 
 When drafting state-specific outcomes statements, keep [these tips]({{ site.baseurl }}/writing-outcome-statements) in mind.
 
