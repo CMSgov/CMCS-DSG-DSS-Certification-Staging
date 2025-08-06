@@ -27,7 +27,7 @@ Click here to download the CMS-required outcomes in the Intake Form (ADD LINK)
 
 The following tables include guidance on filling out the Metric Definition tab in the Operational Report Workbook (ORW). Note: “Frequency” refers to the capture of the metric data while “cadence” addresses the timing of report submission to CMS.
 
-### Claim Association {#association}
+### Association of EVV record to claim/encounter {#association}
 
 | Metric Element | Description |
 | -------------- | ----------- |
@@ -41,7 +41,7 @@ The following tables include guidance on filling out the Metric Definition tab i
 | **Definitions** | HHCS – home health care service<br/>PCS – personal care service<br/>Complete EVV record: all required data elements are captured in the record. According to the 21st Century Cures Act, these are  <br/>1) the type of service performed <br/>2) the individual receiving the service<br/>3) the date of the service<br/>4) the location of service delivery<br/>5) the individual providing the service<br/>6) the time the service begins and ends |
 | **Additional Guidance** | Claims and encounters counted in this calculation are those that are non-duplicative and were paid during the quarter.<br/>This metric does not stipulate how a state chooses to associate an EVV record with its corresponding claim or encounter. This metric is reported for the previous quarter, which allows the state to account for a complete quarter of data. For example, the first quarter’s results are reported in the second quarter. |
 
-### Record Matching {#match}
+### EVV record match against approved services, providers, and units {#match}
 
 | Metric Element | Description |
 | -------------- | ----------- |
@@ -55,7 +55,7 @@ The following tables include guidance on filling out the Metric Definition tab i
 | **Definitions** | The SMA should be checking claims and encounters against the associated EVV record to ensure that:  <br/>1)	the provider shown in the EVV record is associated with the beneficiary and matches the one in the claim/encounter submission<br/>2)	the procedure codes match those in the EVV record and were approved for the beneficiary<br/>3)	the number of units charged did not exceed the beneficiary’s total number of approved units<br/>Service codes for which the beneficiary, provider, service, or number of units do not match what is appropriate under the relevant authorities should not be paid. |
 | **Additional Guidance** | Claims/encounter procedure codes counted in this calculation are those that are non-duplicative and were paid during the quarter.<br/>This metric applies to all home visit-related authorities. Authorization could be in the form of a physician’s order, prior authorization, service plan, or other forms of approval under relevant authorities. This metric is reported for the previous quarter, which allows the state to account for a complete quarter of data. For example, the second quarter’s results are reported in the third quarter. |
 
-### Manual Edits {#edits}
+### EVV records without manual edits {#edits}
 
 | Metric Element | Description |
 | -------------- | ----------- |
@@ -69,7 +69,7 @@ The following tables include guidance on filling out the Metric Definition tab i
 | **Definitions** | A state-run EVV system is one that the state operates, either itself or through a contract with a vendor. |
 | **Additional Guidance** | EVV records counted in this calculation are those that are non-duplicative and were received during the quarter.<br/>This metric is reported for the previous quarter. Therefore, the first quarter’s results are reported during the second quarter. This allows the state to account for a complete quarter’s worth of data.<br/><br/>Some states’ EVV solutions aggregate data from providers’ or MCO EVV systems. Some such states may have stipulated that those records need to include information as to whether the original EVV record was manually edited. Other states may not have made this a requirement of their providers or MCOs. Those states that aggregate data and can report against this KPI should report against this KPI. |
 
-### System Availability {#availability}
+### EVV System Availability {#availability}
 
 | Metric Element | Description |
 | -------------- | ----------- |
