@@ -32,29 +32,20 @@ Note that meeting the above entry criteria for ORR only clears the way for sched
 
 For the ORR, the following steps are completed:
 1. The state finalizes the state columns of the Intake Form.
-    - The state must use the exact filename(s), which was loaded in CMS Box when populating the Intake Form evidence columns.
-2. Preferably earlier but no later than two weeks before the ORR, the state uploads all evidence, required artifacts, the Intake Form, Operational Report Workbook, the ORR agenda, and the presentation the state will use for the ORR in CMS Box certification folder.
-    - No files uploaded to CMS Box should be redacted, this includes but is not limited to security risk assessments, penetration tests, screen prints, or reports that include PHI/PII.
+    - The state must use the exact filename(s) which was loaded in CMS Box when populating the Intake Form evidence columns.
+2. 2.	Preferably, earlier but no later than two weeks before the ORR, the state uploads all evidence, required artifacts, the Intake Form, Operational Report Workbook, the ORR agenda, and the presentation the state will use for the ORR in the CMS Box certification folder.
+    - No files uploaded to CMS Box should be redacted, including but not limited to security risk assessments, penetration tests, screen prints, or reports that include PHI/PII.
     - The state notifies the CMS State Officer when they have completed loading all documentation (no later than 2 weeks prior to the review date).
     - The CMS Certification Team will then begin a review of the evidence and required artifacts.
-3. Approximately one week prior to the review, an Information Request Listing (IRL) will be sent to the state by the CMS Certification Team. This includes questions and feedback on the files uploaded to CMS Box. Although providing written responses to these questions before the review is encouraged, it is not mandatory. The state should be prepared to address all outstanding questions from the IRL during the ORR or CR discussions and demonstrations.
+3. Approximately one week prior to the review, an Information Request Listing (IRL) will be sent to the state by the CMS Certification Team. This includes questions and feedback on the files uploaded to the CMS Box. Although providing written responses to these questions before the review is encouraged, it is not mandatory. The state should be prepared to address all outstanding questions from the IRL during the ORR or CR discussions and demonstrations.
 4. The ORR meeting is held, and action items are documented, reviewed, and agreed to.
     - The state should try to respond to all action items as soon as possible, preferably within 24 hours.
 5. A Tear-out will be created by the CMS Certification Team including observations, recommendations, and action items. The Tear-out will be sent to the state along with an updated Intake Form (with CMS columns filled out) approximately one week after the ORR meeting.
-6. The Tear-out recommendations should be reviewed, and action taken as necessary (not required) as the state’s response will need to be reviewed during the CR. The state should continue working with its CMS State Officer to address all observations as the project goes into production and in preparation for the CR.
+6. The Tear-out recommendations should be reviewed, and action should be taken as necessary (not required), as the state’s response will need to be reviewed during the CR. The state should continue working with its CMS State Officer to address all observations as the project goes into production and in preparation for the CR.
 
 
 <center><img src="{{ site.baseurl }}/SMC Process/Development/ORR Flow.png"></center>
 
-## Best Practices
-
-### ORR Evidence 
-- For additional guidance on how to complete the Intake Form, please review the [Intake Form Guidance]({{site.baseurl}}/Intake Form/).
-- If the evidence documentation is lengthy and only one section applies to the evidence, the SMA should use the “State Comments” column of the Intake Form to identify the section/page.
-- Ensure documentation needed as evidence or required artifacts are included as tasks or milestones in the project schedule so states can properly track the completion of all documentation.  
-- It’s highly encouraged that the state utilize the Operational Report Workbook and provide the final draft at the time of the ORR with the Metrics Definitions tab completed. This also helps show that the state is prepared to report on the metrics starting after go-live.
-- The CMS Box folder structure is set up by CMS SO and they provide access as applicable. CMS SO will establish one root CMS Box certification folder for each separate module certification effort. The state (or designate) will place the files in the appropriate folders. Further guidance on how to [set up CMS Box]({{site.baseurl}}/Box/) can be found on GitHub. Some files could be duplicated across CMS Box folders. For example, the APD could be in both the Background Documentation folder and the CEF folder.
-- All critical and possibly high-severity defects should be resolved prior to go-live (the state should be clear on requirements in their Master Test Plan).
 
 ### Review Preparation
 - States are highly encouraged to utilize the sample agenda provided by the CMS Certification Team, see the example below.
