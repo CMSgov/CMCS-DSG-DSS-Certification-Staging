@@ -28,6 +28,7 @@ Click here to download the CMS-required outcomes in the Intake Form (ADD LINK)
 The following tables include guidance on filling out the Metric Definition tab in the Operational Report Workbook (ORW). Note: “Frequency” refers to the capture of the metric data while “cadence” addresses the timing of report submission to CMS.
 
 ### Claim Association {#association}
+
 | Metric Element | Description |
 | -------------- | ----------- |
 | **Name** | Association of EVV record to claim/encounter |
@@ -41,6 +42,7 @@ The following tables include guidance on filling out the Metric Definition tab i
 | **Additional Guidance** | Claims and encounters counted in this calculation are those that are non-duplicative and were paid during the quarter.<br/>This metric does not stipulate how a state chooses to associate an EVV record with its corresponding claim or encounter. This metric is reported for the previous quarter, which allows the state to account for a complete quarter of data. For example, the first quarter’s results are reported in the second quarter. |
 
 ### Record Matching {#match}
+
 | Metric Element | Description |
 | -------------- | ----------- |
 | **Name** | EVV record match against approved services, providers, and units |
@@ -54,6 +56,7 @@ The following tables include guidance on filling out the Metric Definition tab i
 | **Additional Guidance** | Claims/encounter procedure codes counted in this calculation are those that are non-duplicative and were paid during the quarter.<br/>This metric applies to all home visit-related authorities. Authorization could be in the form of a physician’s order, prior authorization, service plan, or other forms of approval under relevant authorities. This metric is reported for the previous quarter, which allows the state to account for a complete quarter of data. For example, the second quarter’s results are reported in the third quarter. |
 
 ### Manual Edits {#edits}
+
 | Metric Element | Description |
 | -------------- | ----------- |
 | **Name** | EVV records without manual edits |
@@ -67,6 +70,7 @@ The following tables include guidance on filling out the Metric Definition tab i
 | **Additional Guidance** | EVV records counted in this calculation are those that are non-duplicative and were received during the quarter.<br/>This metric is reported for the previous quarter. Therefore, the first quarter’s results are reported during the second quarter. This allows the state to account for a complete quarter’s worth of data.<br/><br/>Some states’ EVV solutions aggregate data from providers’ or MCO EVV systems. Some such states may have stipulated that those records need to include information as to whether the original EVV record was manually edited. Other states may not have made this a requirement of their providers or MCOs. Those states that aggregate data and can report against this KPI should report against this KPI. |
 
 ### High Availability {#availability}
+
 | Metric Element | Description |
 | -------------- | ----------- |
 | **Name** | EVV System Availability |
