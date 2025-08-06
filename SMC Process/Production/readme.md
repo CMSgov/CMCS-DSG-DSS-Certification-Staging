@@ -40,7 +40,7 @@ Note that meeting the above entry criteria for CR only clears the way for schedu
 
 For the CR, the following steps are completed:
 1.	The state finalizes the state columns of the Intake Form.
-    - The state must use the exact filename(s) which was loaded in CMS Box when populating the Intake Form evidence columns.
+    - The state must use the exact filename(s) loaded in CMS Box when populating the Intake Form evidence columns.
 2.	Preferably, earlier but no later than two weeks before the CR, the state saves all evidence, required artifacts, the Intake Form, metrics (via Operational Report Workbook), the CR agenda, 
     - No files uploaded to CMS Box should be redacted, including but not limited to security risk assessments, penetration tests, screen prints, or reports that include PHI/PII.
     - The state notifies the CMS State Officer when they have completed loading all documentation (no later than 2 weeks prior to the review date).
