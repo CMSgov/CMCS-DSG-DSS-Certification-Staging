@@ -29,7 +29,7 @@ The following tables include guidance on filling out the Metric Definition tab i
 | Metric Element | Description |
 | -------------- | ----------- |
 | **Name** | Association of EVV record to claim/encounter |
-| **Outcome Reference #** | EVV01 /| EVV02 /| EVV03 /| EVV04 /| EVV05 /| EVV06 |
+| **Outcome Reference #** | EVV01 \| EVV02 \| EVV03 \| EVV04 \| EVV05 \| EVV06 |
 | **Description** | To ensure that claims and encounters are not being paid for unverified visits. |
 | **Value Type** | Percent |
 | **Numerator** | Number of paid claims and encounters that have complete EVV visit records associated with them |
