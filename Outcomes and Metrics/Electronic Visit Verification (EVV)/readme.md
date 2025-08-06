@@ -69,7 +69,7 @@ The following tables include guidance on filling out the Metric Definition tab i
 | **Definitions** | A state-run EVV system is one that the state operates, either itself or through a contract with a vendor. |
 | **Additional Guidance** | EVV records counted in this calculation are those that are non-duplicative and were received during the quarter.<br/>This metric is reported for the previous quarter. Therefore, the first quarter’s results are reported during the second quarter. This allows the state to account for a complete quarter’s worth of data.<br/><br/>Some states’ EVV solutions aggregate data from providers’ or MCO EVV systems. Some such states may have stipulated that those records need to include information as to whether the original EVV record was manually edited. Other states may not have made this a requirement of their providers or MCOs. Those states that aggregate data and can report against this KPI should report against this KPI. |
 
-### High Availability {#availability}
+### System Availability {#availability}
 
 | Metric Element | Description |
 | -------------- | ----------- |
