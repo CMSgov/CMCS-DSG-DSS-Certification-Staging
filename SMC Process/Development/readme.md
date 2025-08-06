@@ -32,7 +32,7 @@ Note that meeting the above entry criteria for ORR only clears the way for sched
 
 For the ORR, the following steps are completed:
 1. The state finalizes the state columns of the Intake Form.
-    - The state must use the exact filename(s) which was loaded in CMS Box when populating the Intake Form evidence columns.
+    - The state must use the exact filename(s) loaded in CMS Box when populating the Intake Form evidence columns.
 2. Preferably, earlier but no later than two weeks before the ORR, the state uploads all evidence, required artifacts, the Intake Form, Operational Report Workbook, the ORR agenda, and the presentation the state will use for the ORR in the CMS Box certification folder.
     - No files uploaded to CMS Box should be redacted, including but not limited to security risk assessments, penetration tests, screen prints, or reports that include PHI/PII.
     - The state notifies the CMS State Officer when they have completed loading all documentation (no later than 2 weeks prior to the review date).
