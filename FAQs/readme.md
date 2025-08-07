@@ -203,7 +203,7 @@ If the state is going through certification, it can submit all metric data captu
 States will submit monthly operational reports using the Operational Report Workbook and upload the file to the appropriate metrics file location in the CMS designated repository. Additionally, every OAPD submission should include an attestation specifying the CMS repository folder location of the submitted Operational Report Workbooks. (“Frequency” refers to the capture of the metric data, while “cadence” addresses the timing of report submission to CMS.)
 
 ### Q30: Do operational reports need to be submitted using the Operational Report Workbook (ORW) template?
-A: Yes, CMS requires its use to ensure states capture all relevant details about their metrics in a format that can be included in the database. If state-submitted data does not align with the database, states will be asked to resubmit their data or risk failing compliance with required operational reporting.
+A: Yes, CMS requires states use the ORW to ensure they capture all relevant details about their metrics in a format that can be included in the database. If state-submitted data does not align with the database, states will be asked to resubmit their data or risk failing compliance with required operational reporting.
 
 Please reach out to your State Officer to get the template.
 
