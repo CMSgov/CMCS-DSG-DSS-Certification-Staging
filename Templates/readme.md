@@ -1,6 +1,6 @@
 # Templates
 
-The [State Health Official Letter (SHO) #25-003](https://www.medicaid.gov/federal-policy-guidance/downloads/sho25003.pdf), released on August 6, 2025 clarifies previous guidance for state reporting on MES projects and will support certification of all systems through the SMC framework. To achieve these goals, CMS developed new templates which will be published after Paperwork Reduction Act (PRA) review. Please reach out to your State Officer to get any templates.
+The [State Health Official Letter (SHO) #25-003](https://www.medicaid.gov/federal-policy-guidance/downloads/sho25003.pdf), released on August 6, 2025 clarifies previous guidance for state reporting on MES projects and will support certification of systems through the SMC framework. To achieve these goals, CMS developed new templates which will be published after Paperwork Reduction Act (PRA) review. Please reach out to your State Officer to get any templates.
 
 ## Required
 - Intake Form- Used to track information about a state’s single Medicaid Enterprise Systems (MES) project undergoing certification
