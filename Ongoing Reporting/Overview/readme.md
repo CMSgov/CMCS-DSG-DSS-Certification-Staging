@@ -22,7 +22,7 @@ States may need to update outcomes and metrics due to lessons learned, changing 
 
 ### Step 1: Create the Operational Report
 
-States are required to use the [Operational Report Workbook (ORW) template](../../Operational%20Report%20Workbook.xlsx) to submit their operational metrics by module. The Excel template includes three tabs: the first contains general instructions completing it, followed by two tabs for data entry, titled “Metric Definitions” and “Metric Values.” Additional instructions for the ORW are located on the MES Certification Repository.   
+States are required to use the Operational Report Workbook (ORW) template (please reach out to your State Officer to get the template) to submit their operational metrics by module. The Excel template includes three tabs: the first contains general instructions completing it, followed by two tabs for data entry, titled “Metric Definitions” and “Metric Values.” Additional instructions for the ORW are located on the MES Certification Repository.   
 
 For the state-submitted metrics data to be successfully processed, the state needs to fill in and correctly format the required data fields. Refer to the [Operational Report Workbook Validation Rules]({{site.baseurl}}/Ongoing%20Reporting/Rules%20and%20Guidelines/), for the list of required data and data entry rules.  
 
@@ -55,7 +55,7 @@ For example, if Wyoming originally submitted its EVV data file on September 1, 2
 - [SMC Guidance](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html)
 - [CMS Box](https://cmsbox.account.box.com/login)
 - [Metrics FAQs]({{site.baseurl}}/FAQs/)
-- [Operational Report Workbook](../../Operational%20Report%20Workbook.xlsx)
+- Operational Report Workbook (Please reach out to your State Officer to get the template.)
 
 ## References
 
