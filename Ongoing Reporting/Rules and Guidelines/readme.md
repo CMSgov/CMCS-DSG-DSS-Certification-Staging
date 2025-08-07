@@ -14,7 +14,7 @@ The following rules, recommendations, and notes are intended to help the state f
 
 1. Follow guidance for file naming conventions: Operational_Workbook_[2-letter state abbreviation]_[module abbreviation]_YYYY-MM-DD. 
 2. Do not cross out text. For example: 
-3. Text that is struck out, "Amount of recovered dollars saved from claims with TPL. reimbursements." 
+3. Text that is struck out, "Amount of recovered dollars saved from claims with TPL.~~ reimbursements.~~" 
     - Is read as, “Amount of recovered dollars saved from claims with TPL. reimbursements." 
     - If the state wants to resubmit data, the state should update the filename with the new submission date (the previous data will be overwritten).   
 4. Highlighting or font customization will not be captured or retained. 
