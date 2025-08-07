@@ -205,6 +205,8 @@ States will submit monthly operational reports using the Operational Report Work
 ### Q30: Do operational reports need to be submitted using the Operational Report Workbook (ORW) template?
 A: Yes, CMS requires its use to ensure states capture all relevant details about their metrics in a format that can be included in the database. If state-submitted data does not align with the database, states will be asked to resubmit their data or risk failing compliance with required operational reporting.
 
+Please reach out to your State Officer to get the template.
+
 ***
 
 ## Metrics {#metrics}
