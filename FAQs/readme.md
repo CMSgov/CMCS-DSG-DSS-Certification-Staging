@@ -159,7 +159,7 @@ A: The states and CMS use the Intake Form to track what a state seeks to achieve
 
 Given that states must include state-specific outcomes and metrics in their APDs, it is important that the Intake Form matches what is listed in the APD. When a state approaches ORR and CR, it will need to meet with CMS to finalize and approve the specific evidence it will provide as part of the certification process.
 
-The Intake Form template is available in the MES Certification Repository as well as on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html). 
+Please reach out to your State Officer to get the template.
 
 ### Q23: When should a state fill out the Intake Form?
 A: States should start filling out the Intake Form once the outcomes and metrics in the APD have been approved. If a state did not complete the Intake Form as part of the APD approval and the project is nearing ORR, CMS will work with the state to complete the Intake Form with outcomes and metrics selected by the state.
@@ -191,7 +191,7 @@ These operational reports should be submitted annually in support of the Operati
 ### Q28: What is the monthly project status report? Which states must start submitting these reports?
 A: The monthly project status report is required during the Development phase or DDI (i.e. after the Implementation APD is approved leading up to the CR). This report is required as part of ORR and CR evidence. The monthly project status report apprises CMS of the project’s progress toward achieving the CEF and desired program outcomes.
 
-The monthly project status report includes information and updates on progress tracking, the testing framework, test results, and the defect and risk list. An example format is available in the MES Certification Repository on GitHub. The monthly project status report should be submitted to the state’s CMS State Officer via the applicable folder on CMS Box.
+The monthly project status report includes information and updates on progress tracking, the testing framework, test results, and the defect and risk list. Please reach out to your State Officer to get the template. The monthly project status report should be submitted to the state’s CMS State Officer via the applicable folder on CMS Box.
 
 ### Q29: What are operational reports, and what are states’ obligations for submitting them?
 A: To effectively demonstrate ongoing, successful system operations, states must submit operational reports containing metric data to CMS. The state’s operational reports must contain the metrics noted in their APD. The metrics captured in the operational reports document that the system is meeting the state’s planned outcomes and are evidence that the module meets all applicable requirements to demonstrate ongoing, successful system operations for the state’s claimed federal matching funds.
