@@ -12,7 +12,7 @@ Your CMS State Officer will establish a single Box folder for each individual mo
 - Evidence* – should contain the Intake Form and two subfolders:
     - CEF – should contain the evidence listed in the Intake Form for applicable Conditions for Enhanced Funding. There is no need for additional sub-folders.
     - Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by outcome.
-- Metrics – should contain the definitions of the metrics for ORR. CMS highly encourages states to use the [Operational Report Workbook Template](../Operational%20Report%20Workbook.xlsx).
+- Metrics – should contain the definitions of the metrics for ORR. CMS requires states to use the Operational Report Workbook Template. (Please reach out to your State Officer to get the template.)
 - Presentation – should contain the presentation for the day of the review and any other meeting documentation.
 - Required Artifacts – should contain the applicable Required Artifacts listed in Appendix C of the [Streamlined Modular Certification for Medicaid Enterprise Systems Certification Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf). This will also contain any files applicable to the entry criteria.
 
@@ -20,7 +20,7 @@ Your CMS State Officer will establish a single Box folder for each individual mo
 - Evidence* – should contain the Intake Form and two subfolders:
 	- CEF – should contain the evidence listed in the Intake Form for applicable Conditions for Enhanced Funding. There is no need for additional sub-folders.
 	- Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by the outcome.
-- Metrics – should contain the monthly metrics data reports required for CR. CMS highly encourages states to use the [Operational Report Workbook Template](../Operational%20Report%20Workbook.xlsx). Note: once the state is certified, they will need to load the final metrics to the applicable metric folder on CMS Box.
+- Metrics – should contain the monthly metrics data reports required for CR. CMS requires states to use the Operational Report Workbook Template. (Please reach out to your State Officer to get the template.) Note: once the state is certified, they will need to load the final metrics to the applicable metric folder on CMS Box.
 - Presentation – should contain the presentation for the day of the review and any other meeting documentation.
 - Required Artifacts – should contain the applicable Required Artifacts listed in Appendix C of the [Streamlined Modular Certification for Medicaid Enterprise Systems Certification Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf). This will also contain any files applicable to the entry criteria.
 
@@ -31,7 +31,7 @@ Your CMS State Officer will establish a single Box folder for each individual mo
 
 ## Operational Reporting Box Configuration
 
-Box folders are already established for each state’s ongoing operational reports. Refer to Example 2 below. States must submit operational reports to CMS containing metrics in support of a state’s annual Operational Advanced Planning Document (OAPD) request for an MES module or solution. CMS may determine states must report some metrics more frequently.  CMS highly encourages states to use the Operational Report Workbook template.
+Box folders are already established for each state’s ongoing operational reports. Refer to Example 2 below. States must submit operational reports to CMS containing metrics in support of a state’s annual Operational Advanced Planning Document (OAPD) request for an MES module or solution. CMS may determine states must report some metrics more frequently.  CMS requires states to use the Operational Report Workbook template.
 - Every state has a folder with the state’s abbreviation, followed by “– Metrics”. 
 - The state should upload all metric-related files in “1. State Submission” folder, and not in an “Archived” folder. 
 - If the state is going through certification, it can upload all metric data captured since go-live once certification is complete.
@@ -71,7 +71,7 @@ Answer: The state may either include the exact filename (if a single document) o
 #### Question: Is there a file size limit for file uploads?
 Answer: There is a 150 GB size limit on uploads. In the situation where your file is above the file size limit, we recommend you create a ZIP file. A ZIP is a common file format that’s used to compress one or more files together into a single location. This reduces file size and makes it easier to transport or store. 
 
-#### Question: Is there a preferred naming convention for file and folder names? 
+#### Question: Is there a preferred naming convention for certifiction file and folder names? 
 Answer: The most important practice to follow when naming files is to be consistent with your filename conventions for each module certification. Consider including the following elements in your filename:
 - State abbreviation (using the USPS code)
 - Module (refer to the Module Abbreviation table below)
@@ -81,7 +81,7 @@ Answer: The most important practice to follow when naming files is to be consist
 	- “AK_PBM_CEF1” for Alaska PBM CEF outcome 1
 	- “DE _EE12” for Delaware E&E CMS-required outcome EE12
 
-#### Question: How should I differentiate the file name of a newer version of a file to avoid duplications or confusion?
+#### Question: How should I differentiate the certification file name of a newer version of a file to avoid duplications or confusion?
 Answer: You may differentiate the file name of a new version of a file by including at the end of the filename either the upload date of the file (example 1) or file version (example 2).
 - Example 1: “AK_PBM_CEF1_06032023” 
 - Example 2: “AK_PBM_CEF1_v2”
@@ -94,27 +94,4 @@ The file path is noted here:
 
 
 #### Question: What module abbreviations should I use?
-Answer: Please use the module abbreviations referenced in Appendix B of the <a href="../MES%20Data%20Submissions%20and%20Intake%20Procedures%20Manual_2.0.pdf" title="MES Data Submissions and Intake Procedures Manual" download>MES Data Submissions and Intake Procedures Manual</a>, copied in the table below.
-
-## Module Abbreviations
-Adapted from Appendix B of the <a href="../MES%20Data%20Submissions%20and%20Intake%20Procedures%20Manual_2.0.pdf" title="MES Data Submissions and Intake Procedures Manual" download>MES Data Submissions and Intake Procedures Manual</a>.
-
-| Module Abbreviation | Module Description |
-| ------------------- | ------------------ |
-| CM | Case Management |
-| CP | Claims Processing |
-| DW/DS | Data Warehouse/Decision Support Systems |
-| EE | Eligibility and Enrollment |
-| EPS | Encounter Processing System |
-| EVV | Electronic Visit Verification |
-| FI | Fiscal Intermediary |
-| FM | Financial Management |
-| HIE | Health Information Exchange |
-| LTSS | Long-Term Services and Support |
-| MM | Member Management |
-| Multi | Mulitple modules within one file |
-| PBM | Pharmacy Benefits Manager |
-| PDMP | Prescription Drug Monitoring Program |
-| PI | Program Integrity |
-| PM | Provider Management |
-| TPL | Third-Party Liability |
+Answer: Please use the module abbreviations listed in the table on the [Modules Abbreviations Page]({{site.baseurl}}/Ongoing Reporting/Module Abbreviations/).

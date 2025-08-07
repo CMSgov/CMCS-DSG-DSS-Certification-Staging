@@ -42,8 +42,13 @@ toc:
       - title: Program Integrity (PI)
       - title: Provider Management (PM)
       - title: Third Party Liability (TPL)
-  - title: Metrics and Ongoing Reporting
-    link: /Ongoing Reporting/
+  - section: Metrics and Ongoing Reporting
+    subdir: Ongoing Reporting
+    items:
+      - title: Overview
+      - title: State Abbreviations
+      - title: Module Abbreviations
+      - title: Rules and Guidelines
   - title: Using Box
     link: /Box/
   - title: Frequently Asked Questions

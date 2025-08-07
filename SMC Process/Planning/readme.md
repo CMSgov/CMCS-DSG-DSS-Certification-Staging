@@ -7,14 +7,14 @@ CMS-Required Outcomes are based on statutory, regulatory, and policy requirement
 
 The state-specific outcomes are what a state hopes to realize with the proposed Medicaid Enterprise Systems (MES) project which not only serves as justification for the investment but also serves as a way to measure whether or not a project was a success. State-specific outcomes should target specific problems and derive Medicaid benefits. Refer to [writing a good outcome statement]({{site.baseurl}}/writing-outcome-statements) for additional information. 
 
-Metrics should be defined within the APD and used for continuous monitoring throughout the maintenance & operation of the system. Metrics provide evidence about whether the intended outcomes are achieved through the delivery of a new module or enhancement to an existing module. Metrics reporting enhances transparency and accountability of IT solutions to help ensure the MES and its modules are meeting statutory and regulatory requirements, as well as the state’s program goals. Refer to [metrics and ongoing reporting]({{site.baseurl}}/Ongoing Reporting/) for additional information. 
+Metrics should be defined within the APD and used for continuous monitoring throughout the maintenance & operation of the system. Metrics provide evidence about whether the intended outcomes are achieved through the delivery of a new module or enhancement to an existing module. Metrics reporting enhances transparency and accountability of IT solutions to help ensure the MES and its modules are meeting statutory and regulatory requirements, as well as the state’s program goals. Refer to [metrics and ongoing reporting]({{site.baseurl}}/Ongoing Reporting/Overview/) for additional information. 
 
 To illustrate a state-specific outcome and metric, consider the following hypothetical example:
 
 <center><img src="{{ site.baseurl }}/SMC Process/Planning/State Example.png"></center>
 
 ## Procurement Planning 
-After the APD is approved and prior to releasing an RFP, the state should copy the CMS-required outcomes, state-specific outcomes, and metrics from the APD to the [Streamlined Modular Certification Intake Form Template](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-intake-form.xlsx). Once this is drafted, it should be discussed with their CMS State Officer and a preliminary list of evidence for both Operational Readiness Review (ORR) and Certification Review (CR) should be added for the Conditions for Enhanced Funding (CEF) and Outcome and Metrics tabs. Those CEFs and outcomes determined as not applicable should include the reason why it is not applicable to this module’s certification. The drafted Intake Form will then be used throughout the IT investment lifecycle and updated as needed. Refer to the [Intake Form guidance]({{site.baseurl}}/Intake Form/) for filling out the Intake Form.
+After the APD is approved and prior to releasing an RFP, the state should copy the CMS-required outcomes, state-specific outcomes, and metrics from the APD to the Streamlined Modular Certification Intake Form Template. (Please reach out to your State Officer to get the template.) Once this is drafted, it should be discussed with their CMS State Officer and a preliminary list of evidence for both Operational Readiness Review (ORR) and Certification Review (CR) should be added for the Conditions for Enhanced Funding (CEF) and Outcome and Metrics tabs. Those CEFs and outcomes determined as not applicable should include the reason why it is not applicable to this module’s certification. The drafted Intake Form will then be used throughout the IT investment lifecycle and updated as needed. Refer to the [Intake Form guidance]({{site.baseurl}}/Intake Form/) for filling out the Intake Form.
 
 ## Best Practices
 
@@ -59,8 +59,8 @@ The state should know when the following are scheduled for completion and are ei
 -	[Code of Federal Regulations](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433)
 -	MES module outcomes (by business area)
 -	[Writing a good outcome statement]({{site.baseurl}}/writing-outcome-statements)
--	[Streamlined Modular Certification Intake Form template](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-intake-form.xlsx)
--	[Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/) (includes Metrics Procedures Manual and FAQs under the Resources section) 
+-	Streamlined Modular Certification Intake Form template (Please reach out to your State Officer to get the template.)
+-	[Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/Overview/) (includes FAQs under the Resources section) 
 -	[CEF Example Evidence, Tips, and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/)
 -	[Intake Form Guidance]({{site.baseurl}}/Intake Form/)
 
