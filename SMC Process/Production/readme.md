@@ -5,7 +5,7 @@ Once a system is in production, states should be able to regularly and consisten
 ## Operational Reporting
 In accordance with 42 CFR 433.112(b)(15), states are required to report on the system’s performance to CMS as a condition for receiving enhanced funding. Reporting metrics enhance transparency and accountability of IT solutions in meeting regulatory requirements and the state’s program goals.
 
-In preparation for the CR, the state should submit metrics in the appropriate CMS Box certification folder, utilizing the Operational Report Workbook. To be certified, states must submit at least six months of metrics data or data back to their requested retroactive certification date, whichever is greater.
+In preparation for the CR, the state should submit metrics in the appropriate CMS Box certification folder, utilizing the Operational Report Workbook (ORW). To be certified, states must submit at least six months of metrics data or data back to their requested retroactive certification date, whichever is greater.
 
 After the CR, states must submit operational reports containing metrics in the appropriate CMS Box metrics folder. For all modules, the state must provide a monthly breakdown of metric data within its ORW, as applicable. A state must submit the ORW for all modules with its Operational Advanced Planning Documents (OAPD) submission. The ORWs of EVV modules must be submitted quarterly at minimum (broken down by month), with monthly reporting recommended for timely updates.
 
