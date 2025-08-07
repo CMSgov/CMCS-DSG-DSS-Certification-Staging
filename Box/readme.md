@@ -31,7 +31,7 @@ Your CMS State Officer will establish a single Box folder for each individual mo
 
 ## Operational Reporting Box Configuration
 
-Box folders are already established for each state’s ongoing operational reports. Refer to Example 2 below. States must submit operational reports to CMS containing metrics in support of a state’s annual Operational Advanced Planning Document (OAPD) request for an MES module or solution. CMS may determine states must report some metrics more frequently.  CMS highly encourages states to use the Operational Report Workbook template.
+Box folders are already established for each state’s ongoing operational reports. Refer to Example 2 below. States must submit operational reports to CMS containing metrics in support of a state’s annual Operational Advanced Planning Document (OAPD) request for an MES module or solution. CMS may determine states must report some metrics more frequently.  CMS requires states to use the Operational Report Workbook template.
 - Every state has a folder with the state’s abbreviation, followed by “– Metrics”. 
 - The state should upload all metric-related files in “1. State Submission” folder, and not in an “Archived” folder. 
 - If the state is going through certification, it can upload all metric data captured since go-live once certification is complete.
@@ -71,7 +71,7 @@ Answer: The state may either include the exact filename (if a single document) o
 #### Question: Is there a file size limit for file uploads?
 Answer: There is a 150 GB size limit on uploads. In the situation where your file is above the file size limit, we recommend you create a ZIP file. A ZIP is a common file format that’s used to compress one or more files together into a single location. This reduces file size and makes it easier to transport or store. 
 
-#### Question: Is there a preferred naming convention for file and folder names? 
+#### Question: Is there a preferred naming convention for certifiction file and folder names? 
 Answer: The most important practice to follow when naming files is to be consistent with your filename conventions for each module certification. Consider including the following elements in your filename:
 - State abbreviation (using the USPS code)
 - Module (refer to the Module Abbreviation table below)
@@ -81,7 +81,7 @@ Answer: The most important practice to follow when naming files is to be consist
 	- “AK_PBM_CEF1” for Alaska PBM CEF outcome 1
 	- “DE _EE12” for Delaware E&E CMS-required outcome EE12
 
-#### Question: How should I differentiate the file name of a newer version of a file to avoid duplications or confusion?
+#### Question: How should I differentiate the certification file name of a newer version of a file to avoid duplications or confusion?
 Answer: You may differentiate the file name of a new version of a file by including at the end of the filename either the upload date of the file (example 1) or file version (example 2).
 - Example 1: “AK_PBM_CEF1_06032023” 
 - Example 2: “AK_PBM_CEF1_v2”
