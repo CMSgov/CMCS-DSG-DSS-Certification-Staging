@@ -200,7 +200,7 @@ Before the CR, the state should populate the Operational Reporting Workbook (ORW
 
 If the state is going through certification, it can submit all metric data captured since go-live once certification is complete using the ORW to its CMS Box metric folder.
 
-These operational reports should be submitted according to a cadence determined by CMS, whether monthly, quarterly, or, at a minimum, annually, in support of the OAPD request. States should coordinate with their CMS State Officer to determine which modules and metrics need more frequent reporting and the required submission cadence. (“Frequency” refers to the capture of the metric data, while “cadence” addresses the timing of report submission to CMS.)
+States will submit monthly operational reports using the Operational Report Workbook and upload the file to the appropriate metrics file location in the CMS designated repository. Additionally, every OAPD submission should include an attestation specifying the CMS repository folder location of the submitted Operational Report Workbooks. (“Frequency” refers to the capture of the metric data, while “cadence” addresses the timing of report submission to CMS.)
 
 ### Q30: Do operational reports need to be submitted using the Operational Report Workbook (ORW) template?
 A: Yes, CMS requires its use to ensure states capture all relevant details about their metrics in a format that can be included in the database. If state-submitted data does not align with the database, states will be asked to resubmit their data or risk failing compliance with required operational reporting.
