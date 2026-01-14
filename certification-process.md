@@ -37,7 +37,7 @@ The MES Certification Repository is a space for states, CMS, and vendors to lear
 
 ### From this repository states can: 
 -	Find examples and understand CMS expectations for developing outcomes and metrics
--	Share outcomes and metrics with other states, suggest changes and provide feedback to CMS about outcomes and processes via <MES@cms.hhs.gov>
+-	Share outcomes and metrics with other states, suggest changes and provide feedback to CMS about outcomes and processes via <MES.Certification@cms.hhs.gov>
 
 ### From this repository CMS will: 
 -	Provide publicly available resources to guide states on how to write outcome statements and measure impact
@@ -46,4 +46,5 @@ The MES Certification Repository is a space for states, CMS, and vendors to lear
 
 ### From this repository vendors can: 
 -	Get direct access to the CMS-required outcomes or default metrics
--	Share suggestions on changes and provide feedback to CMS about outcomes and processes via <MES@cms.hhs.gov>
+-	Share suggestions on changes and provide feedback to CMS about outcomes and processes via <MES.Certification@cms.hhs.gov
+-	>
