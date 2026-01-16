@@ -1,13 +1,8 @@
 toc:
   - title: Home
     link: /
-  - section: SMC Process Overview
-    subdir: SMC Process
-    items:
-      - title: Overview
-      - title: Planning
-      - title: Development
-      - title: Production
+  - title: SMC Process Overview
+    link: /SMC Process
   - title: Outcomes + the Certification Process
     link: /certification-process
   - title: Writing a Good Outcome Statement
