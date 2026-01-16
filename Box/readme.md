@@ -6,7 +6,7 @@ In accordance with 42 C.F.R. §§ 433.112(b)(15) and 433.116(b), (c), and (i) an
 
 The CMS Certification Team will establish a single Box folder for each individual module or system undergoing certification contained in the **state’s root folder**. You should see your applicable state folder with “ – Certifications” at the end. All certification related files should be uploaded to the applicable Operational Readiness Review (ORR) and Certification Review (CR) folders. Refer to Example 1 and the [Modules Abbreviations page](../Ongoing Reporting/Module Abbreviations/). Sub-folders for each module certification will be created as follows:
 
-**State Abbreviation and Module Abbreviation**
+**State and Module Abbreviation**
 
 **ORR**
 - Action Items - should include the documentation needed to resolve each action item identified during the review.
