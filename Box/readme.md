@@ -9,6 +9,7 @@ The CMS Certification Team will establish a single Box folder for each individua
 **State Abbreviation and Module Abbreviation**
 
 **ORR**
+- Action Items - should include the documentation needed to resolve each action item identified during the review.
 - Evidence* – should contain the Intake Form and two subfolders:
     - CEF – should contain the evidence listed in the Intake Form for applicable Conditions for Enhanced Funding. There is no need for additional sub-folders.
     - Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by outcome.
@@ -18,6 +19,7 @@ The CMS Certification Team will establish a single Box folder for each individua
 	- Entry Criteria – should contain all files relevant to the entry criteria. These files represent a point in time and must not be modified after the entry criteria are completed. Ensure that any future file uploads are placed in the appropriate folder listed above.
 
 **CR**
+- Action Items - should include the documentation needed to resolve each action item identified during the review.
 - Evidence* – should contain the Intake Form and two subfolders:
 	- CEF – should contain the evidence listed in the Intake Form for applicable Conditions for Enhanced Funding. There is no need for additional sub-folders.
 	- Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by the outcome.
@@ -31,7 +33,7 @@ The CMS Certification Team will establish a single Box folder for each individua
 
 *Evidence filenames should include the reference number at the beginning, for example, CEF1 or TPL2.
 
-<img src="{{ site.baseurl }}/Box/Example 1.png" width="100%">
+<img src="Example 1.png">
 
 ## Operational Reporting Box Configuration
 
@@ -42,7 +44,7 @@ Box folders are already established for each state’s ongoing operational repor
 
 **Note:** Data submissions that have formatting errors or are missing information need to be corrected by the state before they can be processed.
 
-<img src="{{ site.baseurl }}/Box/Example 2.png" width="100%">
+<img src="Example 2.png">
 
 ## Benefits of Using Box
 Benefits of using Box include:
