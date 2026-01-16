@@ -13,4 +13,6 @@ The [State Health Official Letter (SHO) #25-003](https://www.medicaid.gov/federa
 - [ORR Sample Agenda](../ORR%20Sample%20Agenda.docx) - An example agenda for an Operational Readiness Review
 - [CR Sample Agenda](../CR%20Sample%20Agenda.docx) - An example agenda for a Certification Review
 
-For additional MES templates, please visit the [Templates page](https://www.medicaid.gov/medicaid/data-systems/streamlining-medicaid-enterprise-systems-templates) on Medicaid.gov.
+## Additional Resources
+- [SMC Kickoff](../SMC%20Kickoff%20Deck.pptx)
+- For additional MES templates, please visit the [Templates page](https://www.medicaid.gov/medicaid/data-systems/streamlining-medicaid-enterprise-systems-templates) on Medicaid.gov.
