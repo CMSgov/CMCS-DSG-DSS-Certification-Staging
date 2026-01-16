@@ -29,7 +29,7 @@ Prior to scheduling an **ORR**, the state must provide the following to the CMS 
 
 Prior to scheduling a **CR**, the state must provide the following to the CMS Certification Team:
 
-- Operational Reports
+1. Operational Reports
     - Latest Intake Form
         - This can be a draft but will need to be finalized and loaded to the applicable certification Box folder two weeks prior to the review. 
     - Metric data back to the requested systems approval date
@@ -37,12 +37,12 @@ Prior to scheduling a **CR**, the state must provide the following to the CMS Ce
     - The independent, third-party SAR and penetration test results conducted within the last two years from the requested CR date.
     - Most recent POA&M documenting the status of vulnerabilities (from SAR, penetration tests, vulnerability scans, and disaster recovery test results).
         - All critical vulnerabilities should be resolved prior to scheduling a CR date. However, states can request a review date with unresolved critical items if a mitigation/remediation plan is submitted and approved by CMS, using the recommended risk acceptance template, which can be found in Attachment D of the CMS Information Security Plan of Action and Milestones (POA&M) Procedure document.
-- Once the above activities have been completed, the state may submit the Certification Request Letter
+2. Once the above activities have been completed, the state may submit the Certification Request Letter
     - The letter should align with the [example template](../Templates/) posted on the MES Certification Repository.
     - The letter should include all information required for inclusion in [SMDL 22-001](https://www.medicaid.gov/federal-policy-guidance/downloads/smd22001.pdf). See the [example System Acceptance Letter](../Templates) on the MES Certification Repository.
     - Send the Certification Request Letter and applicable attachments via email to <MES.Certification@cms.hhs.gov>.
     - Since the Certification Request Letter and the System Acceptance Letter are also SMC Required Artifacts (see SMC Guidance), these documents must also be uploaded to the applicable [Box folder](../Box/) for certification.
-- The CMS Certification Team will contact the CMS T-MSIS team to get confirmation via email that the state and system being certified meet all Outcomes-Based Assessment (OBA) compliance.
+3. The CMS Certification Team will contact the CMS T-MSIS team to get confirmation via email that the state and system being certified meet all Outcomes-Based Assessment (OBA) compliance.
 
 ## Operational Readiness Review (ORR)
 
