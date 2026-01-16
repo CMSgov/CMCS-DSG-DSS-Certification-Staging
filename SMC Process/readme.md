@@ -90,3 +90,10 @@ Once a system is in production, states should be able to regularly and consisten
 - [SMC Kickoff](../SMC%20Kickoff%20Deck.pptx)
 
 ## References
+
+- [SMDL #02-005 Attachment A: An APD Guidance Document. April 4, 2002](https://www.medicaid.gov/Federal-Policy-Guidance/downloads/smd040402.pdf) (page 18)
+- [Medicaid and CHIP Frequently Asked Questions (FAQs) Advanced Planning Documents (APD) for System Development Associated with 1115 Demonstrations June 13, 2019](https://www.medicaid.gov/federal-policy-guidance/downloads/faq061319.pdf)
+- [SMD # 16-009 Mechanized Claims Processing and Information Retrieval Systems – APD Requirements June 27, 2016](https://www.medicaid.gov/federal-policy-guidance/downloads/smd16009.pdf)
+- [SHO #25-003 Streamlining Medicaid Enterprise Systems (MES) Templates to Improve Monitoring and Oversight to Ensure Fiscal Integrity](https://www.medicaid.gov/federal-policy-guidance/downloads/sho25003.pdf)
+- [Transformed Medicaid Statistical Information System (T-MSIS)](https://www.medicaid.gov/medicaid/data-systems/macbis/transformed-medicaid-statistical-information-system-t-msis/index.html)
+- [T-MSIS LSE SOP](../TMSIS%20Reporting%20Impacts%20SOP%20V1.4%20LSE%20SOP.pdf)
