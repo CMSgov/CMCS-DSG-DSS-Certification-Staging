@@ -48,11 +48,32 @@ Prior to scheduling a **CR**, the state must provide the following to the CMS Ce
 
 Following the entry criteria, below is the high-level timeline of activities that will take place during an ORR. For more details on what is required, please see the SMC Guidance. 
 
+<img src="ORR.png" width="100%">
+
 ## Certification Review (CR)
 
 Following the entry criteria, below is the high-level timeline of activities that will take place during a CR. For more details on what is required, please see the SMC Guidance. 
 
+<img src="CR.png" width="100%">
+
+Once a system is in production, states should be able to regularly and consistently provide metrics that demonstrate the system complies with applicable regulations and meets outcomes. States begin reporting on metrics after go-live and before the Certification Review. From then on, as long as the state continues to receive enhanced funding for its MES solution, metrics should be submitted to CMS monthly. The ORWs of EVV modules must be submitted quarterly at a minimum (broken down by month), with monthly reporting recommended for timely updates.
+
 ## Best Practices/Tips
+
+- The state must use the exact filename(s) loaded in CMS Box when populating the evidence columns in the intake form (do not use hyperlinks).
+- Evidence and required artifacts can be existing documentation already required by the state (typically stated in RFP as deliverables from the DDI), ultimately reducing, or eliminating the additional level of effort associated with “evidence curation” for reviews. There is no need to create a “package” or new file for evidence. However, CMS reserves the right to request updated documentation, as needed, to satisfy the needs for certification.
+- Transformed Medicaid Statistical Information System (T-MSIS)
+        - The state should confirm with the Division of Information Systems (DIS) State Liaison (CMS T-MSIS team) if the state will be required to go through the T-MSIS large system enhancement (LSE) Standard Operating Procedure (SOP). If so, the [T-MSIS LSE SOP](../TMSIS%20Reporting%20Impacts%20SOP%20V1.4%20LSE%20SOP.pdf) requires extensive artifacts and testing so the timeline should be carefully considered when considering planning for review. 
+        - Recommend getting confirmation in writing from CMS DIS State Liaison that T-MSIS LSE SOP is not applicable for the scope of this DDI.
+        - If it is applicable to the scope of the DDI, then the schedule should reflect the required artifacts and testing timelines.
+- All testing-level tasks should be included in the state’s project plan.
+- If the state is conducting an Eligibility & Enrollment (E&E) review, the state must provide the most recent Authority to Connect (ATC) to the CMS Hub approval letter in addition to the CEF evidence. 
+- Operational procedures should be documented prior to the Operational Readiness Testing so these procedures can be tested and updated prior to go-live.
+- If a state is using agile methodology or is taking a phased approach to implementation, the state and the CMS Certification Team will decide the appropriate point at which to conduct the ORR and CR. The state must map the phases to the applicable CMS-required and state-specific outcomes to help the CMS Certification Team determine when to hold the ORR and CR.
+- At the beginning of the Design, Development, and Implementation (DDI) phase, the state should develop a Master Test Plan, in consultation with the [Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf). 
+- States are encouraged to utilize the sample agendas, but can use their own template if the appropriate topics are included, see the examples on the Templates page.
+- CMS encourages states to include all appropriate programs, business operations, and subject matter experts in the reviews.
+- State may update their metrics over time but must discuss the changes with their CMS MES State Officer and submit an updated APD.
 
 ## Resources
 
