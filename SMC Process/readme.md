@@ -77,4 +77,16 @@ Once a system is in production, states should be able to regularly and consisten
 
 ## Resources
 
+- [SMDL # 22-001](https://www.medicaid.gov/federal-policy-guidance/downloads/smd22001.pdf), released on April 14, 2022
+- [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
+- [Code of Federal Regulations](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433)
+- [Writing a good outcome statement](../writing-outcome-statements.md)
+- [Templates](../Templates/)
+- [Metrics and Ongoing Reporting](../Ongoing Reporting/Overview/)
+- [CEF Example Evidence, Tips, and Best Practices](../Conditions for Enhanced Funding/CEF Tips/)
+- [Intake Form Guidance](../Intake Form/)
+- [Medicaid Enterprise Systems Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf)
+- [Using Box](../Box/)
+- [SMC Kickoff](../SMC%20Kickoff%20Deck.pptx)
+
 ## References
