@@ -47,4 +47,3 @@ The MES Certification Repository is a space for states, CMS, and vendors to lear
 ### From this repository vendors can: 
 -	Get direct access to the CMS-required outcomes or default metrics
 -	Share suggestions on changes and provide feedback to CMS about outcomes and processes via <MES.Certification@cms.hhs.gov
--	>
