@@ -33,7 +33,9 @@ The CMS Certification Team will establish a single Box folder for each individua
 
 *Evidence filenames should include the reference number at the beginning, for example, CEF1 or TPL2.
 
-<img src="Example 1.png" style="align:center">
+<p align="center">
+	<img src="Example 1.png">
+</p>
 
 ## Operational Reporting Box Configuration
 
@@ -44,7 +46,9 @@ Box folders are already established for each state’s ongoing operational repor
 
 **Note:** Data submissions that have formatting errors or are missing information need to be corrected by the state before they can be processed.
 
-<img src="Example 2.png" style="align:center">
+<p align="center">
+	<img src="Example 2.png">
+</p>
 
 ## Benefits of Using Box
 Benefits of using Box include:
