@@ -126,7 +126,10 @@ States must ensure their E&E module complies with both the ACA and HIPAA regulat
 
 States can leverage MARS-E/ARC-AMPE compliance artifacts for other modules, including but not limited to SAR, penetration test, POA&M, and BCP/DR test results, to meet the SMC security and privacy requirements. 
 
-### 7. What is the recommended timeline for addressing privacy and security during Design, Development, and Implementation (DDI) and Maintenance and Operations (M&O)? 
+### 7. How should states report their POA&M entries as part of CEF metric operational reporting?
+Answer:  States are required to report CEF metric data quarterly in their ORW. The CEF metrics documented in the ORW provide a high-level summary showing the count of Very High, High, and Any severity findings. As part of this quarterly reporting requirement, states must also upload their complete POA&M tracker, containing the specific details for each of these findings, to the appropriate CMS repository.
+
+### 8. What is the recommended timeline for addressing privacy and security during Design, Development, and Implementation (DDI) and Maintenance and Operations (M&O)? 
 Answer: CMS recommends the following timeline for addressing privacy and security: 
 - System Security Plan (SSP) – must be drafted early in the DDI because it is included in the Security Control Assessment (SCA) and maintained throughout M&O. 
 - Security Control Assessment (SCA) – must be completed before go-live, and the Security Assessment Report must be provided for ORR evidence.  Going forward, the state must complete the SCA biennially unless the state is following the Affordable Care Act (ACA) Administering Entity (AE) template.  If so, the state must complete the SCA annually. 
