@@ -67,7 +67,7 @@ The following ORW file contains the CMS-required API metrics and example state-s
  
 Note that the example ORW uses Tennessee’s state abbreviation and sample data to illustrate the format only. 
 
-Interoperability API Metrics Example ORW
+[Interoperability API Metrics Example ORW]
 
 Please note the following formatting requirements illustrated in the above files:   
 - Metrics for all types of APIs are reported in one file.  
@@ -78,10 +78,10 @@ Please note the following formatting requirements illustrated in the above files
 - The attestations included in the file are just examples. Each state will have different attestations. However, each state must attest to all 22 CEF’s and provide - justification for any conditions which are not applicable.  
 
 ## References
-- [Interoperability and Patient Access Final Rule, May 2020]
-- [Interoperability and Prior Authorization Final Rule, February 2024]
-- [CIB May 24, 2023]
-- [SHO #25-003]
-- [42 CFR 433.112]
-- [42 CFR 433.116]
-- [CMS.gov - Patient Access API Frequently Asked Questions]
+- [Interoperability and Patient Access Final Rule, May 2020](https://www.federalregister.gov/documents/2020/05/01/2020-05050/medicare-and-medicaid-programs-patient-protection-and-affordable-care-act-interoperability-and)
+- [Interoperability and Prior Authorization Final Rule, February 2024](https://www.federalregister.gov/documents/2024/02/08/2024-00895/medicare-and-medicaid-programs-patient-protection-and-affordable-care-act-advancing-interoperability)
+- [CIB May 24, 2023](https://www.medicaid.gov/federal-policy-guidance/downloads/cib052423.pdf)
+- [SHO #25-003](https://www.medicaid.gov/federal-policy-guidance/downloads/sho25003.pdf)
+- [42 CFR 433.112](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.112)
+- [42 CFR 433.116](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.116)
+- [CMS.gov - Patient Access API Frequently Asked Questions](https://www.cms.gov/priorities/burden-reduction/overview/interoperability/frequently-asked-questions/patient-access-api)
