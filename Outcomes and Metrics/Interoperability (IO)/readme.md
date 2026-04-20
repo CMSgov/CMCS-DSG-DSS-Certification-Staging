@@ -26,6 +26,7 @@ The state must submit metrics for all Interoperability APIs in a single ORW file
 Use the following Outcome Reference #’s to fill in “Outcome Reference #” field to differentiate the type of Interoperability API metrics in the ORW. Note that CMS has not defined required outcomes for interoperability APIs. These Outcome Reference #’s are provided for the sole purpose of indicating the type of Interoperability API associated with a metric.  
 
 | API Types | Outcome Reference # |
+| --------- | ------------------- |
 | Patient Access API | IO01 |
 | Provider Directory API | IO02 |
 | Prior Authorization API | IO03 |
