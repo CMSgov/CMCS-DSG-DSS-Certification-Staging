@@ -46,3 +46,42 @@ For states that are operating Patient Access API with enhanced funding, fill in 
 *Table 2. Format and Definition for CMS-Required Metrics*
 
 For example, for the State of Tennessee, the two Metric IDs would be “TN-CR-IO-01.1” and “TN-CR-IO-01.2”.  
+
+### Format State-Specific Interoperability API Metrics  
+The state may define and report metrics specific to the state API implementation. See the table below for an example where the state has defined two state-specific metrics of “First-time Use of the Patient Access API” and “Number of Active Providers Loaded in Provider Directory API”. Note that the “ST” in Metric ID field indicates it is a state-specific metric. Update the text within brackets and remove the brackets. 
+
+| Metric ID | Outcome Reference # | Metric Name | Metric Description | Value Type | Reporting Frequency |
+| --------- | ------------------- | ----------- | ------------------ | ---------- | ------------------- |
+| [StateAbbreviation]-ST-IO-01.1 | STIO01 | First Time Use of Patient Access API  | The number of unique recipients whose data are transferred via the Patient Access API to a patient designated third-party app for the first time | Numerical | Monthly |
+| [StateAbbreviation]-ST-IO-02.1 | STIO02 | Number of Active Providers Loaded in Provider Directory API | The total number of active providers loaded via the Provider Directory API | Numerical | Monthly |
+
+*Table 3. Format for State-Specific Outcomes*
+
+For example, if the State of Tennessee submitted the above two state-specific metrics, the Metric IDs would be “TN-ST-IO-01.1” and “TN-ST-IO-02.1”. 
+
+### Completing the “CMS Attestations” Tab  
+The state should select “Interoperability” as the module and provide attestations for the 22 Conditions for Funding (CEF) [outlined in 42 CFR 433.112](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.112).  
+
+### An Example ORW  
+The following ORW file contains the CMS-required API metrics and example state-specific metrics. The state may download it and use it as a template.   
+ 
+Note that the example ORW uses Tennessee’s state abbreviation and sample data to illustrate the format only. 
+
+Interoperability API Metrics Example ORW
+
+Please note the following formatting requirements illustrated in the above files:   
+- Metrics for all types of APIs are reported in one file.  
+- The two CMS-required Patient Access API metrics should use “CR” in the Metric IDs. 
+- All other API metrics have “ST” in the Metric IDs and Outcome Reference #’s to identify them as “state-specific”. 
+- The Outcome Reference #’s should be completed per Table 1 to show the type of API associated with the metric.  
+- Select “Interoperability” as the Module on the CMS Attestations tab.  
+- The attestations included in the file are just examples. Each state will have different attestations. However, each state must attest to all 22 CEF’s and provide - justification for any conditions which are not applicable.  
+
+## References
+- [Interoperability and Patient Access Final Rule, May 2020]
+- [Interoperability and Prior Authorization Final Rule, February 2024]
+- [CIB May 24, 2023]
+- [SHO #25-003]
+- [42 CFR 433.112]
+- [42 CFR 433.116]
+- [CMS.gov - Patient Access API Frequently Asked Questions]
