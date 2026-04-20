@@ -32,5 +32,6 @@ Use the following Outcome Reference #’s to fill in “Outcome Reference #” f
 | Prior Authorization API | IO03 |
 | Payer-to-Payer API | IO04 |
 | Provider Access API | IO05 |
+
 *Table 1. Outcome Reference # Values per API Types* 
 
