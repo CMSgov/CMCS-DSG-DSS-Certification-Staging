@@ -1,7 +1,7 @@
 # Submitting Interoperability API Metrics via the ORW 
 
 ## Overview   
-The Centers for Medicare & Medicaid Services (CMS) Interoperability and [Patient Access Final Rule (CMS-9115-F)](https://www.federalregister.gov/documents/2020/05/01/2020-05050/medicare-and-medicaid-programs-patient-protection-and-affordable-care-act-interoperability-and) of May 2020 and [Interoperability and Prior Authorization Final Rule (CMS-0057-F)](https://www.federalregister.gov/documents/2024/02/08/2024-00895/medicare-and-medicaid-programs-patient-protection-and-affordable-care-act-advancing-interoperability) of February 2024 required states to implement and maintain five Health Level 7® (HL7®) Fast Healthcare Interoperability Resources® (FHIR®) application programming interfaces (APIs). These APIs are as follows: 
+The Centers for Medicare & Medicaid Services (CMS) [Interoperability and Patient Access Final Rule (CMS-9115-F)](https://www.federalregister.gov/documents/2020/05/01/2020-05050/medicare-and-medicaid-programs-patient-protection-and-affordable-care-act-interoperability-and) of May 2020 and [Interoperability and Prior Authorization Final Rule (CMS-0057-F)](https://www.federalregister.gov/documents/2024/02/08/2024-00895/medicare-and-medicaid-programs-patient-protection-and-affordable-care-act-advancing-interoperability) of February 2024 required states to implement and maintain five Health Level 7® (HL7®) Fast Healthcare Interoperability Resources® (FHIR®) application programming interfaces (APIs). These APIs are as follows: 
 - Patient Access API (including Prior Authorizations enhancements)   
 - Provider Directory API 
 - Prior Authorizations API 
@@ -16,14 +16,14 @@ In addition, for states who are operating Patient Access API with enhanced fundi
 
 Note that reporting of these two metrics via the monthly ORW submissions is separate from the annual Patient Access API reporting requirement. Patient Access API metrics should continue to be reported via email to SMAEndpointDirectory@cms.hhs.gov no later than March 31 each year. 
 
-## Operational Reporting of Interoperability Metrics 
-The following provides instructions on how to submit operational reports of Interoperability Metrics. 
+## Operational Reporting of Interoperability API Metrics 
+The following provides instructions on how to submit operational reports of Interoperability API Metrics. 
 
-### Submit the Interoperability Metrics in One ORW 
+### Submit the Interoperability API Metrics in One ORW 
 The state must submit metrics for all Interoperability APIs in a single ORW file. This ORW file should contain only metrics for Interoperability APIs, not for any other modules. 
 
 ### Complete the “Outcome Reference #” Field in the ORW 
-Use the following Outcome Reference #’s to fill in “Outcome Reference #” field to differentiate the type of Interoperability API metrics in the ORW. Note that CMS has not defined required outcomes for interoperability APIs. These Outcome Reference #’s are provided for the sole purpose of indicating the type of Interoperability API associated with a metric.  
+Use the following Outcome Reference #’s to fill in “Outcome Reference #” field to differentiate the types of Interoperability API in the ORW. Note that CMS has not defined required outcomes for interoperability APIs. These Outcome Reference #’s are provided for the sole purpose of indicating the type of Interoperability API associated with a metric.  
 
 | API Types | Outcome Reference # |
 | --------- | ------------------- |
@@ -75,7 +75,7 @@ Please note the following formatting requirements illustrated in the above files
 - All other API metrics have “ST” in the Metric IDs and Outcome Reference #’s to identify them as “state-specific”. 
 - The Outcome Reference #’s should be completed per Table 1 to show the type of API associated with the metric.  
 - Select “Interoperability” as the Module on the CMS Attestations tab.  
-- The attestations included in the file are just examples. Each state will have different attestations. However, each state must attest to all 22 CEF’s and provide - justification for any conditions which are not applicable.  
+- The attestations included in the file are just examples. Each state will have different attestations. However, each state must attest to all 22 CEF’s and provide justification for any conditions which are not applicable.  
 
 ## References
 - [Interoperability and Patient Access Final Rule, May 2020](https://www.federalregister.gov/documents/2020/05/01/2020-05050/medicare-and-medicaid-programs-patient-protection-and-affordable-care-act-interoperability-and)
