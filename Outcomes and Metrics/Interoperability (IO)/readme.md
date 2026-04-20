@@ -67,7 +67,7 @@ The following ORW file contains the CMS-required API metrics and example state-s
  
 Note that the example ORW uses Tennessee’s state abbreviation and sample data to illustrate the format only. 
 
-[Interoperability API Metrics Example ORW]
+[Interoperability API Metrics Example ORW](../../Interoperability%20API%20Metrics%20Example%20ORW.xlxs)
 
 Please note the following formatting requirements illustrated in the above files:   
 - Metrics for all types of APIs are reported in one file.  
