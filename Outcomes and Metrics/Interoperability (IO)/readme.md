@@ -35,3 +35,14 @@ Use the following Outcome Reference #’s to fill in “Outcome Reference #” f
 
 *Table 1. Outcome Reference # Values per API Types* 
 
+### Format the Two Required Patient Access API Metrics 
+For states that are operating Patient Access API with enhanced funding, fill in the ORW fields according to the following table to report the two required Patient Access API metrics:
+
+| Metric ID | Outcome Reference # | Metric Name | Metric Description | Value Type | Reporting Frequency |
+| --------- | ------------------- | ----------- | ------------------ | ---------- | ------------------- |
+| [StateAbbreviation]-CR-IO-01.1 | IO01 | Usage of Patient Access API | The total number of unique beneficiaries whose data are transferred via the Patient Access API to a health app designated by the beneficiary | Numerical | Monthly |
+| [StateAbbreviation]-CR-IO-01.2 | IO01 | Usage of Patient Access API More Than Once | The total number of unique beneficiaries whose data are transferred more than once via the Patient Access API to a health app designated by the beneficiary | Numerical | Monthly |
+
+*Table 2. Format and Definition for CMS-Required Metrics*
+
+For example, for the State of Tennessee, the two Metric IDs would be “TN-CR-IO-01.1” and “TN-CR-IO-01.2”.  
