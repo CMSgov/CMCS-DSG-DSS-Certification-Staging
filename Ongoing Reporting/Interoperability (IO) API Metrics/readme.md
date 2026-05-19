@@ -60,8 +60,12 @@ In addition to the two Patient Access API metrics per 42 CFR §§ 431.60(f), the
 The following table shows an example with two state-specific metrics for Patient Access API and two for Provider Directory API. Note that these metrics illustrate the correct reporting format only and do NOT represent default metrics.  
 
 *Table 3. Format for State-Specific Outcomes*
-
-TABLE GOES HERE
+| Module | Outcome/CEF Reference # | Metric ID | Metric Name | Metric Description | Value Type | Reporting Frequency |
+| ------ | ----------------------- | --------- | ----------- | ------------------ | ---------- | ------------------- |
+| IOPAA | STIOPAA01 | *[StateAbbreviation]*-ST-IOPAA-01.1 | Example - First Time Use of Patient Access API | Example -The number of unique recipients whose data are transferred via the Patient Access API to a patient designated third-party app for the first time | Numerical | Monthly |
+| IOPAA | STIOPAA02 | *[StateAbbreviation]*-ST-IOPAA-02.1 | Example - Number of registered third-party developers | Example - Number of third-party developed registered to develop apps with the API | Numerical | Monthly |
+| IOPRD | STIOPRD01 | *[StateAbbreviation]*-ST-IOPRD-01.1 | Example - Number of Active Providers Loaded in Provider Directory API | Example - The total number of active providers loaded via the Provider Directory API | Numerical | Monthly |
+| IOPRD | STIOPRD02 | *[StateAbbreviation]*-ST-IOPRD-02.1 | Example – Number of Provider Directory API Queries | Example - Number of Provider Directory API Queries | Numerical | Monthly |
 
 Note, replace “*[StateAbbreviation]*” with the state’s abbreviation. For example, for the State of Tennessee, use “TN”. 
 
