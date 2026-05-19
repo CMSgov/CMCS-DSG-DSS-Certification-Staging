@@ -32,6 +32,7 @@ Row 1 of the “Metric Definitions” tab in the ORW template contains general i
 The state should use the following table to complete Column A, Module. For example, if reporting a metric for Patient Access API, the state should select “IOPAA” from the Module dropdown.   
  
 *Table 1. Module Abbreviations for API Types* 
+
 | API Types | Outcome Reference # |
 | --------- | ------------------- |
 | Patient Access API | IOPAA |
@@ -44,6 +45,7 @@ The state should use the following table to complete Column A, Module. For examp
 The state should report the two Patient Access API metrics mandated by 42 CFR §§ 431.60(f) using the abbreviation “IOPAA”. See the following table for how to define these two metrics in the ORW. Note that for the purpose of reporting these two metrics, the state should use “IOPAA01” as the Outcome/CEF Reference # for both metrics.    
 
 *Table 2. Format and Definition for CMS-Required Metrics*
+
 | Module | Outcome/CEF Reference # | Metric ID | Metric Name | Metric Description | Value Type | Reporting Frequency |
 | ------ | ----------------------- | --------- | ----------- | ------------------ | ---------- | ------------------- |
 | IOPAA | IOPAA01 | *[StateAbbreviation]*-CR-IOPAA-01.1 | Use of Patient Access API | The total number of unique beneficiaries whose data are transferred via the Patient Access API to a health app designated by the beneficiary | Numerical | Monthly |
@@ -60,6 +62,7 @@ In addition to the two Patient Access API metrics per 42 CFR §§ 431.60(f), the
 The following table shows an example with two state-specific metrics for Patient Access API and two for Provider Directory API. Note that these metrics illustrate the correct reporting format only and do NOT represent default metrics.  
 
 *Table 3. Format for State-Specific Outcomes*
+
 | Module | Outcome/CEF Reference # | Metric ID | Metric Name | Metric Description | Value Type | Reporting Frequency |
 | ------ | ----------------------- | --------- | ----------- | ------------------ | ---------- | ------------------- |
 | IOPAA | STIOPAA01 | *[StateAbbreviation]*-ST-IOPAA-01.1 | Example - First Time Use of Patient Access API | Example -The number of unique recipients whose data are transferred via the Patient Access API to a patient designated third-party app for the first time | Numerical | Monthly |
