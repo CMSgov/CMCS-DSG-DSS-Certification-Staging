@@ -44,8 +44,10 @@ The state should use the following table to complete Column A, Module. For examp
 The state should report the two Patient Access API metrics mandated by 42 CFR §§ 431.60(f) using the abbreviation “IOPAA”. See the following table for how to define these two metrics in the ORW. Note that for the purpose of reporting these two metrics, the state should use “IOPAA01” as the Outcome/CEF Reference # for both metrics.    
 
 *Table 2. Format and Definition for CMS-Required Metrics*
-
-TABLE GOES HERE
+| Module | Outcome/CEF Reference # | Metric ID | Metric Name | Metric Description | Value Type | Reporting Frequency |
+| ------ | ----------------------- | --------- | ----------- | ------------------ | ---------- | ------------------- |
+| IOPAA | IOPAA01 | *[StateAbbreviation]*-CR-IOPAA-01.1 | Use of Patient Access API | The total number of unique beneficiaries whose data are transferred via the Patient Access API to a health app designated by the beneficiary | Numerical | Monthly |
+| IOPAA | IOPAA01 | *[StateAbbreviation]*-CR-IOPAA-01.2 | Use of Patient Access API More Than Once | The total number of unique beneficiaries whose data are transferred more than once via the Patient Access API to a health app designated by the beneficiary | Numerical | Monthly |
 
 Note, replace “*[StateAbbreviation]*” with the state’s abbreviation. For example, for the State of Tennessee, use “TN”. 
 
