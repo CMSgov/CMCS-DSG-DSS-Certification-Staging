@@ -33,7 +33,7 @@ The state should use the following table to complete Column A, Module. For examp
  
 *Table 1. Module Abbreviations for API Types* 
 
-| API Types | Outcome Reference # |
+| API Type | Module Reference # |
 | --------- | ------------------- |
 | Patient Access API | IOPAA |
 | Provider Directory API | IOPRD |
@@ -42,7 +42,7 @@ The state should use the following table to complete Column A, Module. For examp
 | Provider Access API | IOPAC |
 
 ### Define the Two Required Patient Access API Metrics 
-The state should report the two Patient Access API metrics mandated by 42 CFR §§ 431.60(f) using the abbreviation “IOPAA”. See the following table for how to define these two metrics in the ORW. Note that for the purpose of reporting these two metrics, the state should use “IOPAA01” as the Outcome/CEF Reference # for both metrics.    
+The state should report the two Patient Access API metrics mandated by 42 CFR §§ 431.60(f) using the “IOPAA” module reference number. See the following table for how to define these two metrics in the ORW. Note that for the purpose of reporting these two metrics, the state should use “IOPAA01” as the Outcome/CEF Reference # for both metrics.    
 
 *Table 2. Format and Definition for CMS-Required Metrics*
 
@@ -65,9 +65,9 @@ The following table shows an example with two state-specific metrics for Patient
 
 | Module | Outcome/CEF Reference # | Metric ID | Metric Name | Metric Description | Value Type | Reporting Frequency |
 | ------ | ----------------------- | --------- | ----------- | ------------------ | ---------- | ------------------- |
-| IOPAA | STIOPAA01 | *[StateAbbreviation]*-ST-IOPAA-01.1 | Example - First Time Use of Patient Access API | Example -The number of unique recipients whose data are transferred via the Patient Access API to a patient designated third-party app for the first time | Numerical | Monthly |
-| IOPAA | STIOPAA02 | *[StateAbbreviation]*-ST-IOPAA-02.1 | Example - Number of registered third-party developers | Example - Number of third-party developed registered to develop apps with the API | Numerical | Monthly |
-| IOPRD | STIOPRD01 | *[StateAbbreviation]*-ST-IOPRD-01.1 | Example - Number of Active Providers Loaded in Provider Directory API | Example - The total number of active providers loaded via the Provider Directory API | Numerical | Monthly |
+| IOPAA | STIOPAA01 | *[StateAbbreviation]*-ST-IOPAA-01.1 | Example - First Time Use of Patient Access API | Example -Number of unique recipients whose data are transferred via the Patient Access API to a patient designated third-party app for the first time | Numerical | Monthly |
+| IOPAA | STIOPAA02 | *[StateAbbreviation]*-ST-IOPAA-02.1 | Example - Number of Registered Third-Party Developers | Example - Number of third-party developers registered to develop apps with the API | Numerical | Monthly |
+| IOPRD | STIOPRD01 | *[StateAbbreviation]*-ST-IOPRD-01.1 | Example - Number of Active Providers Loaded in Provider Directory API | Example - Number of active providers loaded via the Provider Directory API | Numerical | Monthly |
 | IOPRD | STIOPRD02 | *[StateAbbreviation]*-ST-IOPRD-02.1 | Example – Number of Provider Directory API Queries | Example - Number of Provider Directory API Queries | Numerical | Monthly |
 
 Note, replace “*[StateAbbreviation]*” with the state’s abbreviation. For example, for the State of Tennessee, use “TN”. 
@@ -76,7 +76,7 @@ Note, replace “*[StateAbbreviation]*” with the state’s abbreviation. For e
 The state should complete the “Metric Data” tab per the instructions in the first row of the tab. 
 
 ## An Example ORW  
-The following ORW file contains definitions for the CMS-required API metrics and sample state-specific metrics. The state may download it and use it as a template. Note that the sample state-specific metrics illustrate the correct reporting format only and do NOT represent default metrics. 
+The following ORW file contains definitions for the CMS-required API metrics and example state-specific metrics. The state may download it and use it as a template. Note that the example state-specific metrics illustrate the correct reporting format only and do NOT represent default metrics. 
 
 [Interoperability API Metrics Example ORW](../../Interoperability%20API%20Metrics%20Example%20ORW.xlsx)
 
@@ -90,17 +90,15 @@ Note the following requirements are illustrated in the ORW file linked above:
     - Select the correct Module (Column A) for the API associated with the metric (see Table 1). 
     - Use the same name from the “CMS Attestations” tab for Related System Name (Required) (Column B). 
     - Identify the Outcome/CEF Reference # (Column C) based on the Module label(s).  
-    - Format the Metric ID (Column E) using either “CR” or “ST”, according to whether the metric applies to a CMS-required (CR) outcome or a state-specific (ST) outcome and the applicable Module label.  
-        - For example, the Metric ID for the CMS-required outcome for Tennessee’s Patient Access API would be TN-CR-IOPAA-01.1. 
-        - The Metric ID for Tennessee’s state-specific outcome for its Provider Directory API would be TN-ST-IOPRD-01.1. 
+    - Format the Metric ID (Column E) using either “CR” or “ST”, according to whether the metric applies to a CMS-required (CR) outcome or a state-specific (ST) outcome and the applicable Module label.
 - Include the required CEF metrics of Open Privacy and Security Issues. (*effective 07/01/2026* per SHO #25-003)  
 - On the Metric Data tab: 
     - Include the number of open privacy and security issues for technical environments hosting the Interoperability API solutions.    
 
-## Submit ORWs Interoperability API Metrics  
+## Submit ORWs for Interoperability API Metrics  
 In submitting Interoperability API metrics, the state must:   
-- Submit the Interoperability API Metrics in a single ORW: The state should report metrics for all Interoperability API types in one ORW file. The ORW file should only contain metrics for Interoperability APIs. 
-- Submit the Interoperability API Metrics ORWs in A Designated Subfolder: All the Interoperability API metric ORW files should be uploaded to the folder of */1. State Submission/[StateAbbreviation] - Interop/*. For example, for the state of Tennessee, a subfolder of */1. State Submission/TN – Interop/* should be used.  
+- Report the Interoperability API Metrics in a single ORW: The state should report metrics for all Interoperability API types in one ORW file. The ORW file should only contain metrics for Interoperability APIs. 
+- Upload the Interoperability API Metrics ORWs in A Designated Subfolder: All the Interoperability API metric ORW files should be uploaded to the folder of */1. State Submission/[StateAbbreviation] - Interop/*. For example, for the state of Tennessee, a subfolder of */1. State Submission/TN – Interop/* should be used.  
 
 ## References
 - [Interoperability and Patient Access Final Rule, May 2020](https://www.federalregister.gov/documents/2020/05/01/2020-05050/medicare-and-medicaid-programs-patient-protection-and-affordable-care-act-interoperability-and)
