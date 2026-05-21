@@ -46,6 +46,7 @@ toc:
     subdir: Ongoing Reporting
     items:
       - title: Overview
+      - title: Interoperability (IO) API Metrics
       - title: State Abbreviations
       - title: Module Abbreviations
       - title: Rules and Guidelines

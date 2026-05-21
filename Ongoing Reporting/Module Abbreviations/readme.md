@@ -11,6 +11,7 @@ The table below lists the MES module and their approved abbreviation for metrics
 | EVV | Electronic Visit Verification |
 | FM | Financial Management |
 | HIE | Health Information Exchange |
+| IO | Interoperability |
 | LTSS | Long Term Services and Support |
 | MM | Member Management |
 | OT | Other module not listed (do not use or create an abbreviation not listed in this table) |
