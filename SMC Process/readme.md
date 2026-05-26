@@ -32,20 +32,19 @@ Prior to scheduling an **ORR**, the state must provide the following to the CMS 
 
 Prior to scheduling a **CR**, the state must provide the following to the CMS Certification Team:
 
-1. Operational Reports
-    - Latest Intake Form
-        - This can be a draft but will need to be finalized and loaded to the applicable certification Box folder two weeks prior to the review. 
-    - Metric data back to the requested systems approval date
-        - States must submit data back to the go-live date (or the date requesting retroactive certification), up to the most recent month end.
-    - The independent, third-party SAR and penetration test results conducted within the last two years from the requested CR date.
-    - Most recent POA&M documenting the status of vulnerabilities (from SAR, penetration tests, vulnerability scans, and disaster recovery test results).
-        - All critical vulnerabilities should be resolved prior to scheduling a CR date. However, states can request a review date with unresolved critical items if a mitigation/remediation plan is submitted and approved by CMS, using the recommended risk acceptance template, which can be found in Attachment D of the CMS Information Security Plan of Action and Milestones (POA&M) Procedure document.
-2. Once the above activities have been completed, the state may submit the Certification Request Letter
-    - The letter should align with the [example template](../Templates/) posted on the MES Certification Repository.
-    - The letter should include all information required for inclusion in [SMDL 22-001](https://www.medicaid.gov/federal-policy-guidance/downloads/smd22001.pdf). See the [example System Acceptance Letter](../Templates) on the MES Certification Repository.
-    - Send the Certification Request Letter and applicable attachments via email to <MES.Certification@cms.hhs.gov>.
-    - Since the Certification Request Letter and the System Acceptance Letter are also SMC Required Artifacts (see SMC Guidance), these documents must also be uploaded to the applicable [Box folder](../Box/) for certification.
-3. The CMS Certification Team will contact the CMS T-MSIS team to get confirmation via email that the state and system being certified meet all Outcomes-Based Assessment (OBA) compliance.
+|   | ORR Entry Criteria | State Response (CMS Box File Location & File Name) |
+| ----- | ----- | ----- |
+| 1. | Proposed Date for CR <br>- This date can be tentatively reserved within the three-month period the review calendar is open, but it will only be confirmed when the State meets the Entry Criteria. If the entry criteria are not confirmed as met three weeks prior, the proposed date will be released. |   |
+| 2. | Retroactive Certification/System Approval Date <br>- Date the State plans to use in the Certification Request Letter (typically system implementation date). |   |
+| 3. | Latest Draft SMC Intake Form <br>- Use the latest template (with ORR adjudications), include all CMS-required outcomes for the module(s), and list justification for all N/A (CEF, outcomes, and required artifacts). |   |
+| 4. | Operational Report Workbook <br>- Metrics data back to the go-live date up to the most recent month-end. |   |
+| 5. | Independent Third-Party Security and Privacy Assessment Report (SAR)* |   |
+| 6. | Independent Third-Party Penetration Test Results* |   |
+| 7. | For the Eligibility & Enrollment Module: Authority to Connect (ATC) to the CMS Hub approval letter |   |
+| 8. | Plan of Action and Milestones (POA&M) <br>- Documenting the most recent status of vulnerabilities, regardless of risk level (from SAR, penetration tests, vulnerability scans, disaster recovery test results). Closed findings must be tracked for at least one year. <br>- All critical vulnerabilities should be resolved prior to scheduling a CR date. However, states can request a date with unresolved critical items if a mitigation/remediation plan is submitted and approved by CMS, using the recommended risk acceptance template, which can be found in Attachment D of [CMS Information Security Plan of Action and Milestones (POA&M) Procedure.](https://www.cms.gov/files/document/poamprocedurepdf) |   |
+| 9. | Certification Request Letter <br>- The letter should align with the template on the MES Certification Repository. <br>- Email to <MES.Certification@cms.hhs.gov> |   |
+| 10. | System Acceptance Letter <br>- The letter should align with the template on the MES Certification Repository. |   |
+| 11. | T-MSIS Outcomes-Based Assessment (OBA) Compliance | The MES Certification Team will connect with the CMS T-MSIS team to get confirmation via email that the State and system being certified meet all OBA compliance requirements. |
 
 ## Operational Readiness Review (ORR)
 
