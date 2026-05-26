@@ -46,6 +46,8 @@ Prior to scheduling a **CR**, the state must provide the following to the CMS Ce
 | 10. | System Acceptance Letter <br>- The letter should align with the template on the MES Certification Repository. |   |
 | 11. | T-MSIS Outcomes-Based Assessment (OBA) Compliance | The MES Certification Team will connect with the CMS T-MSIS team to get confirmation via email that the State and system being certified meet all OBA compliance requirements. |
 
+/* Items must have been conducted within two years of the CR date. Note: the two-year timeframe is based on the actual assessment date, not the publication date of the final report. 
+
 ## Operational Readiness Review (ORR)
 
 In accordance with the Entry Criteria, the high-level timeline of activities for an ORR is provided below. For more details on what is required, please see the SMC Guidance.  
