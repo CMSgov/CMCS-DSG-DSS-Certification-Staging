@@ -12,13 +12,13 @@ After the APD is approved and prior to releasing a Request for Proposal (RFP), t
 ## Entry Criteria 
 The state is required to submit entry criteria to schedule an Operational Review Readiness Review (ORR) or a Certification Review (CR). The calendar opens three months before each review month (for example, on January 1, March dates become available). States may request an ORR or CR at any time. Still, a review date can only be confirmed once the calendar for that month opens and the state has submitted its materials and received confirmation of Entry Criteria.  
 
-Note that meeting the entry criteria only clears the way for scheduling the review (ORR or CR). Two weeks prior to the review, the state must provide the most up-to-date documents in the applicable certification [CMS-designated Repository](../Box/) for evaluation by the CMS Certification Team.
+Note that meeting the entry criteria only clears the way for scheduling the review (ORR or CR). Two weeks prior to the review, the state must provide the most up-to-date documents in the applicable certification [CMS-designated Repository](../Box/) for evaluation by the MES Certification Team.
 
-Prior to scheduling an **ORR**, the state must provide the following to the CMS Certification Team:
+Prior to scheduling an **ORR**, the state must provide the following to the MES Certification Team:
 
 |   | ORR Entry Criteria | State Response (CMS Box File Location & File Name) |
 | ----- | ----- | ----- |
-| 1. | Proposed Date for ORR<br>- This date can be tentatively reserved within the three-month period the review calendar is open, but it will only be confirmed when the State meets the Entry Criteria. If the entry criteria are not confirmed as met three weeks prior, the proposed date will be released. |                                                            |
+| 1. | Proposed Date for ORR<br>- This date can be tentatively reserved within the three-month period the review calendar is open, but it will only be confirmed when the State meets the Entry Criteria. If the entry criteria are not confirmed as met three weeks prior, the proposed date will be released. |   |
 | 2. | Latest Draft SMC Intake Form<br>- Use the latest template, include all CMS-required outcomes for the module(s), and list justification for all N/A (CEF, outcomes, required artifacts). |   |
 | 3. | Go-live Date |   |
 | 4. | User Acceptance Testing (UAT) Completion Date* [(MES Testing Guidance Framework)](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf) |   |
@@ -30,7 +30,7 @@ Prior to scheduling an **ORR**, the state must provide the following to the CMS 
 \* Testing results preferred, but an anticipated completion date is required at a minimum, with results uploaded at least two weeks prior to review.  
 ^ Items must have been conducted within two years of the ORR date. Note: the two-year timeframe is based on the actual assessment date, not the publication date of the final report. 
 
-Prior to scheduling a **CR**, the state must provide the following to the CMS Certification Team:
+Prior to scheduling a **CR**, the state must provide the following to the MES Certification Team:
 
 |   | ORR Entry Criteria | State Response (CMS Box File Location & File Name) |
 | ----- | ----- | ----- |
@@ -46,7 +46,7 @@ Prior to scheduling a **CR**, the state must provide the following to the CMS Ce
 | 10. | System Acceptance Letter <br>- The letter should align with the template on the MES Certification Repository. |   |
 | 11. | T-MSIS Outcomes-Based Assessment (OBA) Compliance | The MES Certification Team will connect with the CMS T-MSIS team to get confirmation via email that the State and system being certified meet all OBA compliance requirements. |
 
-/* Items must have been conducted within two years of the CR date. Note: the two-year timeframe is based on the actual assessment date, not the publication date of the final report. 
+\* Items must have been conducted within two years of the CR date. Note: the two-year timeframe is based on the actual assessment date, not the publication date of the final report. 
 
 ## Operational Readiness Review (ORR)
 
