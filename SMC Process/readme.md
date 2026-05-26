@@ -27,7 +27,7 @@ Prior to scheduling an **ORR**, the state must provide the following to the CMS 
 | 7. | For Eligibility & Enrollment modules: Authority to Connect (ATC) to the CMS Hub approval letter |   |
 | 8. | Plan of Action and Milestones (POA&M)<ul><li>Documenting the most recent status of vulnerabilities, regardless of risk level (from SAR, penetration tests, vulnerability scans, disaster recovery test results). Closed findings must be tracked for at least one year.</li><li>All critical vulnerabilities should be resolved prior to scheduling a review date. However, states can request a date with unresolved critical items if a mitigation/remediation plan is submitted using the recommended risk acceptance template, which can be found in Attachment D of [CMS Information Security Plan of Action and Milestones (POA&M) Procedure.](https://www.cms.gov/files/document/poamprocedurepdf)</li></ul> |   |
 
-* Testing results preferred, but an anticipated completion date is required at a minimum, with results uploaded at least two weeks prior to review.  
+\* Testing results preferred, but an anticipated completion date is required at a minimum, with results uploaded at least two weeks prior to review.  
 ^ Items must have been conducted within two years of the ORR date. Note: the two-year timeframe is based on the actual assessment date, not the publication date of the final report. 
 
 Prior to scheduling a **CR**, the state must provide the following to the CMS Certification Team:
