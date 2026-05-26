@@ -18,14 +18,14 @@ Prior to scheduling an **ORR**, the state must provide the following to the CMS 
 
 |   | ORR Entry Criteria | State Response (CMS Box File Location & File Name) |
 | ----- | ----- | ----- |
-| 1. | Proposed Date for ORR<ul><li>This date can be tentatively reserved within the three-month period the review calendar is open, but it will only be confirmed when the State meets the Entry Criteria. If the entry criteria are not confirmed as met three weeks prior, the proposed date will be released.</li></ul> |   |
-| 2. | Latest Draft SMC Intake Form<ul><li>Use the latest template, include all CMS-required outcomes for the module(s), and list justification for all N/A (CEF, outcomes, required artifacts).</li></ul> |   |
+| 1. | Proposed Date for ORR<br>- This date can be tentatively reserved within the three-month period the review calendar is open, but it will only be confirmed when the State meets the Entry Criteria. If the entry criteria are not confirmed as met three weeks prior, the proposed date will be released. |                                                            |
+| 2. | Latest Draft SMC Intake Form<br>- Use the latest template, include all CMS-required outcomes for the module(s), and list justification for all N/A (CEF, outcomes, required artifacts). |   |
 | 3. | Go-live Date |   |
 | 4. | User Acceptance Testing (UAT) Completion Date* [(MES Testing Guidance Framework)](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf) |   |
 | 5. | Independent Third-Party Security and Privacy Assessment Report (SAR)*^ |   |
 | 6. | Independent Third-Party Penetration Test Results*^ |   |
 | 7. | For Eligibility & Enrollment modules: Authority to Connect (ATC) to the CMS Hub approval letter |   |
-| 8. | Plan of Action and Milestones (POA&M)<ul><li>Documenting the most recent status of vulnerabilities, regardless of risk level (from SAR, penetration tests, vulnerability scans, disaster recovery test results). Closed findings must be tracked for at least one year.</li><li>All critical vulnerabilities should be resolved prior to scheduling a review date. However, states can request a date with unresolved critical items if a mitigation/remediation plan is submitted using the recommended risk acceptance template, which can be found in Attachment D of [CMS Information Security Plan of Action and Milestones (POA&M) Procedure.](https://www.cms.gov/files/document/poamprocedurepdf)</li></ul> |   |
+| 8. | Plan of Action and Milestones (POA&M)<br>- Documenting the most recent status of vulnerabilities, regardless of risk level (from SAR, penetration tests, vulnerability scans, disaster recovery test results). Closed findings must be tracked for at least one year.<br>- All critical vulnerabilities should be resolved prior to scheduling a review date. However, states can request a date with unresolved critical items if a mitigation/remediation plan is submitted using the recommended risk acceptance template, which can be found in Attachment D of [CMS Information Security Plan of Action and Milestones (POA&M) Procedure.](https://www.cms.gov/files/document/poamprocedurepdf) |   |
 
 \* Testing results preferred, but an anticipated completion date is required at a minimum, with results uploaded at least two weeks prior to review.  
 ^ Items must have been conducted within two years of the ORR date. Note: the two-year timeframe is based on the actual assessment date, not the publication date of the final report. 
