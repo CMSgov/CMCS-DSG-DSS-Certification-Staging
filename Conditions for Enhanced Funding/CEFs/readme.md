@@ -1,10 +1,10 @@
 # Conditions for Enhanced Funding
 
 ## Overview
-As a condition of receiving enhanced federal financial participation (FFP) for Design, Development and Implementation (DDI) and Maintenance and Operations (M&O) state expenditures on Medicaid Enterprise Systems (MES), states must attest that the system complies with all of the applicable 22 conditions for enhanced funding (CEF) as provided in [42 CFR 433.112](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.112) and that the system remains compliant with federal Medicaid requirements for enhanced funding once it is in operation as provided in [42 CFR 433.116](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.116).  
+As a condition of receiving enhanced federal financial participation (FFP) for Design, Development and Implementation (DDI) and Maintenance and Operations (M&O) state expenditures on Medicaid Enterprise Systems (MES), states must attest that the system complies with all of the applicable 22 conditions for enhanced funding (CEF) as provided in [42 CFR § 433.112](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.112) and that the system remains compliant with federal Medicaid requirements for enhanced funding once it is in operation as provided in [42 CFR § 433.116](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.116).  
 
 ## Conditions for Enhanced Funding
-The following table contains the CEF described in 42 CFR 433.112, which is applicable to all MES modules.
+The following table contains the CEF described in 42 CFR § 433.112, which is applicable to all MES modules.
 
 This table and the applicable business area outcomes are a starting point for aligning the state’s goals for a MES project with applicable CMS-required outcomes. 
 
