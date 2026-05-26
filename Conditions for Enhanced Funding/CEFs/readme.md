@@ -19,13 +19,13 @@ This table and the applicable business area outcomes are a starting point for al
 [Click here for CEF Tips and Best Practices](../../Conditions for Enhanced Funding/CEF Tips/)
 
 ## Metrics
-As part of the ongoing continuous monitoring process on the security and privacy risk posture for an approved MES Information Technology (IT) environment, the state must demonstrate the efficacy of its continuous monitoring program through annual metrics reporting to meet the security and privacy elements of the CEF.  
+As part of the ongoing continuous monitoring process on the security and privacy risk posture for an approved MES Information Technology (IT) environment, the state must demonstrate the efficacy of its continuous monitoring program through annual metrics reporting to meet the security and privacy elements of the CEF. 
 
-**Note:** CMS is not changing the independent third-party security and privacy assessments or penetration testing timing. The requirement is on a biennial basis per 45 CFR § 95.621(f)(3) or annually if the state is following the Affordable Care Act (ACA) Administering Entity (AE) for the module. 
+Note: CMS is not changing the independent third-party security and privacy assessments or penetration testing timing. The requirement is on a biennial basis per 45 CFR § 95.621(f)(3) or annually if the state is following the Affordable Care Act (ACA) Administering Entity (AE) for the module. 
 
-It is expected that this metric data would come from the state’s existing POA&M(s), which would contain all vulnerabilities/findings (i.e., security and privacy assessments, vulnerability scans, penetration tests, internal or external security controls assessment, and disaster recovery testing). 
+It is expected that this metric data would come from the state’s existing Plan of Action and Milestones (POA&M), which would contain all vulnerabilities/findings (i.e., security and privacy assessments, vulnerability scans, penetration tests, internal or external security controls assessment, and disaster recovery testing). 
 
-The following table includes guidance on filling out the Metric Definition tab in the ORW.  Note: “Frequency” refers to the capture of the metric data, while “cadence” addresses the timing of report submission to CMS.
+The following table includes guidance on filling out the Metric Definition tab in the Operational Report Workbook (ORW). Note: “Frequency” refers to the capture of the metric data, while “cadence” addresses the timing of report submission to CMS. 
 
 | Metric Element | Description |
 | -------------- | ----------- |
