@@ -44,7 +44,7 @@ The following table includes guidance on filling out the ORW, Metric Values tab,
 | ------------- | ------------------------- | ---------------------------------------------- |
 | 1 | Very High | Number of **open** privacy and security risks assessed at **Very High** |
 | 2 | High | Number of **open** privacy and security risks assessed at **High** |
-| 3 | Any Severity | Number of **open** privacy and security risks assessed at **any severity.** This is the sum of all risk levels: very high, high, moderate, low, very low |
+| 3 | Any Severity | Number of **open** privacy and security risks assessed at **any severity.** This is the **sum of all risk levels**: very high, high, moderate, low, very low |
 
 ## Additional Resources
 - [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
