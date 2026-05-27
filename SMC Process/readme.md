@@ -5,7 +5,7 @@ As outlined in the [State Medicaid Director Letter (SMDL) #22-001](https://www.m
 This page includes information supplemental to the SMC Guidance. It does not replace the SMC Guidance but includes additional details for states to help them navigate the certification process.
 
 ## Advance Planning Documents
-The Advanced Planning Documents (APD) serve as the starting point for the process and should include Conditions for Enhanced Funding (CEF), CMS-required outcomes, state-specific outcomes, and metrics. These conditions, outcomes, and metrics will be used throughout the SMC process. 
+The Advance Planning Documents (APD) serve as the starting point for the process and should include Conditions for Enhanced Funding (CEF), CMS-required outcomes, state-specific outcomes, and metrics. These conditions, outcomes, and metrics will be used throughout the SMC process. 
 
 After the APD is approved and prior to releasing a Request for Proposal (RFP), the state should copy the CMS-required outcomes, state-specific outcomes, and metrics from the APD to the [SMC Intake Form Template](https://www.medicaid.gov/medicaid/data-and-systems/downloads/intake-form.xlsx). Once this is drafted, it can be discussed with the MES Certification Team, and a preliminary list of evidence should be added for the CEF, Outcome, Metrics, and Required Artifacts tabs. Those determined to be not applicable should include the reason why they are not applicable to the module’s certification. The drafted SMC Intake Form will then be used throughout the process and updated as needed. Refer to the [Intake Form guidance](../Intake Form/) for filling out the Intake Form.
 
@@ -61,7 +61,7 @@ In accordance with the Entry Criteria, the high-level timeline of activities for
 <img src="CR.png" width="100%" alt="A timeline of events leading up to the Certification Review and post-review">
 
 ## Operational Reporting
-Once a system is in production, states should be able to regularly and consistently provide metrics that demonstrate that the system complies with applicable regulations and meets outcomes. States begin reporting on metrics after go-live and before the Certification Review. From then on, as long as the state continues to receive enhanced funding for its MES solution, the state should submit metrics to CMS monthly. The ORWs of EVV modules must be submitted at least quarterly (broken down by month), with monthly reporting recommended for timely updates. Please refer to the [Metrics and Ongoing Reporting](../Ongoing Reporting/Overview/) page for more information on operational reporting. 
+Once a system is in production, states should be able to regularly and consistently provide metrics that demonstrate that the system complies with applicable regulations and meets outcomes. States begin reporting on metrics after go-live and before the Certification Review. From then on, as long as the state continues to receive enhanced funding for its MES solution, the state should submit metrics to CMS monthly. The Operational Report Workbooks (ORWs) of Electronic Visit Verification (EVV) modules must be submitted at least quarterly (broken down by month), with monthly reporting recommended for timely updates. Please refer to the [Metrics and Ongoing Reporting](../Ongoing Reporting/Overview/) page for more information on operational reporting. 
 
 ## Best Practices/Tips
 
@@ -85,7 +85,7 @@ Once a system is in production, states should be able to regularly and consisten
 - [SMDL # 22-001](https://www.medicaid.gov/federal-policy-guidance/downloads/smd22001.pdf), released on April 14, 2022
 - [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 - [Code of Federal Regulations](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433)
-- [Writing a good outcome statement](../writing-outcome-statements.md)
+- [Writing a Good Outcome Statement](../writing-outcome-statements.md)
 - [Templates](../Templates/)
 - [Metrics and Ongoing Reporting](../Ongoing Reporting/Overview/)
 - [CEF Example Evidence, Tips, and Best Practices](../Conditions for Enhanced Funding/CEF Tips/)
