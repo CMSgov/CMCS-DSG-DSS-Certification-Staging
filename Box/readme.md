@@ -4,7 +4,7 @@ In accordance with 42 C.F.R. §§ 433.112(b)(15) and 433.116(b), (c), and (i) an
 
 ## Certification Box Configuration
 
-The MES Certification Team will establish a single Box folder for each individual module or system undergoing certification contained in the **state’s root folder**. You should see your applicable state folder with “ – Certifications” at the end. All certification related files should be uploaded to the applicable Operational Readiness Review (ORR) and Certification Review (CR) folders. Refer to Example 1 and the [Modules Abbreviations page](../Ongoing Reporting/Module Abbreviations/). Sub-folders for each module certification will be created as follows:
+The Medicaid Enterprise System (MES) Certification Team will establish a single Box folder for each individual module or system undergoing certification contained in the **state’s root folder**. You should see your applicable state folder with “ – Certifications” at the end. All certification related files should be uploaded to the applicable Operational Readiness Review (ORR) and Certification Review (CR) folders. Refer to Example 1 and the [Modules Abbreviations page](../Ongoing Reporting/Module Abbreviations/). Sub-folders for each module certification will be created as follows:
 
 <p align="center">
 	<img src="Example 1.png" alt="Screenshot showing the file structure of the Box certification repository">
@@ -24,7 +24,7 @@ The MES Certification Team will establish a single Box folder for each individua
 - Action Items - should include the documentation needed to resolve each action item identified during the review.
 - Evidence* – should contain the Intake Form and two subfolders:
 	- CEF – should contain the evidence listed in the Intake Form for applicable Conditions for Enhanced Funding. There is no need for additional sub-folders.
-	- Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by the outcome.
+	- Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by outcome.
 - Metrics – should contain the monthly metrics data in the [Operational Report Workbook](https://www.medicaid.gov/medicaid/data-and-systems/downloads/operational-report-workbook.xlsx). Note: once the state is certified, they will need to load the final metrics to the applicable metric folder on CMS Box.
 - Presentation – should contain the final agenda and presentation for the day of the review and any other meeting documentation.
 - Required Artifacts – should contain the applicable Required Artifacts listed in the [Streamlined Modular Certification Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf). 
@@ -37,7 +37,7 @@ The MES Certification Team will establish a single Box folder for each individua
 
 ## Operational Reporting Box Configuration
 
-Box folders are already established for each state’s ongoing operational reports. Refer to Example 2 below. States must submit operational reports to CMS containing metrics in support of a state’s annual Operational Advanced Planning Document (OAPD) request for an MES module or solution. CMS may determine states must report some metrics more frequently.  CMS requires states to use the Operational Report Workbook template.
+Box folders are already established for each state’s ongoing operational reports. Refer to Example 2 below. States must submit operational reports to CMS containing metrics in support of a state’s annual Operational Advanced Planning Document (OAPD) request for an MES module or solution. CMS may determine that states must report some metrics more frequently.  CMS requires states to use the Operational Report Workbook template.
 - Every state has a folder with the state’s abbreviation, followed by “– Metrics”. 
 - The state should upload all metric-related files in “1. State Submission” folder, and not in an “Archived” folder. 
 - If the state is going through certification, it can upload all metric data captured since go-live once certification is complete.
@@ -79,13 +79,13 @@ Answer: There is a 150 GB size limit on uploads. In the situation where your fil
 
 #### Question: Is there a preferred naming convention for certification file and folder names? 
 Answer: The most important practice to follow when naming files is to be consistent with your filename conventions for each module certification. Consider including the following elements in your filename:
-- State abbreviation (using the USPS code)
+- State abbreviation (using the United States Postal Service (USPS) code)
 - Module (refer to the Module Abbreviation table below)
 - Outcome number
 - Document title or description as appropriate, (e.g., “VPAT”)
 - Additional fields such as a vendor or system name may be added for clarification when needed. For example:
 	- “AK_PBM_CEF1” for Alaska PBM CEF outcome 1
-	- “DE _EE12” for Delaware E&E CMS-required outcome EE12
+	- “DE_EE12” for Delaware E&E CMS-required outcome EE12
 
 #### Question: How should I differentiate the certification file name of a newer version of a file to avoid duplications or confusion?
 Answer: You may differentiate the file name of a new version of a file by including at the end of the filename either the upload date of the file (example 1) or file version (example 2).
