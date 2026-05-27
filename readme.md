@@ -40,6 +40,6 @@ If you would like to sign up for email notifications for changes to the site:
 ![releasenotification](https://user-images.githubusercontent.com/34281281/169134714-cfe37ea4-0d30-428a-91cf-3cd6dfc11ab4.gif)
 
 ## Contributing
-The CMS MES team regularly iterates this site and would appreciate your comments and ideas to improve it. We gather and evaluate state outcome statements across all business areas. If you want to share examples to be hosted on this site, please send them to <MES@cms.hhs.gov>. 
+The CMS MES team regularly iterates this site and would appreciate your comments and ideas to improve it. We gather and evaluate state outcome statements across all business areas. If you want to share examples to be hosted on this site, please send them to <MES.Certification@cms.hhs.gov>. 
 
-If you have any other feedback or suggestions, please email them to <MES@cms.hhs.gov> and our team will respond. 
+If you have any other feedback or suggestions, please email them to <MES.Certification@cms.hhs.gov> and our team will respond. 

@@ -33,7 +33,7 @@ While each HIE is unique, common system capabilities are listed below. Some are 
 Many states are leveraging their HIE infrastructures in support of other Medicaid program priorities that involve multi-provider coordination/collaboration, including closed-loop referral systems for health-related social needs and inpatient/sub-acute bed availability registries. 
 States may have unique and novel uses of their HIE not represented above, and we welcome those outcome statements crafted by states to update this listing. Again, HIE investments (and thus their outcome statements) must demonstrate a benefit to the respective states’ Medicaid programs in addition to the individual members that are the subject of an ADT message, immunization report, etc. 
 
-Please send examples to <MES@cms.hhs.gov>.  Our team will collect and share the best examples.
+Please send examples to <MES.Certification@cms.hhs.gov>.  Our team will collect and share the best examples.
 
 {% assign states = "MES Outcomes - State-Specific HIE" %}
 

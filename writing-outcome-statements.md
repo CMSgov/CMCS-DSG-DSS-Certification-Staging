@@ -41,5 +41,5 @@ In determining relevant metrics to measure state-specific outcomes, states shoul
 
 ^ Please note that CMS does not currently require measurable benchmarks. However, states are encouraged to measure their progress in attaining state-specific outcomes should they wish. Setting a timebound benchmark establishes a clear, measurable target for improvement, making it easy to track progress and adjust as necessary. It also allows states to determine whether they have met their state-specific outcomes, in which case, these can be retired and new metrics identified for measurement.
 
-For more information or to share your state-specific outcomes and metrics, please contact your CMS State Officer or email <MES@cms.hhs.gov>.
+For more information or to share your state-specific outcomes and metrics, please contact your CMS State Officer or email <MES.Certification@cms.hhs.gov>.
 
