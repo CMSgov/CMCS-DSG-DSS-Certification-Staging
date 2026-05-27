@@ -1,13 +1,8 @@
 toc:
   - title: Home
     link: /
-  - section: SMC Process Overview
-    subdir: SMC Process
-    items:
-      - title: Overview
-      - title: Planning
-      - title: Development
-      - title: Production
+  - title: SMC Process Overview
+    link: /SMC Process
   - title: Outcomes + the Certification Process
     link: /certification-process
   - title: Writing a Good Outcome Statement
@@ -26,8 +21,6 @@ toc:
       # As long as these titles are the same as the corresponding filenames, the
       # table of contents will "just work." If the filenames need to differ,
       # then the toc.html include will need to be modified.
-      - title: 1115 or Waiver Support Systems
-      - title: Asset Verification System
       - title: Claims Processing (CP)
       - title: Decision Support System & Data Warehouse (DSSDW)
       - title: Electronic Visit Verification (EVV)
@@ -55,8 +48,5 @@ toc:
     link: /FAQs/
   - title: Templates
     link: /Templates/
-  - title: Roadmap
-    url: "https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/wiki/MES-Certification-Repo-Roadmap"
-    external: true
   - title: Contact Us
     link: /contact
