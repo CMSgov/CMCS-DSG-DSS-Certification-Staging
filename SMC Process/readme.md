@@ -32,7 +32,7 @@ Prior to scheduling an **ORR**, the state must provide the following to the MES 
 
 Prior to scheduling a **CR**, the state must provide the following to the MES Certification Team:
 
-|   | ORR Entry Criteria | State Response (CMS Box File Location & File Name) |
+|   | CR Entry Criteria | State Response (CMS Box File Location & File Name) |
 | ----- | ----- | ----- |
 | 1. | Proposed Date for CR <br>- This date can be tentatively reserved within the three-month period the review calendar is open, but it will only be confirmed when the State meets the Entry Criteria. If the entry criteria are not confirmed as met three weeks prior, the proposed date will be released. |   |
 | 2. | Retroactive Certification/System Approval Date <br>- Date the State plans to use in the Certification Request Letter (typically system implementation date). |   |
