@@ -178,6 +178,6 @@ Answer: Please visit the [CEF](../../Conditions for Enhanced Funding/CEFs/) 
 - [Business Associates](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/business-associates/index.html)
 - [Voluntary Product Accessibility Template (VPAT)](https://www.itic.org/policy/accessibility/vpat), see the latest WCAG version
 - [Example Risk Acceptance Form](https://www.cms.gov/files/document/poamprocedurepdf) (see Attachment D)
-- [FedRAMP POA&M template](https://www.fedramp.gov/documents-templates)
+- [FedRAMP POA&M template](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.fedramp.gov%2Fresources%2Ftemplates%2FFedRAMP-POAM-Template.xlsx&wdOrigin=BROWSELINK)
 - [Acceptable Risk Controls for ACA, Medicaid, and Partner Entities (ARC-AMPE)](https://www.cms.gov/marketplace/resources/regulations-guidance)
 
