@@ -21,7 +21,7 @@ Documented in the CMS-approved APD, which includes the state attestation and/or 
 "CEF06","The Department has a royalty-free, non-exclusive, and irrevocable license to reproduce, publish, or otherwise use and authorize others to use, for Federal Government purposes, software, modifications to software, and documentation that is designed, developed, installed, or enhanced with 90 percent FFP.","Documented in the contractual language between the SMA and the vendor.
 
 Documented in the CMS-approved APD, which includes the state attestation and/or supplemental material."
-"CEF07","The costs of the system are determined in accordance with 45 CFR 75, subpart E.","Documented in the contractual language between the SMA and the vendor.
+"CEF07","The costs of the system are determined in accordance with 2 CFR Parts 200 and 300.","Documented in the contractual language between the SMA and the vendor.
 
 Documented in the CMS-approved APD, which includes the state attestation and/or supplemental material."
 "CEF08","The Medicaid agency agrees in writing to use the system for the period of time specified in the advance planning document approved by CMS or for any shorter period of time that CMS determines justifies the Federal funds invested.","Documented minimum timeframe for intended use in the CMS-approved APD.
@@ -53,14 +53,14 @@ Screenshot of the business rules engine control panel."
 "CEF11","Align to, and advance increasingly, in MITA maturity for business, architecture, and data.","Documented in the CMS-approved APD, which includes the state attestation and/or supplemental material.
 
 Can be the SS-A or a state self-attestation."
-"CEF12","The agency ensures alignment with, and incorporation of, standards and implementation specifications for health information technology adopted by the Office of the National Coordinator for Health IT in 45 CFR part 170, subpart B. The agency also ensures alignment with the HIPAA privacy, security, breach notification, and enforcement regulations in 45 CFR parts 160 and 164; and the transaction standards and operating rules adopted by the Secretary under HIPAA and/or section 1104 of the Affordable Care Act. The agency meets accessibility standards established under section 508 of the Rehabilitation Act, or standards that provide greater accessibility for individuals with disabilities, and compliance with Federal civil rights laws; standards and protocols adopted by the Secretary under section 1561 of the Affordable Care Act; standards and protocols for reporting on the Child and Adult Core Sets as adopted by the Secretary under sections 1139A, 1139B, and 1902(a)(6) of the Act, and 42 CFR part 437 subpart A; and standards and protocols for reporting on the Health Home Core Sets as adopted by the Secretary under sections 1902(a)(6), 1945(c)(4)(B) and (g), and 1945A(g) of the Act and 42 CFR part 437 subpart A.","Required:
+"CEF12","The agency ensures alignment with, and incorporation of, standards and implementation specifications for health information technology adopted by the Office of the National Coordinator for Health IT in 45 CFR part 170, subpart B. The agency also ensures alignment with the HIPAA privacy, security, breach notification, and enforcement regulations in 45 CFR parts 160 and 164; and the transaction standards and operating rules adopted by the Secretary under HIPAA and/or section 1104 of the Affordable Care Act. The agency meets accessibility standards established under section 508 of the Rehabilitation Act, or standards that provide greater accessibility for individuals with disabilities, and compliance with Federal civil rights laws; standards and protocols adopted by the Secretary under section 1561 of the Affordable Care Act.","Required:
 Most recent independent third-party security and privacy controls assessment report, performed at a minimum of every two years per 45 CFR 95.621(f)(3).
 
 Most recent independent third-party penetration test, performed at a minimum of every two years per 45 CFR 95.621(f)(3).
 
 Most recent vulnerability scans, recommend running monthly.
 
-POA&M (see Reference section below).
+Most recent quarterly POA&M update (see Reference section below).
 
 508 test report or equivalent showing Level AA compliance."
 "CEF13","Promote sharing, leverage, and reuse of Medicaid technologies and systems within and among States.","Describe and document how the SMA leverages reuse opportunities.

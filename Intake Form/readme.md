@@ -17,7 +17,7 @@ As states prepare for their review, they must continuously add or update the SMC
 The following sections provide tips and best practices for completing the CEF, Outcomes and Metrics, and Required Artifacts tabs of the SMC Intake Form. 
 
 ### Conditions for Enhanced Funding Tab Instructions  
-the state will use this tab to demonstrate the applicability of the Conditions for Enhanced Funding (CEF) and to provide evidence for the system under review. 
+The state will use this tab to demonstrate the applicability of the Conditions for Enhanced Funding (CEF) and to provide evidence for the system under review. 
 
 In the Evidence columns, list the file name(s) of documents containing supporting evidence as loaded in the CMS-designated repository. For lengthy documents, use the Comments column to specify relevant sections or paragraphs to assist the CMS Certification Team in the review process. If links to PDF files are included in the SMC Intake Form, the corresponding PDF versions of any web file must also be uploaded to the CMS-designated repository for review. 
 
@@ -26,7 +26,7 @@ In the Comments column, the state can also describe how the contents of the evid
 All CEF criteria must be listed within the SMC Intake Form. If a condition is not applicable, the state must mark “N/A” in the “State ORR Evidence” and “State CR Evidence” columns. the state must justify why the outcome is not applicable to their system in the “Comments” column for both the ORR and CR. 
  
 ### Outcomes & Metrics Tab Instructions  
-the state will use this tab to demonstrate evidence for the CMS-required outcomes and any state-specific outcomes for ORRs and CRs. 
+The state will use this tab to demonstrate evidence for the CMS-required outcomes and any state-specific outcomes for ORRs and CRs. 
 
 The MES Module Outcomes and Metrics section in the MES Certification Repository provides a complete listing of CMS-required outcomes for each specific MES module. CMS-required outcomes align with statutory, regulatory, and policy requirements that states must demonstrate compliance with when implementing modules. 
 
@@ -41,7 +41,7 @@ States will create a unique reference number for their state-specific outcomes i
 The MES Certification Team is a valuable resource for states with questions or who need additional clarification. Many states employ the best practice of requesting early input to limit rework and produce a more efficient review. 
 
 ### Required Artifacts Tab Instructions
-the state will use this tab to identify the applicable required artifacts. It is important to distinguish between required artifacts and evidence. Evidence is documentation or data that demonstrates the achievement of an outcome, as listed on the SMC Intake Form, Outcomes & Metrics tab. Required Artifacts, on the other hand, are documents that demonstrate the progression of a state’s project and are not typically used as evidence for outcomes. The SMC Guidance provides minimum requirements for the artifacts required for an ORR and a CR. 
+The state will use this tab to identify the applicable required artifacts. It is important to distinguish between required artifacts and evidence. Evidence is documentation or data that demonstrates the achievement of an outcome, as listed on the SMC Intake Form, Outcomes & Metrics tab. Required Artifacts, on the other hand, are documents that demonstrate the progression of a state’s project and are not typically used as evidence for outcomes. The SMC Guidance provides minimum requirements for the artifacts required for an ORR and a CR. 
 
 In the “State ORR Required Artifact” and “State CR Required Artifact” columns, list the file name(s) of the documents loaded in the applicable CMS-designated repository. As necessary, use the Comments column for any additional explanation or comments related to that artifact. 
 
