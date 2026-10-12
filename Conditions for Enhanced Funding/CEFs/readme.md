@@ -76,5 +76,5 @@ The following table includes guidance on filling out the ORW, Metric Values tab,
 - [State Self-Assessment (SS-A)](https://cmsgov.github.io/Medicaid-Information-Technology-Architecture-MITA/)
 - [Example Risk Acceptance Form](https://www.cms.gov/files/document/riskacceptancetemplatepdf)
 - [Example Concept of Operations template](https://www.nasa.gov/reference/appendix-s-concept-of-operations-annotated-outline/)
-- [FedRAMP POA&M template](https://www.fedramp.gov/2022-06-28-update-poam-template/)
+- [FedRAMP POA&M template](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.fedramp.gov%2Fresources%2Ftemplates%2FFedRAMP-POAM-Template.xlsx&wdOrigin=BROWSELINK)
 - [Acceptable Risk Controls for ACA, Medicaid, and Partner Entities (ARC-AMPE)](https://www.cms.gov/marketplace/resources/regulations-guidance)  
